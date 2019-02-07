@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE competency SYSTEM "../../schema/competency.dtd">
+<competency 
+    xmlns="https://ictorg.ch/competency"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://ictorg.ch/competency ../../schema/competency.xsd"
+>
+    <title>Webseiten erstellen und veröffentlichen</title>
+</competency>

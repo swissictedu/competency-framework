@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<xs:schema
+    xmlns="https://ictorg.ch/competency"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="https://ictorg.ch/competency"
+    elementFormDefault="qualified"
+>
+    <xs:element name="competency">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="title" type="title" />
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:simpleType name="title">
+        <xs:restriction base="xs:token">
+            <xs:minLength value="10" />
+            <xs:maxLength value="500" />
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

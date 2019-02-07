@@ -1,0 +1,6 @@
+<!ELEMENT competency (title)>
+	<!ATTLIST competency xmlns CDATA #FIXED "https://ictorg.ch/competency">
+	<!ATTLIST competency xmlns:xsi CDATA #FIXED "http://www.w3.org/2001/XMLSchema-instance">
+	<!ATTLIST competency xsi:schemaLocation CDATA #REQUIRED>
+
+<!ELEMENT title (#PCDATA)>
