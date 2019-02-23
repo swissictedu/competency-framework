@@ -4,5 +4,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd"
 >
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>101</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=101%26noheader=1%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <acknowledgment>Eidg. Fähigkeitszeugnis</acknowledgment>
+        </provider>
+    </meta>
     <title>Webseiten erstellen und veröffentlichen</title>
+    <capability>Webauftritt mit einer Seitenbeschreibungssprache nach Vorgabe realisieren und veröffentlichen.</capability>
 </competency>

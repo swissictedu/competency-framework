@@ -13,37 +13,66 @@
     <xsd:element name="competency">
         <xsd:complexType>
             <xsd:choice>
-                <xsd:element name="reference">
-                    <xsd:complexType>
-                        <xsd:simpleContent>
-                            <xsd:extension base="reference">
-                                <xsd:attribute ref="xml:lang" use="optional"/>
-                            </xsd:extension>
-                        </xsd:simpleContent>
-                    </xsd:complexType>
-                </xsd:element>
                 <xsd:group ref="competency-definition" />
+                <xsd:group ref="competency-description" />
             </xsd:choice>
         </xsd:complexType>
     </xsd:element>
 
-    <xsd:simpleType name="reference">
+    <xsd:group name="competency-definition">
+        <xsd:sequence>
+            <xsd:element ref="description" minOccurs="1" />
+        </xsd:sequence>
+    </xsd:group>
+
+    <xsd:group name="competency-description">
+        <xsd:sequence>
+            <xsd:element ref="meta" minOccurs="0" />
+            <xsd:element name="title" type="sentence" />
+            <xsd:element name="capability" type="sentence" />
+        </xsd:sequence>
+    </xsd:group>
+
+    <xsd:element name="meta">
+        <xsd:complexType>
+            <xsd:all>
+                <xsd:element ref="provider" />
+            </xsd:all>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="provider">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="id" type="xsd:token" />
+                <xsd:element name="reference" type="xsd:anyURI" />
+                <xsd:any minOccurs="0" maxOccurs="unbounded" processContents="skip"/>
+            </xsd:sequence>
+            <xsd:attribute type="xsd:token" name="name" use="required" />
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="description">
+        <xsd:complexType>
+            <xsd:simpleContent>
+                <xsd:extension base="description">
+                    <xsd:attribute ref="xml:lang" use="required" />
+                </xsd:extension>
+            </xsd:simpleContent>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:simpleType name="description">
         <xsd:restriction base="xsd:anyURI">
             <xsd:minLength value="12" />
             <xsd:maxLength value="2048" />
         </xsd:restriction>
     </xsd:simpleType>
 
-    <xsd:group name="competency-definition">
-        <xsd:sequence>
-            <xsd:element name="title" type="title" />
-        </xsd:sequence>
-    </xsd:group>
-
-    <xsd:simpleType name="title">
+    <xsd:simpleType name="sentence">
         <xsd:restriction base="xsd:token">
             <xsd:minLength value="10" />
-            <xsd:maxLength value="500" />
+            <xsd:maxLength value="1000" />
         </xsd:restriction>
     </xsd:simpleType>
 </xsd:schema>

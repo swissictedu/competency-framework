@@ -4,5 +4,5 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://ictorg.ch/competency ../../schema/competency.xsd"
 >
-    <reference xml:lang="de-ch">./create-and-publish-websites/de-ch.xml</reference>
+    <description xml:lang="de-ch">./create-and-publish-websites/de-ch.xml</description>
 </competency>
