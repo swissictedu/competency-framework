@@ -19,4 +19,4 @@ This chapter documents some prefered tools to work with this repository.
 ### Validation with Xerces
 1. Install Xerces-C++ (http://xerces.apache.org/xerces-c/)
    - On ArchLinux: `pacman -S xerces-c`
-1. Use `StdInParse` to validate documents <br> `StdInParse -s -n < document.xml`
+1. Use `StdInParse` (http://xerces.apache.org/xerces-c/stdinparse-3.html) to validate documents <br> `StdInParse -s -n < document.xml`
