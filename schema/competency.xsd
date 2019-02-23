@@ -1,22 +1,49 @@
 <?xml version="1.0"?>
-<xs:schema
+<xsd:schema
     xmlns="https://ictorg.ch/competency"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     targetNamespace="https://ictorg.ch/competency"
     elementFormDefault="qualified"
 >
-    <xs:element name="competency">
-        <xs:complexType>
-            <xs:all>
-                <xs:element name="title" type="title" />
-            </xs:all>
-        </xs:complexType>
-    </xs:element>
+    <xsd:import 
+        namespace="http://www.w3.org/XML/1998/namespace"
+        schemaLocation="http://www.w3.org/2001/xml.xsd"
+    />
 
-    <xs:simpleType name="title">
-        <xs:restriction base="xs:token">
-            <xs:minLength value="10" />
-            <xs:maxLength value="500" />
-        </xs:restriction>
-    </xs:simpleType>
-</xs:schema>
+    <xsd:element name="competency">
+        <xsd:complexType>
+            <xsd:choice>
+                <xsd:element name="reference">
+                    <xsd:complexType>
+                        <xsd:simpleContent>
+                            <xsd:extension base="reference">
+                                <xsd:attribute ref="xml:lang" use="optional"/>
+                            </xsd:extension>
+                        </xsd:simpleContent>
+                    </xsd:complexType>
+                </xsd:element>
+                <xsd:group ref="competency-definition" />
+            </xsd:choice>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:simpleType name="reference">
+        <xsd:restriction base="xsd:anyURI">
+            <xsd:minLength value="12" />
+            <xsd:maxLength value="2048" />
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:group name="competency-definition">
+        <xsd:sequence>
+            <xsd:element name="title" type="title" />
+        </xsd:sequence>
+    </xsd:group>
+
+    <xsd:simpleType name="title">
+        <xsd:restriction base="xsd:token">
+            <xsd:minLength value="10" />
+            <xsd:maxLength value="500" />
+        </xsd:restriction>
+    </xsd:simpleType>
+</xsd:schema>

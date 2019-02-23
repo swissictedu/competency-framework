@@ -2,16 +2,15 @@
 
 counter=0
 for file in `find "$PWD"/content/ -name *.xml`; do
-    filename=$(basename $file)
-    echo -e "+++ Start validation of $filename."
+    echo -e "+++ Start validation of $file."
     cd `dirname $file`
-    StdInParse -s -n < $file
+    StdInParse -f -s -n < $file
 
     if test $? -ne 0; then
-        echo "--- Validation of $filename failed."
+        echo "--- Validation of $file failed."
         let counter++
     else
-        echo "+++ Validation of $filename succeeded."
+        echo "+++ Validation of $file succeeded."
     fi
 done
 
