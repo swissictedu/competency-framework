@@ -8,3 +8,15 @@ This defines competencies in the information and communication technology sphere
   <dt>Discipline</dt>
   <dd>A discipline describes an area of information an communication technology and it categorizes competencies.</dd>
 </dl>
+
+## Tools
+This chapter documents some prefered tools to work with this repository.
+
+### Editing with Visual Studio Code
+1. Install Visual Studio Code (https://code.visualstudio.com/)
+1. Add Red Hats XML extension (https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
+
+### Validation with Xerces
+1. Install Xerces-C++ (http://xerces.apache.org/xerces-c/)
+   - On ArchLinux: `pacman -S xerces-c`
+1. Use `StdInParse` to validate documents <br> `StdInParse -s -n < document.xml`
