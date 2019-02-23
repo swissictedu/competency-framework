@@ -15,4 +15,70 @@
     </meta>
     <title>Webseiten erstellen und veröffentlichen</title>
     <capability>Webauftritt mit einer Seitenbeschreibungssprache nach Vorgabe realisieren und veröffentlichen.</capability>
+    <goals>
+        <goal>
+            Vorgegebene Aufgabenstellung (Zielsetzung, Inhalte, Funktionalitäten) analysieren und Text- bzw. Grafikelemente für den Webauftritt auswählen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen bei der Situationsanalyse und weiss, welchen Beitrag dieses zur Definition eines klaren Auftrags liefert.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Lösungsvorschlag für den Webauftritt (Site-Struktur, Navigation, Präsentation, usw.) ausarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Unterschiede der verschiedenen Endgeräte hinsichtlich Funktionalität, Darstellung und Auflösung und Bandbreite der Netzwerkanbindung.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien die bei der Strukturierung von Informationen auf Websites verwendet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten rechtlichen Rahmenbedingungen (Copyrights, illegale Downloads, Lizenzierungsbedingungen) bei der Verwendung fremder Inhalte.
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigsten Medienformate für das Web und deren Einbindung in einer Webseite.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Gestaltungsregeln, die beim Einsatz von Schriften, Farben und Grafiken auf einer Website zu berücksichtigen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Lösungsvorschlag mit einer Seitenbeschreibungssprache in einen Webauftritt umsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Grundelemente von HTML und Style Sheets (CSS) und kann diese für die Erstellung einer Website einsetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Grundelemente (Schrift, Farbe, Bild), die bei der Gestaltung einer Website berücksichtigt werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einsatzmöglichkeiten von PDF und kann Dokumente webgerecht aufbereiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Webauftritt auf Erfüllung der Vorgaben aus der Aufgabenstellung überprüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Methode (z.B. Testen, Validierung) für die Erfolgskontrolle und kann deren Einsatz für die Bestimmung der Zielerfüllung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Testkriterien um die korrekte Funktionsweise des Webauftritts auf unterschiedlichen Endgeräten und Browsern sicherzustellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Webauftritt auf einem Webserver veröffentlichen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt was beachtet werden muss, wenn die Website-Präsentation von der lokalen Arbeitsumgebung auf einen Web-Server übertragen wird.
+                </knowledge>
+                <knowledge>
+                    Kennt Werkzeuge zur sicheren Übertragung einer Website von einer lokalen auf eine serverbasierte Umgebung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
 </competency>

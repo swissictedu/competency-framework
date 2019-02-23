@@ -30,6 +30,7 @@
             <xsd:element ref="meta" minOccurs="0" />
             <xsd:element name="title" type="sentence" />
             <xsd:element name="capability" type="sentence" />
+            <xsd:element ref="goals" />
         </xsd:sequence>
     </xsd:group>
 
@@ -49,6 +50,30 @@
                 <xsd:any minOccurs="0" maxOccurs="unbounded" processContents="skip"/>
             </xsd:sequence>
             <xsd:attribute type="xsd:token" name="name" use="required" />
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="goals">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="goal" maxOccurs="10" />
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="goal">
+        <xsd:complexType mixed="true">
+            <xsd:sequence>
+                <xsd:element ref="knowledge-list" />
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="knowledge-list">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="knowledge" type="xsd:token" maxOccurs="10" />
+            </xsd:sequence>
         </xsd:complexType>
     </xsd:element>
 
