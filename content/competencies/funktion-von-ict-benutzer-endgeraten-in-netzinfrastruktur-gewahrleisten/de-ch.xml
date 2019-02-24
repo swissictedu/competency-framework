@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>261</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=261%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Funktion von ICT-Benutzer-Endgeräten in Netzinfrastruktur gewährleisten</title>
+    <capability>ICT-Benutzer-Endgeräte in Netzinfrastruktur integrieren, an bestehende Dienste anbinden und die Benutzer bei der Anbindung unterstützen.</capability>
+    <goals>
+        <goal>
+            Endgeräte gemäss Vorgaben in bestehende Netzwerke integrieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen zur Integration von Endgeräten in bestehende Netzwerke, wie zum Beispiel Clients/Tablets/Mobile Devices.
+                </knowledge>
+                <knowledge>
+                    Kennt die nötigen Handlungen um Endgeräte in WLAN, Netzwerke und mobile Netzwerke einzubinden.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Integration von VoIP-Endgeräten in bestehende Netzwerke.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Endgeräte gemäss Vorgaben an bestehende Firmenressourcen (Dienste) anbinden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die aktuellen mobilen Betriebssystemen und das Vorgehen, um diese in ein Firmennetzwerk zu integrieren und E-Mail Dienste einzubinden.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen, wie Endgeräte in Cloud-Dienste zu integrieren sind.
+                </knowledge>
+                <knowledge>
+                    Kennt grundlegende Risiken und Vorteile von Cloud-Diensten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Benutzer bei der Anbindung von Endgeräten an Dienste unterstützen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten, wie Benutzer bei der Anbindung von Diensten unterstützt werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt den Ablauf zur Registrierung und Aktivierung von Endgeräten und kann die Benutzer dabei unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kennt das Prinzip eines Mobile Device Managements und der Configuration Management Database (CMDB).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Integration der Endgeräte im Netzwerk strukturiert testen und die Tests dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und Ablauf, um die Integration von Endgeräten zu testen und zu dokumentieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fehler systematisch mittels passender Werkzeuge suchen und eingrenzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen für die systematische Fehlersuche bei Endgeräten.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Tools, wie optisch-, physisch- oder toolbasiert, für die Fehlersuche in Netzwerken und Endgeräten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

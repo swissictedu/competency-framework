@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>671</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=671%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Compliance der Informationssicherheit sicherstellen</title>
+    <capability>Stellt innerhalb einer Organisation und bei ihren Geschäftsbeziehungen mit Drittparteien die Umsetzung und Einhaltung der gesetzlichen, vertraglichen und regulatorischen Vorgaben zur Informationssicherheit sicher.</capability>
+    <goals>
+        <goal>
+            Identifiziert bei einem ICT-Vorhaben rechtlich relevante Aspekte der Informationssicherheit, bestimmt vertragliche Eckpunkte und schlägt diese den verhandelnden Stellen vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Gegenstand und die Grundzüge der im Obligationenrecht (OR) geregelten Verträge (Kauf, Miete, Werkvertrag, einfacher Vertrag, Arbeitsvertrag).
+                </knowledge>
+                <knowledge>
+                    Kennt den Gegenstand, die Grundzüge und potenzielle Risiken typischer Verträge im ICT‐Umfeld (z.B. Dienstleistungsvertrag, Outsourcing‐Vertrag, Lizenzvertrag).
+                </knowledge>
+                <knowledge>
+                    Kennt den Gegenstand, die Grundzüge und potenzielle Risiken vertraglicher Zusatzvereinbarungen im ICT-Umfeld (z.B. Service Level Agreement (SLA), Geheimhaltungsvereinbarung (Non‐Discosure Agreement), Absichtserklärung (Letter of Intent)).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Untersucht und beurteilt Verträge, Prozesse und ICT-Vorhaben hinsichtlich der Einhaltung des Datenschutzes und leitet bei Bedarf Korrekturmassnahmen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Gesetze und Verordnungen zum Datenschutz (z.B. Bundesgesetz über den Datenschutz (DSG), Datenschutz-Grundverordnung der Europäischen Union (EU-DSGVO).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Untersucht und beurteilt Verträge, Prozesse, ICT-Vorhaben und Informationssicherheitsvorfälle hinsichtlich ihrer potenziellen strafrechtlichen Relevanz und leitet bei Bedarf Korrekturmassnahmen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Tatbestände des Schweizerischen Strafgesetzbuchs (StGB) im ICT-Umfeld.
+                </knowledge>
+                <knowledge>
+                    Kennt relevante Tatbestände (z.B. Spam) aus dem Bundesgesetz gegen den unlauteren Wettbewerb (UWG).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Untersucht und beurteilt Verträge, Prozesse und ICT-Vorhaben hinsichtlich der Einhaltung relevanter Aspekte des Immaterialgüterrechts und leitet bei Bedarf Korrekturmassnahmen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundlagen des Immaterialgüterrechts der Schweiz und der EU bezüglich Urheberrecht, Patentrecht, Markenrecht und Designrecht und kann mögliche Rechtsmittel (z.B. Schadenersatzklage) bei Zuwiderhandlungen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied der Urheberpersönlichkeitsrechte (Anerkennung der Urheberschaft, Erstveröffentlichung) und der Urhebervermögensrechte (z.B. Herstellung von Kopien, Vermietungsrecht) im Urheberrecht und deren Bedeutung für die Übertragbarkeit.
+                </knowledge>
+                <knowledge>
+                    Kennt alternative Urheberrechts- und Lizenzmodelle für geistiges Eigentum (z.B. Creative Commons, Open Source).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert die Verfahren zur Personensicherheitsprüfung (PSP) und stellt deren Umsetzung in der Organisation sicher.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die gesetzlichen Grundlagen für Personensicherheitsprüfungen (Bundesgesetz über Massnahmen zur Wahrung der inneren Sicherheit BWIS, Verordnung über die Personensicherheitsprüfungen PSPV).
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Sicherheits- und Prüfungsstufen und kann die Unterschiede unter Berücksichtigung des Einsatzbereichs einer Person erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt in der Personensicherheitsüberprüfung beteiligte interne Stellen (z.B. Personalwesen, Compliance Abteilung) und kann deren Funktion in der PSP erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Stellt bei Geschäftsbeziehungen mit Lieferanten und externen Dienstleistern die Sicherheitsüberprüfung sicher, beurteilt die Ergebnisse und leitet bei Bedarf Korrekturmassnahmen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Inhalte eines Service Level Agreements (SLA).
+                </knowledge>
+                <knowledge>
+                    Kennt Instrumente zur Sicherheitsüberprüfung von Drittparteien (z.B. Lieferantenaudit, Service Level Reports).
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten Aspekte hinsichtlich Compliance in Dienstleistungsmanagementprozessen mit Lieferanten und externen Dienstleistern (z.B. Änderungen bei vereinbarten Service Levels, Technologien oder Standorten von Dienstleistungseinrichtungen, Untervertragsvergabe an andere Lieferanten).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft interne Vorschriften und Weisungen im Zusammenhang mit der Informationssicherheit periodisch hinsichtlich ihrer Angemessenheit, Aktualität und rechtlichen Konformität.
+            <knowledge-list>
+                <knowledge>
+                    Kennt interne sicherheitsrelevante Dokumente (z.B. Sicherheitsrichtlinie, ICT-Nutzungs­reglement, Datensicherungskonzept) und kann die rechtliche Relevanz der Dokumente erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

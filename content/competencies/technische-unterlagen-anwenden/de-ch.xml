@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>257</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=257%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Technische Unterlagen anwenden</title>
+    <capability>Technische Unterlagen (Beschreibungen, Skizzen, Schemas, Diagramme und Pläne) lesen und interpretieren, Bedeutung für eine bestimmte Problemstellung erkennen und wesentliche Inhaltsmerkmale ableiten.</capability>
+    <goals>
+        <goal>
+            Änderungen in Zeichnungen nach der Projektionsmethode ISO vornehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Grenzen und Einsatzgebiete von Skizzen und textlichen Beschreibungen in technischen Unterlagen und kann an Beispielen erläutern, wie sich diese ergänzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten zeichnerischen Darstellungsarten (Grund-, Auf- und Seitenriss, Perspektive, Explosionszeichnung, Vermassung, Schnitte) und kann erläutern für welchen Verwendungszweck diese in technischen Unterlagen eingesetzt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Maschinen- und Verbindungselemente in technischen Unterlagen erkennen und klassieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Maschinenelemente (Schrauben, Zahnräder, Führungen, Lager, Kupplungen etc.) und kann ihre Funktion erläutern sowie deren Charakteristiken beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kann für bestimmte Maschinenelemente aufzeigen, wann ein kraftschlüssige und wann eine formschlüssige Verbindung vorliegt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Einfache, vorgegebene Prozesse mittels Technologie- oder Funktions-Schema darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Darstellungstechnik zur Abbildung von Funktionen//Prozessen/Abläufen und kann für die einzelnen Darstellungselemente erläutern, welche Sachverhalte damit abgebildet werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schemas interpretieren und entsprechende HW-Komponenten im IT Gerät bestimmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt gängige Schemata in technischen Unterlagen von IT Geräten und kann aufzeigen, für welche Aufgaben im Unterhalt eines IT Gerätes diese verwendet werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Produkt- und Wartungs-Dokumentationen systematisch anwenden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau der gängigen Teile (Funktionsbeschreibungen, Schemata, Abläufe, Spezifikationen etc.) einer technischen Dokumentation für IT Geräte und kann für diese Teile darlegen, welche Informationen sie für die Aufgaben im Betrieb und Unterhalt liefern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            </goal>
+    </goals>
+</competency>

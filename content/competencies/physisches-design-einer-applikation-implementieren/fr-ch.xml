@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>477</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=477%26clang=fr</reference>
+            <level>5</level>
+            <lessons>60</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter le design physique d’une application</title>
+    <capability>Développer et implémenter le design physique afin de satisfaire adéquatement les exigences fonctionnelles et non fonctionnelles envers une application.</capability>
+    <goals>
+        <goal>
+            Définir le modèle de traitement à implémenter (par lots, en ligne, en temps réel, etc.) sur la base des exigences fonctionnelles et non fonctionnelles d’une application.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les modèles de traitement d’une application (par lots, en ligne, en temps réel, etc.) et pouvoir expliquer leur contribution à la satisfaction des exigences fonctionnelles et non fonctionnelles.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de définition des modèles de traitement et savoir comment ils contribuent à l’implémentation et à la réalisation correcte du modèle de traitement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser le déroulement coordonné et fiable de traitements parallèles (multithread) au moyen des mécanismes de synchronisation nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les mécanismes de synchronisation nécessaires à la réalisation de traitements parallèles (threads/processus) et pouvoir expliquer leur contribution à la coordination et à la fiabilité du déroulement.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques et les règles d’implémentation de mécanismes de synchronisation et savoir comment elles contribuent à l’implémentation des threads et des processus.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser des interactions synchrones et asynchrones dans une architecture orientée services au moyen de services Web.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les techniques et mécanismes nécessaires au développement d’une architecture orientée services et pouvoir expliquer leur utilité pour l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques et les règles d’implémentation de services dans une architecture orientée services et savoir comment elles contribuent à l’implémentation correcte de services.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et implémenter des concepts appropriés pour garantir la cohérence d’objets dans plusieurs fuseaux horaires (les fonctions de manipulation de date du fuseau horaire sont traitées en conséquence).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les mécanismes nécessaires pour garantir la cohérence d’objets dans plusieurs fuseaux horaires et pouvoir expliquer leur utilité pour l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques et règles d’implémentation de la gestion de manipulations de date et savoir quelle est leur contribution à l’implémentation correcte dans plusieurs fuseaux horaires.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et implémenter des concepts appropriés pour représenter des informations d’objet, des dialogues applicatifs, des menus, des aides, etc. en plusieurs langues.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les mécanismes nécessaires pour représenter des informations d’objet, des dialogues applicatifs, des menus, des aides, etc. en plusieurs langues et pouvoir expliquer leur utilité pour l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques et règles d’implémentation nécessaires pour représenter des informations en fonction de la langue et savoir quelle est leur contribution à l’implémentation correcte dans l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et implémenter des concepts appropriés pour créer des applications capables de gérer plusieurs mandants.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les mécanismes nécessaires pour créer une application capable de gérer plusieurs mandants et pouvoir expliquer leur utilité pour l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques et règles d’implémentation nécessaires pour structurer des informations en fonction du mandant dans une application et savoir quelle est leur contribution à l’implémentation correcte dans l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et implémenter des concepts appropriés pour garantir le contrôle d’accès à une application et sa protection contre les accès non autorisés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les mécanismes nécessaires pour structurer le contrôle et la protection d’accès d’une application et pouvoir expliquer leur utilité pour l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques et règles d’implémentation nécessaires pour garantir le contrôle et la protection d’accès d’informations dans une application et savoir quelle est leur contribution à l’implémentation correcte dans l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et implémenter des concepts appropriés pour créer des processus métier transactionnels.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les mécanismes nécessaires pour créer des processus métier transactionnels dans une application et pouvoir expliquer leur utilité pour l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques et règles d’implémentation nécessaires pour créer des processus métier transactionnels et savoir quelle est leur contribution à l’implémentation correcte dans l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et implémenter des concepts appropriés pour garantir la traçabilité des modifications d’objets.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les mécanismes nécessaires pour garantir la traçabilité des modifications d’objets et pouvoir expliquer leur utilité pour l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques et règles d’implémentation nécessaires pour garantir la traçabilité des modifications d’objets et savoir quelle est leur contribution à l’implémentation correcte dans l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

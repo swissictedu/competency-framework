@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>260</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=260%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Office Werkzeuge praxisorientiert einsetzen</title>
+    <capability>Informationen und Sachverhalte mit Textverarbeitungs-, Tabellenkalkulations- und Präsentationswerkzeugen ziel- und adressatengerecht aufbereiten und (inter-)aktiv präsentieren.</capability>
+    <goals>
+        <goal>
+            Informationsmaterial (Text, Daten, Grafiken, Tabellen) bezüglich Umfang und Inhalt analysieren und geeignete Werkzeuge für die geplante Aufbereitung und Gestaltung (Textverarbeitung, Tabellenkalkulation, Präsentation) auswählen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt einfache Arbeitstechniken für die Informationsbeschaffung sowie die Aufnahme von Anforderungen an benutzergerechte Dokumentationen und Präsentationen.
+                </knowledge>
+                <knowledge>
+                    Kennt grundsätzliche Möglichkeiten, die verbreitete Anwendungsprogramme im Bereich Textverarbeitung, Tabellenkalkulation und Präsentation bieten und für welche Art von Aufgaben sich diese eignen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Datenablage-Konzepte (Speicherorte, Dateinamen) gängiger Office-Werkzeuge und die Unterstützung derselben für eine effiziente Verwaltung von Dateien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Grundlegende Gestaltungsvorgaben bezüglich Typografie (Schriftarten, Schriftgrössen), Seitenlayout (Deckblätter, Kopf- und Fusszeilen, Seitenzahlen) sowie firmenspezifischer Richtlinien in Dokumenten umsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Grundregeln der Typografie für die Gestaltung ansprechender und lesefreundlicher Dokumente und die Wirkungen der verschiedenen Schriftmerkmale (Schriftart, Schriftgrad, Schriftschnitt) auf die Lesbarkeit von Texten.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Grundregeln für Layout und Seitengestaltung und entsprechende Funktionen verbreiteter Textverarbeitungsprogramme, mit denen diese Einstellungen für Seitenausrichtung, Seitenränder und Seitensteuerung (erste Seite, gerade/ungerade Seiten) vorgenommen werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Konzepte von Dokument- und Formatvorlagen verbreiteter Anwendungsprogramme und deren Einsatz für eine effiziente und einheitliche Gestaltung und Strukturierung von Dokumenten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dokumente mit verschiedenen Inhaltselementen (Text, Daten, Grafik, Tabellen) sowie Formatierungs- und Gliederungsfunktionen strukturieren und adressatengerecht aufbereiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Gestaltungselemente Absatz, Tabulatoren, Tabellen, Spalten und Gliederung und deren Einsatzmöglichkeiten zur inhaltlichen Strukturierung und Gestaltung eines Dokumentes.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten für die Darstellung und Platzierung von Bildern und Grafiken in einem Dokument und deren Wirkung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Lesbarkeit und Übersichtlichkeit von umfangreichen Dokumenten durch den Einsatz von Kopf- und Fusszeilen, Referenzen, Verzeichnissen und Verweisen erhöhen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten, wie in Dokumenten die Elemente Deckblatt, Kopf-und Fusszeile, darin enthaltene automatische Felder mit Dokumentinformationen sowie Seiten- und Abschnittsumbrüche zweckmässig eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente, zur Kennzeichnung und Erläuterung von Begriffen, Textstellen, Objekten (z.B. Fussnoten, Endnoten, Referenzen, Quellenangaben).
+                </knowledge>
+                <knowledge>
+                    Kennt den Einsatz von Verzeichnissen und deren Möglichkeiten die Übersichtlichkeit und die Orientierung im Text zu verbessern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Daten und Informationen in einem Tabellenblatt strukturieren und mit geeigneten Methoden, Funktionen und Berechnungsformeln auswerten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Regeln, die beim Aufbau einer Tabelle zu beachten sind, damit eine Berechnung von Werten/Kenngrössen und/oder die Erstellung von Diagrammen gewährleistet werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, wie Sortieren, Filtern und Gruppieren, mit deren Hilfe Auswertungen von Daten in Tabellen übersichtlich dargestellt werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt statistische und mathematische Funktionen, mit denen Kenngrössen (z.B. Summe, Anzahl, Mittelwert, Minimum, Maximum) ermittelt und Wertetabellen analysiert werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Aussagekraft von Daten und Informationen und deren Zusammenhänge mit grafischen Elementen (Diagrammen, Beschriftungen) erhöhen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Elemente (z.B. Formatierung von Schriftart und Zellen, bedingte Formatierung), mit denen die Bedeutung von Informationen und Kennwerten in Tabellen hervorgehoben werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Diagrammtypen zur Visualisierung von Zahlenwerten und deren Aussagekraft für die Darstellung von Informationen.
+                </knowledge>
+                <knowledge>
+                    Kennt Elemente zur Ergänzung von Diagrammen (z.B. Beschriftungen, Legenden, Kenn- und Trendlinien), um deren Verständlichkeit zu erhöhen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Geeignete Software, Medien und Hilfsmittel evaluieren und einsetzen um situations- und adressatengerechte Präsentationen durchführen zu können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundregeln der Präsentationstechnik und deren Einfluss auf die Wirksamkeit einer Präsentation.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Grundregeln für die Erstellung einer Präsentation mit einer Präsentationssoftware bezüglich Schriftgrösse, Kontrast, Verhältnis Bild/Text, Folienanzahl, Animationen usw.
+                </knowledge>
+                <knowledge>
+                    Kennt die Erstellung und Möglichkeiten unterstützender bzw. begleitender Materialien (Booklets, Handouts, Videos) zu einer Präsentation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ergebnisse eines Auftrags vor einem ausgewählten Zielpublikum wirksam präsentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den konzeptionellen Aufbau einer Präsentation mit den Elementen Eröffnung, Hauptteil, Fragen, Schluss.
+                </knowledge>
+                <knowledge>
+                    Kennt die Rahmenbedingungen (Räumlichkeiten, technische Einrichtungen) und kann die für eine Präsentation notwendigen Geräte (Beamer, Pinnwand, Whiteboard, Flipchart, Video, zukünftige Medien) zielgruppengerecht einsetzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

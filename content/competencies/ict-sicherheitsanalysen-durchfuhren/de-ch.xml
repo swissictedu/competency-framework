@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>661</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=661%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Sicherheitsanalysen durchführen</title>
+    <capability>Führt in regelmässigen Abständen Analysen der durch die ICT Systeme  unterstütz-ten Geschäftsprozesse durch, um damit Schwachstellen und Risiken festzustellen. Plant anhand der Ergebnisse wirtschaftlich angemessene risikominimierende Mas-snahmen.</capability>
+    <goals>
+        <goal>
+            Nimmt auf, welche ICT Systeme welche Business-Prozesse unterstützen (Aufgaben, Funktionen).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Business Continuity Normen (z.B. BS 25999, ISO 22399).
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgehensweise für die Vorbereitung, Durchführung und Auswertung von strukturierten Interviews.
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungstechniken zur Definition der Unterstützung der Businessprozesse durch die ICT Systeme (z.B. Prozessarchitektur).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert in Zusammenarbeit mit den Business-Prozessverantwortlichen die Anforderungen hinsichtlich der Verfügbarkeit und der Ausfalldauer der ICT Systeme.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Faktoren, welche bei der Bestimmung der Anforderungen an die Ausfalldauer und die Verfügbarkeiten der ICT Systeme zu berücksichtigen sind (z.B. Zeit zur Wiederherstellung, Anforderungen eines Disaster Recoverys).
+                </knowledge>
+                <knowledge>
+                    Kennt die Auswirkungen von verschiedenen Ausfallszenarien  auf die Einhaltung der Verfügbarkeiten und der maximalen Ausfalldauer.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert Schwachstellen der ICT Systeme in Bezug auf die Sicherstellung der Aufgaben und Funktionen, welche diese ICT Systeme bei der Abwick-lung des Business bzw. der Business-Prozesse übernehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Instrumente, welche Hersteller und NGOs zur Aufdeckung von Schwachstellen zur Verfügung stellen und kann diese anwenden (z.B. Vulnerabilty-Scanner, Knowledge-Base).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt eine Analyse, welche das Risiko- resp. Gefahrenpotential der Schwachstellen auf die Geschäftstätigkeit und die Existenz des Unternehmens definiert.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Durchführung von Analysen, welche das Risiko und Gefahrenpotential von Schwachstellen der ICT Systeme in Bezug auf die Business Prozesse quantifizieren lassen (z.B. nach ISO 27005).
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Risikokatalogs und kann erläutern, in welcher Abhängigkeit diese zueinander stehen und zu einer abschliessenden Definition eines Risikos beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Legt abgestimmt auf die Analyse Massnahmen zur Eliminierung  der Schwachstellen der ICT Systeme fest und trägt damit zur Sicherstellung der Geschäftstätigkeit und zur Existenzsicherung des Unternehmens bei.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kategorien von Massnahmen zur Gewährleistung der definierten Verfügbarkeit und zur Sicherstellung einer minimalen Ausfalldauer (z.B. Infrastruktur, Organisation, Personal, Hard-/Software).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert abgestimmt auf die Analyse Massnahmen, welche die Weiterführung der Geschäftstätigkeit beim Ausfall von ICT Systemen bzw. ihrer Unterstützung durch die Geschäftsprozesse sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von organisatorischen Massnahmen zur Sicherstellung unterbrechungsfreier Geschäftsabläufe (z.B. Verantwortlichkeiten).
+                </knowledge>
+                <knowledge>
+                    Kennt Kategorien von technischen Massnahmen zur Sicherstellung unterbrechungsfreier Geschäftsabläufe (z.B. ICT Disaster Recovery).
+                </knowledge>
+                <knowledge>
+                    Kennt die Rahmenbedingungen und Anforderungen, welche bei der Erstellung eines Notfallplans zu berücksichtigen sind (z.B. Systemabhängigkeiten, Verhältnismässigkeit, Prozessabdeckung).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt ein Konzept zur regelmässigen Überprüfung der Wirksamkeit der getroffenen Massnahmen und zur Aktualisierung der Analyse.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten zur Überprüfung der Wirksamkeit von technischen Notfallkonzepten (z.B. Standby-Systeme).
+                </knowledge>
+                <knowledge>
+                    Kennt Faktoren, die bei der Auswertung von regelmässigen Notfallübungen zu berücksichtigen sind (z.B. Arbeitsteilung / Prozessschritte).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt die getroffenen Massnahmen in Zusammenarbeit mit den Business-Prozessverantwortlichen anhand von Normen und Best-Practice Konzepten um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Bestimmungen und Vorgaben, welche bei der Umsetzung von Massnahmen zur Überprüfung von Notfallkonzepten einzuhalten sind (z.B. BSI Grundschutzkataloge, InfoSurance).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

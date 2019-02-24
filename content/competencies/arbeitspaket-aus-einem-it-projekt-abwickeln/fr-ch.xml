@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>131</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=131%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assumer les tâches d’un projet informatique</title>
+    <capability>Effectuer de façon autonome des tâches d’un projet informatique en collaboration du mandataire et du groupe de travail.</capability>
+    <goals>
+        <goal>
+            Prendre note de tâches, reconnaître sa propre compréhension et dépendances dans le projet et clarifier avec le mandataire.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les éléments fondamentaux d´une organisation (Tâches, responsa-bles des tâches, matières, informations) et peut décrire, quelles contribu-tions ces éléments apportent à la définition d´une tâche.
+                </knowledge>
+                <knowledge>
+                    Connaît les caractéristiques d´un ensemble de données qui parlent en fa-veur d´un déroulement judicieux de ceux-ci sous la forme de projet.
+                </knowledge>
+                <knowledge>
+                    Connaît les rôles les plus importants dans un projet (mandataire, chefs de projet, collaborateurs au projet) et peut décrire leurs tâches, compétences et responsabilités.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projeter le déroulement du paquet de travaux compte tenu d´un principe de procédure méthodique et examiner, à l´aide du mandataire ou des participants au projet, sur l’opportunité, respectivement la coordination sur le déroulement du projet.
+            <knowledge-list>
+                <knowledge>
+                    Connaît le sens et le but d´un paquet de travaux et peut décrire, comment la formation de paquets de travaux contribue à un déroulement efficace du projet.
+                </knowledge>
+                <knowledge>
+                    Connaît les éléments les plus importants qui définissent un paquet de tra-vaux et il peut décrire, quelle importance ces éléments ont pour le respect des délais, des frais ainsi que de la qualité de la prestation à fournir.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Traiter de façon autonome les tâches du projet et surveiller régulièrement le respect des objectifs et les délais conformément au plan de déroulement.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les techniques visant la planification, le réexamen et la documen-tation du progrès personnel dans le travail et peut décrire, comment ceux-ci soutiennent le respect des prescriptions d´un mandat.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Accorder régulièrement son propre progrès dans le travail ainsi que ses propres résultats avec le mandataire et l´équipe du projet afin de contribuer au déroulement coordonné et au succès du projet.
+            <knowledge-list>
+                <knowledge>
+                    Peut décrire la contribution d´une documentation pour la garantie et la reproductibilité des résultats du travail.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Présenter, au mandataire, les résultats avec les remarques et explications nécessaires qui garantissent la reproductibilité et l´intégration aux résultats du projet.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les règles fondamentales et formelles les plus importantes à ob-server lors de la documentation des résultats du travail et peut décrire, comment ceux-ci soutiennent leur garantie et reproductibilité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Présenter, au mandataire, les résultats avec les remarques et explications nécessaires qui garantissent la reproductibilité et l´intégration aux résultats du projet.
+            <knowledge-list>
+                <knowledge>
+                    Peut préciser, quelle importance a la documentation des constatations, pendant la mise en œuvre d´un projet, sur la reproductibilité des résultats du travail et le déroulement de projets futurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

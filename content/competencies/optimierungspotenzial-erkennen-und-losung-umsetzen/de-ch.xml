@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>422</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=422%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Optimierungspotenzial erkennen und Lösung umsetzen</title>
+    <capability>Hinterfragt laufend Prozesse und Organisation, erkennt Optimierungspotenzial und setzt Massnahmen zur Optimierung um.</capability>
+    <goals>
+        <goal>
+            Erstellt eine Bestandsaufnahme der bestehenden Prozesse und Organisation innerhalb des Einsatzgebietes.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten, um Aufgaben bzw. Aufträge einer Organisation zu visualisieren, wie z.B. mittels Organigramm oder Prozesscharts.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene mögliche Organisationsformen von Unternehmen und die Kompetenzen verschiedener Funktionen, wie z.B. Stabstelle, unterstützende Funktionen, usw.
+                </knowledge>
+                <knowledge>
+                    Kennt Vor‐ und Nachteile der Ausrichtung eines Unternehmens auf Ablaufprozesse und die Grundlagen des Prozessmanagements.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert Prozesse und Organisation auf Grund der Zielsetzung der Prozesse.
+            <knowledge-list>
+                <knowledge>
+                    Kennt wichtige Aspekte des Prozessdesigns, insbesondere die Wichtigkeit der Minimierung von Schnittstellen als Fehlerquellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert Kennzahlen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Sinn und Bedeutung von Kennzahlen als Grundlage für Korrekturen und Optimierungen und kann diese nach Relevanz ordnen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung und die Anwendung von Controlling zur Steuerung von betrieblichen Abläufen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und verifiziert die Ziele und leitet gegebenenfalls Handlungsfelder ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Analyseinstrumente (z.B. Soll‐/Ist‐Analyse) um abwägen zu können, wo Handlungsbedarf besteht.
+                </knowledge>
+                <knowledge>
+                    Kann Qualitätsmerkmale in messbarer Form definieren.
+                </knowledge>
+                <knowledge>
+                    Kennt die Systematik der Wertschöpfungsanalyse.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert Massnahmen und Vorgehen zur Optimierung der Betriebsprozesse.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Lean‐Management Elemente in Bezug auf die Prozessoptimierung.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Erfolgsfaktoren einer Organisation und kann diese aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einflussfaktoren von unterschiedlichen Organisationsformen auf Prozessabläufe.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt neue Handlungsfelder im Betrieb um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Grundlagen des Organisationsmanagements in Bezug zum Kernbusiness, bzw. zur Aufgabe.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden, um den Erfolg einer Organisation mittels weniger Kennzahlen darzulegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kontrolliert den generierten Output in Bezug auf die Zielsetzung und leitet gegebenenfalls Korrekturmassnahmen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung von Controlling Aufgaben in einem Unternehmen.
+                </knowledge>
+                <knowledge>
+                    Kennt Controlling Instrumente, um Verbesserungsmassnahmen einzuleiten, z.B. KVP (Kontinuierlicher Verbesserungsprozess)/DEMING‐Kreis.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

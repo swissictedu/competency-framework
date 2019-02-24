@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>601</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=601%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer une stratégie TIC</title>
+    <capability>Développer une stratégie TIC et le masterplan y relatif en tenant compte de la stratégie de l’entreprise ainsi que des conditions cadres de l’unité d’organisation.</capability>
+    <goals>
+        <goal>
+            Planifier le processus de développement pour la stratégie TIC en accord avec les conditions cadres de l’organisation et choisir les modèles et méthodes à appliquer dans ce processus de développement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques des modèles actuels de l’entreprise (proposition de valeur, architecture de la valeur ajoutée et modèle de gain) et pouvoir expliquer la contribution des TIC (gestion de l’information).
+                </knowledge>
+                <knowledge>
+                    Connaître des modèles de déroulement et leurs spécificités pour le développement de la stratégie ainsi que les facteurs permettant d’assurer un processus de stratégie effectif et efficace (par ex. gestion stratégique selon Pr. Dr. Michael E. Porter ou Pr. Dr. Günter Müller Stewens).
+                </knowledge>
+                <knowledge>
+                    Connaître les approches stratégiques de base et leur signification en regard des prestataires de services dans l’entreprise (par ex. stratégie concurrentielle selon Porter, stratégie orientée ressources).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser l’état actuel et le degré de préparation TIC, identifier les développements importants dans les TIC et documenter les résultats en tant que bases pour le développement de la stratégie.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’objectif, la structure, les objets sources et le déroulement pour une analyse AFOM (SWOT‐Analyse par ex. selon Haward Business School).
+                </knowledge>
+                <knowledge>
+                    Connaître des domaines pertinents de recherche pour déterminer l’état actuel et le degré de préparation des TIC (par ex. Technology Readness Level).
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes permettant de comparer les performances des prestations de service TIC avec des tiers (Benchmarking des coûts TIC selon les fonctions et le genre de coût des TIC).
+                </knowledge>
+                <knowledge>
+                    Connaître les principes de la pensée et de l’action en réseau (par ex. selon Frederik Fester).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les attentes de la direction de l’entreprise ainsi que d’autres groupes d’interlocuteurs des TIC et documenter les résultats en tant que bases pour le développement de la stratégie.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des domaines pertinents de recherche de l’environnement stratégique des TIC pour l’élaboration d’une stratégie effective des TIC (par ex. stratégie concurrentielle des entreprises, stratégie des produits).
+                </knowledge>
+                <knowledge>
+                    Connaître les groupes types d’interlocuteurs d’une unité d’organisation TIC ainsi que leurs spécificités, lesquelles déterminent la prise en compte dans le développement de la stratégie TIC selon leurs intérêts et leur puissance.
+                </knowledge>
+                <knowledge>
+                    Connaître l’objectif, la structure, les objets sources et le déroulement lors de l’élaboration d’une analyse des intervenants.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Veiller à la transmission des résultats documentés envers la direction d’entreprise et assurer ainsi une base d’informations fondée et faisant foi pour le processus de développement de la stratégie.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les facteurs et les démarches à observer pour la réception couronnée de succès des résultats intermédiaires (par ex. intérêts et pouvoir des groupes interlocuteurs, phases du processus de changement selon Kurt Lewin).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projeter la stratégie TIC sur la base des modèles et méthodes choisis ainsi que sur les bases documentées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la construction et le contenu d’une stratégie TIC (par ex. gestion des attentes, mandat envers les TIC, objectifs des TIC avec un horizon de planification de 3 à 5 ans, prestations des modèles d’organisation, de pilotage et financier).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir le masterplan pour la mise en œuvre de la stratégie TIC, tout en tenant compte des conditions cadres organisationnelles, techniques et financières, lequel assure une mise en œuvre logique et constante dans le temps pour cette stratégie TIC.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les tâches et les objectifs d’un masterplan pour la mise en œuvre de la stratégie TIC (allocation des ressources, déclenchement de la démarche d’investissements).
+                </knowledge>
+                <knowledge>
+                    Connaître la construction et le contenu d’un masterplan temporellement et logiquement consistant (par ex. tâches, étapes).
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs qui doivent être pris en considération pour une mise en œuvre effective et efficace du masterplan (par ex. gestion des changements, gestion de projets, gestion des ressources).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Veiller à l’adoption et la mise en vigueur, de la part de la direction d’entreprise, du rapport sur la stratégie TIC, de la stratégie TIC et du masterplan.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les facteurs qui sont responsables pour une réception couronnée de succès de la stratégie TIC et du masterplan (par ex. leadership, les phases du processus de changement selon Kurt Lewin).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

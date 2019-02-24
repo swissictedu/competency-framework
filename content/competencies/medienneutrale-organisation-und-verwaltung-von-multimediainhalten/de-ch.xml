@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>414</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=414%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Medienneutrale Organisation und Verwaltung von Multimediainhalten</title>
+    <capability>Organisiert und verwaltet Daten, damit sie in verschiedenen Kanälen und Formaten mediengerecht verwendet werden können.</capability>
+    <goals>
+        <goal>
+            Analysiert die bestehenden Datenbestände, deren Anwendung und Anforderung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Tools und Verfahren, um bestehende Datenbestände in Bezug auf Datenformate, Dateigrössen und allfällige Redundanzen zu analysieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Risiken und Chancen im Zusammenhang mit Zugriffsberechtigungen der bestehenden Datenbestände.
+                </knowledge>
+                <knowledge>
+                    Kennt das Instrument der Bedürfnisanalyse.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert die qualitativen, technischen und organisatorischen Anforderungen an die Herstellung und Organisation der Mediendaten (hauseigene Richtlinien/Medienstandard).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Einsatzgebiete und Eigenschaften von Roh‐, Master‐ und Exportdaten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Eigenschaften, Einsatzgebiete und Standards der Datenformate, der Farbräume, des Colormanagements und der Metadaten.
+                </knowledge>
+                <knowledge>
+                    Kennt konzeptionelle und technische Möglichkeiten zur Optimierung und Reduktion von Datenvolumen und zur Vermeidung von Redundanzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementiert die einzuhaltenden Standards und Arbeitsabläufe (Workflows).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundlagen des Prozessmanagements.
+                </knowledge>
+                <knowledge>
+                    Kennt Anforderung und Lösungswege für die Organisation mehrsprachiger Publikationen (Übersetzungsworkflow, Tools).
+                </knowledge>
+                <knowledge>
+                    Kennt Konzepte und Einsatzmöglichkeiten einer einheitlichen Namenskonvention und Prefixes/Appendixes (Maschinenlesbarkeit).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden der Versionierung.
+                </knowledge>
+                <knowledge>
+                    Kennt Evaluations‐ und Bewertungsmethoden für verschiedene Prozessvarianten (Workflowvarianten).
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied sowie die Chancen und Risiken von destruktiven und nichtdestruktiven Arbeitsprozessen.
+                </knowledge>
+                <knowledge>
+                    Kennt die technischen Eigenschaften der Applikationsschnittstellen und deren Datenkompatibilität (Datenformate und Schnittstellen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant, implementiert und betreibt die dafür notwenige Infrastruktur.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Konzepte zur Verwaltung von Mediendaten für Einzelpersonen und Arbeitsgruppen
+                </knowledge>
+                <knowledge>
+                    Kennt das Prinzip und die Funktionsweise von Dokumenten‐Management‐Systemen (DMS) und die systemübergreifende Möglichkeiten von Media‐Asset‐Management‐Systemen (MAM)
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterschiede, in organisatorischer und finanzieller Hinsicht, zwischen MAM-Systemen und unstrukturierten Datenablagen.
+                </knowledge>
+                <knowledge>
+                    Kennt Massnahmen zur Qualitätssicherung in Bezug auf die gegebenen Anforderungen und definierten Konventionen.
+                </knowledge>
+                <knowledge>
+                    Kennt Verfahren und Hilfsmittel zur Automatisierung der Organisation von Mediendaten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt den Rollout des Medienstandards durch, in dem Lieferanten orientiert, Mitarbeitende geschult und die Standards dokumentiert werden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Konzepte und Varianten einer "Step‐by‐Step‐Anleitung" wie z.B. Leittext, Tutorial etc.
+                </knowledge>
+                <knowledge>
+                    Kennt einfache didaktische Methoden, um eine benutzergerechte Schulung planen und durchführen zu können.
+                </knowledge>
+                <knowledge>
+                    Kennt Varianten und Methoden für die Selbsthilfe wie z.B. FAQ, Screencasts etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

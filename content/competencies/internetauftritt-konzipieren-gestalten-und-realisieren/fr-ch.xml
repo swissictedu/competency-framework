@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>171</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=171%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Concevoir, réaliser et implanter des sites WEB</title>
+    <capability>Concevoir un site Web, y intégrer des éléments de présentation et de Corporate Identity en fonction des exigences du client. Mettre au point la navigation et la présentation en respectant les principes de convivialité, intégrer les fonctionnalités requises et réaliser le projet de site Web.</capability>
+    <goals>
+        <goal>
+            Analyser les souhaits du client en ce qui concerne le futur site Web, identifier ses préférences en matière de présentation et sélectionner des éléments de Corporate Identity adéquats.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des techniques d´enquête permettant d´obtenir des informations et peut indiquer pour quels types d´enquêtes elles sont recommandées.
+                </knowledge>
+                <knowledge>
+                    Connaît la signification de la Corporate Identity (logo, police de caractères, couleurs, présentation) pour une entreprise et peut en présenter les possibilités d´utilisation et l´effet sur un site Internet.
+                </knowledge>
+                <knowledge>
+                    Peut présenter au moyen d´exemples les erreurs les plus courantes commises dans la conception de pages Internet et expliquer l´effet qu’elles produisent ou empêchent de produire sur les personnes qui visitent ces pages.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser et documenter les fonctionnalités requises, l’environnement technique et les plates-formes du client.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les logiciels courants de gestion de sites Web et peut en indiquer les domaines d´utilisation et plates-formes typiques.
+                </knowledge>
+                <knowledge>
+                    Connaît les caractéristiques de la formulation exhaustive des objectifs et peut indiquer comment elles contribuent à la définition d’objectifs contraignants.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sur la base de ces informations, définir les exigences de sécurité, les informations à protéger ainsi que les mesures correspondantes à prendre dans le cadre de la réalisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les mesures courantes de sécurité d’exploitation et peut montrer à l´aide d´un exemple de site Web quels sont les effets potentiels de leur non-respect.
+                </knowledge>
+                <knowledge>
+                    Peut citer des exemples d´informations sensibles contenues dans un site Web et peut expliquer ce qui peut se produire si ces informations ne sont pas protégées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser et structurer les contenus du futur site et élaborer le plan du site.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principes à respecter dans la structuration et le regroupement de contenus sur un site Web et peut indiquer les effets qu’ils exercent sur les personnes visitant ce site.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser plusieurs prototypes contenant des variantes de présentation, y compris de navigation et de design d’écran, et respectant les principes de convivialité.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principes fondamentaux à respecter dans la conception d´une navigation et peut expliquer les effets qu’ils exercent sur la convivialité d’un site.
+                </knowledge>
+                <knowledge>
+                    Connaît les principes de structuration et de navigation des sites Web et peut indiquer l’influence qu’ils exercent sur la convivialité d’un site.
+                </knowledge>
+                <knowledge>
+                    Connaît des méthodes de développement de variantes et peut expliquer comment elles permettent de faire un choix adéquat dans un large éventail de possibilités de présentation sur Internet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Finaliser le projet de site Web, le présenter au client et obtenir la décision de réalisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les catégories de critères à prendre en compte dans l´élaboration d´une offre et peut indiquer quelle est leur importance dans le calcul du coût de la réalisation d’un site Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et documenter les critères de test, de migration, de réception et d’implantation, puis réaliser le site Web sur la base du projet. Elaborer la documentation d’exploitation et de maintenance.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les aspects techniques à prendre en compte lors de la migration et de l´intégration d´une solution et peut en expliquer l’importance pour l’implantation d’un site Web.
+                </knowledge>
+                <knowledge>
+                    Connaît les principaux éléments de la documentation d´exploitation et de maintenance et peut expliquer leur importance pour le bon fonctionnement d’un site Web.
+                </knowledge>
+                <knowledge>
+                    Connaît les procédures de test permettant de vérifier le bon fonctionnement d´une application Web avec base de données et peut en expliquer les étapes au moyen d´exemples.
+                </knowledge>
+                <knowledge>
+                    Connaît les aspects techniques à prendre en compte lors de la migration et de l´intégration d´une solution et peut en expliquer l’importance pour l’implantation d’un site Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier les compatibilités du navigateur et de l’application côté client en fonction des directives de test.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les critères techniques à prendre spécialement en considération dans le test d’une application côté client et peut expliquer les problèmes qu’ils permettent d’éviter dans l´exploitation d’un site Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre le site Web en exploitation sur un serveur de test (chargement ftp) avec les droits d’accès nécessaires, vérifier les fonctionnalités selon la stratégie de test et procéder le cas échéant aux corrections requises.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les spécifications servant à la création d´un environnement de test et peut indiquer comment un environnement de test contribue à la sécurité d´exploitation d´un nouveau système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir des critères adéquats pour les moteurs de recherche et les répertoires et procéder aux inscriptions requises.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les critères à respecter lors de la définition d´informations et de mots-clés destinés à des moteurs de recherche et à des répertoires et peut indiquer comment ils contribuent à la diffusion d’un site Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Assurer et superviser la migration, la réception et la mise en service.</goal>
+    </goals>
+</competency>

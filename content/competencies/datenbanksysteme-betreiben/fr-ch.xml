@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>140</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=140%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Administrer et exploiter des bases de données</title>
+    <capability>Exploiter un système de bases de données dans un environnement productif. Inclure les utilisateurs, les rôles et les droits, générer des extraits et évaluer des rapports de bases de données.</capability>
+    <goals>
+        <goal>
+            Interpréter les documentations, les structures et les prescriptions de service de la base de données et du système de gestion de base de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure d´une documentation d’exploitation d’un système de gestion de base de données et peut préciser, pour les différents éléments, quelle importance ceux-ci ont pour une exploitation fiable et un entretien durable.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Administrer les utilisateurs, les rôles et les droits selon prescriptions et mettre à jour la documentation d’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaît le principe des examens et rôles pour l´attribution des autorisations et des droits dans un système de gestion de base de données et peut préciser, comment les différentes exigences de service peuvent être administrées de façon visible et sûr.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Surveiller la charge mémoire, la performance et la disponibilité avec le rapport standard de base de données. Analyser, documenter les erreurs ou problèmes et, le cas échéant, commencer et surveiller les mesures nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les rapports usuels des systèmes de gestion de base de données et peut décrire, quelles significations livrent ces rapports et comment il faut les pondérer.
+                </knowledge>
+                <knowledge>
+                    Connaît des catégories de messages dans le fonctionnement d´un système de gestion de base de données et peut préciser par des exemples, quelles messages doivent être classés comme critiques, et au besoin, être transmis plus haut.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser des évaluations/extraits selon prescriptions.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les éléments linguistiques d´un langage d´interrogation de base de données pour l´extraction d’informations et peut préciser par des exemples, avec, quels éléments linguistiques quels extraits d´information peuvent être produits efficacement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Exécuter des mises à niveau, des mises à jour, des réparations selon instructions et surveiller leurs effets.
+            <knowledge-list>
+                <knowledge>
+                    Connaît le caractère critique des tâches de réparation, de mise à niveau et de mise à jour dans le fonctionnement productif d´un système de gestion de base de données et peut citer les mesures, pour les différentes tâches, qui permettent un retour sans problèmes dans l´état d´origine.
+                </knowledge>
+                <knowledge>
+                    Connaît une méthode (p. ex. essais, validation) pour l´évaluation du taux de réussite et peut décrire son application pour la détermination de l’atteinte de l’objectif.
+                </knowledge>
+                <knowledge>
+                    Connaît des méthodes visant le réexamen et la garantie de l´intégrité des informations et peut décrire, quelles sortes d´erreurs peuvent ainsi être évitées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Traiter les problèmes des utilisateurs (assistance en première instance) et au besoin transmettre plus haut.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les problèmes typiques lors de la demande d’informations dans une base de données (rôles insuffisants, autorisations, droits) et peut décrire par rapport à des utilisateurs, pourquoi certains accès ne livrent pas le résultat souhaité.
+                </knowledge>
+                <knowledge>
+                    Peut interpréter les messages d´erreur du système de gestion de base de données déclenchés par des utilisateurs et peut décider sur la base de l´état d´erreur, s’il est indiqué de la signaler plus haut.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Maintenir la documentation du système de base de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure et les contenus d´un Data Dictionary et peut décrire par des exemples, comment les métas informations du Data Dictionary soutiennent l´utilisation de système de gestion de base de données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

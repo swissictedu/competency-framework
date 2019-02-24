@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>305</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=305%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Betriebssysteme installieren, konfigurieren und  administrieren</title>
+    <capability>Betriebssysteme installieren und für den Multiuserbetrieb konfigurieren. System mit Betriebssystem-Befehlen und Hilfsprogrammen administrieren.</capability>
+    <goals>
+        <goal>
+            Betriebssysteme hinsichtlich verschiedener Merkmale unterscheiden (z.B. Leistungsdaten, Hard- und Softwareunterstützung, Lizenzierungsart, Supportmodelle).
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufgaben, Aufbau und Komponenten eines Betriebssystems und kann damit die unterschiedlichen Grundkonzepte (z.B. Multiuser, Multitasking, Kernel, Kernelspace, User Space, System Call) und Merkmale von Betriebsystemen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Lizenzierungsmodelle verschiedener Betriebsysteme (z. B. Open Source, GPL, OEM, usw.) und kann deren grundsätzliche Folgen für die Kosten und den Betrieb der Systeme darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vor der Installation des Betriebssystems die Hardwareanforderungen sowie die Hardwarekompatibilität abklären und die notwendigen Treiber beschaffen. Konfiguration der Datenträger bestimmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorbereitungsschritte, welche vor der Installation des Betriebssystems zu treffen sind und kann erläutern, wie diese zu einer erfolgreichen Installation beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten zur Automatisierung einer Installation.
+                </knowledge>
+                <knowledge>
+                    Kennt die technischen Rahmenbedingungen einer Partitionierung und kann erläutern, wie diese bei der Installation zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien für die Partitionierung eines Datenträgers und kann erläutern, welchen Nutzen eine entsprechende Partitionierung (Systempartition, Datenpartition, Swappartition) für den Betrieb des Systems bringt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Datenträger-Partitionen und Dateisysteme einrichten, Bootmanager und Bootoptionen konfigurieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Datenträger-Verwaltungsstrukturen (MBR/GPT, Partitionstabelle, Bootrecord, Bootloader), die für das Booten notwendig sind, und kann erläutern, welche Aufgaben diese in den einzelnen Stufen des Bootvorgangs ausüben.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Konfigurationsoptionen gängiger Bootmanager um ein Dual-Boot-System einzurichten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Regeln für die Namensgebung von Partitionen unter verschiedenen Betriebssystemen.
+                </knowledge>
+                <knowledge>
+                    Kennt Eigenschaften und Kompatibilität der gängigen Dateisysteme und kann aufzeigen, welche Vor-, Nachteile sowie Einsatzgebiete daraus resultieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installationsumfang festlegen (z.B. minimal, typisch), Softwarepakete auswählen. Nach der Installation System aktualisieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den grundlegenden Funktionsumfang eines Betriebssystems sowie die verfügbare Zusatzsoftware und kann erläutern, welche Aufgaben damit ausgeführt oder unterstützt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten mit einem Paketmanager Software-Pakete hinzuzufügen oder zu entfernen.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Konzepte zur Konfiguration von Software (Konfigurationsdateien, Registry, systemweite / benutzerspezifische Konfiguration) und kann Möglichkeiten aufzeigen, wie Software-Konfigurationen zu bearbeiten sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Weitere Hardwarekomponenten einbinden und konfigurieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehensweisen und Werkzeuge, um Hardware (Z.B. zweite Netzwerkkarte, Grafikkarte, usw.) ins System einzubinden und zu verwalten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Benutzerinterface auswählen und konfigurieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien für den Einsatz eines grafischen Benutzerinterfaces bzw. Konsolenbedienung.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten für die Einstellung einer erleichterten Bedienung (Z.B. Grösse, Kontrast, usw.)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Datei- und Verzeichnisstrukturen aufbauen und verwalten. Benutzer/Gruppen administrieren und Benutzerrechte vergeben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die unterschiedlichen Konzepte für Verzeichnishierarchien (absolute/relative Pfade, Links, versteckte Dateien, Verknüpfung mit Anwendungen) und kann die dazugehörigen Systembefehle und Hilfsprogramme aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kennt die unterschiedlichen Konzepte für den Zugriff auf Datenträger und Dateisysteme (Mount-Befehl, Devicedateien, Treiber) und kann die dazugehörigen Systembefehle und Hilfsprogramme aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kennt die unterschiedlichen Konzepte für die Benutzer- und Rechteverwaltung (User-ID, Zugriffsrechte, Gruppenmitgliedschaft, Standardrechte, Vererbung, Heimverzeichnis) und kann die dazugehörigen Systembefehle und Hilfsprogramme aufzeigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ressourcen und Ereignisse überwachen. Im Betriebssystem enthaltene Hilfsprogramme zur Problemanalyse und -behebung einsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Massnahmen zum sicheren Arbeiten als Administrator (Benutzerwechsel; Befehle wie z.B. su, sudo, runas; Backup; Dokumentation) und kann erläutern, wie diese zur Sicherheit des Systems beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt gängige Informationsquellen zur Informationsbeschaffung bei unbekannten Problemen/Aufgaben im Zusammenhang mit dem Betriebssystem (z.B. Befehlssyntax, Hilfesystem, Manual-Page, How-To‘s, Foren, usw.) und kann erläutern, für welche Art von Problemen und Aufgaben sich diese speziell eignen.
+                </knowledge>
+                <knowledge>
+                    Kennt Werkzeuge zur Überwachung des Systems (z.B. Taskmanager, Management-Konsolen Ereignisanzeige, Gerätemanager, Systeminformation, Protokolldateien) und kann erläutern, welche Informationen diese hinsichtlich des Systemzustands und möglicher Probleme liefern.
+                </knowledge>
+                <knowledge>
+                    Kennt Werkzeuge und Möglichkeiten zur Beeinflussung von Ressourcen (CPU-Auslastung, Speicherverbrauch, Auslagerungsspeicher und Datenträgerbelegung) und kann erläutern, welche Wirkungen sich hinsichtlich des Systemzustands damit erzielen lassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Software aus Sicherheitsgründen regelmässig überprüfen und aktualisieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten zur manuellen und automatischen Aktualisierung von Betriebssystemen/Software mit Sicherheitspatches.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

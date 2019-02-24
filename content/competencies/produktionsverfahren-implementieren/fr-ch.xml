@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>178</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=178%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implanter les procédures d’exploitation</title>
+    <capability>Mettre en production les exigences des clients en matière de prestations ou de services et en garantir l’exploitation par des mesures, des procédures et des méthodes organisationnelles et techniques appropriées.</capability>
+    <goals>
+        <goal>
+            En collaboration avec le client, définir et documenter les exigences qualitatives, quantitatives et temporelles des prestations ou des services à fournir.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les caractéristiques des prestations de service et peut indiquer pourquoi il est recommandé d’envisager leur implémentation sous forme de procédure d’exploitation.
+                </knowledge>
+                <knowledge>
+                    Connaît des méthodes et des techniques permettant à un groupe de définir systématiquement les exigences et spécifications relatives à un service ou à un produit et peut indiquer les éléments auxquels il convient d’accorder une attention particulière lorsqu’on utilise ces méthodes et techniques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer la faisabilité, les impacts et les interdépendances des exigences en termes d’exploitation, de mobilisation des équipements et du personnel ; si nécessaire, formuler des propositions et obtenir une décision.
+            <knowledge-list>
+                <knowledge>
+                    En matière de services, connaît les conséquences de la complexité des exigences (niveau et spécificité) pour la faisabilité et peut expliquer, en s’appuyant sur des exemples, leur influence sur les procédures d’exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sur la base des propositions retenues, adapter / compléter les procédures et instructions de travail existantes ou en implémenter de nouvelles.
+            <knowledge-list>
+                <knowledge>
+                    Peut indiquer les aspects qui doivent être pris en compte lors de l’adaptation de procédures dans une organisation et peut indiquer les conséquences négatives que l’on peut écarter à l’aide de mesures préventives.
+                </knowledge>
+                <knowledge>
+                    Connaît la structure d’une instruction de travail complète et peut indiquer comment chacun de ses éléments en garantit l’exécution sûre et exhaustive.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adapter le plan de mobilisation des équipements et du personnel et, si nécessaire, adapter les tâches, les compétences et les responsabilités.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les facteurs déterminants pour le bon fonctionnement de systèmes et d’équipements et peut expliquer comment les prendre en compte dans la planification du travail lors de l´implémentation de procédures d’exploitation nouvelles ou modifiées.
+                </knowledge>
+                <knowledge>
+                    Connaît les caractéristiques des procédures d’exploitation à prendre en compte lors de la mise en oeuvre du personnel d’exploitation et peut expliquer, à l’aide d’exemples, les mesures préventives qu’elles nécessitent dans la planification du travail.
+                </knowledge>
+                <knowledge>
+                    Connaît le rôle des tâches, compétences et responsabilités dans le contexte des procédures d’exploitation et peut expliquer l’influence qu’elles exercent sur la qualité du déroulement et des résultats d’une procédure d’exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir le processus d’assurance qualité pour l’exploitation. Saisir les charges découlant des services dans la comptabilité analytique et les présenter au client sous une forme compréhensible.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principes qui régissent le déroulement de l’exploitation et peut expliquer à l’aide d’exemples comment ils contribuent à son bon fonctionnement et, par conséquent, à la qualité de ses résultats.
+                </knowledge>
+                <knowledge>
+                    Connaît les facteurs déterminants pour l’évaluation des coûts des procédures d’exploitation et peut indiquer comment ils influencent le calcul des charges.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>155</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=155%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer des procédures en temps réel.</title>
+    <capability>Développer, adapter et tester des procédures en temps réel pour des systèmes à microprocesseur dans le domaine du pilotage et de la régulation.</capability>
+    <goals>
+        <goal>
+            Analyser les données du problème d’après les fonctions, et les mettre en relation avec les processus en temps réel existants.
+            <knowledge-list>
+                <knowledge>
+                    Connaît l’architecture et les principales caractéristiques (MIPS, taux d’échantillonnage, etc.) du matériel cible et peut prendre en considération les possibilités d´utilisation des constituants matériel (registres, RAM, EEPROM, ports, timer, compteur, UART, ADC, etc.) lors de l´analyse d’une tâche donnée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spécifier les modifications pour les fonctions en temps réel à adapter.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure, les fonctionnalités, les possibilités et les limites d’une application en temps réel avec microprocesseur et peut les inclure dans la planification d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaît les mécanismes de communication et de synchronisation (scheduler, processus, task, thread, interrupt, polling, processus de communication, sémaphores, flags, etc.) et peut les inclure dans la planification d’une tâche donnée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter les modifications spécifiques dans un environnement de développement temps réel.
+            <knowledge-list>
+                <knowledge>
+                    Connaît un environnement de développement pour le matériel cible (éditeur, compilateur) et peut montrer comment une application temps réel peut être réalisée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier, spécifier les cas pertinents de tests en temps réel et documenter dans le scripte de tests.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des méthodes appropriées de tests pour la vérification de fonction en temps réel et peut expliquer comment avec celles-ci on peut, en tenant compte particulièrement de l´interaction des processus et des exigences temporelles critiques de la fonction appelée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Expérimenter l´application en temps réel modifiée avec un débogueur, identifier et corriger les erreurs, établir la documentation.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les outils de tests d’un environnement de développement (simulateur, débogueur, etc.) et peut montrer comment le mode de fonctionnement exigé peut être vérifié sur le matériel cible.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

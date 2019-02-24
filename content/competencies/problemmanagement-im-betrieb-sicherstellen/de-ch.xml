@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>177</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=177%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Problemmanagement im Betrieb sicherstellen</title>
+    <capability>Identifiziert Probleme im operativen Betrieb, analysiert diese und implementiert nachhaltige Lösungen zu deren Behebung.</capability>
+    <goals>
+        <goal>
+            Wertet Informationen aus dem operativen Betrieb systematisch aus und bereitet die Ergebnisse für die Entscheidungen, die im Problemmanagement zu treffen sind, aussagekräftig auf.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Fehlerkategorien im operativen Betrieb von Systemen und kann aufzeigen, welche grundsätzlichen Ursachen für die Fehler dieser Kategorien verantwortlich sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten statistischen Kenngrössen, die bei der Verdichtung von Informationen eines Fehlermanagement‐Systems für einen periodischen Qualitätsreport relevant sind, und kann erläutern, welche Aussagen sich für die systematische Fehlerbehandlung daraus ableiten lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungstechniken (z.B. Grafische Analysen, Trendanalysen), die bei der Verdichtung von Informationen eines Fehlermanagement‐Systems für einen periodischen Qualitätsreport geeignet sind, und kann erläutern, wie diese die Aussagekraft hinsichtlich der Servicequalität unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Priorisiert die in der Auswertung identifizierten Probleme und Schwachstellen aufgrund ihrer Bedeutung für die Geschäftstätigkeit und erstellt darauf abgestimmt einen Realisierungsplan zu deren Behebung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Informationselemente, die zur Priorisierung von identifizierten Problemen von Bedeutung sind, und kann diese beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kann Methoden und Techniken zur Herbeiführung einer Entscheidung in einem Gremium beschreiben und an Beispielen erläutern, in welchen Situationen diese zur Anwendung kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Klärt mögliche Lösungsvarianten für ein Problem ab, bewertet diese unter Berücksichtigung von Wirkung, Aufwand sowie Realisierbarkeit und leitet daraus den Entscheid ab, ob eine Übergangslösung notwendig ist oder eine nachhaltige Lösung initialisiert werden kann.
+            <knowledge-list>
+                <knowledge>
+                    Kennt proaktive Methoden zur Vermeidung von Problemen, z.B. FAQ, Benutzer Informationen, Softwareaktualisierungen, Überwachung oder Ersatz.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensmethoden zur vorübergehenden Lösung von Problemen im operativen Betrieb von Systemen und kann aufzeigen, welchen Beitrag diese zu einem effizienten und sicheren Betrieb leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert mit den für den ICT‐Betrieb Verantwortlichen und den Leistungsbezügern Übergangslösungen, damit das System trotz des Problems die erwünschten Ergebnisse liefert.
+            <knowledge-list>
+                <knowledge>
+                    Kann aufzeigen, welche Regeln und Rahmenbedingungen bei der Ausarbeitung von Übergangslösungen im Eskalationsfall zu beachten sind, und kann darlegen, wie diese zu einer für Leistungsbezüger und Leistungserbringer akzeptablen Lösung beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert Change Requests, die eindeutige und verbindliche Vorgaben an eine nachhaltige Lösung des Problems liefern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Informationselemente, die in einem Change Request von Bedeutung sind, und kann darlegen, welchen Beitrag diese Informationen für eine zielgerichtete Lösung der Problemfälle leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundprinzipien, die bezüglich einer effizienten und effektiven Problemlösung verfolgt werden, und kann darlegen, wie diese mit Change Requests unterstützt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Informationen, die ein Vorschlag zur Fehlerbehebung beinhalten muss, und kann erläutern, wie diese zu einer ganzheitlichen Entscheidungsgrundlage für das Management beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Legt die Kriterien und Ziele für eine erfolgreiche Implementierung einer Übergangslösung und oder eines Changes fest und überwacht deren Einhaltung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Rahmenbedingungen und die Kriterien, welche gesetzt bzw. erfüllt sein müssen, um die erfolgreiche Implementierung einer Lösung für ein Problem sicherzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Überwachung einer zur Realisierung freigegebenen Übergangslösung im operativen Betrieb, z.B. Zuverlässigkeitsüberwachung, Ereignisanzeigen, Benutzerfeedbacks oder Auswertung von Störungsmeldungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

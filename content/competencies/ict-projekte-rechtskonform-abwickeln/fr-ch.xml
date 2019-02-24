@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>497</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=497%26clang=fr</reference>
+            <level>5</level>
+            <lessons>30</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Dérouler des projets TIC en conformité avec le droit</title>
+    <capability>Reconnaître dans les projets TIC les situations dans lesquelles le droit du travail, le droit des assurances sociales, le droit d’auteur, la loi sur la protection des données et les dispositions du droit des contrats engendrent des prescriptions. Contribuer par sa propre action et par l’introduction de mesures au respect de ces exigences.</capability>
+    <goals>
+        <goal>
+            Analyser les informations et les données qui sont traitées et utilisées dans un projet ou qui le seront par le résultat d’un projet. Identifier sur cette base les menaces potentielles de violation de la loi sur la protection des données et prendre les mesures nécessaires au respect de la législation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les formes du droit (lois, jurisprudence, contrats) et leurs interactions.
+                </knowledge>
+                <knowledge>
+                    Connaître les niveaux du droit (droit international, droit fédéral, etc.) et la hiérarchie dans laquelle ils s’inscrivent.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes subdivisions du droit (droit privé et droit public, droit impératif et droit dispositif, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les outils du travail juridique dans leurs grandes lignes (actes législatifs, littérature, jurisprudence).
+                </knowledge>
+                <knowledge>
+                    Connaître les principes du travail juridique et les expressions correctes qui les désignent (état de fait, conséquence juridique, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les principes fondamentaux de la loi sur la protection des données et d’autres lois spécifiques à certaines branches en ce qui concerne le traitement des données (secret médical, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les principes fondamentaux de l’ordre juridique (principe de la bonne foi, règle de l’administration de la preuve, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier si les plans de travail des collaborateurs et les missions qui leur sont attribuées respectent les dispositions du droit du travail et des assurances sociales. Faire procéder, en cas de violation, aux corrections et adaptations nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes du droit du travail applicables à des problèmes fréquents dans l’environnement TIC (heures supplémentaires, surveillance du courrier électronique, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les particularités et les risques potentiels de différents types de contrats de services (recours à des indépendants, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier si les applications, outils et méthodes ainsi que le développement de livrables dans le cadre du projet respectent les dispositions du droit d’auteur et des droits voisins. Prendre les mesures nécessaires en cas de violation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes du droit de la propriété intellectuelle applicables à des problèmes fréquents dans l’environnement TIC (droit d’auteur concernant les programmes informatiques, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les principes du droit général des contrats (formation, exécution, perturbation dans l’exécution).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, en situation de projet touchant à des contrats juridiquement contraignants, les contenus principaux correspondant à la situation et à la forme de contrat et les proposer aux parties aux négociations en les justifiant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’objet et les principes des contrats réglés dans le CO (vente, bail à loyer, contrat d’entreprise, acte bilatéral, contrat de travail).
+                </knowledge>
+                <knowledge>
+                    Connaître l’objet, les principes et les risques potentiels d’autres contrats typiques de l’environnement TIC (contrat de licence de logiciel, contrat d’outsourcing, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître l’objet, les principes et les risques potentiels d’autres accords contractuels spéciaux courants dans l’environnement TIC (déclaration de volonté, accord de nondivulgation, contrat‐cadre de services, déclaration d’intention, etc.).
+                </knowledge>
+                <knowledge>
+                    Savoir quels sont les contrats‐types disponibles pour les accords juridiques typiques de l’environnement TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser des textes de contrat donnés apparaissant régulièrement dans les projets TIC pour en identifier les lacunes, les effets et les conséquences ainsi que les problèmes et risques patents. Formuler des recommandations correspondantes à l’intention des parties aux négociations.
+            <knowledge-list>
+                <knowledge>
+                    Savoir quels sont les aspects juridiques particuliers à prendre à la fin d’un projet TIC (réglementation de la réception, gestion des réclamations, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, sur la base des résultats de l’analyse des contrats, des recommandations à l’intention des parties aux négociations ou la nécessité de recourir à un soutien juridique.</goal>
+    </goals>
+</competency>

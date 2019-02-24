@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>653</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=653%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Définir des activités de marketing</title>
+    <capability>Mettre en œuvre les bases du marketing pour la définition d’activités commerciales en vue de la promotion/croissance de la demande et de l’acceptation des prestations/produits de son unité d’organisation.</capability>
+    <goals>
+        <goal>
+            Estimer, sur la base des connaissances du marketing, la signification de la commercialisation pour sa propre unité d'organisation et pouvoir en déduire quels thèmes doivent être abordé du point de vue marketing.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les tâches et objectifs du marketing.
+                </knowledge>
+                <knowledge>
+                    Connaître les objets du marketing d’une unité d’organisation TIC (produit et prestations de service).
+                </knowledge>
+                <knowledge>
+                    Connaître l’imbrication fonctionnelle du marketing dans la direction et la conduite d’une organisation TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer, sur la base d’une analyse, le plan des parties prenantes pour son domaine et définir par partie prenante les mesures nécessaires de marketing.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la définition des parties prenantes internes et externes (aussi les groupes d’interlocuteurs) du point de vue du marketing et de sa signification.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour établir une analyse des parties prenantes dans le domaine des TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour établir un plan des parties prenantes, lequel montre les besoins spécifiques des parties prenantes en matière de prestations commerciales TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour la déduction et la définition des mesures de marketing sur la base du plan des parties prenantes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, pour les prestations de service et les produits de sa propre unité d’organisation, les combinaisons de marchés en tenant compte des groupes cibles, des propriétés des prestations/produits ainsi que d’autres informations importantes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la définition et le contenu d’une combinaison de marchés (les 4 P : product, price, place, promotion).
+                </knowledge>
+                <knowledge>
+                    Connaître les tâches et objectifs d’une combinaison de marchés.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour la définition d’une combinaison de marchés dans le domaine des TIC en observant les groupes cibles, les propriétés des prestations/produits et autres informations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer, sur la base des données de marché à disposition, une analyse du marché pour sa propre unité d’organisation et en déduire les mesures relatives au développement, positionnement et la commercialisation de ses propres prestations et produits.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la définition et le contenu d’une analyse du marché dans le domaine TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître les tâches et objectifs d’une analyse du marché dans le domaine TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités d’acquisition d’informations afin d’établir une analyse du marché pour les prestations TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement et l’élaboration d’une analyse du marché.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour la déduction et la définition des mesures sur la base de l’analyse du marché.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un concept de communication de marché afin de faire connaître les prestations et produits de sa propre unité d’organisation et d’acquérir une acceptation parmi les entreprises ou la notoriété sur le marché.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la définition et le contenu d’un concept de communication de marketing.
+                </knowledge>
+                <knowledge>
+                    Connaître les tâches et objectifs d’un concept de communication de marketing.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement et l’élaboration d’un concept de communication de marketing pour une unité d’organisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

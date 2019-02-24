@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>419</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=419%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Evaluer des concepts de solutions et des technologies nouvelles</title>
+    <capability>Juger et évaluer, pour une tâche définie, les concepts et les logiciels appropriés (par exemple, CMS, boutiques en ligne) ainsi que les nouvelles technologies, en tenant compte des ressources internes et externes</capability>
+    <goals>
+        <goal>
+            Analyser les exigences de la situation actuelle et des états possibles.
+            <knowledge-list>
+                <knowledge>
+                    Connaître différentes techniques d´enquête en ce qui concerne la configuration système requise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser pour l´état ciblé toutes les nouvelles technologies et obtenir les informations pertinentes nécessaires à l´exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître diverses méthodes de recherche et sources d’informations.
+                </knowledge>
+                <knowledge>
+                    Connaître des instruments pour tenir compte de la qualité de l´information (pertinence et l´exactitude).
+                </knowledge>
+                <knowledge>
+                    Connaître des approches de l’analyse des technologies, par exemple, analyse TPF (analyse de portefeuille des technologies).
+                </knowledge>
+                <knowledge>
+                    Connaître dans le cadre de la capacité de l´ingénierie les possibilités et les étapes de travail nécessaires pour définir les exigences (fonctionnelles / non‐fonctionnels).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Créer le profil des exigences pour le nouveau concept de solutions, respectivement, la nouvelle technologie.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la mise en oeuvre de cas d´utilisation (Uses Cases) et pouvoir les appliquer à la future solution.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux points des exigences d’un système établi.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Construire un environnement de test, simuler et tester la future solution.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les moyens et les domaines d’application d´un environnement de durée de vie (sandbox – banc d’essais).
+                </knowledge>
+                <knowledge>
+                    Connaître diverses procédures de tests (par exemple, Blackbox, Whitebox, valeurs limites d´essai, etc.) pour évaluer la fonctionnalité sur le banc d’essais.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier et évaluer l´impact sur les processus d´entreprise existants et en déduire, au besoin, les mesures nécessaires pour une mise en oeuvre opérationnelle.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les approches de l’analyse de scénario et d´impact (par exemple, FMEA).
+                </knowledge>
+                <knowledge>
+                    Connaitre des possibilités et des instruments pour démontrer l´impact de la nouvelle solution (par exemple, diagramme cause‐effet).
+                </knowledge>
+                <knowledge>
+                    Connaître les bases de la gestion des processus pour identifier et documenter les éventuels changements de déroulement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer des variantes de mise en oeuvre concrète fondée sur l’évaluation des besoins à partir de la nouvelle approche.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l´outil d’analyse des coûts‐avantages et pouvoir par conséquent fournir une recommandation avec différentes variantes.
+                </knowledge>
+                <knowledge>
+                    Connaître diverses méthodes de priorisation et de pondération pour les critères.
+                </knowledge>
+                <knowledge>
+                    Connaître l´outil d´analyse FFOM pour l´évaluation des différentes solutions possibles.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer la meilleure variante possible et fournir une recommandation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments clés nécessaires pour un rapport de recommandations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>123</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=123%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Activer les services d´un serveur</title>
+    <capability>Installer et configurer divers services d´un serveur pour l´exploitation en réseau local. Vérifier la fonctionnalité des services.</capability>
+    <goals>
+        <goal>
+            Définir la configuration, selon directives de l’entreprise, des services demandés (par ex. services des répertoires, DHCP, DNS, File-Server, Print- Server).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les tâches principales d´un serveur (service des répertoires, DHCP, DNS, File-Server, Print- Server) et pouvoir expliquer les avantages d´une gestion centralisées des utilisateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux types de systèmes d’exploitation et services d’un serveur (serveur de fichier, d´impression, Web, de messagerie, etc.) et pouvoir en expliquer la fonction dans un réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences de performance, de disponibilité et d’efficacité énergétique que doit remplir un serveur, pouvoir montrer quels sont les composants système (matériel et logiciel serveur) dont les caractéristiques contribuent à satisfaire ces exigences.
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages et inconvénients de services serveurs dédiés ou non basés sur le cloud.
+                </knowledge>
+                <knowledge>
+                    Connaître la différence principale entre l´attribution dynamique et l´attribution statique d´adresses IP et pouvoir montrer dans quel cas elles sont pertinentes.
+                </knowledge>
+                <knowledge>
+                    Connaître les réglages pour la configuration d’un serveur DHCP et pouvoir expliquer comment leurs variables influencent l´attribution d´une adresse IP, d´un masque de sous réseau et, le cas échéant, les informations de serveur DNS et de passerelle par défaut dans la demande d´un client.
+                </knowledge>
+                <knowledge>
+                    Connaître les paramètres de configuration d´un serveur DNS et pouvoir expliquer comment leurs variables influencent et garantissent le processus de conversion des noms en adresses IP (résolution de noms au moyen de ´hosts´, DNS).
+                </knowledge>
+                <knowledge>
+                    Connaître les paramètres de configuration d´un serveur d´impression (queue d’impression, pilote) et pouvoir expliquer les fonctionnalités et possibilités offertes par leurs variables pour l´utilisation et l´exploitation de ce service.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères (partage, sécurité des informations, etc.) à prendre en compte dans la conception du stockage de données dans un réseau et pouvoir  expliquer comment ces critères influencent la décision de stockage centralisé ou décentralisé des données.
+                </knowledge>
+                <knowledge>
+                    Connaître les paramètres de configuration d´un serveur de fichier et pouvoir  expliquer comment leurs variables influencent le stockage physique des données (supports de données, répertoires), son utilisation (par ex. volume) et l´accès aux données (par ex. autorisations).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Activer et configurer les services d´un serveur selon les prescriptions définies. Désactiver les services non nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le processus de mise en exploitation de services de serveur (installer, configurer, démarrer, mettre à disposition sur le client, tester) et pouvoir expliquer les interdépendances techniques et logiques dont il tient compte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre à disposition des utilisateurs les différents services demandés par les adaptations nécessaires des clients.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les réglages réseau nécessaires pour un client dans un environnement serveur DHCP/DNS et pouvoir en expliquer l´influence sur l´exploitation d´un hôte/client dans un réseau basé serveur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter les mesures de sécurité de base sur le système d´exploitation serveur pour la protection des accès selon les directives de l´entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités offertes par un système d´exploitation de serveur pour garantir et protéger l´accès aux ressources du réseau (authentification de l´utilisateur, autorisation de l´utilisateur, rattachement aux ressources) et pouvoir expliquer à l´aide d´exemples comment elles permettent de protéger les services, les fichiers de configuration et d´autres données contre les accès illicites.
+                </knowledge>
+                <knowledge>
+                    Connaître une procédure permettant de tester et verbaliser les services installés sur un serveur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester, verbaliser la disponibilité et la fonctionnalité des services du serveur en regard des directives de l´entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales informations (par ex. messages d´état et d´erreur) figurant dans les fichiers journal et pouvoir expliquer comment elles facilitent la recherche de défauts de disponibilité et de fonctionnement des services.
+                </knowledge>
+                <knowledge>
+                    Connaître une procédure permettant de tester et verbaliser les services installés sur un serveur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre à jour la documentation d´exploitation. Exécuter la remise et la mise en exploitation des services installés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments d´un procès-verbal de réception et pouvoir en expliquer l´importance pour la qualité de la prestation et la finalisation d´un mandat.
+                </knowledge>
+                <knowledge>
+                    Connaître la structure d´une documentation d´exploitation (services, fichiers de configuration, etc.) et pouvoir expliquer la signification de ses différents éléments pour l´administration du serveur et sa sécurité d´exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>316</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=316%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Spannung und Strom messen und interpretieren</title>
+    <capability>Spannungen und Ströme an elektrischen und elektronischen Komponenten und Geräten messen und Messergebnisse interpretieren.</capability>
+    <goals>
+        <goal>
+            Die wichtigsten elektrischen Energiequellen unterscheiden und Energiekosten berechnen.
+            <knowledge-list>
+                <knowledge>
+                    Arten von elektrischen Energiequellen (Primärelemente, Akku, Wechselstromquellen, USV) kennen und ihre Kenngrössen interpretieren.
+                </knowledge>
+                <knowledge>
+                    Stromkreis aus Stromquelle, Leiter und Verbraucher berechnen.
+                </knowledge>
+                <knowledge>
+                    Formeln für Leistung und Energie anwenden. Leistungsangaben auf Verbrauchern interpretieren und daraus Kosten berechnen.
+                </knowledge>
+                <knowledge>
+                    Richtlinien und Vorschriften bei der Entsorgung elektrischer/elektronischer Komponenten beachten (graue Energie, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gefahren des elektrischen Stromes an Situationen aus dem privaten und beruflichen Umfeld erkennen und Schutzmassnahmen für Personen und Komponenten anwenden.
+            <knowledge-list>
+                <knowledge>
+                    Gefahren der Elektrizität kennen und aufzeigen, welche Wirkungen die Ströme auf den menschlichen Körper (IEC 479) haben und welche Massnahmen zum Personenschutz angewendet werden müssen (FI, Erdung, etc.).
+                </knowledge>
+                <knowledge>
+                    Massnahmen aufzeigen, mit denen Beschädigungen an elektronischen Bauteilen durch elektrostatische Entladungen des menschlichen Körpers verhindert werden können.
+                </knowledge>
+                <knowledge>
+                    Massnahmen zur Ersten Hilfe bei Elektrounfällen kennen (SUVA Merkblätter).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bei elektrischen Anschlüssen und Verbindungen zwischen Leistungs- und Signalübertragung unterscheiden und geeignete Typen von Kabeln und Steckern wählen.
+            <knowledge-list>
+                <knowledge>
+                    Anforderungen an Verbindungen zur Leistungsübertragung nennen (Drahtdicke, Isolation, Leiterabstand, etc.).
+                </knowledge>
+                <knowledge>
+                    Kabeltypen für die Signalübertragung nennen (Abschirmung, Koax, Twisted pair, etc.).
+                </knowledge>
+                <knowledge>
+                    Mischformen nennen von gleichzeitiger Leistungs- und Signalübertragung (z.B. USB).
+                </knowledge>
+                <knowledge>
+                    Anschlussbelegung der Stecker ermitteln und Durchgangsprüfung an einem Datenkabel durchführen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            An Hand von Unterlagen Komponenten, Baugruppen und Schnittstellen in einfachen Schaltungen identifizieren.
+            <knowledge-list>
+                <knowledge>
+                    Das grundlegende Verhalten von gängigen elektrischen/elektronischen Komponenten wie Schalter, Widerstände, Transistoren, Kondensatoren, Spulen, Dioden (LED), usw. unterscheiden.
+                </knowledge>
+                <knowledge>
+                    In einfachen Schaltungen Komponenten und Verbindungen auf Grund des Schemas identifizieren.
+                </knowledge>
+                <knowledge>
+                    Grundlegendes Verhalten von Strom und Spannung in einfachen Stromkreisen anhand der Kirchhoffschen Regeln erläutern.
+                </knowledge>
+                <knowledge>
+                    Einfache elektrische Schemas aufzeichnen und ausgewählte Funktionen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spannungen und Ströme an Komponenten und Anschlüssen messen und damit Funktionen überprüfen.
+            <knowledge-list>
+                <knowledge>
+                    Messgeräte (Multimeter) fachgemäss einsetzen.
+                </knowledge>
+                <knowledge>
+                    An einfachen Verbrauchern Messungen durchführen (Kleinspannung) und die Werte rechnerisch überprüfen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>128</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=128%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Datenbanken administrieren</title>
+    <capability>Entity-Relationship-Modelle (ERM) in interne Datenbank-Schemas überführen. Datenbanken neuen betrieblichen Anforderungen anpassen (z.B. Erstellen, Ändern und Löschen von Tabellen/Relationen). Vergabe der notwendigen Zugriffs-Berechtigungen. Zu einem DB-System gehörende Tools zielgerichtet einsetzen.</capability>
+    <goals>
+        <goal>
+            Ein gegebenes ERM in ein internes Datenbankschema überführen (Definieren von Tabellen/Relationen, Schlüsseln, Indizes, Konsistenzbedingungen).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente der Notation eines ERM und kann anhand von Beispielen erläutern, welche Art von Datenelementen und -beziehungen damit abgebildet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Struktur eines Datenbankschemas und kann aufzeigen, welche Aussagen die Elemente hinsichtlich der physischen Implemetierung der Datenbank machen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Datenbankschema in die physische Datenbank implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Aktionen und ihre Abfolgen, welche zum physischen Aufsetzen einer Datenbank in einem Datenbanksystem notwendig sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tabellen/Relationen, Schlüssel und Indizes einfügen, ändern und löschen. Rechte in der erstellen Datenbank vergeben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente der Datenbanksprache zur Definition und Einrichtung von Tabellen und Relationen.
+                </knowledge>
+                <knowledge>
+                    Kennt Datenbankkommandos zur Administration von Rechten und kann deren Auswirkungen beispielhaft erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kundenanfragen für Auswertungen/Extrakte analysieren und mittels Prozeduren die gewünschten Auswertungen/Extrakte erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten zur Präzisierung von Auswertungsanforderungen und kann deren Wichtigkeit zur Ermittlung eindeutiger Resultate erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt SQL-Sprachelemente für die Extrahierung von Informationen aus einer Datenbank und kann aufzeigen, welche Arten von Selektionen sich damit erzielen lassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anpassungen an Security-, Backup-, Restart- und Recovery-Prozeduren vornehmen und testen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Sinn und Zweck von Security-, Backup-, Restart- und Recovery-Prozeduren in einem Datenbanksystem und kann deren Beitrag für die Sicherstellung des operativen Betriebs erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tuning- und Performance-Massnahmen (Reorganisationen) durchführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktionsweise von Tuning- und Performance-Massnahmen und kann deren Wirkung hinsichtlich der Optimierung eines Datenbanksystems erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Migrationpläne bei Release-Anhebungen oder Umstellungen auf andere Datenbanksysteme erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aspekte, die bei der Migration einer Datenbank hinsichtlich Datensicherheit beachtet werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt Standardvorgehen für die Migration einer Datenbank und kann aufzeigen, wie dieses zur Datensicherheit beiträgt und jederzeit erlaubt, den Ausgangszustand wieder herzustellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Datenbank-Änderungen in einem Logjournal dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Struktur eines Logjournals für den Betrieb eines Datenbanksystems aufzeigen und den Nutzen der enthaltenen Informationen für die Pflege und Weiterentwicklung dieses Datenbanksystems erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>226B</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=226B%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Objektorientiert (mit Vererbung) implementieren</title>
+    <capability>Ein objektorientiertes Design (OOD) implementieren, testen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Ein objektorientiertes Design nachvollziehen und durch Einsatz der Vererbung erweitern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den objektorientierten Ansatz mit Klassen und Vererbung.
+                </knowledge>
+                <knowledge>
+                    Kann durch die Anwendung von Vererbung Redundanzen im Klassendesign eliminieren.
+                </knowledge>
+                <knowledge>
+                    Kann durch den Einsatz von Delegation und Vererbung switchartige Strukturen vermeiden und dadurch die Erweiterbarkeit der Anwendung sicherstellen.
+                </knowledge>
+                <knowledge>
+                    Versteht das Prinzip der dynamischen Bindung.
+                </knowledge>
+                <knowledge>
+                    Berücksichtigt beim Erstellen von Vererbungshierarchien das Prinzip von Spezialisierung/Generalisierung inklusive abstrakter Klassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Notation dynamischer und statischer Strukturen einer Anwendung mittels Unified Modeling Language (UML) nachvollziehen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Diagrammnotationen zur Darstellung von Vererbung.
+                </knowledge>
+                <knowledge>
+                    Kennt Diagrammnotationen zur Darstellung von Schnittstellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Objektorientiertes Design implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Elemente einer objektorientierten Sprache für die Umsetzung der Vererbung im objektorientierten Design.
+                </knowledge>
+                <knowledge>
+                    Kennt Elemente einer objektorientierten Sprache für das Überschreiben von Methoden im objektorientierten Design.
+                </knowledge>
+                <knowledge>
+                    Kennt Elemente einer objektorientierten Sprache für die Realisierung von Schnittstellen und abstrakten Klassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fortgeschrittene Testfälle für funktionale Einheiten implementieren, welche durch geeignete Techniken von anderen Systemteilen unabhängig sind.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Hilfsmittel des Mockings um Abhängigkeiten aus den Testfällen zu eliminieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Mittel zur Isolierung der Testdaten und Testfälle, um die gegenseitige Unabhängigkeit der Testfälle zu garantieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Werkzeuge zur Implementation von isolierten Testfällen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

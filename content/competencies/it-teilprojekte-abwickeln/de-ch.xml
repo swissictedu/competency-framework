@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>191</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=191%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>IT Teilprojekte abwickeln</title>
+    <capability>IT Teilprojekt im Rahmen eines Gesamtprojektes abwickeln.</capability>
+    <goals>
+        <goal>
+            Auftrag für das Teilprojekt analysieren und den Projektplan mit den erforderlichen Lieferobjekten erstellen. Risiken identifizieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt inhaltliche, organisatorische, terminliche und finanzielle Faktoren, die den Projektablauf beeinflussen und kann erläutern, wie diese bei der Ausarbeitung eines Projektplans für ein Teilprojekt zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Vorgaben eines Projektplans mit seinen Teilplänen und kann erläutern, wie diese eine zielgerichtete Abwicklung eines Projektes unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien die bei der Bildung von Arbeitspaketen zu berücksichtigen sind und kann erläutern, wie diese zu einer sinnvollen Arbeitsteilung und zu einer effizienten Abwicklung eines Vorhabens beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt Faktoren, welche die Verfügbarkeit von Personal- Materialressourcen beeinflussen und kann anhand von Beispielen aufzeigen, wie Änderungen dieser Faktoren sich auf die Projektentwicklung auswirken können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projektbeteiligte in einem Kickoff Meeting über das Teilprojekt informieren und ihre Rolle mit Aufgaben, Kompetenzen und Verantwortung vereinbaren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Voraussetzungen, welche für die Sitzungsvorbereitung, -durchführung und -nachbearbeitung vorhanden sein müssen und kann für die einzelnen Voraussetzungen erläutern, wie diese zu einer effizienten und erfolgreichen Sitzung beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Techniken einer zielorientierten Sitzungsleitung und kann aufzeigen, was bei deren Anwendung beachtet werden muss damit die Teilnehmer sich akzeptiert fühlen und sich einbringen können.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Vorkehrungen für den Start eines Teilprojekts und kann aufzeigen, wie diese Vorkehrungen zur Mobilisierung eines Projektteams beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundsätze der Kommunikation und kann erläutern, welche Auswirkungen das Befolgen / Nichtbefolgen dieser Grundsätze auf die Zusammenarbeit im Team oder eine betroffene Person haben kann.
+                </knowledge>
+                <knowledge>
+                    Kennt die Phasen der Entwicklung eines Konflikts zwischen Personen und die Anzeichen (Verhalten von Personen), die auf diese Konflikte hinweisen.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Vorgehensweise zur Bewältigung eines Konflikts mit einer Person und kann für die einzelnen Vorgehensschritte erläutern, was ausgelöst wird und wie damit zur Konfliktlösung beigetragen wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundsätze, welche bei der Zielvereinbarung und Einsatzplanung von Mitarbeitern zu beachten sind und kann deren Wirkung hinsichtlich Zielerreichung und Motivation von Projektmitarbeitern aufzeigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führungsverhalten auf die Stakeholder im Teilprojekt abstimmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Stakeholder in einem Projekt und kann aufzeigen, welche Ansprüche sie während der Projektabwicklung und bezüglich des Projektergebnisses haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projektfortschritt auf Kosten, Termine, Qualität und Leistungen überwachen und bei Abweichungen notwendige Massnahmen einleiten. Die Gesamt¬projektleitung über den Projektfortschritt informieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Massnahmen zur periodischen Kontrolle des aktuellen Projektstandes und kann erläutern, für welche Arten von Überwachungsaufgaben diese eingesetzt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifizierte Risiken bearbeiten, Massnahmen einleiten und Risikokatalog nachführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Faktoren, welche die Verfügbarkeit von Personal-, Material- und Informations-Ressourcen beeinflussen und kann anhand von Beispielen aufzeigen, wie diese Faktoren sich auf die Projektentwicklung auswirken können.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur periodischen Überwachung von Risiken in Projekten und kann erläutern, welchen Beitrag die erarbeiteten Ergebnisse zur Bemessung der Risikosituation im Projekt leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Qualität der Projektergebnisse sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kategorien von Zielsetzungen, welche der Festlegung der zu erreichenden Qualität eines Projektes dienen und kann erläutern, welche Abhängigkeiten bei der Zieldefinition resp. Zieloptimierung zu berücksichtigen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Änderungen erfassen, analysieren, Massnahmen vorschlagen und Entscheid mit der Gesamtprojektleitung herbeiführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kategorien von Änderungen, welche aufgrund von Problemen, veränderten Anforderungen oder veränderten Rahmenbedingungen in einem Teilprojekt ergeben können und kann aufzeigen, welche Auswirkungen solche Änderungen auf das Gesamtprojekt haben können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projektabschlussbericht für das Teilprojekt erstellen und Erfahrungen aus dem Teilprojekt verfügbar machen.
+            <knowledge-list>
+                <knowledge>
+                    Kann aufzeigen, welche Bedeutung die Dokumentation von Erkenntnissen während der Ausführung eines Vorhabens auf die Nachvollziehbarkeit des Arbeitsergebnisses und die Abwicklung zukünftiger Vorhaben hat.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensweisen bei der Abnahme von Projektergebnissen und kann erläutern, für welche Arten von Projektergebnissen sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

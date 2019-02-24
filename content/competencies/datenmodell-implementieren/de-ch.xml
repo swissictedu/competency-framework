@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>104</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=104%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Datenmodell implementieren</title>
+    <capability>Strukturierte Daten anhand eines konzeptionellen Datenbankschemas in einer Datenbanksoftware abbilden und verwalten.</capability>
+    <goals>
+        <goal>
+            Konzeptionelles Datenbankschema interpretieren anhand von Entitäten, Attributen und Beziehungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Begriffe Entität, Attribut und Beziehung in einem konzeptionellen Datenbankschema und deren Darstellung .
+                </knowledge>
+                <knowledge>
+                    Kennt die unterschiedlichen Kardinalitäten und deren Aussage bezüglich der Beziehungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Logisches Datenbankschema ermitteln, normalisieren und als Diagramm darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen eines Datenbankentwurfs (Tabellen identifizieren, Attribute definieren, Beziehungen klären).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Logisches Datenbankschema mit einer Datenbanksoftware implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Datenbankprogramms zur Umsetzung eines Datenmodells in ein physisches Datenbankschema.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit einer Datenbanksoftware Benutzerschnittstellen zur Erfassung, Veränderung und Auswertung von Daten unter Berücksichtigung von Datenschutz und Datensicherheit in einer Datenbank erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt GUI-Komponenten und Formularfelder für die Definition von Benutzerschnittstellen zur Erfassung, Veränderung sowie Auswertung von Daten.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Regeln, die bei der ergonomischen Gestaltung einer Benutzeroberfläche für eine Datenbank hinsichtlich Abfolge und Bezeichnung der Informationen einzuhalten sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Abfragen zur Manipulation, Selektion und Auswertung von Datenbeständen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeit eines Datenbankprogrammes um die Prinzipien von Datenschutz und Datensicherheit umzusetzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anwendung mit Testdaten überprüfen und die Ergebnisse protokollieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Testkriterien für Datenintegrität und Datenkonsistenz) und kann aufzeigen, wie Testfälle für die Überprüfung dieser Kriterien aufgebaut sein müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>258</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=258%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Etablir un système de facturation de prestations</title>
+    <capability>Etablir les modèles de facturation des prestations de services informatiques. Evaluer différents modes de facturation des prestations et proposer de les appliquer. Mettre en œuvre les modèles de facturation sous forme opérationnelle et élaborer le Controlling qui en découle.</capability>
+    <goals>
+        <goal>
+            Déduire de l’analyse des contrats, des niveaux de prestations, des budgets, des licences, des centres de coûts, etc., des valeurs et des flux de valeurs pour les prestations de services informatiques à facturer.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kostenarten einer IT Abteilung und kann aufzeigen, welche Bedeutung diese für die Leistungsverrechnung bestimmter IT Dienstleistungen haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer les possibilités de facturation des prestations de services et élaborer des recommandations pour les décideurs.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die prinzipiellen Unterschiede zwischen einer Voll- und einer Teilkostenrechnung und kann erläutern, unter welchen betrieblichen und leistungsspezifischen Rahmenbedingungen die eine oder die andere Variante zu bevorzugen ist.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser un modèle de facturation, l’illustrer et le tester au moyen d’un outil. Tenir compte à cet effet des facturations internes et externes (schémas de facturation, déroulement de la facturation) et déterminer les interfaces requises.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten der Verrechnung bzw. Fakturierung von IT Dienstleistungen (Durchschnitt, Planzahlen, effektiv anfallend, Periodizität, Nutzen-Bezogenheit) und kann darlegen, bei welchen Charakteristiken von IT Dienstleistungen und/oder Voraussetzungen seitens Leistungsbezüger sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Intégrer le modèle choisi dans le système opérationnel de facturation. Veiller à cet effet à la périodicité, aux mises à jour, à l’intégrité de même qu’aux aspects de protection et de sécurité des données.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Merkmale von IT Dienstleistungen, welche das Automatisierungspotential bei der Erhebung und Verrechnung dieser Dienstleistungen bestimmen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer le Reporting. Identifier les divergences et leurs causes entre les valeurs prévues et les valeurs réelles, puis prendre les mesures adéquates.
+            <knowledge-list>
+                <knowledge>
+                    Kennt statistische Kennwerte (Streuung, Standardabweichung, Korrelation), welche die Beurteilung von Plan-/Ist-Abweihungen unterstützen und kann aufzeigen, wie diese zu interpretieren sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungsformen, die sich für die Visualisierung von Plan/Ist-Abweichungen entlang einer Zeitachse eignen und kann erläutern, welche Aussagen daraus abgeleitet werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Vorkehrungen der Alarmierung von Personen beim Überschreiten von Grenzwerten und kann erläutern, unter welchen Voraussetzungen diese eine schnelle Reaktion auf Abweichungen erlauben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adapter le modèle de facturation en cas de besoin.</goal>
+    </goals>
+</competency>

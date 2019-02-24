@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>676</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=676%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Sicherheit von Applikationen und Serverdiensten untersuchen und bewerten</title>
+    <capability>Untersucht die Applikationen und Serverdienste in den Entwicklungs-, Test- und Betriebsumgebungen einer Organisation, bewertet deren Reifegrad bezüglich Informationssicherheit und empfiehlt Verbesserungsmassnahmen für die Applikations- und Serversicherheit.</capability>
+    <goals>
+        <goal>
+            Ermittelt die Server- und Applikationslandschaft einer Organisation und dokumentiert die Architektur in geeigneter Form.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die gebräuchlichen Anwendungsprotokolle in TCP/IP-Netzwerken (z.B. HTTP, Mailprotokolle, DHCP, DNS, Verzeichnisdienste, Dateitransferprotokolle, Netzwerkmanagementprotokolle).
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Architekturkonzepte in Netzwerken (Client-Server, Peer to Peer, Machine-to-Machine) und kann deren Merkmale und Relevanz für die Informationssicherheit erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Cloudlösungen (z.B. Private Cloud, Public Cloud, Hybrid Cloud, Community Cloud) und Servicemodelle (IaaS, PaaS, SaaS) und kann deren Merkmale und Unterschiede für die Informationssicherheit erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungsformen zur Dokumentation von Server- und Applikationsarchitekturen (z.B. Schichtenmodell, Blockdiagramm, relevante UML-Strukturdiagramme).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft die Sicherheit der Server- und Applikationslandschaft oder Teilen davon mit geeigneten Methoden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Empfehlungen bezüglich Sicherheit und Tests von Webapplikationen aus dem de-facto Standard des Open Web Application Security Projects (OWASP) und dem Open Source Security Testing Methodology Manual (OSSTMM).
+                </knowledge>
+                <knowledge>
+                    Kennt relevante Bedrohungen und Angriffsvektoren auf Server und Applikationen (z.B. Schadsoftware, fehlerhafte Konfiguration, DDoS-Attacken, Cross-Site-Scripting, Script-Injection, Session-Hijacking, DNS-Attacken).
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen Schwachstellentests (Vulnerability-Scan) und Penetrationstests (Pen Tests) und kann gebräuchliche Methoden und Werkzeuge zur Überprüfung der Server- und Applikationssicherheit benennen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die Sicherheit der Server- und Applikationslandschaft auf der Ebene der Prozesse und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Anforderungen an die Trennung von Entwicklungs-, Test- und Betriebsumgebungen.
+                </knowledge>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Anforderungen an die Administration von Serverdiensten und Applikationen und die Handhabung von Quellcode in Entwicklungsumgebungen (z.B. Zugangssteuerung und Schlüsselverwaltung).
+                </knowledge>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Anforderungen an die Überwachung von Serverdiensten und Applikationen und die relevanten gesetzlichen oder regulatorischen Vorgaben (z.B. Ereignisprotokollierung, Datenschutz bei der Aufzeichnung sensibler Daten, Verhältnismässigkeit, Aufbewahrungsdauer der aufgezeichneten Daten).
+                </knowledge>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Anforderungen an das Release-, Update- und End-of-Life-Management von Serverdiensten und Applikationen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die Sicherheit der Server- und Applikationslandschaft aus technischer Sicht und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische Massnahmen gegen Schadsoftware (z.B. Virenscanner, Antimalware-Lösungen) und gegen E-Mail-Spam oder Schadsoftware in E-Mails (z.B. White-, Black- und Greylisting auf Mailservern, Relay-Server, Einschränkungen bei E-Mail Anhängen, blockieren von Makros in Office-Dokumenten).
+                </knowledge>
+                <knowledge>
+                    Kennt die Einsatzmöglichkeiten, Voraussetzungen und Grenzen von technischen Lösungen (Appliance) zur Erkennung von Angriffen (z.B. WAF, IDS, IPS, Honeypot, ATP) und von Security Information und Event Management Lösungen (SIEM).
+                </knowledge>
+                <knowledge>
+                    Kennt technische Massnahmen zur Steuerung des Zugriffs auf Serverdienste, Applikationen und Entwicklungsumgebungen (z.B. ACL, Benutzerauthentifizierung, Mehrfaktor-Authentifizierung).
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Systeme zur Steuerung des physischen Zutritts zu Serverinfrastrukturen (z.B. Schlüssel, Badge, biometrische Systeme).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die Server- und Applikationslandschaft in Bezug auf den Einsatz von kryptografischen Massnahmen und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundlagen der symmetrischen, asymmetrischen und hybriden Verschlüsselung und kann die Unterschiede erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die gebräuchlichen kryptografischen Verfahren (z.B. RSA, ECDHE, ECDSA, SHA, 3DES, AES) und deren typische Einsatzgebiete in Applikationen (z.B. Verschlüsselung von Dateien und Datenbanken).
+                </knowledge>
+                <knowledge>
+                    Kennt das Verschlüsselungsprotokoll TLS für die sichere Datenübertragung und die gängigen Einsatzzwecke (z.B. HTTPS, SMTPS, SIPS, FTPS, SFTP, LDAPS).
+                </knowledge>
+                <knowledge>
+                    Kennt den Zweck von Cipher Suiten beim Aufbau von sicheren Verbindungen und deren typische Anwendungsgebiete (z.B. HTTPS, SMTPS).
+                </knowledge>
+                <knowledge>
+                    Kennt die gebräuchlichen Standards für die End-to-End-Verschlüsselung von E-Mails (z.B. PGP, GPG S/MIME).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erarbeitet auf der Basis der identifizierten Schwachstellen einen Massnahmenkatalog für die Verbesserung der Server- und Applikationssicherheit, formuliert eine Empfehlung und präsentiert diese den Entscheidungsträgern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Inhalte und die Gliederung eines strukturierten Massnahmenkatalogs (z.B. Massnahme, Zeitbedarf, Zuständigkeit, Mehrwert, Kostenschätzung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Inhalte und die Gliederung einer guten Präsentation und kann den Einfluss relevanter Haltungen auf die Überzeugungsarbeit erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

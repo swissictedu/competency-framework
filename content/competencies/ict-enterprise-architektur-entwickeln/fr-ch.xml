@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>641</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=641%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer l’architecture TIC d’entreprise</title>
+    <capability>Développer l’architecture TIC d’entreprise, en tenant compte de la stratégie TIC, des exigences spécifiques à l’entreprise ainsi que des tendances technologiques, pour son domaine de prestations et piloter sa mise en œuvre ainsi que sa surveillance.</capability>
+    <goals>
+        <goal>
+            Définir les objectifs, les phases et les cycles de la gestion du développement de l’architecture, en tenant compte de la stratégie TIC, comme éléments de la vision l’architecture d’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes de base de l’architecture d’entreprise (par ex. cadre Zachman, TOGAF) et pouvoir démontrer ainsi comment les objectifs de la stratégie TIC peuvent être réalisés en relation avec l’architecture d’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les échantillons les plus répandus d’architecture d’entreprise (par ex. EAI, SOA, etc.) pour le développement d’architecture d’entreprise et pouvoir démontrer ceux‐ci influencent structurellement et fonctionnellement l’architecture d’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les objectifs, les étapes et les entrées/sorties des phases de développement de l’architecture d’entreprise (par ex. TOGAF: vision de l’architecture, architecture commerciale, etc.) et pouvoir démontrer comment ceux‐ci soutiennent les objectifs et les stratégies d’entreprise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fixer, sur la base de la vision de l’architecture, la gestion des exigences du développement de l’architecture.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes méthodiques élémentaires de la gestion des exigences du développement de l’architecture d’entreprise et pouvoir démontrer comment celles‐ci agissent sur le domaine d’influence du développement de l’architecture d’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères fondamentaux qui sont important lors de l’interprétation de nouvelles technologies et pouvoir démontrer comment la prise en considération de ceux‐ci peut assurer un développement durable de l’architecture d’entreprise lors du choix de nouvelles technologies.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer et analyser l’état actuel de l’architecture commerciale, du système d’information et de la technologie, et définir en accord le chemin détaillé à suivre pour atteindre l’état voulu de l’architecture d’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes méthodiques et techniques fondamentales pour décrire l’architecture, commerciale et des informations, existante.
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes méthodiques et techniques fondamentales pour définir l’architecture, commerciale et des informations, future.
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes méthodiques fondamentales pour décrire la différence entre l’état actuel de l’architecture d’entreprise et l’architecture visée.
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes méthodiques et techniques fondamentales pour décrire les composants d’applications existants de l’architecture d’entreprise et pouvoir démontrer comment celles‐ci sont réalisables avec les objectifs de l’architecture d’entreprise visée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, sur la base de l’architecture existante, les étapes nécessaires de développement (blocs de construction) pour atteindre l’architecture visée et définir les stratégies de migration nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes méthodiques fondamentales, basées sur l’architecture d’entreprise existante, pour définir les étapes nécessaires de construction (building blocks) et pouvoir démontrer comment celle‐ci se laissent intégrer dans l’architecture existante (migration).
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes méthodiques fondamentales, respectivement les résultats (par ex. les artefacts, la documentation) issus des étapes de développement (building blocks), et pouvoir évaluer et démontrer comment les modifications agissent sur l’architecture
+d’entreprise définie.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier et contrôler le développement ou la migration des blocs de construction en tenant compte des divers systèmes de gestion et finaliser la vision de l’architecture d’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes méthodiques fondamentales pour la planification et le contrôle des étapes de développement (par ex. review, sign‐off) et pouvoir évaluer quelles mesures nécessaires doivent être entreprises pour atteindre les objectifs fixés en relation avec l’architecture d’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les effets des modifications possibles dans le déroulement du développement de l’architecture d’entreprise et pouvoir démontrer leurs effets sur l’architecture visée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formuler les directives d’implémentation pour les projets et déterminer les mécanismes de pilotage et de contrôle pour pouvoir atteindre les objectifs souhaités de l’architecture d’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes méthodiques fondamentales de la formulation des directives d’implémentation pour la réalisation des étapes de développement (building blocks) et pouvoir démontrer comment celles‐ci contribuent à une convention claire.
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes méthodiques fondamentales pour le pilotage et le contrôle des techniques nécessaires, et pouvoir évaluer et démontrer sous quelles conditions celles‐ci apportent une contribution substantielle pour le pilotage et le contrôle du développement de l’architecture d’entreprise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Assure la maintenance de l’état actuel de l’architecture d’entreprise lors de chaque instant du développement à l’aide de systèmes de contrôle par l’introduction d’un processus de changement de gestion pour l’architecture d’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes méthodiques fondamentales pour l’assurance et la maintenance de la documentation de l’architecture d’entreprise (par ex. monitoring des modifications, review) et pouvoir démontrer sous quelles conditions celles‐ci peuvent apporter une contribution substantielle pour la documentation du développement de l’architecture d’entreprise.
+                </knowledge>
+                <knowledge>
+                    Pouvoir classer la fonction de l’architecture d’entreprise en relation avec la garantie de la conduite TIC, et démontrer l’importance de la maintenance et le développement de cette architecture en relation avec celle‐ci.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

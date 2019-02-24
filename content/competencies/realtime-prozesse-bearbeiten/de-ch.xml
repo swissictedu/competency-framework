@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>155</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=155%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Realtime-Prozesse bearbeiten</title>
+    <capability>Mikroprozessor-Anwendung an neu vorgegebene Realtime-Prozesse anpassen, erweitern und testen.</capability>
+    <goals>
+        <goal>
+            Aufgabenstellung nach Funktionen analysieren, und zu den bestehenden Realtime-Prozessen in Bezug bringen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und die technischen Daten (MIPS, Sampleraten…) einer gegebenen Zielhardware und kann die Verwendungsmöglichkeiten der Hardwareausstattung (Register, RAM, EEPROM, Port, Timer, Counter, UART, ADC…) bei der Analyse einer Aufgabenstellung berücksichtigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Für die gem. Aufgabenstellung anzupassenden Echtzeit-Funktionen die Änderungen spezifizieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufbau, Funktionsweise, Möglichkeiten und Grenzen einer Realtime-Mikroprozessoranwendung (mit oder ohne RTOS) und kann dies bei der Planung einer Applikation einbeziehen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kommunikations- und Synchronisationsmechanismen und kann diese bei der Planung einer Aufgabenstellung einbeziehen (Scheduler, Prozess, Task, Thread, Interrupt, Polling, Prozesskommunikation, Semaphoren, Flags…).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die spezifizierten Änderungen in einer Echtzeit-Entwicklungsumgebung implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Entwicklungsumgebung (Editor, Compiler) für eine Zielhardware und kann aufzeigen, wie damit eine Echtzeitapplikation realisiert werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die echtzeitrelevanten Testfälle identifizieren, spezifizieren und im Testdrehbuch dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt geeignete Testmethoden für die Überprüfung von Echtzeitfunktionen und kann erläutern, wie damit unter besonderer Berücksichtigung der Wechselwirkung der Prozesse und deren zeitkritischen Anforderungen die geforderte Funktionalität nachgewiesen werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Geänderte Echtzeit-Applikation mit Debugger austesten, Fehler identifizieren, korrigieren und Dokumentation erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Testtools einer Entwicklungsumgebung (Simulator, Debugger, In-System-Debugger…) und kann aufzeigen, wie damit die geforderte Funktionsweise auf der Zielhardware überprüft werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>498</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=498%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Einen ICT-Service vereinbaren und überwachen</title>
+    <capability>Formuliert in Zusammenarbeit mit Kunden und Anwender/innen, sowie unter Berücksichtigung ihrer Erwartungen an die Unterstützung von Geschäftsprozessen, Servicelevel‐Anforderungen an einen ICT‐Service. Vereinbart mit dem Service Provider das Service Level Agreement und überwacht dessen Einhaltung.</capability>
+    <goals>
+        <goal>
+            Leitet zusammen mit den betroffenen Fachbereichen aus den Geschäftsprozessen und den Bedürfnissen und Erwartungen an deren Abwicklung Service Level Anforderungen (z.B. an die Verfügbarkeit eines Services) ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt grob Umfang, Aufbau und grundlegende Konzepte (z.B. Service Lifecycle) des IT-Service Management nach ITIL.
+                </knowledge>
+                <knowledge>
+                    Kennt den Bezug des IT Service Management zu wichtigen verwandten bzw. benachbarten Konzepten, Modellen und Standards (z.B. ISO 20000, CMMI, CobiT).
+                </knowledge>
+                <knowledge>
+                    Kennt etwas vertieft die Prozesse und Funktionen des Service Designs (z.B. Service Level Management, Availability Management).
+                </knowledge>
+                <knowledge>
+                    Kennt das Spektrum der Aspekte (Leistung, Ökonomie, Ökologie) zur Beurteilung von Verhältnismässigkeit von Services in Bezug auf die Bedürfnisse.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert unter Berücksichtigung der Service‐Level‐Anforderungen mögliche SLA (Service Level Agreement) mit potenziellen Anbietern (z.B. interne ICTServiceorganisation, externer Provider) und holt bei ihnen Angebote für die Erbringung dieser IT‐Services ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Inhalte eines Service Level Agreements (SLA).
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden architektonischen Auswirkungen von unterschiedlich hohen Anforderungen an Service Levels (z.B. bezüglich Verfügbarkeit) auf die ICT‐Infrastruktur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beurteilt das Preis‐/Leistungsverhältnis der Angebote und empfiehlt dem Fachbereich den geeignetsten Erbringer des IT‐Service.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden um Leistungen und Kosten verschiedener Angebote zu vergleichen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert die (potenziellen) wirtschaftlichen Auswirkungen einer Verletzung eines SLA auf die betroffenen Geschäftsprozesse bzw. die damit verbundene Geschäftstätigkeit und leitet daraus die Grundlagen für Massnahmen zur Risikoreduktion ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Zusammenhang und Wechselwirkung zwischen ICT‐Services und Geschäftsprozessen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Aufgaben des Kunden im Zusammenhang mit der Vereinbarung und Überwachung eines SLA.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gestaltet aus Kunden‐ bzw. Anwendersicht die organisatorische Schnittstellen zum Service Provider mit und formuliert entsprechende Anforderungen an die betroffenen Prozesse und Funktionen des IT Service Managements.
+            <knowledge-list>
+                <knowledge>
+                    Kennt im Überblick alle Funktionen und Prozesse des ICT Service Managements nach ITIL sowie deren Zusammenhang.
+                </knowledge>
+                <knowledge>
+                    Versteht insbesondere die Schnittstellen des ICT Service Managements zu Kunden, Benutzer/innen und Lieferanten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überwacht in Zusammenarbeit mit dem Service Provider die Einhaltung der vereinbarten SLA und hilft mit, Massnahmen zur Verbesserung der Einhaltung sowie zur Optimierung der Wirtschaftlichkeit der SLA zu definieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden, um die Leistungserbringung von SLAs zu überprüfen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

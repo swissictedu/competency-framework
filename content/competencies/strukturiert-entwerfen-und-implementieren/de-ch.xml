@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>225</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=225%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Strukturiert entwerfen und implementieren</title>
+    <capability>Basierend auf einer strukturierten Analyse (SA) Teile einer Applikation mit Diagrammtechniken (SD) entwerfen, implementieren, testen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Strukturierte Analyse nachvollziehen und in ein strukturiertes Design (SD) umsetzen (Structured Charts).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente einer Programmvorgabe sowie deren Beziehungen untereinander und kann anhand von Beispielen darstellen, welche realen Sachverhalte sich damit darstellen lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Struktur einer Entscheidungstabelle und kann an Beispielen erläutern, welche Abhängigkeiten zwischen Bedingungen und Aktionen damit abgebildet werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schnittstellen zwischen Modulen bestimmen und mit einer strukturierten Methode (Data Dictionary) dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Grundstruktur für die Abbildung einer Programmlogik (Jackson, Nassi, PAP, usw.) und kann aufzeigen, welche Grundprinzipien bei deren Darstellung zu beachten sind und wie damit aus einer Programmvorgabe die notwendigen Funktionen abgeleitet werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt dargestellte Sachverhalte in einem Struktogramm und weitere Vorgaben, die bei der Bildung von Modulen zu berücksichtigen sind und kann aufzeigen, wie damit die Übersichtlichkeit eines Programms verbessert und die Effizienz der Programmierung gesteigert werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken zur Darstellung von Beziehungen zwischen Modulen und kann erläutern, wie damit die Reihenfolge der Aufrufe und die Übergabeparameter dargestellt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Modulvorgaben (Minispezifikationen) erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Informationen, welche ein Data Dictionary enthält und kann erläutern, zu welchem Zweck diese Informationen bei der Erstellung eines Programms genutzt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mittels geeigneter Massnahmen das Design optimieren (Kohäsion, Kopplung).
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein methodisches Vorgehen zur Überprüfung und Optimierung eines strukturierten Designs und kann an Beispielen aufzeigen, wie damit der Realisierungsaufwand optimiert und die vollständige Abdeckung der funktionalen Anforderungen gewährleistet werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spezifizierte Teile der Applikation programmieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Aufrufe für standardisierte Softwarekomponenten (Datenzugriff usw.) und kann darlegen, wie diese in einem Programm zu implementieren sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken zur Einbindung von Komponenten in ein Programm und kann beispielhaft aufzeigen, wie diese Techniken zu einem lauffähigen Programm beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmcode auf funktionale Korrektheit testen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Methode zur Überprüfung von Programmcode (Code Inspection, Walk Through usw.) und kann aufzeigen, nach welchen Prinzipien diese erfolgen muss, damit eine systematische Aufdeckung von Fehlern im Programmcode gewährleistet werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Schritte, die bei einem Test durchlaufen werden müssen und kann aufzeigen, welchen Beitrag diese zu einem qualitativ guten Ergebnis leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Teile der Applikation dokumentieren und dabei auf Wartbarkeit und Nachvollziehbarkeit achten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Struktur einer Applikationsdokumentationen und kann ihren Beitrag für den operativen Betrieb, die Wartung und die Nachvollziehbarkeit darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

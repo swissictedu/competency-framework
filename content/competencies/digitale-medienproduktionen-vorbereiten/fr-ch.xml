@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>264</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=264%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Titre Préparer des productions de médias numériques</title>
+    <capability>Développer un concept pour une production numérique simple, archiver des données, contrôler et entretenir les instruments de travail.</capability>
+    <goals>
+        <goal>
+            Contrôler si les informations importantes relatives au mandat sont complètes et compréhensibles.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des instruments pour contrôler (p. ex. check-lists) si les informations sont complètes.
+                </knowledge>
+                <knowledge>
+                    Connaître les termes techniques relatifs au projet et les utiliser correctement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un concept (p. ex. moodboard, liste de matériel) pour une production numérique simple.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les bases du langage visuel (p. ex. science des couleurs).
+                </knowledge>
+                <knowledge>
+                    Connaître différentes sources pour élaborer un concept.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Appliquer des techniques de créativité simples.
+            <knowledge-list>
+                <knowledge>
+                    Connaître différentes techniques de créativité.
+                </knowledge>
+                <knowledge>
+                    Connaître les applications appropriées des différentes techniques de créativité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Utiliser avec soin les appareils et matériels.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différents appareils/matériels et leurs applications prévues.
+                </knowledge>
+                <knowledge>
+                    Savoir manipuler avec soin les appareils/matériels.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Contrôler et entretenir les appareils et matériels selon les règles de l'art.
+            <knowledge-list>
+                <knowledge>
+                    Connaître différentes sources de documentation technique. 
+                </knowledge>
+                <knowledge>
+                    Connaître les différents aspects sous-tendant l'entretien dans les règles de l'art des appareils/matériels
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transférer les données numériques du support d'information sur le stockage de fichiers prédéfini et les stocker de manière correcte et structurée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les interfaces courantes pour le transfert de données.
+                </knowledge>
+                <knowledge>
+                    Connaître les supports d'information courants pour la sauvegarde des données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir, en se référant aux exigences spécifiques de diverses plateformes, le format cible approprié
+            <knowledge-list>
+                <knowledge>
+                    Connaître les plateformes courantes et leurs exigences spécifiques en vue d'y placer des contenus multimédias.
+                </knowledge>
+                <knowledge>
+                    Connaître différents formats de fichier et leurs applications.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Désigner et archiver les fichiers selon les directives dans leur intégralité et de manière structurée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître différentes conventions de nommage (p. ex. SEO).
+                </knowledge>
+                <knowledge>
+                    Connaître différentes structures d'archivage (p. ex. numérique).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

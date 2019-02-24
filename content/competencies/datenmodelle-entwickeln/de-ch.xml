@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>153</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=153%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Datenmodelle entwickeln</title>
+    <capability>Kundenanforderungen für Informationen und Informationsbestände aufnehmen, analysieren und Datenmodell(e) entwickeln.</capability>
+    <goals>
+        <goal>
+            Informationsbedürfnisse und Anforderungen an die Datenhaltung zusammen mit dem Auftraggeber aufnehmen (z.B. Geschäftsfälle), analysieren, sowie Schutz- und Sicherheitsbedürfnisse der Daten definieren und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verbreiteten Methoden (z.B. Studium Dokumentationen, Interview) zur Erhebung von Informationen in einem Betrieb und kann erläutern, für welche Arten von Informationen und bei welchen betrieblichen Rahmenbedingungen diese geeignet sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Konzeptionelles Datenmodell erstellen und fehlende Informationen ermitteln bzw. Redundanzen klären.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die methodische Vorgehensweise bei der Entwicklung eines konzeptionellen Datenmodells und kann für die einzelnen Schritte erläutern, wie dabei vorgegangen wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Regeln, welche beim Spezialisieren bzw. Generalisieren von Objekten in Entitätsmengen und Beziehungen zu beachten sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Konzeptionelles Datenmodell in ein logisches überführen und Attribute, Identifikations- und Fremdschlüssel, Datentypen ergänzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die spezifischen Merkmale, welche ein Identifikationsschlüssel in einem Datenmodell erfüllen muss und kann erläutern, welche Verarbeitungsmöglichkeiten damit sichergestellt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die erweiterten Konstruktionselemente des ER Modells (Rekursive Assoziation) und der Datenmodellierung (Generalisierung/Spezialisierung) und kann aufzeigen, bei welchen Sachverhalten diese in der Datenmodellierung eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Schritte der Normalisierung bis zur 3. Normalform und kann an Beispielen erläutern, welchen Beitrag diese zu einer redundanzfreien Datenhaltung beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Kardinalitäten (Assoziationen) und kann erläutern, wie diese mittels der Definition von Primär- und Fremdschlüsseln in einem logischen Datenmodell umzusetzen sind. (aus 5.3)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Konzeptionelles Datenmodell zusammen mit dem Auftraggeber überprüfen und allfällige Anpassungen vornehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Einsatz einer Reviewtechnik um das Datenmodell mit dem Auftraggeber zu verifizieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Einsatzmöglichkeiten eines Prototyps, um in der Diskussion mit dem Auftraggeber die Anforderungen zu überprüfen und zu konkretisieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Für das vorliegende logische Datenmodell das physikalische Datenbankschema entwickeln und implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten, wie die Zugriffszeiten auf eine Datenbank durch die Definition von Indizes und durch Denormalisierung (kontrollierte Redundanz) von Tabellen verbessert werden können und kann anhand von Beispielen erläutern, wie diese Vorkehrungen zur Verbesserung dieser Zugriffszeiten beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

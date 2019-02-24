@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>286</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=286%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Installer et utiliser ses propres instruments de travail ICT</title>
+    <capability>Installer de façon autonome ses propres instruments de travail et les utiliser correctement en veillant à la sécurité.</capability>
+    <goals>
+        <goal>
+            Connecter divers terminaux utilisateur (appareils périphériques).
+            <knowledge-list>
+                <knowledge>
+                    Connaître des connexions avec ou sans fil et leurs caractéristiques (p. ex. taux de transmission, vitesse).
+                </knowledge>
+                <knowledge>
+                    Connaître différentes interfaces des terminaux utilisateur.
+                </knowledge>
+                <knowledge>
+                    Connaître une procédure de contrôle des connexions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en service les terminaux utilisateur.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la procédure de mise en service (p. ex. exhaustivité, contenu de la livraison).
+                </knowledge>
+                <knowledge>
+                    Connaître l'importance et l'utilité des modes d'emploi.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier l'état actuel des terminaux utilisateur et les mettre à jour si nécessaire (update).
+            <knowledge-list>
+                <knowledge>
+                    Connaître l'importance des mises à jour de logiciels (updates).
+                </knowledge>
+                <knowledge>
+                    Connaître différentes procédures de mise à jour (p. ex. automatique, manuelle).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les données commerciales pertinentes pour la sécurité et, si nécessaire, définir des mesures appropriées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les dispositions légales en matière de protection des données.
+                </knowledge>
+                <knowledge>
+                    Connaître des exemples de situations requérant l'application d'une politique de confidentialité.
+                </knowledge>
+                <knowledge>
+                    Connaître les conséquences possibles en cas de non-respect de la politique de confidentialité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer et configurer des logiciels d'applications.
+            <knowledge-list>
+                <knowledge>
+                    Connaître différentes procédures pour installer et configurer correctement des logiciels d'applications.
+                </knowledge>
+                <knowledge>
+                    Connaître des modèles de licence possibles.
+                </knowledge>
+                <knowledge>
+                    Connaître la procédure pour installer des plates-formes collaboratives et des services Cloud.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sauvegarder de façon autonome ses propres données et les données de projet.
+            <knowledge-list>
+                <knowledge>
+                    Connaître différentes procédures pour sauvegarder correctement ses propres données ou les données de projet (p. ex. gestion des versions).
+                </knowledge>
+                <knowledge>
+                    Connaître les médias de sauvegarde possibles ainsi que leurs avantages et inconvénients.
+                </knowledge>
+                <knowledge>
+                    Connaître les risques et les conséquences d'une perte de données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>437</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=437%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Travailler dans le support.</title>
+    <capability>Comprendre le processus du support et traiter les demandes des clients au 1er et 2e niveau d’assistance.</capability>
+    <goals>
+        <goal>
+            Comprendre le processus du support dans sa globalité. Pouvoir décrire les divers rôles et points de liaisons.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différents niveaux du support et leurs fonctions dans le processus.
+                </knowledge>
+                <knowledge>
+                    Connaître les termes techniques usuels dans la procédure de support (par ex. niveau support, incidents, problèmes, demandes).
+                </knowledge>
+                <knowledge>
+                    Connaître les partenaires concernés et leur rôle dans le processus du support.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Saisir, traiter, documenter ou faire suivre de manière exhaustive les demandes du client dans le 1er niveau d’assistance.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le principe du ticket et les informations qui y sont fixées.
+                </knowledge>
+                <knowledge>
+                    Connaître des modèles de communication entre les personnes (par ex. 4 oreilles, émetteur-récepteur, etc.)
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités pour maîtriser professionnellement la conversation avec le client lors de situations difficiles (par ex. ramener des entretiens émotionnels au niveau du sujet).
+                </knowledge>
+                <knowledge>
+                    Connaître diverses techniques d’interrogation pour une saisie efficace et solutionner la demande du client.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités et les limites pour un engagement judicieux du support à distance.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères pour remonter les demandes de support au 2e niveau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les demandes du client attribuées au 2e niveau d’assistance,  préparer, implémenter, documenter une solution ou faire passer au niveau suivant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une technique de travail pour préparer l’engagement ciblé auprès du client.
+                </knowledge>
+                <knowledge>
+                    Connaître les effets de sa propre image et apparence en relation avec le client.
+                </knowledge>
+                <knowledge>
+                    Connaître l’influence de la communication verbale ou non, directement envers le client, sur la réussite du travail.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance d’une documentation correcte et exhaustive du cas de support en regard de la reproductibilité.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères pour remonter les demandes de support au 3e niveau
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Préparer et répondre aux demandes du 3e niveau d’assistance et introduire dans le processus du support.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les exigences pour formuler correctement un problème technique et pour la transmission vers le lieu compétent pour le traitement.
+                </knowledge>
+                <knowledge>
+                    Connaître le processus de support permettant de transmettre les réponses vers  le bon destinataire.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser des pannes et amener, documenter des solutions avec des méthodes appropriées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes pour cerner et éliminer systématiquement des erreurs.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour évaluer des cas de pannes et en déduire des régularités afin d’entreprendre des mesures appropriées.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour reconnaître par avance des pannes possibles sur la base de paramètres.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Préparer, documenter et communiquer des solutions aux pannes en fonction des groupes ciblés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître divers moyens afin de documenter et communiquer des solutions (par ex. base de connaissances, FAQ, aides, Wiki).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

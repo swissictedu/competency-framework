@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>307</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=307%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Interaktive Webseite mit Formular erstellen</title>
+    <capability>Interaktive Webseiten gemäss Aufgabenstellung mit einer serverseitigen Programmiersprache realisieren und testen.</capability>
+    <goals>
+        <goal>
+            Funktionalität der interaktiven Webseite gemäss Aufgabenstellung entwerfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien, nach denen eine Vorgabe in einen umsetzbaren Entwurf überführt werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente und Protokolle einer Web-Applikation, sowie deren Aufgaben im Client- / Server-Modell.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Vorkehren zur Gewährleistung der Sicherheit von interaktiven Webseiten und kann erläutern, wie damit Missbrauch vorgebeugt werden kann.  Validierung
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Layout für die Erfassung und Präsentation der Daten unter Berücksichtigung ergonomischer Aspekte entwerfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Prinzip der Gruppenbildung von Informationen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Regeln, für die Gestaltung eines Web-Formulars für die Dateneingabe und Datenausgabe hinsichtlich Abfolge und Bezeichnung der Informationen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Geeignete Formularelemente zur Erfüllung der Aufgabenstellung auswählen und Validierung der eingegebenen Daten sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Formularelemente in HTML und deren Einsatzmöglichkeiten. Kennt die wesentlichen Kategorien von Formularelementen in HTML und kann erläutern, für welche Arten von Informationen sich die Formularelemente eignen und wie diese ausgelesen und in das Verarbeitungsprogramm übernommen werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die Übertragungsmethoden von Formulardaten und deren Auswertung in einer Webapplikation.
+                </knowledge>
+                <knowledge>
+                    Kennt Client- und Server-seitige Möglichkeiten der Validierung von Formulareingabedaten und deren Beitrag zur Vermeidung von Fehleingaben und zur Begegnung von Sicherheitsrisiken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anwendung modular und gemäss Codierungs-Richtlinien programmieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundelemente einer clientseitigen Scriptsprache und welche Funktionen sich damit realisieren lassen (z.B. Popup Fenster, Formularvalidierung, Link Automation).
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundelemente einer serverseitigen Programmiersprache.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten zur Strukturierung von Quellcode in Module und deren Umsetzung unter Berücksichtigung von Codierungs-Richtlinien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Für interaktive Webseiten geeignete Testfälle definieren, durchführen und im Testprotokoll dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau der Testspezifikation einer Web-Applikation.
+                </knowledge>
+                <knowledge>
+                    Kennt die Schritte Testspezifikation, -durchführung, -auswertung, die bei einem Test durchlaufen werden müssen..
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

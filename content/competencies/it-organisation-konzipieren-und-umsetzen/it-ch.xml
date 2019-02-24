@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>200</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=200%26clang=it</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Organiser et implanter un secteur informatique</title>
+    <capability>Progettare un’organizzazione IT mirando alle prestazioni, riferendosi a direttive concrete (ad esempio cambiamenti strategici). Preparare una proposta di soluzione per l’applicazione e presentarla ai responsabili della decisione.</capability>
+    <goals>
+        <goal>
+            Dedurre incarichi con obiettivi misurabili per un’organizzazione IT e precisarli in un mandato di prestazioni. A questo riguardo basarsi su un incarico concreto, ad esempio provocato da cambiamenti strategici (business, tecnologia, risorse umane, finanze).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Aufgabengebiete einer IT Organisationseinheit und kann deren Beitrag zu den Zielsetzungen beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kann die Zielsetzungen aufzeigen, welche eine IT Organisationseinheit in ihren Kern-Aufgabengebieten erreichen sollte.
+                </knowledge>
+                <knowledge>
+                    Kennt die Merkmale und Inhalte eines Leistungsauftrages (Service Level Agreement) und kann beschreiben, wie damit die Leistungserbringung systematisch überprüft werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            In base alle direttive, raggruppare gli incarichi contenuti nel mandato di prestazioni in unità di prestazioni; formulare un mandato di prestazioni specifico per ogni unità di prestazioni.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Prinzipien aufzeigen, welche bei der Gruppierung von Leistungseinheiten beachtet werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Progettare il mandato di prestazioni con proposte di soluzione organizzative di carattere funzionale e procedurale e pianificarlo considerando anche gli aspetti di rischio.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Prinzipien aufzeigen, welche beim Aufbau einer Service-Einheit zu beachten sind und mögliche Konsequenzen dieser Prinzipien hinsichtlich der Ausgestaltung der Aufbauorganisation erläutern.
+                </knowledge>
+                <knowledge>
+                    Kann die Prinzipien schildern, die beim Arbeitsablauf einer Service-Einheit zu beachten sind und mögliche Konsequenzen dieser Prinzipien hinsichtlich der Ausgestaltung der Ablauforganisation erklären.
+                </knowledge>
+                <knowledge>
+                    Kennt die Prinzipien, die bei der Planung eines organisatorischen Projektes zur Anwendung kommen und kann deren Beitrag zur Zielerreichung darlegen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methode der Risiko-Analyse und kann darlegen, unter welchen Voraussetzungen eine Risikoanalyse in einem Projekt sinnvoll ist.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Valutare e consigliare le proposte di soluzione organizzative e presentarle in forma scritta ai responsabili della decisione.
+            <knowledge-list>
+                <knowledge>
+                    Kann bei verbreiteten Entscheidungs- und Bewertungstechniken aufzeigen, in welchen Schritten diese abgewickelt werden und welche Vorkehrungen getroffen werden müssen, damit eine zuverlässige Bewertung resultiert.
+                </knowledge>
+                <knowledge>
+                    Kennt die Struktur einer Dokumentation zu einem Lösungsvorschlag und kann für die einzelnen inhaltlichen Elemente erläutern, wie sie zu einer aussagekräftigen und nachvollziehbaren Beschreibung der Lösung beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Presentare la variante di soluzione organizzativa proposta per l’applicazione al responsabile della decisione, per ricevere l’autorizzazione.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Prinzipien darlegen, welche bei der Definition von Inhalt und Gliederung einer Präsentation an Entscheidungsträger beachtet werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborare le descrizioni delle funzioni ed i profili dei requisiti per i responsabili degli incarichi dell’organizzazione IT approvata.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Struktur einer Stellenbeschreibung im IT Bereich skizzieren und darlegen, wie sie die Funktionen und deren Anforderungen umfassend definieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ricercare sistematicamente ed impiegare un dirigente che adempia i requisiti per l’organizzazione IT adottata.
+            <knowledge-list>
+                <knowledge>
+                    Kann das Vorgehen beim Suchen und Anstellen eines neuen Mitarbeiters beschreiben und aufzeigen, welche Elemente beachtet werden müssen, um dem Anforderungsprofil möglichst nahe zu kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Coinvolgere gli interessati colpiti dai cambiamenti organizzativi. Formulare gli incarichi e consegnarli per l’applicazione ai posti oggetto dell’organizzazione IT.
+            <knowledge-list>
+                <knowledge>
+                    Kann Faktoren aufzeigen, welche bei organisatorischen Änderungen die Motivation eines Teams beeinflussen und deren Auswirkungen nachvollziehbar erläutern.
+                </knowledge>
+                <knowledge>
+                    Kann die Struktur eines Arbeits-Auftrages skizzieren und erläutern, wie dabei Verständlichkeit und Akzeptanz beim Adressaten erreicht wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

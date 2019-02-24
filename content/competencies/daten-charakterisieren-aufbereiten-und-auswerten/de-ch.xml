@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>100</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=100%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Daten charakterisieren, aufbereiten und auswerten</title>
+    <capability>Daten für eine Auswertung aufbereiten und die Ergebnisse der Auswertung überprüfen und interpretieren.</capability>
+    <goals>
+        <goal>
+            Daten bzw. Datenbestand nach den für die Verarbeitung resp. Auswertung wichtigen Merkmalen hinsichtlich Struktur (Text, Datenblätter, Datenbank usw.) charakterisieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Formen von Daten (numerische - Messdaten/ Klassifikationen; verbale - Texte in schriftlicher oder gesprochener Form; nonverbale - Musik, Filme, Videos) die auf einem Datenträger gespeichert werden können und kann aufzeigen, wie sich diese Daten hinsichtlich der Auswertbarkeit mit einem Computersystem verhalten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Strukturmerkmale verschiedener Informationsquellen (Textdokument, Datenblätter, Datenbanken) und kann erläutern, welche Konsequenzen sich daraus für die elektronische Auswertung dieser Datenquellen ergeben.
+                </knowledge>
+                <knowledge>
+                    Kennt die Beziehungen zwischen Datenstrukturen (Assoziationen, Kardinalitäten) und kann an Beispielen aus dem Alltag aufzeigen, welche Sachverhalte sich damit in einem Datenbestand abbilden lassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Daten bzw. Datenbestand nach den für die Auswertung wichtigen Merkmalen hinsichtlich Datenqualität (Vollständigkeit, Eindeutigkeit und Redundanz) charakterisieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Merkmale eines Datenbestandes bezüglich Eindeutigkeit und Vollständigkeit der Daten (unterschiedliche Angaben zur gleichen Information, unterschiedlicher Informationsgehalt etc.) und kann erläutern, welche Konsequenzen diese Merkmale auf die Aussagekraft von Auswertungen haben können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Aufgrund der Charakteristik eines Datenbestands die Informationen auswählen, die sich für eine bestimmte Auswertung eignen.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Skalentypen nominal ("alt" - "jung", "ungenügend" - "genügend" - "gut"), ordinal (Ränge, Noten etc.) und metrisch (Alter, Grösse etc.) unterscheiden und die Konsequenzen aufzeigen, die sich daraus für die Auswertungsmöglichkeiten ableiten lassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Unstrukturierte Daten in eine strukturierte, verarbeitbare Form bringen, um Auswertungen zu ermöglichen.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Skalentypen nominal ("alt" - "jung", "ungenügend" - "genügend" - "gut"), ordinal (Ränge, Noten etc.) und metrisch (Alter, Grösse etc.) unterscheiden und die Konsequenzen aufzeigen, die sich daraus für die Auswertungsmöglichkeiten ableiten lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen der Mengenlehre und kann  daraus die Operatoren (z.B. Aggregatfunktion zur Gruppierung von Daten) ableiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die verbreiteten Datentypen (Zahl, Zeit, Datum, Text etc.) und kann deren Grenzen hinsichtlich der Auswertbarkeit von Daten aufzeigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Für Daten und Zusammenhänge eine geeignete visuell erfassbare Form wählen und diese in der gewählten Form darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die einfachsten statistischen Kenngrössen (Mittelwert, Minimum, Maximum) und kann aufzeigen, welche Voraussetzungen (Skalentypen, Anzahl Beobachtungen, Qualität der Daten etc.) erfüllt sein müssen, damit diese eine zuverlässige Aussage machen.
+                </knowledge>
+                <knowledge>
+                    Kennt die einfachsten Diagrammtypen für die Darstellung von Daten und kann erläutern, bei welchen Skalentypen der Daten (metrisch-, nominal-, ordinal-skalierte) sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bedeutung und Aussagekraft der Auswertung kritisch hinterfragen und kommentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Notwendigkeit, Auswertungsergebnisse bezüglich ihrer Relevanz zu beurteilen und kann anhand von Beispielen aus dem Alltag aufzeigen, dass Tendenzen in Auswertungsergebnissen relevant aber auch nicht relevant sein können.
+                </knowledge>
+                <knowledge>
+                    Kennt die Notwendigkeit, Auswertungsergebnisse aufgrund unterschiedlicher Perspektiven (Arbeitnehmer - Arbeitgeber; Bürger - Staat etc.) zu beurteilen und kann anhand von Beispielen aus dem Alltag aufzeigen, dass Auswertungsergebnissen je nach Perspektive, die man einnimmt, relevant aber auch nicht relevant sein können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

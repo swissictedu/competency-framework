@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>130</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=130%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>LAN ausmessen und prüfen</title>
+    <capability>In einem Local Area Network (LAN) die Funktionalität überprüfen und die Performance messen. Die Ergebnisse interpretieren und allfällige Massnahmen einleiten. Störungen mit geeigneten Werkzeugen und Vorgehensweisen lokalisieren, zuordnen und beheben.</capability>
+    <goals>
+        <goal>
+            Funktionalität und Performance eines LAN im Betrieb mit geeigneten Werkzeugen überprüfen und messen. Die Ergebnisse protokollieren und beurteilen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Werkzeuge zur Messung der Auslastung und Leistungsfähigkeit von Netzen (z.B. Referenz, Baseline Messung, Belastungssimulation, Trendanalyse).
+                </knowledge>
+                <knowledge>
+                    Kennt die Problematik des Datenschutzes und der Verletzung von weiteren Sicherheitsbestimmungen beim Einsatz von Analyse-Werkzeugen.
+                </knowledge>
+                <knowledge>
+                    Kennt die häufigsten Ursachen für Störungen der Zuverlässigkeit und Performance von Netzwerken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Allfällige Massnahmen zur Verbesserung der Performance oder Störungsvermeidung vorschlagen, dokumentieren und umsetzen. Netzwerk- und Betriebsdokumentation nachführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Inhalt und Aufbau einer Netzwerkdokumentation um Wartung und Betrieb sicherzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt bewährte Massnahmen zur Verbesserung der Leistung oder zur Vermeidung von Störungen hinsichtlich Zuverlässigkeit und Performance von Netzwerken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bei Störungen die Fehlermeldungen erfassen, interpretieren und Bericht erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das OSI-Schichtenmodell zur systematischen Störungssuche.
+                </knowledge>
+                <knowledge>
+                    Kennt Inhalt und Aufbau einer Störungsbeschreibung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Eigenschaften (elektrisch, elektromagnetisch oder optisch) und die Funktionalität von Netzwerk-Anschlusspunkten mit geeigneten Werkzeugen überprüfen und protokollieren (Layer 1).
+            <knowledge-list>
+                <knowledge>
+                    Kennt häufige Störungen und deren Symptome, welche im OSI-Layer 1 auftreten.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Werkzeuge zur Überprüfung von Medien und Verbindungen (z.B. visuelle Beurteilung, Geräte LEDs, Kabeltester, Netzwerkmessgeräte, Multimeter).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Protokolle und Kommunikationsabläufe im Netzwerk mit einem Protocol Analyzer untersuchen, protokollieren und Messwerte beurteilen (Layer 2-7).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktion und die wichtigsten Header-Felder der Protokolle eines IP Netzes (z.B. Ethernet, IP, ARP, ICMP, TCP, UDP, DHCP, DNS)..
+                </knowledge>
+                <knowledge>
+                    Kennt häufige Störungen und deren Symptome, welche im OSI-Layer 2-7 auftreten.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Werkzeuge zur Analyse der Protokolle und Kommunikationsabläufe (Protocol Analyzer, Netzwerkmonitor).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Störung systematisch eingrenzen, mögliche Ursachen eruieren, Störung dokumentieren, beheben und Erfolg der eingeleiteten Massnahmen kontrollieren. Allenfalls erforderliche Eskalation veranlassen. Falls notwendig Netzwerk- und Betriebsdokumentation nachführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorgehensweise zur systematischen Eingrenzung von Störungen (z.B. Ausschluss intakter Teilsysteme).
+                </knowledge>
+                <knowledge>
+                    Kennt den Prozess zur Eskalation von Störungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

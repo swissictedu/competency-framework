@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>189</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=189%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Concevoir et implanter un système d’assurance qualité</title>
+    <capability>Définir, documenter, convertir et mettre en place un système qualité informatique spécifique à des projets de développement, d’acquisition, de maintenance ou d’exploitation (matériels et logiciels).</capability>
+    <goals>
+        <goal>
+            Définir une organisation AQ pour un projet; déterminer et documenter les rôles, tâches, compétences et responsabilités des participants.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les rôles dans une organisation de qualité informatique et peut décrire ses tâches, ses compétences et ses responsabilités
+                </knowledge>
+                <knowledge>
+                    Peut expliquer les directives de mise en oeuvre de méthodes et d’outils qui soutiennent le déroulement réussi d’un projet informatique
+                </knowledge>
+                <knowledge>
+                    Connaît les composants d’un système d’assurance qualité informatique et peut expliquer leurs interrelations en vue du déroulement réussi d’un projet informatique
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les méthodes et les outils sous forme de mesures AQ constructives pour la gestion de projet et établir les directives nécessaires dans ce but.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les méthodes et les outils de gestion de projets informatiques et peut indiquer pour quels types de projets informatiques ceux-ci sont adaptés
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les méthodes et outils destinés aux tâches spécifiques relatives aux projets de gestion du changement et de configuration (CCM) et élaborer les directives nécessaires à cet effet.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les méthodes et les outils de gestion des changements et des configurations et peut indiquer pour quels types de projets informatiques ceux-ci sont adaptés
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les méthodes et les outils analytiques d’assurance qualité (révision, audit, test, etc.) en fonction de chaque projet spécifique et établir les directives d’applications nécessaires dans ce but.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les méthodes et les outils (par ex. outils de débogage, d’automatisation de tests) pour l’assurance qualité analytique et peut présenter pour quels types de composants informatiques leur utilisation est adéquate
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les méthodes et les outils typiques à un projet qui sont adaptés au processus de développement resp. à l’acquisition de logiciels et/ou matériels et fournir les indications nécessaires dans ce but.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les méthodes de développement (SA/D, OOA/D/P, ERD, etc.) et les modèles de procéder (modèle V 97, RUP, etc.) pour le développement de logiciels et peut expliquer pour quels types de projets informatiques ceux-ci sont adaptés
+                </knowledge>
+                <knowledge>
+                    Connaît les étapes du processus d’évaluation lors de l’acquisition de matériels et de logiciels et peut expliquer la contribution de ces étapes à la sélection d’un produit répondant aux besoins
+                </knowledge>
+                <knowledge>
+                    Connaît la construction d’une analyse de valeur utile et sait comment mettre celle-ci en oeuvre pour l’évaluation d’une offre
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Former les collaborateurs aux rôles liés à un projet (méthodes, outils et directives) et s’assurer d’une culture de qualité adaptée au projet resp. d’un mode de comportement des collaborateurs conforme à la démarche qualité.
+            <knowledge-list>
+                <knowledge>
+                    Peut indiquer pour des principes de base à caractère didactique-méthodologique quelle contribution ceux-ci peuvent fournir à une formation réussie de collaborateurs
+                </knowledge>
+                <knowledge>
+                    Peut expliquer l’effet d’une culture de qualité vivante sur les collaborateurs
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer des méthodes et des outils pour la maintenance et l’exploitation du système informatique, qu’il soit développé et/ou acquis spécifiquement pour le projet, élaborer les directives nécessaires dans ce but et tenir compte, dans ce contexte, des conditions générales d’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter les catégories de conditions générales d’entreprise qui doivent être prises en considération pour une exploitation réussie d’un système informatique
+                </knowledge>
+                <knowledge>
+                    Connaît les précautions de sécurité nécessaires à la maintenance et à l’exploitation d’un système informatique
+                </knowledge>
+                <knowledge>
+                    Connaît des outils de gestion de qualité (sauvegarde des données, archivage des données, contrôles de traitement, etc.) et peut expliquer leur utilité par rapport à la maintenance et à l’exploitation d’un système informatique
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

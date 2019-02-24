@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>642</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=642%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Applikations-Portfolio bewirtschaften</title>
+    <capability>Definiert, entwickelt und bewirtschaftet abgestimmt auf die ICT Enterprise-Architektur (EA), die Lizensierungsmodelle, die LifeCycle-Informationen und das Portfolio der Applikationen und Technologien im eigenen Leistungsbereich.</capability>
+    <goals>
+        <goal>
+            Definiert den Applikations-und Technologie- Portfolio Management Prozess unter Einhaltung der Zielsetzungen der ICT-Strategie sowie unter Berücksichtigung der im Unternehmen vorgegebenen Organisation und Management Zyklen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verbreiteten oder grundsätzlichen Methoden und Prozesse zum Applikationsportfolio Management und kann erläutern, welchem Zweck diese hinsichtlich des Managements eines Applikationsportfolios dienen.
+                </knowledge>
+                <knowledge>
+                    Kennt Organisationsmodelle (z.B. Jeffery, M., &amp; Leliveld, I. (2004). Best Practices in IT Portfolio Management, Kaplan, J. D. (2005) - Strategic IT portfolio support, which consume the bulk of IT spending) und Bewertungssysteme (z.B. Matrix nach MC Farlan) für ein im Unternehmen adäquates Applikationsportfolio Management und ist sich deren Stärken und Schwächen bewusst.
+                </knowledge>
+                <knowledge>
+                    Kennt die Schnittstellen des Applikationsportfolio-Managements zu den Prozessen des Unternehmens und der ICT (Betriebsprozesse, ICT Strategieprozess, Architekturprozess, Budgetprozess, Entwicklungsprozess etc.) und kann den inhaltlichen Beitrag des Applikationsportfolio-Managements an die Leistungserbringung dieser Prozesse erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die für ein Applikationsportfolio relevanten Kategorien von Zielsetzungen und Vorgaben in einer Unternehmens- und ICT-Strategie (z.B. Technologie-Management) und kann aufzeigen, wie das Applikations-Portfoliomanagement dieser Zielrichtungen dienlich ist.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwirft unter Berücksichtigung des vorhandenen Applikations-Portfolios eine Lizenz-Strategie, welcher geeignete Softwarepartner für das Unternehmen gemäss der ICT Strategie und der Enterprise Architektur definiert.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Merkmale (z.B. LifeCycle) von unterschiedlichen Lizensierungsmodellen und kann aufzeigen, wie diese das Management des Applikationsportfolios beeinflussen bzw. dabei berücksichtigt werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt die unterstützenden Verwaltungssysteme für Lizenzen und kann deren inhaltlichen Beitrag für einen effizienten Einsatz darstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die verbreiteten Lizenzierungsmodelle der Softwarehersteller sowie die damit verbundenen Prinzipien der Kostenverrechnung und kann  deren Auswirkungen auf das Applikation-Portfolio und die Enterprise Architektur abschätzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert unter der Berücksichtigung der unterschiedlichen Komplexitäten der Informationssysteme und Subsysteme, der Organisationseinheiten, der Lizensierungsstrategie, der externen Schnittstellen und der technologischen Entwicklung ein Bewertungssystem (KPI’s), welches eine differenzierte, nachvollziehbare und messbare Beurteilung des Portfolios sicherstellt.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Informationssysteme und Subsysteme (z.B. ERP System mit angeschlossenen BI Reporting - Auswertungs-System) in einem Unternehmen und ist in der Lage, deren Eigenschaften und Eigenheiten zu erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methoden und Techniken der Bewertungssysteme für Unternehmensapplikationen und kann erläutern, wie diese über verschiedene Dimensionen zur Beschreibung des geschäftlichen Wertes, des technischen Zustandes und der Einordnung in den Lebenszyklus beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Eigenschaften, auf welche Integrationsmethoden von Applikationen Bezug nehmen resp. welche den Integrationsgrad von Applikationen bestimmen und kann den Zusammenhang zwischen diesen und dem optimalen Kosten-/Nutzenverhältnis erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Darstellungstechniken und Notationen für Informationsflüsse und Schnittstellen der einzelnen Applikationen und kann den Mehrwert einer standardisierten Abbildung mit Hilfe dieser Darstellungstechniken/dieser Notationen für das Applikationsportfolio-Management eines Unternehmens aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kennt die aktuellen technologischen Innovationen der ICT, welche das Design, die Architektur und die Implementierung von Applikationen betreffen und kann deren Bedeutung in Bezug auf die einzelnen Applikationen mit Hilfe von objektiven Kriterien darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beurteilt in einem festgelegten Zyklus das Technologie und die Applikations-portfolio mit Hilfe des erstellten Bewertungssystems und leitet daraus den geschäftlichen Wert (insbesondere Business-Treiber und Prozesse), die Erfüllung der Vorgaben aus der EA und den aktuellen technischen Zustands der Applikationen und der Technologien ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verbreitete betriebswirtschaftliche Unternehmensapplikationen deren Zusammenwirken, deren Verwendung, Nutzung und Einflussmöglichkeiten innerhalb der Geschäftsprozesse.
+                </knowledge>
+                <knowledge>
+                    Kennt die Auswirkungen der Veränderungen/Anforderungen der Business-Architektur – insbesondere der Prozessarchitektur, die kommenden geschäftlichen Innovationen besonders die Produktinnovationen und der Business-Treiber auf den Lifecycle.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Erhebung und Beurteilung von Informationen zum Applikationsportfolio (z.B. Reviews der Anwender, automatischen Systemabfragen, Interpretationen von Trends, Statistiken) und kann aufzeigen, wie diese zu einer umfassenden Beurteilung des Applikationsportfolios beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt gesetzliche Bestimmungen, welche bei der Ausgestaltung von Funktionalitäten einer Applikation zu beachten sind und kann erläutern, in welcher Art und Weise dies zu erfolgen hat.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Erfassung der Kennzahlen aus den Betriebsprozessen. Kennt die generellen Einflussgrössen und deren Auswirkungen wie z.B. Ausfallwahrscheinlichkeiten,  Benutzerzufriedenheiten, Systemperformance, und Antwortzeiten auf die Akzeptanz der Anwender.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Steuert und verwaltet unter Berücksichtigung der Beurteilung des Applikations-Portfolios, von ausserordentlichen Einflüssen (sich ändernde rechtliche, finanzielle, technologische, sicherheitstechnische und Compliance-Rahmenbedingungen) und der verfügbaren Ressourcen die Entwicklung des  Applikations-Portfolios, unter Einhaltung des definierten Technologie- und Applikations-Portfolio Management Prozesses.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die betrieblichen Kenngrössen für nicht funktionale Anforderungen (z.B. Durchsatz, Performance, down Time, Datenwachstum, etc.) und kann anhand Ihrer Auswirkungen auf den ICT Betrieb die Bedeutung ihrer Berücksichtigung im Applikationsportfolio-Management erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung eines systematischen Requirement Management in Bezug auf die Entwicklung und Wartung einer Applikation und kann erläutern, in welcher Art und Weise sich dies auf das Applikationsportfolio-Management auswirkt
+                </knowledge>
+                <knowledge>
+                    Kennt die organisatorischen Abgrenzungen und Zusammenhänge zwischen dem Applikationsportfolio-Management und dem ICT Projektportfolio-Management und kann erläutern, wie diese zu einer Nutzenoptimierung für das Unternehmen beitragen. Kann das zugrundeliegende Vorgehen und die Konsequenzen hinsichtlich Aufwand und Komplexität erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Kategorien von Rahmenbedingungen, welche einen Bedarf hinsichtlich der Weiterentwicklung von Applikationen auslösen und kann aufzeigen, welche grundsätzlichen Konsequenzen eine Nicht-Beachtung dieser Rahmenbedingungen zur Folge hätte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

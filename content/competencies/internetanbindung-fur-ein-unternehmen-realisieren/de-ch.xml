@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>146</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=146%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Internetanbindung für ein Unternehmen realisieren</title>
+    <capability>Entwickeln, Planen und Realisieren von Internetanschlüssen für Unternehmen unter der Berücksichtigung von Sicherheits-, Verfügbarkeits- und Leistungsaspekten.</capability>
+    <goals>
+        <goal>
+            Internetanschluss nach Kundenvorgaben (Sicherheit, Performance, Verfügbarkeit und Wartung) bestimmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Anforderungen an eine Internetanbindung (Bandbreite, Verfügbarkeit, Sicherheit und Wartung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Sicherheits- und Überwachungsmassnahmen beim Betrieb eines Internetanschlusses.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Klassieren der eruierten Kundevorgaben nach Prioritäten und Bedeutung für das Unternehmen und in einem Pflichtenheft für die Evaluation eines Serviceproviders festhalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Zugangsmöglichkeiten zum Internet sowie deren Anbieter (Provider).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden um Kundenvorgaben zu klassieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Inhalt eines Pflichtenhefts.
+                </knowledge>
+                <knowledge>
+                    Kennt den Ablauf eines Evaluationsprozesses.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Resultate der Evaluation unter Berücksichtigung des Pflichtenheftes und wirtschaftlichen Aspekten bewerten und darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kriterien für die Bewertung eines Angebotes.
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungsarten für die Beurteilung von Offerten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Netzwerkplan und Netzwerkschema für die Internetanbindung erstellen oder anpassen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Regeln für das Erstellen eines Namens- und Nummerierungskonzepts.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionsweise von Firewall, DMZ, Proxy und DNS.
+                </knowledge>
+                <knowledge>
+                    Kennt gängige Darstellungsarten und Symbole für Netzwerkpaln und Netzwerkschemata.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erforderliche Hardware- und Softwarekomponenten bestimmen und Beschaffungsantrag erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufbau und Inhalt eines Beschaffungsantrags aus der durchgeführten Evaluation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Inbetriebnahme der Internetanbindung realisieren und Abnahme durchführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen für die Planung und Inbetriebnahme des Internetzugangs.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen für die Übergabe des Systems in den operativen Betrieb.
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Inhalt eines Abnahmeprotokolls.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

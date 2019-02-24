@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>663</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=663%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assurer des processus systèmes TIC</title>
+    <capability>Assurer la définition et l’implémentation des principaux services pour la gestion opérationnelle et la surveillance de la fourniture des prestations interne et externe en tenant compte du respect de l’accord du niveau de service (ANS).</capability>
+    <goals>
+        <goal>
+            Définir et implémenter un monitoring ANS et un système de reporting afin d’être informé sur les entorses des fournisseurs internes et externes de prestations et pouvoir introduire, en cas de besoin, des mesures appropriées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes de la gestion des services selon ISO 20000 et ITIL®.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes selon lesquels un monitoring ANS et un système de reporting sont construit et implémenté.
+                </knowledge>
+                <knowledge>
+                    Connaître le contenu et la construction d’un accord du niveau de service (ANS) ainsi que sa signification dans le cadre de la gestion des services TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement lors d’entorses des fournisseurs internes et externes de prestations (bonus, malus, sanctions, mesures de remplacement, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les relations et les dépendances envers les changements de processus, de versions, ainsi que la gestion du déploiement, des incidents et des problèmes.
+                </knowledge>
+                <knowledge>
+                    Connaître des principes pour l’amélioration constante des processus et services.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et implémenter les processus pour le changement, les versions et la gestion du déploiement, afin d’exécuter les changements économiquement, dans les délais et avec des effets minimaux sur le service, et de pouvoir estimer correctement les risques qui y sont liés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les tâches et objectifs des changements de processus, de versions, et de gestion du déploiement pour leur design et implémentation.
+                </knowledge>
+                <knowledge>
+                    Connaître des principes selon lesquels les changements, les versions, et le déploiement sont planifiés, pilotés et surveillés.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour la saisie des effets et risques potentiels d’un changement ainsi que le comportement y relatif.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et implémenter le processus de gestion des incidents afin de pouvoir garantir une reprise aussi rapide que possible des services avec des effets minimaux sur les affaires et les clients.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les tâches et l’objectif du processus de gestion des incidents pour son design et son implémentation.
+                </knowledge>
+                <knowledge>
+                    Connaître le principe comment le savoir sur le dépannage est déposé en tant que plan de déroulement dans un modèle d’incident.
+                </knowledge>
+                <knowledge>
+                    Connaître la différence et les relations/dépendances avec la gestion des problèmes.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes selon lesquels une structure d’assistance (1, 2 ou 3e niveau) est construite.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et implémenter le processus de gestion des problèmes afin d’assurer, en cas de besoin, qu’une recherche détaillée des causes d’une panne potentielle ou déjà connue soit faite et qu’une solution définitive soit trouvée et mise en œuvre.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les tâches et l’objectif du processus de gestion des problèmes pour son design et son implémentation.
+                </knowledge>
+                <knowledge>
+                    Connaître des modèles de déroulement pour une recherche détaillée des causes (par ex. diagramme des effets des causes).
+                </knowledge>
+                <knowledge>
+                    Connaître la différence entre la gestion réactive et proactive des problèmes ainsi que leur application dans le cadre de la gestion des services TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître la différence et les relations/dépendances avec la gestion des incidents.
+                </knowledge>
+                <knowledge>
+                    Connaître les relations vers les processus de changement, de version et de la gestion du déploiement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

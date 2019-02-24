@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>143</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=143%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Backup- und Restore-Systeme implementieren</title>
+    <capability>Datensicherungskonzepte nach vorgegebenen Rahmenbedingungen erstellen, testen und freigeben.</capability>
+    <goals>
+        <goal>
+            Datensicherheitskonzept anhand der Rahmenbedingungen (zB. Datenmengen, Aufbewahrungsfristen, gesetzliche Vorschriften, Sicherungsintervall, Aufbewahrungssicherheit, Wiederherstellungsverfügbarkeit ) und technischen Vorgaben erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt betriebliche Rahmenbedingungen und gesetzliche Vorschriften, die beim Einsatz von Datensicherungssystemen zu beachten sind.
+                </knowledge>
+                <knowledge>
+                    Kennt organisatorische, technische und personelle Risiken welche die Datensicherheit beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt häufig verwendeten Datensicherungsverfahren (zB differentielles oder inkrementelles Backup) und deren Einsatz.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien  für einen effizienten und bedarfsgerechten Einsatz von Backup- und Restore-Systemen.
+                </knowledge>
+                <knowledge>
+                    Kennt aktuelle technische Möglichkeiten um Daten zu sichern (zB. SAN, iSCSI, NAS, Cloud-Systeme).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstelltes Konzept auf Machbarkeit prüfen und gegebenenfalls überarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische und betriebswirtschaftliche Kriterien, welche für die Überprüfung der Machbarkeit des Backup- und Restore-Konzepts zu beachten sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anhand des Konzepts den Bedarf an Geräten und Speichermedien ermitteln.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorgehensweise für die Ermittlung des Speicherbedarfs.
+                </knowledge>
+                <knowledge>
+                    Kennt Einsatzmerkmale von Backupgeräten und Speichermedien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sicherungsprozeduren erstellen, testen, in die produktive Ablaufsteuerung integrieren und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Befehle, welche für die Erstellung von Sicherungs- und Wiederherstellungsprozeduren notwendig sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Verfahren um Sicherungs- und Wiederherstellungsprozeduren zu testen.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen um Sicherungs- und Wiederherstellungsprozeduren in den produktiven Betrieb zu integrieren und zu dokumentieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sicherungs- und Wiederherstellungsprozesse durchführen und austesten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Szenarien um Sicherungs- und Wiederherstellungsprozesse durchzuführen und zu testen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Betriebs- und Wartungsdokumente nachführen. Backup- und Restore-Systeme für den produktiven Betrieb freigeben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Notwendigkeit einer aktuell nachgeführten Betriebs- und Wartungsdokumentation.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente einer Freigabemitteilung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

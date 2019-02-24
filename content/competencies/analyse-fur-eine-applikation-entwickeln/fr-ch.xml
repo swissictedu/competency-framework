@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>475</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=475%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer une analyse pour une application</title>
+    <capability>Développer à partir des exigences fonctionnelles et non fonctionnelles pour une application, les artefacts de l’analyse orientée objets. Effectuer des études de faisabilité en regard des possibilités techniques de mise en oeuvre des exigences.</capability>
+    <goals>
+        <goal>
+            Identifier les exigences déterminantes pour la conception et le design de l’application sur la base du catalogue structuré d’exigences et d’autres consignes concernant le système à développer.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les perspectives (IREB) qui structurent le catalogue d’exigences d’un système et leur importance pour le développement d’une application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les artefacts nécessaires à un développement différencié et traçable compte tenu de la complexité de l’application à développer et de la méthode de développement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes méthodologiques fondamentales du processus de développement logiciel (Open Unified Process) et pouvoir indiquer comment le développement agile les influence.
+                </knowledge>
+                <knowledge>
+                    Connaître les consignes d’UML en ce qui concerne la création des artefacts du développement logiciel orienté objet et savoir comment elles contribuent à la concrétisation d’une application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier et décrire l’application sous forme de cas d’utilisation (modèle de cas d’utilisation) et d’objets métier essentiels (modèle de domaine) sur la base des exigences identifiées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments d’une description de cas d’utilisation et pouvoir expliquer comment ils contribuent à la concrétisation d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’une description de cas d’utilisation et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de cas d’utilisation qui contribuent à la description du modèle de cas d’utilisation d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de cas d’utilisation et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme d’activité qui contribuent à la description du modèle en couches d’une architecture logicielle.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme d’activité et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de classes qui contribuent à la description du modèle de domaine d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de classes et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme d’objet qui contribuent à la description des composants d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme d’objet et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prioriser systématiquement les cas d’utilisation (use cases) compte tenu de leur importance pour l’entreprise et de leur faisabilité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les méthodes et techniques qui permettent de prioriser des cas d’application en fonction des exigences et pouvoir en expliquer les résultats.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser les cas d’utilisation (use cases) priorisés sous forme de modèles de classes et de diagrammes d’interaction (modèle d’analyse).
+            <knowledge-list>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de classes qui contribuent à la description du modèle d’analyse d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de classes et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de communication qui contribuent à la description du déroulement d’un cas d’utilisation du modèle d’analyse d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de communication et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spécifier pour les cas d’utilisation et les exigences qu’ils comportent des cas de test garantissant une vérification fiable de la fonctionnalité de l’application.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments d’une description de cas de test et pouvoir expliquer comment ils contribuent à la concrétisation d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’une description de cas de test et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etudier la faisabilité technique et la précision des attentes de l’entreprise quant à la fonctionnalité souhaitée. Décider si un prototype doit être réalisé. Le cas échéant, déterminer le moment de sa réalisation dans le processus de développement et sa portée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les méthodes et techniques qui permettent de préparer des résultats d’analyse pour la phase suivante du projet.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments que doit obligatoirement contenir un mandat complet destiné à une personne ou à une équipe et les critères qu’il doit satisfaire. Pouvoir expliquer comment ils contribuent au bon déroulement du mandat ou, autrement dit, à la création d’un prototype.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

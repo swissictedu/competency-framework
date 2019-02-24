@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>266</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=266%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Produire des animations numériques</title>
+    <capability>Créer des séquences animées à l'aide d'images clés et les adapter au matériel brut existant (documents image basés sur des vecteurs ou des grilles).</capability>
+    <goals>
+        <goal>
+            Elaborer un concept d'animation visuelle (p. ex. au moyen d'images clés ou d'un shootingboard) pour des séquences d'animation et ajouter des effets en vue de réaliser une animation numérique simple.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les propriétés des shootingboards et savoir les interpréter.
+                </knowledge>
+                <knowledge>
+                    Connaître les effets fondamentaux utilisés pour des animations (p. ex. flou artistique, dégradé).
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités et les limites du post-traitement des effets visuels (VFX).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer une structure de données pertinente pour des projets d'animation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les propriétés du dynamic linking et ses applications.
+                </knowledge>
+                <knowledge>
+                    Connaître la marche à suivre en vue de préparer des données pour des documents image basés sur des vecteurs ou des grilles dans le cadre de projets d'animation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Animer des éléments graphiques (icones, pictogrammes, logos, tiers inférieurs) dans un programme approprié.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les techniques d'animation fondamentales (animation image par image, animation d'images clés et animation de chemin).
+                </knowledge>
+                <knowledge>
+                    Connaître les propriétés des calques et des calques de forme normaux.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes images clés de propriété (keyframes) et leurs propriétés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ajouter correctement des éléments animés à des séquences de film numériques existantes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les bases du compositing pour la phase de postproduction (p. ex. ajustement de différentes valeurs ISO, fusion de couleurs).
+                </knowledge>
+                <knowledge>
+                    Connaître les différences entre les masques de calque (layer masks) et les caches par approche (track mattes).
+                </knowledge>
+                <knowledge>
+                    Connaître les calques d'effets (adjustment layers) et leurs utilisations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ajouter des éléments à du métrage de mouvement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différentes méthodes de suivi (tracking), tels que suivi 3D ou suivi de point, et savoir les appliquer.
+                </knowledge>
+                <knowledge>
+                    Connaître les objets nuls et leurs possibilités d'utilisation.
+                </knowledge>
+                <knowledge>
+                    Connaître la relation parent-enfant entre différents calques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Créer des transitions animées pour des montages.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différences entre un masque luminance et un masque alpha.
+                </knowledge>
+                <knowledge>
+                    Connaître des modèles d'animation pour les calques de forme en vue de créer des masques luminance.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Préparer les données finales pour leurs différentes utilisations (p. ex. masterfiles, stream, présentation).
+            <knowledge-list>
+                <knowledge>
+                    Connaître différents conteneurs et codecs pour des projets d'animation (p. ex. GIF, MOV, MPEG4, h.264) et leurs propriétés.
+                </knowledge>
+                <knowledge>
+                    Connaître les utilisations des conteneurs standardisés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

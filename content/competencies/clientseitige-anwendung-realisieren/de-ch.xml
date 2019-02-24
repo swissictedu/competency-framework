@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>256</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=256%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Clientseitige Anwendung realisieren</title>
+    <capability>Anwendung nach Vorgabe mit einer clientseitig ausgeführten Skriptsprache entwerfen, realisieren und testen.</capability>
+    <goals>
+        <goal>
+            Vorgabe analysieren, Funktionalität der Anwendung entwerfen sowie Realisierungsschritte, Tests und Abnahmekriterien unter besonderer Berücksichtigung von Browserkompatibilitäten und Sicherheitsaspekten planen und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    
+                </knowledge>
+                <knowledge>
+                    
+                </knowledge>
+                <knowledge>
+                    
+                </knowledge>
+                <knowledge>
+                    
+                </knowledge>
+                <knowledge>
+                    
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Navigation, Check boxes und Formfelder definieren und die Anwendung mit einer Skriptsprache programmieren. Lösung im Quellcode nachvollziehbar kommentieren.
+            <knowledge-list>
+                <knowledge>
+                    
+                </knowledge>
+                <knowledge>
+                    
+                </knowledge>
+                <knowledge>
+                    
+                </knowledge>
+                <knowledge>
+                    
+                </knowledge>
+                <knowledge>
+                    
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anwendung gemäss Testplan auf Funktionalität, Browserkompatibilität und Sicherheit überprüfen. Testergebnisse dokumentieren und allenfalls erforderliche Korrekturen vornehmen.
+            <knowledge-list>
+                <knowledge>
+                    
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Abnahme durchführen und ein Abnahmeprotokoll erstellen.
+            <knowledge-list>
+                <knowledge>
+                    
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

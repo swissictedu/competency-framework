@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>461</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=461%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mobile Kommunikationsdienste integrieren</title>
+    <capability>Analysiert organisatorische, technische und nutzungsspezifische Aspekte von mobilen Kommunikationsdiensten zwecks Integration solcher Dienste in ein bestehendes Firmennetzwerk.</capability>
+    <goals>
+        <goal>
+            Analysiert die Bedürfnisse des Betriebes und leitet daraus die funktionalen Anforderungen an einen mobilen Kommunikationsdienst ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von Anforderungen, die durch einen mobilen Kommunikationsdienst abgedeckt werden können.
+                </knowledge>
+                <knowledge>
+                    Kann betriebliche Anforderungen (technische, organisatorische, ökologische und betriebswirtschaftliche) mit Bezug auf mobile Kommunikationsdienste systematisch erheben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Empfiehlt aufgrund der Erfüllung der funktionalen Anforderungen einen geeigneten mobilen Kommunikationsdienst resp. einen geeigneten Leistungserbringer.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Funktionsumfang eines mobilen Kommunikationsdienstes, z.B. Telefonie, Nachrichtendienste, Collaboration oder Messaging, und kann erläutern, wie dieser die gestellten Anforderungen erfüllt.
+                </knowledge>
+                <knowledge>
+                    Kennt die Kategorien unterschiedlicher Leistungserbringer (z.B. Full Service Provider, Spartenanbieter) und kann erläutern, welchen Einfluss deren Angebote auf die Auswahl eines Kommunikationsdienstes haben.
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten Faktoren, die zur Berechnung der Wirtschaftlichkeit eines mobilen Dienstes in Betracht gezogen werden müssen, z.B. Anschaffungskosten, Implementierungskosten, Wartungskosten, Benutzungskosten (Gebühren), Entsorgungskosten etc.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung der Ökobilanz des gewählten Kommunikationsdienstes für die Auswahl eines Leistungserbringers.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwirft unter Berücksichtigung der funktionalen Anforderungen sowie der Vorgaben des Kommunikationsdienstes das technische Konzept für die Implementierung des mobilen Kommunikationsdienstes.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die gängigsten mobilen Kommunikationsdienste, z.B. Telefonie, SMS, MMS, webbasierte Dienste, GPS, Push Mail etc., und deren Einsatzmöglichkeiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigsten Übertragungstechniken, die bei mobilen Kommunikationsdiensten zum Einsatz kommen, z.B. GSM, EDGE, UMTS, WiMAX, LTE, etc.
+                </knowledge>
+                <knowledge>
+                    Kennt Einsatzmöglichkeiten von Cloud Computing in Verbindung mit der Nutzung von mobilen Kommunikationsdiensten und kann deren Nutzen für einen Einsatz des gewählten mobilen Kommunikationsdienstes erläutern.
+                </knowledge>
+                <knowledge>
+                    Kann erläutern, wie ökologische Einflussfaktoren im technischen Konzept zu berücksichtigen sind (z.B. nachhaltige Nutzung, Entsorgung, Recycling).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt aufgrund des Konzepts die technischen Voraussetzungen für den Einsatz mobiler Kommunikationsdienste und Endgeräte in einer bestehenden Netzwerkinfrastruktur.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden, um aus den zusammengetragenen Fakten nachvollziehbar den Erfüllungsgrad eines Lösungsangebotes für den gewählten mobilen Kommunikationsdienst zu bestimmen, z.B. mittels einer ausgefüllten Kriterienliste.
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigsten mobilen Endgeräte, z.B. PDAs, Smartphones, Netbooks, Tablet PCs, etc., und kann deren Funktionen und sinnvolle Einsatzmöglichkeiten erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die massgeblichen Einflüsse der technischen Rahmenbedingungen für die Einrichtung von mobilen Kommunikationsdiensten, z.B. Signalstärke, Interferenzen, Frequenzplanung, Bandbreiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert die Datenbestände, die zur Unterstützung der Geschäftstätigkeit über den mobilen Kommunikationsdienst zur Verfügung stehen müssen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Problematik der Aktualisierung verteilter resp. redundanter Datenbestände beim Einsatz von mobilen Kommunikationsdiensten.
+                </knowledge>
+                <knowledge>
+                    Kann erläutern, wie Datenbestände zur Synchronisation aufbereitet werden müssen, um die beschriebene Problematik zu umgehen resp. zu vermeiden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert aufgrund des Synchronisations‐ und Speicherkonzepts sowie der Anforderungen an die Integrität und Vertraulichkeit der Daten die notwendigen Sicherheitsmassnahmen bei der Nutzung des mobiles Kommunikationsdienstes und der Endgeräte.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die gängigsten Datenformate, die zur Synchronisation von Daten im Zusammenhang mit mobilen Kommunikationsdiensten eingesetzt werden, z.B. XML, CSV, iCal, etc.
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigsten Übertragungstechniken/‐protokolle und deren Möglichkeiten beim Einsatz mobiler Endgeräte, z.B. IrDa, Bluetooth, 802.11b/g/n, WAP, WebDAV, etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert aufgrund des Synchronisations‐ und Speicherkonzepts sowie der Anforderungen an die Integrität und Vertraulichkeit der Daten die notwendigen Sicherheitsmassnahmen bei der Nutzung des mobiles Kommunikationsdienstes und der Endgeräte.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die häufigsten Risiken bei der Verwendung mobiler Endgeräte und der Implementation mobiler Kommunikationsdienste in ein bestehendes Firmennetzwerk.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Schutzmassnahmen zur Verminderung resp. Eliminierung der häufigsten Risiken im Umgang mit und beim Einsatz von mobilen Endgeräten und mobilen Kommunikationsdiensten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

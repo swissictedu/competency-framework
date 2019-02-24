@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>159</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=159%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Configurer et synchroniser le service d’annuaire.</title>
+    <capability>Configurer le service d’annuaire, implémenter les structures du service d’annuaire, administrer les données clients, entreprendre les réglages de sécurité selon les directives, réaliser les procédures de synchronisation, tester et mettre en exploitation le service d’annuaire.</capability>
+    <goals>
+        <goal>
+            Analyser et documenter les besoins du client, les services disponibles, les répertoires à synchroniser et les procédures de communication.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure et les objets qui sont contenues dans un service d’annuaire.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes et effets de la synchronisation d’objets entre le service d’annuaire et d’autres systèmes d’information.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier les directives et les résultats sur la faisabilité, l’intégralité et la fonctionnalité, et représenter dans un concept de services d’annuaire.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la visualisation des structures de données d’un service d’annuaire.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités du Lightweight Directory Access Protocol (LDAP) pour interroger et modifier la structure d’un service d’annuaire.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités et fonctionnalités de base d’un service d’annuaire (par ex. classe des objets et attributs).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Configurer et implémenter un service d’annuaire conformément au concept défini.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le principe d’un échange sûr de données dans un service d’annuaire.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser la synchronisation du service d’annuaire avec des moyens appropriés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des éléments (par ex. langage scripts) pour le pilotage de la synchronisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester la fonctionnalité du service d’annuaire selon les exigences données et saisir les résultats dans un protocole de test. Au besoin, entreprendre  les corrections nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités pour tester, de manière judicieuse, les fonctionnalités exigées d’un service d’annuaire.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Migrer les données existantes, au besoin de manière automatisées, dans le service d’annuaire. Garantir et vérifier le fonctionnement mutuel, sans erreurs, avec d’autres services.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes fondamentales pour migrer des données en partant de systèmes existants vers un service d’annuaire.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités pour interroger les données du service d’annuaire à partir d’autres services.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier la mise en exploitation, préparer et exécuter la remise. Mettre à jour la documentation d’exploitation et de maintenance.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure de la documentation nécessaire pour l’exploitation d’un service d’annuaire (documentation de maintenance et d’exploitation).
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour une mise en service productif d’un service d’annuaire.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

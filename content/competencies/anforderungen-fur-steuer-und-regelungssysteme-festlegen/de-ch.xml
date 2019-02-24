@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>136</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=136%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Anforderungen für Steuer- und Regelungssysteme festlegen</title>
+    <capability>Problemstellungen mit dem Auftraggeber analysieren, Pflichtenheft verfassen, Konzept ausarbeiten, Komponenten auswählen und die Realisierung beauftragen.</capability>
+    <goals>
+        <goal>
+            In Zusammenarbeit mit dem Auftraggeber die Problemstellungen analysieren, offene Punkte klären und ein Lastenheft erarbeiten.</goal>
+        <goal>
+            Anhand des Lastenhefts Konzeptvarianten mit Hard- und Softwarelösungen ausarbeiten.</goal>
+        <goal>
+            Geeignete Komponenten (Sensoren, Aktoren, Steuerung/Regler) nach funktionalen, betriebswirtschaftlichen und technischen Gesichtspunkten evaluieren.</goal>
+        <goal>
+            Konzeptvarianten vergleichen, Lösungsvorschlag mit Termin- und Kostenplan erarbeiten. Lösungskonzept dem Auftraggeber präsentieren und Entscheid herbeiführen.</goal>
+        <goal>
+            Das freigegebene Lösungskonzept umsetzungsgerecht dokumentieren und zur Realisierung übergeben.</goal>
+    </goals>
+</competency>

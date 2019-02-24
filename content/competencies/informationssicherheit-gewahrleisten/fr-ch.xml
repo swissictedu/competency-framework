@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>176</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=176%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assurer la sécurité de l’information</title>
+    <capability>Définir des directives et mesures organisationnelles permettant de garantir la sécurité de l’information et l’exploitation opérationnelle TIC.</capability>
+    <goals>
+        <goal>
+            Etablir si les processus assistés par TIC et leur flux de données satisfont aux dispositions légales et aux consignes internes en matière de sécurité de l’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir expliquer quelles sont les descriptions et documentations (descriptions de fonction et de processus, directives, organigrammes, etc.) qui contiennent des informations sur les dispositions légales et les consignes internes.
+                </knowledge>
+                <knowledge>
+                    Savoir comment on consolide et documente de manière transparente les résultats d’une analyse documentaire.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments d’un processus métier (sous‐processus, activités, responsabilités, etc.) et pouvoir expliquer lesquels de ces éléments servent à reproduire quels états de faits dans une activité métier.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Recommander des mesures de sécurité et de protection garantissant le respect des dispositions légales et des consignes internes dans le cadre de l’utilisation de matériels TIC dans les processus métier.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la législation nationale (lois, ordonnances et directives) déterminante en matière de sécurité de l´information, p.ex. LPD, CP, CO et Olico.
+                </knowledge>
+                <knowledge>
+                    Savoir comment décomposer un processus assisté TIC pour identifier les domaines/objets déterminants en matière de sécurité.
+                </knowledge>
+                <knowledge>
+                    Connaître des mesures organisationnelles permettant de garantir la sécurité de l’information (autorisations d’accès, heures de fonctionnement, sauvegarde de fichiers, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et techniques qui permettent de soumettre à une instance supérieure des recommandations concernant des mesures nouvelles ou modifiées et d’obtenir une décision.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Assurer la vérification périodique de l’efficacité des mesures de sécurité et de protection, autrement dit de sécurité de l’information. Rendre compte des résultats et des mesures à prendre aux instances responsables.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des démarches systématiques permettant de vérifier périodiquement la conformité des mesures de sécurité aux consignes.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes de contrôle systématique de la sécurité (audit) permettant d’identifier et de décrire des faiblesses pour pouvoir ensuite définir des mesures ciblées.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques de représentation permettant de présenter de manière convaincante à la direction de l’entreprise les résultats d’un contrôle de sécurité et les constatations qui en ont été tirées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les conséquences d’une panne d’un système TIC sur le déroulement d’un processus métier donné.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les incidences fondamentales d’une panne d’un système/composant TIC sur d’autres systèmes/composants TIC, processus TIC, processus métier assistés par TIC et pouvoir expliquer les interdépendances qui conditionnent ces incidences.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir des mesures de gestion de la continuité d’activité garantissant le traitement des processus métier.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des mesures fondamentales permettant de prévenir les pannes de processus assistés par TIC (tolérances, redondances, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître des mesures organisationnelles proactives propres à minimiser les conséquences de la panne d’un processus assisté par TIC (plans d’urgence, simulations régulières, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir des mesures de sensibilisation du personnel au respect des dispositions légales et des consignes internes en matière de sécurité de l’information.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités de communiquer de manière convaincante des règles de comportement importantes à un cercle donné de destinataires (formations, matériel d’information [notices], etc.) et pouvoir expliquer les mesures prises dans ce contexte pour renforcer la sensibilisation (prise de conscience).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

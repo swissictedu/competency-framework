@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>498</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=498%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Convenir de services TIC et les superviser</title>
+    <capability>Formuliert in Zusammenarbeit mit Kunden und Anwender/innen, sowie unter Berücksichtigung ihrer Erwartungen an die Unterstützung von Geschäftsprozessen, Servicelevel‐Anforderungen an einen ICT‐Service. Vereinbart mit dem Service Provider das Service Level Agreement und überwacht dessen Einhaltung.</capability>
+    <goals>
+        <goal>
+            Définir, en collaboration avec les services opérationnels et à partir des processus métier, des exigences (p. ex. en ce qui concerne la disponibilité) correspondant à leurs besoins et attentes en matière de niveau de service.
+            <knowledge-list>
+                <knowledge>
+                    Connaître dans leurs grandes lignes la portée, la structure et les principes (cycle de vie d'un service, etc.) de la gestion de services informatiques selon ITIL.
+                </knowledge>
+                <knowledge>
+                    Connaître le lien entre la gestion des services informatiques et d'autres grands concepts, modèles et normes analogues ou voisins (ISO 20000, CMMI, CobiT).
+                </knowledge>
+                <knowledge>
+                    Connaître de manière un peu plus approfondie les processus et fonctions du design des services (gestion des niveaux de service, gestion de la disponibilité, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître l'éventail des aspects (performance, économie, écologie) permettant d'évaluer l'adéquation de services aux besoins.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, sur la base des exigences en matière de niveau de service, des SLA (accords de niveau de service) avec des fournisseurs potentiels (organisation interne des services TIC, entreprises externes, etc.) et demander des offres concernant la fourniture de ces services informatiques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux contenus d'un accord de niveau de service (SLA).
+                </knowledge>
+                <knowledge>
+                    Connaître les principales conséquences architecturales pour l'infrastructure d'exigences de degré différent envers des niveaux de service (disponibilité, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer le rapport prix-prestation des offres et recommander au service opérationnel le fournisseur de services informatiques le plus approprié.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes permettant de comparer les prestations et les coûts de différentes offres.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les impacts économiques (potentiels) du non-respect d'un SLA sur les processus métier concernés ou l'activité opérationnelle correspondante. En déduire les principes de mesures de réduction des risques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les interdépendances et interactions entre les services TIC et les processus métier.
+                </knowledge>
+                <knowledge>
+                    Connaître les missions du client concernant la conclusion et la surveillance d'un SLA
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Contribuer à aménager, dans l'optique des clients et des utilisateurs, les interfaces organisationnelles avec le fournisseur de services et formuler les exigences correspondantes envers les processus et fonctions de la gestion des services informatiques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître dans leurs grandes lignes l'ensemble des fonctions et des processus de la gestion de services informatiques selon ITIL ainsi que leurs interdépendances.
+                </knowledge>
+                <knowledge>
+                    Comprendre notamment les interfaces entre la gestion de services informatiques et les clients, utilisateurs et fournisseurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Contrôler en collaboration avec le fournisseur de services le respect du SLA et contribuer à la définition de mesures d'amélioration de la conformité au SLA ainsi que de sa rentabilité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes permettant de vérifier la fourniture de services dans le cadre de SLA.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

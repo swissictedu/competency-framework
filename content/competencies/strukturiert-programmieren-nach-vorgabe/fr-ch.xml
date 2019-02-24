@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>103</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=103%26clang=fr</reference>
+            <level>1</level>
+            <lessons>80</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Programmer dans un cadre prescrit (structuré)</title>
+    <capability>Elaborer, tester et documenter un programme structuré sur la base d´un cahier des charges.</capability>
+    <goals>
+        <goal>
+            Représenter graphiquement un traitement défini et simple dans un diagramme de flux (Jackson, Nassi Shneidermann, etc.).
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales structures de contrôle de la programmation structurée (séquence, sélection, itération) et peut expliquer au moyen d´exemples à quelles situations elles correspondent dans le déroulement d´un algorithme.
+                </knowledge>
+                <knowledge>
+                    Connaît une notation permettant de représenter une logique de programme (Jackson, Nassi, PAP, etc.) et peut expliquer comment les principales structures de contrôle et le déroulement d´un programme y sont reproduites.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et fixer le type de données qui sont nécessaires pour le traitement décrit (entrée, sortie).
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principaux types de données (nombre entier, virgule flottante, caractère/chaîne) et peut indiquer à quels genres de données ou d´informations ils correspondent.
+                </knowledge>
+                <knowledge>
+                    Connaît les règles (implicites et explicites) de la conversion de types de données et peut en indiquer les conséquences en ce qui concerne la précision et la signification.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transposer en programme le diagramme de flux avec les données y relatives.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure fondamentale d´un programme (position de la déclaration et du traitement, etc.) et peut l´illustrer par un exemple.
+                </knowledge>
+                <knowledge>
+                    Connaît les commandes de base d´un langage de programmation (structures de contrôle, opérateurs) et peut indiquer les instructions de traitement qu´elles permettent de réaliser.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Editer le code source de façon compréhensible (noms des variables, structure, commentaires) afin d´assurer la reproductibilité du programme.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales possibilités de structuration (par ex. indentation de structures de contrôles imbriquées) et peut expliquer comment elles contribuent à la lisibilité des programmes.
+                </knowledge>
+                <knowledge>
+                    Connaît les principales règles à respecter pour qu´un code source soit compréhensible (noms de variable parlants, commentaires adéquats) et peut expliquer comment elles contribuent à la lisibilité des programmes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer une interface utilisateur pour l´entrée et la sortie des données.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales règles à respecter pour la saisie et l´affichage de données à l´écran (désignation des informations, format de saisie, etc.) et peut expliquer les problèmes qui surviennent lorsqu´elles ne sont pas respectées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les cas de tests (valeur d´entrée, résultats attendus) afin d´assurer un traitement sans erreur du programme.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales méthodes (par ex. création de classes d´équivalence) utilisées pour la définition de cas et de données de tests et peut indiquer la mesure dans laquelle elles permettent d´établir qu´un programme traite les informations de manière correcte et exhaustive.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

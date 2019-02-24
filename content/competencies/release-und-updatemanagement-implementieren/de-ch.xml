@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>452</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=452%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Release- und Updatemanagement implementieren</title>
+    <capability>Definiert aufgrund betrieblicher Anforderungen und Rahmenbedingungen das Releaseund Updatemanagement und trifft die entsprechenden Vorkehrungen für dessen Umsetzung.</capability>
+    <goals>
+        <goal>
+            Fasst logisch und funktional zusammengehörende Komponenten eines Systems zu Release‐Einheiten zusammen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Faktoren, aufgrund derer logisch und funktional zusammengehörende Komponenten zu einer Release‐Einheit zusammengefasst werden.
+                </knowledge>
+                <knowledge>
+                    Kann eine Release‐Einheit mit ihren anwendungs‐, programmier‐ und systemtechnischen Verflechtungen beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kann die Verwendung der unterschiedlichen Release‐Arten Haupt‐, Neben‐ und Notfall‐Release erklären.
+                </knowledge>
+                <knowledge>
+                    Kennt die Richtlinien für die Unterscheidung von Release‐Komponenten und Updates.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus den technischen, betrieblichen und organisatorischen Anforderungen den Bedarf für ein neues Release ab.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie die funktionalen Aspekte eines Release zu beurteilen sind und wie diese mit den betrieblichen Anforderungen abgestimmt werden.
+                </knowledge>
+                <knowledge>
+                    Kann aufgrund der technischen, betrieblichen oder organisatorischen Anforderungen die relevante Release‐Einheit sowie die betroffenen Komponenten und deren funktionale Einbindung identifizieren.
+                </knowledge>
+                <knowledge>
+                    Weiss, welche Interessenvertreter für die Definition und Planung eines Releases konsultiert werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kann die funktionale und zeitliche Release‐Planung auf die technischen, betrieblichen und organisatorischen Anforderungen abstimmen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt die Beschreibung, aktualisiert die Versionierung des geplanten Release und erwirkt die Freigabe des zusammengestellten Release.
+            <knowledge-list>
+                <knowledge>
+                    Kann beschreiben, welche Informationen aufgrund der Release‐Zusammensetzung und der durch das Release verursachten Änderungen in Release‐ und Versionen‐Beschreibungen enthalten sein müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Parameter, welche die Versionen‐ resp. Release‐Nummerierung bestimmen.
+                </knowledge>
+                <knowledge>
+                    Kann erklären, warum und wie Release‐Beschreibungen für die Vorbereitung einer Release‐Freigabe eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kann erläutern, welche Stellen für die Freigabe eines Release zuständig sind sowie deren Einordnung im Freigabeprozess.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Stellt durch angemessene Tests sicher, dass das angestrebte Release alle gestellten Anforderungen erfüllt und überwacht die Erstellung des Release.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, welche Stellen für die technische Umsetzung eines Release zuständig sind, und kennt deren Einfluss auf die Umsetzung.
+                </knowledge>
+                <knowledge>
+                    Kann erklären, wie die Übergabe eines Release vom Release‐Bau (z.B. Engineering‐Team) zum Release‐Test (z.B. Systemtest‐Abteilung) geregelt wird.
+                </knowledge>
+                <knowledge>
+                    Kann erklären, wie Release‐Einheit, Release‐Beschreibung und Release‐Art die Art und den Umfang der benötigten Tests beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einsatzmöglichkeiten von technischen Hilfsmitteln für die Automatisierung von Tests.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktion und die Einsatzmöglichkeiten von Testanforderungen, Testspezifikationen, Testbeschreibungen und Testberichten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant das Rollout eines Release inklusive dem Vorgehen, um im Notfall den ursprünglichen Funktionsstand wiederherzustellen zu können, und überwacht die Einführung des neuen Release.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Phasen einer Release‐Einführung und deren spezifische Funktion.
+                </knowledge>
+                <knowledge>
+                    Weiss, welche Stellen eine Release‐Einführung technisch und organisatorisch durchführen und kennt die geeigneten Mittel um den Erfolg der Release‐Einführung zu überprüfen.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie Rückfallszenarien (Fallback) entwickelt werden, und kennt die Parameter, unter denen ein solches Szenario zum Einsatz kommt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt die System‐ bzw. Anwendungsdokumentation nach und aktualisiert die Konfigurationsdatenbank.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Komponenten der Anwendungs‐ und Systemdokumentation, die von einem Release einer bestimmten Release‐Einheit betroffen sind, und kann deren Bedeutung erläutern.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die Anwendungs‐ und Systemdokumentation gemäss den Release‐Änderungen nachgeführt und aktualisiert wird (Dokumente‐Versionierung, Dokumente‐Freigabe, Qualitätssicherung etc.).
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung der Konfigurationsdatenbank und kann erläutern, wie die Release‐Einheiten in der betrieblichen Konfigurationsdatenbank abgebildet sind und wie die Konfigurationsdatenbank bei einer Release‐Einführung anpasst werden muss.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert ein Konzept für das Management von Updates ausserhalb der Releasezyklen, um dringliche Sicherheitsaktualisierungen vorzunehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kann erklären, aufgrund welcher Kriterien eine geänderte Komponente als Update (Sicherheitsupdate) oder als Bestandteil eines Release in den Betrieb übergeht.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Hilfsmittel für die Automatisierung des Updatemanagements wie selbstverwaltete Updateserver oder Programme und Dienste zur Updateverteilung.
+                </knowledge>
+                <knowledge>
+                    Weiss, welche anwendungs‐, programmier‐ und systemtechnischen Anforderungen den Updatemanagementprozess beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Weiss, mit welchen Mitteln (Patchbeschreibungen, Tests, Beta‐Testgruppen etc.) Störungen im Betriebsablauf durch Updates minimiert werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert einen Prozess zur Erstellung und Verteilung von Notfall‐Releases, um applikatorische Anpassungen ausserhalb der Release‐Zyklen vorzunehmen.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie die Kriterien für einen Notfall‐Release zu definieren sind und wie Notfall‐Releases mit den betrieblichen Verantwortlichen abgestimmt werden.
+                </knowledge>
+                <knowledge>
+                    Weiss, welche Faktoren (Dringlichkeit, Wirkungsbereich etc.) den Prozess für die Einführung eines Notfall‐Release beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Weiss, welche Vorkehrungen (Notfallszenario, Datensicherung etc.) im Zusammenhang mit einem Notfall‐Release getroffen werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

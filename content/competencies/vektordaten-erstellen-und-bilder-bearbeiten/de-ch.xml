@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>271</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=271%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Vektordaten erstellen und Bilder bearbeiten</title>
+    <capability>Erstellt Grafiken, Diagramme und Bilder, bearbeitet sie unter gestalterischen Gesichtspunkten und speichert sie mediengerecht.</capability>
+    <goals>
+        <goal>
+            Erstellt grafische Elemente in einem vektorbasierten Illustrationsprogramm.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Unterschiede zwischen Pixel- und Vektordaten sowie die Vor- und Nachteile in Bezug zur Auflösung, Skalierbarkeit und Datenmenge.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Werkzeuge der Grafikerstellung und deren Anwendungszwecke.
+                </knowledge>
+                <knowledge>
+                    Kennt das Zeichenstift-Werkzeug, um Pfade zu erstellen und anzupassen.
+                </knowledge>
+                <knowledge>
+                    Kennt die geeigneten Werkzeuge, um Vektorgrafiken (Logos, Piktogramme, Diagramme, Situationspläne, typografische Elemente) für Print- und Digitalmedien zu erstellen und zu bearbeiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgaben, um Vektorgrafiken für die Plotterausgabe zu erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionen des Bild-Nachzeichnerwerkzeugs, um Pixeldaten zu vektorisieren/nachzuzeichnen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nimmt in einem pixelbasierten Bildbearbeitungsprogramm einfache Korrekturen und Montagen vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Aussagekraft der Qualitätsfaktoren Bildauflösung, Bildgrösse und Dateigrösse.
+                </knowledge>
+                <knowledge>
+                    Kennt Wege, um die Bildauflösung zu beurteilen und die Bildgrösse zu ändern/einzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Verwendungszweck von Bilddaten, um bei Bedarf Kontrast und Helligkeit sowie die Gradationseinstellungen anzupassen.
+                </knowledge>
+                <knowledge>
+                    Kennt Funktionen, um einfache Farbkorrekturen an Bildern vorzunehmen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, um Farbbilder in Schwarzweissbilder umzuwandeln.
+                </knowledge>
+                <knowledge>
+                    Kennt Funktionen, um Bildinhalte zu maskieren und freizustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Werkzeuge, um an Bilddaten einfache Retuschen vorzunehmen.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Werkzeuge, um einfache Bildkombinationen zu erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Wege, um die Bildschärfe zu optimieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, Bearbeitungsschritte zu automatisieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, um eine zielgruppengerechte Bildsprache (z.B. Motiv, Bildaufbau, Schwarzweiss/Farbe, Format, Schärfeverlauf) zu wählen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Speichert Bilder und Vektordateien in einem geeigneten Dateiformat ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die geeigneten Dateiformate und ihre Eigenschaften, um Bilder optimal zu speichern.
+                </knowledge>
+                <knowledge>
+                    Kennt die verlustfreie und verlustbehaftete Komprimierung.
+                </knowledge>
+                <knowledge>
+                    Kennt Funktionen, um Bilder für verschiedene Ausgabemedien zu optimieren und zu speichern.
+                </knowledge>
+                <knowledge>
+                    Kennt vektorbasierte Grafikformate.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

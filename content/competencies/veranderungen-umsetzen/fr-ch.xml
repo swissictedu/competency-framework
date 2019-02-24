@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>624</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=624%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettre en œuvre des modifications</title>
+    <capability>Introduire des modifications selon besoins et en temps voulu dans son unité d’organisation en tenant compte de la culture, la dynamique et le cycle de vie de celle‐ci.</capability>
+    <goals>
+        <goal>
+            Analyser l’état du cycle de vie de son unité d’organisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des techniques et méthodes d’analyse (par ex. la répartition systématique, structuration, recherche et évaluation d’objets/de sujets/des faits).
+                </knowledge>
+                <knowledge>
+                    Connaître le cycle de vie d’une organisation (par ex. décrire les phases de croissance, le développement et la saturation).
+                </knowledge>
+                <knowledge>
+                    Connaître les déclencheurs internes et externes des mutations organisationnelles (par ex. faiblesses dans l’organisation, mise en commun, déplacement de domaines, modifications dans l’environnement).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir une analyse FFOM sur le degré de préparation et les capacités de son unité d’organisation sur la base de l’état du cycle de vie et/ou les projets de modifications existants ainsi que les analyses de tendances en regard du comportement et du marché du travail.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les bases de la gestion des modifications (par ex. modèle du processus de modification selon Kurt Lewin avec les phases: Unfreezing – Moving – Refreezing).
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de l’analyse actuelle sur la qualité et l’efficience de l’organisation (par ex. structures, processus, systèmes, ressources, situation du marché et de la concurrence) au moyen de questionnaires auprès des clients, de diagnostics de l’organisation, benchmarking, analyse des parties prenantes).
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques du degré de préparation des modifications dans l’organisation (par ex. selon Kurt Lewin).
+                </knowledge>
+                <knowledge>
+                    Connaître la structure et la construction d’une analyse FFOM (selon le modèle d’Henry Mintzberg) comme instrument de la planification stratégique (avec par ex. représentation de l’analyse d’environnement et d’entreprise sous forme d’une matrice).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer des scénarios futurs pour son unité d’organisation sur la base de l’analyse FFOM ainsi que les conditions cadres internes et externes à l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement dans le développement de scénarios futurs à l’aide d’un modèle simple de phases (par ex. le modèle en entonnoir).
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes pour l’analyse des forces qui agissent dans un processus de modifications (par ex. analyse d’un champ de force selon Kurt Lewin).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir un projet de modifications qui tient compte des aspects logiques et psychologiques de la dimension humaine, et anticiper celle‐ci de sorte que les modifications puissent être maîtrisées avec succès.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement de la planification d’un processus de modifications en trois phases (par ex. selon Kurt Lewin: „initialiser le changement, concevoir le processus de transfert, institutionnaliser le nouvel état“).
+                </knowledge>
+                <knowledge>
+                    Connaître les dimensions de la modification organisationnelle (par ex. le modèle de l’iceberg selon Mintzberg).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Constituer les besoins en modifications auprès de chaque personne concernée sur la base du projet de modifications planifiées et convenir d’une voie de solution.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les singularités de la gestion du changement (par ex. le modèle en 8 étapes selon John P. Kotter: „Leading Change“).
+                </knowledge>
+                <knowledge>
+                    Connaître la définition des types de compétences (par ex. compétences sociales, compétences méthodologiques, compétences personnelles, compétences opérationnelles).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Minimiser les éventuelles résistances, lors de l’inclusion des personnes concernées dans le processus de modification, à l’aide de méthodes et instruments de communication qui contribuent à la clarification de la situation et la progression du consentement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les bases de la psychologie de la communication selon Paul Watzlawik.
+                </knowledge>
+                <knowledge>
+                    Connaître des modèles simples de communication tels que le modèle émetteurrécepteur ou le modèle de communication en carré.
+                </knowledge>
+                <knowledge>
+                    Connaître la définition de styles de conduite et leurs dimensions selon Kurt Lewin (par ex. autoritaire‐hiérarchique, démocratique-coopératif, laisser‐faire).
+                </knowledge>
+                <knowledge>
+                    Connaître des formes d’interactions et d’actions sociales (par ex. selon Georg Herbert Mead).
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de la communication en situation (par ex. conduite et structuration de la communication, communication non‐verbale).
+                </knowledge>
+                <knowledge>
+                    Connaître diverses formes de communications et d’entretiens telles que dialogue, chat, discussion, débat, conversation, conseils, médiation.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement d’un entretien avec la phase débutante, le milieu de la conversation, phase de clôture, conduite de l’entretien.
+                </knowledge>
+                <knowledge>
+                    Connaître des formes d’entretien spécifiques telles qu’entretien critique, entretien avec collaborateurs, entretien de vente et entretien d’évaluation.
+                </knowledge>
+                <knowledge>
+                    Connaître les bases de la maîtrise des problèmes et conflits et leur différenciation (problème au niveau de l’objet) et conflit (par ex. querelles, collisions, contrariétés et divergences de pensées entre les humains).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Qualifier, par le coaching, les personnes concernées dans la phase de réorganisation, pour une coresponsabilité dans les modifications.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des exemples de modèles et formes de coaching (par ex. coaching individuel, coaching en groupe, échange systématique d’expériences en groupe, conseil collégial).
+                </knowledge>
+                <knowledge>
+                    Connaître la mise en œuvre de méthodes pour l’auto‐évaluation.
+                </knowledge>
+                <knowledge>
+                    Connaître les rôles dans un processus de changement (par ex. selon K. Lewin, McKinsey).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fixer de nouvelles habitudes et routines dans l’unité d’organisation modifiées au moyen de méthodes motivantes et instruments appropriés afin d’assurer un comportement et un travail obligeant de la part des collaborateurs ainsi que de l’unité d’organisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes de convention d’engagement (par ex. convention d’objectif à long ou court terme, mesures de formation du groupe).
+                </knowledge>
+                <knowledge>
+                    Connaître la définition de la conduite transactionnelle et transformationnelle (par ex. comportement dans la conduite et proportion d’échanges entre les dirigeants et les collaborateurs).
+                </knowledge>
+                <knowledge>
+                    Connaître la mise en œuvre de motivations extrinsèques et intrinsèques (par ex. reconnaissance de la prestation de modification, louanges, institutionnalisation des modifications, incitations).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Accompagner les modifications et l’énergie productive nouvellement créée dans l’unité d’organisation modifiée au moyen d’un monitoring ciblé et d’instruments appropriés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la mise en œuvre de méthodes de monitoring (par ex. revue systématique après action).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

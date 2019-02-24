@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>166</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=166%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assurer la sécurité de base des TIC</title>
+    <capability>Identifier la situation des infrastructures TIC en matière de risques et en déduire des mesures de sécurité propres à limiter ces risques dans les domaines de l’organisation, des ressources humaines, de l’infrastructure et de la technique.</capability>
+    <goals>
+        <goal>
+            Décomposer les infrastructures TIC en sous‐ensembles cohérents et documenter les objets qu’ils contiennent et leurs interrelations de manière adaptée aux destinataires.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir expliquer en quels sous‐ensembles cohérents une infrastructure TIC donnée doit être décomposée (matériels, logiciels, composants réseau (actifs/passifs) ou applications et données, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques permettant d’identifier et d’analyser les objets d’une infrastructure TIC et leurs interdépendances (p. ex. analyse de la structure informatique selon le BSI) et savoir expliquer comment ces techniques contribuent à la mise à disposition d’une base complète et différenciée pour la définition du besoin de sécurité.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques permettant de documenter de manière adéquate l’infrastructure TIC ou certains de ses sous‐ensembles et de les représenter sous forme graphique (plans de câblage, inventaires de matériels et de logiciels, diagrammes de réseau, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Procéder à une analyse de risque pour déterminer le niveau de sécurité nécessaire des objets sur le plan de la confidentialité, de la disponibilité et de l’intégrité. Consigner les résultats dans un tableau des besoins de sécurité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes permettant de définir le besoin de sécurité des objets d’une infrastructure TIC (définition des besoins de sécurité selon le BSI, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître la démarche méthodologique qui permet de procéder à une analyse de risque ciblée des processus métier assistés par TIC, p. ex. analyse de risque conformément à la sécurité de base informatique (norme BSI 100‐3).
+                </knowledge>
+                <knowledge>
+                    Connaître les consignes internes et les dispositions légales en matière de sécurité et de protection des données dans les processus métier assistés par TIC. Pouvoir en expliquer l’influence sur le stockage et le traitement d’informations.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques permettant de documenter les résultats d’une analyse des besoins de sécurité sous une forme adéquate.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, sur la base du tableau des besoins de sécurité, des mesures de sécurité organisationnelles, infrastructurelles et techniques pour chaque objet. En proposer la mise en oeuvre aux instances responsables.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales menaces pour la sécurité de base des infrastructures TIC (défauts, erreurs, force majeure, lacunes organisationnelles, actes intentionnels) et pouvoir en expliquer l’influence sur la sécurité de base des TIC d’une entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures les plus courantes permettant de garantir la sécurité de base des TIC (pare‐feu, scanners antivirus, patchs de sécurité, etc.) et pouvoir en expliquer la contribution à la sécurité des TIC à l’échelon de la sécurité de base.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques permettant de préparer des propositions / variantes de solution à l’intention d’instances supérieures. Savoir contribuer à leur préparation afin d’obtenir une validation rapide des mesures de sécurité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier et implémenter les mesures de sécurité définies. En tester le bon fonctionnement et l’efficacité.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir expliquer les mesures de sécurité protégeant les infrastructures TIC et les processus assistés par TIC. Pouvoir contribuer à leur implémentation rapide sans perturbation de l’activité normale.
+                </knowledge>
+                <knowledge>
+                    Pouvoir exposer les critères qui doivent être vérifiés pour assurer le bon fonctionnement et l’efficacité d’une mesure de sécurité.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques permettant de vérifier le bon fonctionnement et l’efficacité d’une mesure de sécurité et pouvoir en expliquer l’utilité pour la sécurité de base des TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier périodiquement l’efficacité et la cohérence des mesures de sécurité, justifier les écarts et, si nécessaire, mettre en oeuvre des mesures correctives.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les conditions préalables de la vérification périodique de mesures de sécurité (responsabilités, directives, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître la méthode et les outils courants permettant de procéder efficacement et systématiquement à la vérification périodique de mesures de sécurité (scanners de port, scanners de vulnérabilité, visionneurs de journaux système, piratage éthique, analyse de tickets d’incidents informatiques, etc.).
+                </knowledge>
+                <knowledge>
+                    Identifier les mesures nécessaires sur la base des résultats d’une vérification de l’infrastructure de sécurité des TIC et pouvoir expliquer la nécessité d’une adaptation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adapter une stratégie de sécurité informatique à l’évolution des conditions générales et en fonction de la survenance d’événements déterminants pour la sécurité. En vérifier la cohérence et l’exhaustivité et réaliser les adaptations.
+            <knowledge-list>
+                <knowledge>
+                    Définir sur la base des adaptations apportées à l’infrastructure de sécurité des TIC si d’autres mesures sont nécessaires. Pouvoir expliquer ces mesures.
+                </knowledge>
+                <knowledge>
+                    Savoir comment les adaptations apportées à une infrastructure de sécurité des TIC doivent être intégrées dans la stratégie de sécurité des TIC pour garantir que la documentation soit complète et cohérente.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

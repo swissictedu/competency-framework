@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>479</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=479%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Datenmodell realisieren</title>
+    <capability>Erstellt das physische Datenmodell aufgrund des objektorientierten Designs und bildet den Datenzugriff auf das Objektmodell ab.</capability>
+    <goals>
+        <goal>
+            Analysiert basierend auf den Artefakten der Analyse und des Designs die Anforderungen hinsichtlich der Persistenz der Objekte und leitet daraus ab, wie diese gespeichert werden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Eigenschaften und Merkmale von Objekten, die über Art und Umfang der zu persistierenden Objekte entscheiden, und kann aufzeigen, wie diese die Entscheidungen hinsichtlich der Persistenz der Objekte beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden, um Objekte persistent zu speichern, und kann erläutern, welche Eigenschaften diese hinsichtlich des Zugriffs haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt für die Objekte, welche in einer relationalen Datenbank gespeichert werden sollen, ausgehend von den Entity‐Klassen und ihren Eigenschaften/Merkmalen das konzeptionelle Datenmodell.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Unterschiede zwischen Klassenmodellen und relationalen Datenmodellen, um Informationen zu strukturieren, und kann erläutern, welche strukturellen Konflikte sich bei der Überführung dadurch ergeben.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken und Regeln, um aus dem Klassenmodell ein logisches relationales Datenmodell abzuleiten, und kann erläutern, wie damit eine Konsistenz zwischen den beiden Modellen erreicht wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt unter Berücksichtigung der Konventionen und Restriktionen des gewählten Datenbanksystems das logische Datenmodell in ein physisches Datenmodell um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Konventionen und Restriktionen, um ein logisches relationales Datenmodell in ein physisches relationales Datenmodell umzusetzen, und kann erläutern, wie diese die Konsistenz zwischen den beiden Modellen beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wählt aufgrund der Anforderungen, welche sich aus dem physischen Datenmodell und dem Klassenmodell hinsichtlich dem Objekt‐Mapping ergeben, ein Objektrelationales Mapping Framework.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Funktionen eines Objekt-relationalen Mapping Frameworks und kann erläutern, wie sich damit das Verhalten und die Eigenschaften der Persistenz-Schicht der Applikation beeinflussen lässt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bildet mittels Mapping die Strukturen des Klassenmodelles auf das physische Datenmodell ab, unter Berücksichtigung des Funktionsumfangs eines Objektrelationalen Mapping Frameworks und individueller Schreib‐ und Lesezugriffe.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Techniken zur Implementierung der Persistenz-Schicht einer Applikation mittels eines Objekt-relationalen Mapping -Frameworks und kann erläutern, unter welchen Voraussetzungen hinsichtlich des Frameworks und des Datenzugriffs sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert das Mapping des Klassenmodells auf das physische Datenmodell hinsichtlich seiner Effizienz (Anzahl Zugriffe, Menge der geladenen Objekte) und optimiert die Zugriffe unter Berücksichtigung der Artefakte aus der Analyse und des Designs.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Techniken, um die aus dem Objekt-relationalen Mapping resultierenden Zugriffe auf das Datenbanksystem zu analysieren, und kann erläutern, welche Informationen diese hinsichtlich der Effizienz dieses Zugriffs liefern.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, das Objekt-relationale Mapping hinsichtlich der Effizienz des Zugriffs zu optimieren, und kann erläutern, welche Anpassungen dies auf Ebenen des Datenbanksystems erfordert.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, das Datenbanksystem hinsichtlich der Effizienz des Zugriffs zu optimieren, und kann erläutern, welche Anpassungen des Objekt-relationalen Mappings dies erfordert.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

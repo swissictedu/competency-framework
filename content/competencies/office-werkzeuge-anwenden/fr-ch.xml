@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>301</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=301%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Appliquer les outils bureautiques</title>
+    <capability>Organiser et structurer des documents avec les outils tels que traitement de texte, tableur et présentation. Utiliser Internet et la messagerie, organiser la gestion de ces documents.</capability>
+    <goals>
+        <goal>
+            Elaborer, gérer et assurer la maintenance pour une sauvegarde structurée dans des dossiers, avec conventions de noms, pour des documents / données
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure et les fonctions de la gestion de classeurs, de fichiers et de types de fichiers sur un support de données et peut expliquer comment elles contribuent à une gestion efficace des fichiers stockés sur des supports de données.
+                </knowledge>
+                <knowledge>
+                    Connaît les possibilités les plus simples offertes par les systèmes d´exploitation et les outils les plus courants dans le domaine de la protection d´accès et peut expliquer pour quels types d´information leur utilisation est recommandée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser la structure de textes, données et choisir un instrument (traitement de texte, tableur, présentation) pour les traiter.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales possibilités offertes par les outils courants dans le domaine du traitement de texte, de la présentation, des feuilles de calcul, d´Internet et du courrier et peut indiquer pour quels types de tâches leur utilisation est recommandée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Configurer des documents (Nombre de pages, en-tête, pied de page, etc.) définir des contenus de documents (rubriques, paragraphes, découpage, etc.) et structurer avec des formats standards.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les éléments de structure page, paragraphe et caractère et peut expliquer comment ils sont utilisés pour organiser le contenu d´un document et le mettre en page.
+                </knowledge>
+                <knowledge>
+                    Connaît les différentes caractéristiques des caractères (police, style, taille) et peut expliquer comment elles sont utilisées pour mettre évidence ou marquer efficacement des passages de texte.
+                </knowledge>
+                <knowledge>
+                    Connaît le système de modèle des principaux logiciels et peut expliquer comment les modèles sont utilisés pour une mise en page et une structuration efficaces et uniformes des documents.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formater et représenter des contenus de documents avec des tabulations ou des tableaux mis en évidence.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les différentes possibilités de structurer des informations au moyen de tabulations et de tableaux et peut indiquer dans quels cas elles sont utilisées seules ou ensemble.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Utiliser les justifications, la césure des mots, les fonctions d´autocorrection, etc.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principaux automatismes d´aide des outils bureautiques courants et peut expliquer comment les saisies répétitives sont facilitées et la qualité des résultats est améliorée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Préparer des textes, images en vue d´une présentation en respectant les règles de mise en page et en tenant compte de l´environnement (Rétroprojecteur, beamer).
+            <knowledge-list>
+                <knowledge>
+                    Connaît les paramètres d´insertion et de positionnement d´images dans un document et peut expliquer l´effet qu´ils permettent d´obtenir.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Structurer des données dans une feuille de calcul, exécuter des opérations standards et des représentations graphiques simples.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les règles à respecter lors de la création d´une feuille de calcul pour pouvoir calculer les valeurs désirées et créer des graphiques (organisation en lignes ou en colonnes de valeurs de mesures identiques et de valeurs liées).
+                </knowledge>
+                <knowledge>
+                    Connaît les principales valeurs statistiques (moyenne, minimum, maximum) et peut indiquer quels résultats elles permettent d´obtenir.
+                </knowledge>
+                <knowledge>
+                    Connaît les types de graphiques les plus simples permettant de représenter des informations et peut expliquer les résultats qu´ils permettent de visualiser.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rechercher avec un navigateur des informations ciblées sur Internet, les rendre disponibles et assurer les dispositions de sécurité.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales fonctions de recherche des moteurs de recherche usuels et peut en expliquer l´utilité dans la recherche efficace d´informations.
+                </knowledge>
+                <knowledge>
+                    Connaît les risques potentiels de la réception d´informations en provenance d´Internet et peut expliquer comment les éviter par des comportements adéquats et des mesures de précaution (paramètres du navigateur, logiciels antivirus).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Utiliser les fonctions des navigateurs pour un accès efficace sur les adresses Internet.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les possibilités offertes par les navigateurs WWW pour accéder simplement et rapidement à des pages Internet et peut indiquer dans quels cas leur utilisation est recommandée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Echanger des messages (envoyer, recevoir, répondre, transmettre, distribuer) en respectant la protection des données, la sécurité et la confidentialité.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les possibilités offertes par une utilisation efficace des systèmes de messagerie (carnet d´adresses, listes de distribution, structure de dossiers, paramètres de sécurité, etc.) et peut en expliquer l´utilité pour le travail quotidien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

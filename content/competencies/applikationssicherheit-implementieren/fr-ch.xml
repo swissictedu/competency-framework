@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>183</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=183%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter la sécurité d’une application.</title>
+    <capability>Planifier de manière sûre, développer et mettre en service des applications.</capability>
+    <goals>
+        <goal>
+            Reconnaître et pouvoir expliquer les menaces actuelles. Acquérir des informations actuelles sur ce thème (reconnaissance et contre-mesures), et pouvoir démontrer et expliquer les effets possibles.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des sources d’informations sur les menaces actuelles.
+                </knowledge>
+                <knowledge>
+                    Connaître des lacunes de sécurité et les conséquences possibles lors d’attaques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Pouvoir reconnaître les lacunes de sécurité ainsi que leurs causes dans une application. Pouvoir proposer et implémenter des contre-mesures.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des causes possibles de lacunes de sécurité dans des applications.
+                </knowledge>
+                <knowledge>
+                    Connaître un déroulement pour l’identification des lacunes de sécurité dans des applications.
+                </knowledge>
+                <knowledge>
+                    Connaître des contre-mesures pour les différentes catégories de menaces et comment ces mesures doivent être implantées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Pouvoir mettre en œuvre des mécanismes d’authentification et d’autorisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des mécanismes d’authentification et leurs fonctionnalités.
+                </knowledge>
+                <knowledge>
+                    Connaître des mécanismes de codage et leur implémentation dans une application.
+                </knowledge>
+                <knowledge>
+                    Connaître diverses procédures pour le pilotage des accès.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prendre en considération les aspects les plus importants de la sécurité lors du développement et de l’implémentation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les aspects les plus importants de sécurité lors du développement d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques lors de la réalisation qui permettent d’éviter les lacunes de sécurité (par ex. validation d’entrée/sortie, programmation défensive, gestion des sessions, gestion des erreurs).
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour un déploiement sûr des applications.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Générer des informations pour les audits et le login. Définir et implémenter des évaluations et alarmes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la raison, la structure et le contenu d’un Log.
+                </knowledge>
+                <knowledge>
+                    Connaître la raison, la structure et le contenu d’un Audit-Trails.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes formes d’alarme et les règles pour le déclenchement d’une alarme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

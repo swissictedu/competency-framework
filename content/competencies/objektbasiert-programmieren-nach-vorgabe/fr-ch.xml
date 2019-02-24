@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>404</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=404%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Programmer orienté objets selon directives</title>
+    <capability>Interpréter les directives et programmer orienté objets, implémenter, documenter et tester</capability>
+    <goals>
+        <goal>
+            Représenter le déroulement sur la base des directives.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités de représentation du déroulement du programme (par ex. diagramme d´état) et pouvoir expliquer au moyen d´exemples les états de fait qu´elles permettent de reproduire.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer et implémenter une interface graphique.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les règles principales pour l’établissement d’une interface utilisateur.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités de solution pour le traitement et la validation de l’interaction de l’utilisateur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les données nécessaires et fixer leur type.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la mise en œuvre et l’utilisation correcte des principaux types de données (nombre entier, virgule flottante, caractère/chaîne et booléen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter le programme en utilisant des composants disponibles, avec leurs propriétés, méthodes, opérateurs, procédures, fonctions et structures de contrôle.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la constitution fondamentale d´un composant (propriétés, méthodes et événements) et, comment ceux-ci interviennent dans le traitement d´un événement.
+                </knowledge>
+                <knowledge>
+                    Connaître la structure fondamentale d’un programme ainsi que son influence sur la mémoire de travail.
+                </knowledge>
+                <knowledge>
+                    Connaître les composants disponibles d’un langage de programmation ainsi que leurs propriétés, les méthodes, les opérateurs d’événements et les structures de contrôle.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Lors de la programmation, respecter les directives et prescriptions, documenter le programme dans l´éditeur en veillant à la facilité de maintenance et à la reproductibilité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales règles à respecter pour qu´un code source soit compréhensible (noms de variable parlants, commentaires adéquats) et peut expliquer comment elles contribuent à la lisibilité des programmes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester le programme en regard de la fonctionnalité et, au besoin, détecter et corriger les erreurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments des cas de tests (fonction ou traitement à tester, données de saisie résultats attendus).
+                </knowledge>
+                <knowledge>
+                    Connaître la signification des tests pour l’assurance qualité d’un programme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

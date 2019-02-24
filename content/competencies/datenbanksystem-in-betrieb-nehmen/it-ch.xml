@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>141</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=141%26clang=it</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Installare sistemi di banche dati</title>
+    <capability>Installer et configurer un système de gestion de base de données, effectuer des chargements antérieurs, garantir la fonctionnalité et exécuter le transfert dans l’exploitation productive.</capability>
+    <goals>
+        <goal>
+            Installare un sistema di banche dati secondo specifiche (ad esempio numero d'utenti, fabbisogno di memoria, volume delle transazioni, esigenze di disponibilità) e organizzarlo rispettivamente prepararlo per l'ambiente produttivo.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Arten von Datenbanken (zB. relationale-, objektorientierte-, hierarchische, Verteilte DB) und deren typische Merkmale der physischen Datenorganisation.
+                </knowledge>
+                <knowledge>
+                    Kennt wichtige Parameter zur Konfigurierung eines Datenbanksystems und  deren Bedeutung für die Funktionalität und Performance.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Vorgehensweise um ein Datenbanksystem nach Vorgaben umzusetzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Allestire la banca dati e le tabelle secondo specifiche. Caricare i dati di test e verificare le funzionalità richieste. Preparare, documentare ed eseguire il caricamento e/o migrazione dei dati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Aktionen und ihre Abfolgen, welche zum Aufsetzen einer Datenbank in einem Datenbanksystem notwendig sind.
+                </knowledge>
+                <knowledge>
+                    Kennt den Normalisierungsprozess zur Überführung von logischen Schemas in Datenbankschemas.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung von Funktionen und Komponenten des Data Dictionary (Katalog der Metadaten) in einem Datenbanksystem.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Preparare il sistema di banca dati per l'ambiente operativo , mettere a disposizione e testare le procedure (script) di sicurezza, backup, restart e recovery. Eseguire test di sistema (volume-test, stress-test, crash-test).
+            <knowledge-list>
+                <knowledge>
+                    Kennt Sinn und Zweck von Security-, Backup-, Restart- und Recovery-Prozeduren in einem Datenbanksystem für die Sicherstellung des operativen Betriebs.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Schritte, die bei einem Test durchlaufen werden.
+                </knowledge>
+                <knowledge>
+                    Kennt spezifische Testmethoden für Datenbanksysteme zur Überprüfung von Performance und Verfügbarkeit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verificare e interpretare le prestazioni e la disponibilità attraverso report standard. Attuare le necessarie misure di ottimizzazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt mögliche Optimierungsmassnahmen zur Verbesserung der Performance und Verfügbarkeit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organizzare le autorizzazioni di base per l'ambiente produttivo e mettere a disposizione degli utenti finali i report standard sotto forma di view e le stored procedure.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorgehensweise für die Inbetriebnahmeund Betriebsfreigabe einer Datenbank.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten zur Vergabe von Zugriffsrechten.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen um Business Logik in Stored Procedures abzubilden.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen um Abfragen in Views zur Verfügung zu stellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Pianificare ed eseguire il trasferimento nell'ambiente operativo e redigere il protocollo di consegna.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Inhalt und Aufbau einer Dokumentation (zB. Installations-, Lizenz-, Betriebs- und Wartungsdokumentation).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

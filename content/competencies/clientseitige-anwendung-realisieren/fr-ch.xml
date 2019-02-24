@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>256</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=256%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Réaliser la partie cliente des applications Web.</title>
+    <capability>Développer, réaliser et tester une application, selon la donnée, avec un langage de scripts côté client.</capability>
+    <goals>
+        <goal>
+            Analyser la donnée, développer la fonctionnalité de l’application ainsi que les tests et les critères de remise en tenant particulièrement compte de la compatibilité des navigateurs, planifier et documenter les aspects de sécurité.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les critères, selon lesquels une donnée peut être transférée dans une spécification transposable.
+                </knowledge>
+                <knowledge>
+                    Connaît la succession des étapes pour la réalisation d´une application et peut décrire leurs dépendances mutuelles.
+                </knowledge>
+                <knowledge>
+                    Connaît les navigateurs courants et peut décrire leurs différences fondamentales.
+                </knowledge>
+                <knowledge>
+                    Connaît les réglages de sécurité réalisables côté client et peut décrire leurs contributions pour la sécurité des informations.
+                </knowledge>
+                <knowledge>
+                    Connaît la procédure pour fixer les critères de remise et de tests, et peut énoncer, par un exemple, comment ceux-ci sont mis en œuvre dans les tests et pour la remise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir la navigation, les cases à cocher et les champs formulaires, programmer l’application avec un langage de scripts. Commenter la solution de façon compréhensible dans le code source.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les éléments de base, q’HTML offre pour l´établissement des éléments d’un formulaire et il peut décrire, pour quelles types d´informations ces éléments de formulaire conviennent.
+                </knowledge>
+                <knowledge>
+                    Connaît les possibilités fondamentales du contrôle de vraisemblance avec un langage de scripts et peut préciser, quelles contribution celles-ci apportent pour un résultat qualitativement bon.
+                </knowledge>
+                <knowledge>
+                    Connaît les éléments de base d’un langage de scripts (Javascript, DHTML) et peut par des exemples, préciser quelles fonctions peuvent ainsi être réalisées.
+                </knowledge>
+                <knowledge>
+                    Connaît des possibilités de structuration et peut préciser par l´exemple d’un script, comment celles-ci soutiennent la compréhension du code.
+                </knowledge>
+                <knowledge>
+                    Connaît des possibilités de documentation du code source et peut préciser, quelles contributions ceux-ci apportent pour la maintenance et le développement ultérieur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier l’application, selon le plan de tests, du point de vue fonctionnalité, compatibilité des navigateurs et de la sécurité. Documenter les résultats des tests et, le cas échéant, entreprendre les corrections nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les étapes fondamentales qui doivent être déroulées lors d’un test, et peut préciser, quelles contributions celles-ci apportent pour un résultat qualitativement bon.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Exécuter la remise et réaliser le procès-verbal de la remise.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principaux éléments d’un procès-verbal de remise et peut énoncer l’importance de ceux-ci pour l´assurance qualité et la conclusion du mandat.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

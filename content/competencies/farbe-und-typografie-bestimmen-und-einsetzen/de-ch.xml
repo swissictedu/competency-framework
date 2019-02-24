@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>270</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=270%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Farbe und Typografie bestimmen und einsetzen</title>
+    <capability>Bestimmt Farbe und Typografie für Web- und Printprodukte, setzt sie auftrags- und mediengerecht ein und speichert die Daten entsprechend.</capability>
+    <goals>
+        <goal>
+            Erstellt zielgruppengerechte Gestaltungsaufträge unter Berücksichtigung der Gestaltprinzipien/Gestaltgesetze.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundelemente der Gestaltung und setzt diese unter Berücksichtigung der Gestaltprinzipien/Gestaltgesetze ein.
+                </knowledge>
+                <knowledge>
+                    Kennt die Gestaltungselemente, um sie situationsgerecht und nach dem Prinzip Symmetrie und Asymmetrie anzuordnen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Gestaltungsprinzipien von Proportion, Rhythmus und Kontrast, um diese bei der Gestaltung einzusetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt zielgruppenspezifische Aspekte, um einfache Medienprodukte nach Vorgaben zu gestalten, zu beurteilen und zu optimieren.
+                </knowledge>
+                <knowledge>
+                    Kennt die Betrachtungs- und Lesegewohnheiten des Zielpublikums, um sie bei der Gestaltung zu berücksichtigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wählt aufgrund der vorgegebenen visuellen Sprache passende Schriften für die Gestaltungsaufträge aus.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Merkmale einer Schrift, um die Lesbarkeit zu beurteilen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien, um die Schrift für Print- oder digitale Medien nach Inhalt und Zielgruppe zu wählen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Fachbegriffe der Schrift (Schriftfamilie, Schriftschnitt, Strichstärke, Schriftlage, Schriftbreite).
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Fachbegriffe und Regeln der Mikrotypografie und setzt sie korrekt ein.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formatiert Texte unter Einhaltung der Lesefreundlichkeit, einer korrekten Hierarchie und der gängigen Satzregeln.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundregeln für eine optimale Satzbreite sowie die Buchstaben-, Wort- und Zeilenabstände.
+                </knowledge>
+                <knowledge>
+                    Kennt Funktionen, um Texte auszugleichen sowie Buchstaben- und Zahlenabstände zu optimieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, um Texte mittels Schriftwahl, Schriftanordnung, Schriftauszeichnung und angemessener Schriftgrösse zu strukturieren und zu gliedern.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Schriftgrössen (Konsultationsgrösse, Lesegrösse und Displaygrösse) für die jeweiligen Anwendungen. 
+                </knowledge>
+                <knowledge>
+                    Kennt die Vor- und Nachteile der unterschiedlichen Satzarten.
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigen Einsatzgebiete und Regeln der unterschiedlichen Satzarten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wählt gemäss Auftrag das geeignete Dateiformat für verschiedene Elemente.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die gängigen Dateiformate (PDF, PSD, RAW, JPEG, GIF, PNG, TIFF, INDD, IDML, AI, EPS) und deren Einsatzgebiete in den Print- und Digitalmedien.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Dateiformate und ihre Verwendungszwecke.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt Farbkontraste, -harmonien und -kombinationen für Gestaltungsaufträge und legt diese fachgerecht im Programm an.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den zwölfteiligen Farbkreis, um die Farben gestalterisch zu nutzen, Farben zu ordnen und anzuwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die sieben Farbkontraste gemäss Johannes Itten sowie Beispiele, wie sie situationsgerecht eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Wege, um Farbkombinationen und Farbharmonien zu erstellen und anzuwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt digitale Farbmischhilfen (z.B. Adobe Color CC), um damit Farbpaletten zu erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Farben als Gestaltungsmittel und berücksichtigt Aspekte der Farbphysiologie und Farbpsychologie bei deren Wahl.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeit, mit Farben Elemente zu gruppieren, abzugrenzen und zu gliedern.
+                </knowledge>
+                <knowledge>
+                    Kennt Funktionen, um Tertiärfarben und gebrochene Farben programmgerecht anzulegen, zu verwalten und einzusetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Eigenschaften von Farben (Farbton, Farbsättigung und Farbhelligkeit).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wendet Farbmodelle (RGB, CMYK) und Farbprofile dem Zielmedium entsprechend an.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Einsatzgebiet des additiven und subtraktiven Farbmodells.
+                </knowledge>
+                <knowledge>
+                    Kennt die Primär- und Sekundärfarben des additiven und subtraktiven Farbmodells.
+                </knowledge>
+                <knowledge>
+                    Kennt die Farbstandards der grafischen Industrie und die Arbeitsschritte, um Farbprofile zu installieren und anzuwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Aufgaben eines Farbmanagementsystems im Printbereich.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

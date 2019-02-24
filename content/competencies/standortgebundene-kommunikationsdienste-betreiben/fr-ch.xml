@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>161</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=161%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Exploiter des services de communication fixe</title>
+    <capability>Implémenter des services de communication fixe répondant aux exigences de l’entreprise dans un réseau existant et assurer l’exploitation opérationnelle de ces services.</capability>
+    <goals>
+        <goal>
+            Recommander un service de communication fixe répondant aux exigences de l’entreprise en matière de communication de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les exigences internes (techniques, organisationnelles, économiques et environnementales) envers les services de communication pour pouvoir les consigner systématiquement.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques, conditions préalables, fonctions et utilisations possibles des services de communication fixe les plus courants (fax, courrier électronique, services de collaboration et d’accès, VoIP, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les exigences de configuration du système de communication en fonction des exigences de l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment on définit à partir des exigences de l’entreprise les exigences techniques envers un futur service de communication.
+                </knowledge>
+                <knowledge>
+                    Savoir expliquer une solution de service de communication adaptée aux catégories d’exigences de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques de représentation permettant de présenter une solution de manière adaptée aux destinataires.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer sur la base des exigences le concept technique d’implémentation du service de communication dans le réseau existant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les spécifications techniques nécessaires pour l’exploitation efficace d’un service de communication fixe.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques et le fonctionnement des protocoles de communication TCP/IP les plus courants (fax over IP (T.37/38), VoIP, SMTP, POP3, IMAP, FTP, SSH, HTTP/S, etc.).
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer l’influence de la QdS (qualité de service) sur le bon fonctionnement d’un service de communication.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux composants et conditions préalables nécessaires à l’exploitation d’une solution VoIP (téléphones logiciels et matériels, codecs (GSM, G.711, G.722, G.723, G.729, etc.), passerelle, contrôleur d’accès, SIP, RTP, SRTP, H.323, POTS, PBX, PSTN, MOS (Mean Opinion Score)).
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques et utilisations possibles d’une solution de communication unifiée en relation avec le service de communication choisi.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les ensembles de données à mettre à disposition d’un système de communication qui en remplace un précédent.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir élaborer un concept technique de solution et le documenter de manière pertinente.
+                </knowledge>
+                <knowledge>
+                    Connaître les méthodes permettant de mettre en oeuvre un concept technique de solution systématiquement et de manière à répondre aux exigences.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer les critères justifiant l’externalisation d’un service de communication (solution d’hébergement) en lieu et place d’une réalisation et d’une exploitation « maison ».
+                </knowledge>
+                <knowledge>
+                    Pouvoir identifier les interdépendances entre services de communication existants et futurs et savoir comment les prendre en compte lors de l’implémentation d’une nouvelle solution.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Migrer les ensembles de données nécessaires et assurer qu’ils puissent être utilisés dans le nouveau service de communication.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir évaluer l’importance des ensembles de données existants pour l’exploitation d’un service de communication.
+                </knowledge>
+                <knowledge>
+                    Savoir comment mettre à disposition des ensembles de données existants (données d’adresse, etc.) nécessaires à l’exploitation d’un service de communication au moyen d’outils techniques (LDAP, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter des solutions adéquates et sûres pour ménager aux utilisatrices / utilisateurs l’accès extérieur au réseau de l’entreprise ou, autrement dit, pour le raccordement de différents sites au réseau de l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les modes de transmission les plus courants utilisés pour les services de communication ainsi que leurs caractéristiques spécifiques (DSL, CATV, ISDN, fibre optique, lignes louées, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux protocoles de transmission ou solutions d’accès/de connection utilisés pour l’accès externe à un réseau d’entreprise ou le raccordement de plusieurs réseaux (LAN) (RDP, SSH, ICA, X11, NX No Machine, VNC, Remote Frame Buffer RFB, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un concept d’exploitation pour le service de communication sur la base des exigences des services opérationnels et du concept technique.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une procédure normalisée de définition d’un accord de service (Service Level Agreement, SLA) entre fournisseur et destinataire des prestations.
+                </knowledge>
+                <knowledge>
+                    Connaître les contenus et déclarations nécessaires d’un concept d’exploitation de service technique de communication.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

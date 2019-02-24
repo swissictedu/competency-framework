@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>133</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=133%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Réaliser des applications Web en Session-Handling</title>
+    <capability>Réaliser et tester une application Web selon cahier des charges avec un langage de programmation.</capability>
+    <goals>
+        <goal>
+            Analyser la donnée, projeter la fonctionnalité et déterminer le concept de  la réalisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des solutions possibles afin de délimiter les fonctionnalités côté client comme serveur en se basant sur les directives.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments d’un concept de réalisation pour des applications Web.
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages de la séparation entre la présentation et la logique du programme ainsi que leur mise en œuvre dans une application Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser une fonctionnalité spécifique d’une application Web par Session-Handling, authentification et vérification de formulaire.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des éléments de formulaires ainsi que des fonctions pour vérifier les saisies de l´utilisateur, et comment ceux-ci mis en œuvre conformément aux directives.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques courantes pour la réalisation du suivi de session.
+                </knowledge>
+                <knowledge>
+                    Connaître les risques sur la sécurité et des solutions possibles pour protéger une application Web.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités d’administration de lots de données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmer une application Web à l’aide d’un langage de programmation  compte tenu des exigences liées à la sécurité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités pour garantir l’authentification et les autorisations dans une application Web.
+                </knowledge>
+                <knowledge>
+                    Connaître des langages de programmation possibles pour des applications Web.
+                </knowledge>
+                <knowledge>
+                    Connaître des solutions possibles pour la mise en œuvre d’architectures appropriées pour des applications Web.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de structuration de code source ainsi que leur mise en œuvre en tenant compte des directives de codification.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier la fonctionnalité et la sécurité de l’application Web à l’aide du plan tests, verbaliser les résultats et, le cas échéant, corriger les erreurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des procédures de tests, et leur contribution, pour garantir la qualité d’applications Web.
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures de tests permettant de vérifier les solutions possibles contre les Cross-Site-Scripting, Script-Injection et Session-Hijacking.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

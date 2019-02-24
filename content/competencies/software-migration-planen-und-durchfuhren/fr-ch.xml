@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>158</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=158%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Planifier et exécuter la migration de logiciels.</title>
+    <capability>Planifier et exécuter la migration de logiciels dans le cadre d’un changement de version, respectivement, d’un remplacement du logiciel.</capability>
+    <goals>
+        <goal>
+            Elaborer, sur la base d´un mandat, la migration pour le changement sur une nouvelle version de logiciel ou un nouveau logiciel avec des fonctionnalités semblables (directives, objectifs, délais, activités, ressources, exigences techniques). Etablir la documentation avec des aperçu sur la version et contenant les points importants pour la migration.
+            <knowledge-list>
+                <knowledge>
+                    Connaître un déroulement ayant fait ses preuves pour la migration de logiciels.
+                </knowledge>
+                <knowledge>
+                    Connaître les risques qui peuvent apparaître lors de la migration vers un nouveau logiciel ou vers une nouvelle version.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères pour la réalisation de lots de travaux en vue d’un déroulement dans les délais et sans anicroches de la démarche.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes pour déceler et comparer les principaux aspects et exigences  techniques pour l’exploitation d’un logiciel (par ex. environnement système, quantité des données, exigences de sécurité).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer la nouvelle version ou nouveau logiciel sur un système de test et se familiariser avec les différences/innovations essentielles.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des catégories de caractéristiques qui sont importantes pour une comparaison systématique des versions d’un logiciel.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques de configuration qui sont importantes pour l’exploitation de la nouvelle version du logiciel.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser, identifier les lots des données, et expérimenter le caractère fonctionnel sur un banc d´essai avec la nouvelle version ou le nouveau logiciel. Cerner et relever les points principaux de la migration.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une procédure ayant fait ses preuves pour l’analyse de lots de données.
+                </knowledge>
+                <knowledge>
+                    Connaître l’avantage des tests dans un environnement réel ou virtuel.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Extraire, préparer les données actuelles et charger dans le nouveau système. Si possible, automatiser le processus.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités d’automatisation des déroulements avec un langage de scripts.
+                </knowledge>
+                <knowledge>
+                    Connaître un déroulement pour migrer des lots de données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier, dans un environnement d´essai, le caractère fonctionnel, la disponibilité des données et la plénitude de l´adaptation, et faire une  demande de validation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître un déroulement pour tester les migrations dans leur environnement.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences pour une demande de validation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adapter la documentation d’utilisateur, de maintenance et d’exploitation, planifier le changement définitif et obtenir son autorisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure et le contenu de la documentation pour la maintenance et l’exploitation de logiciels.
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures d’accompagnement pour la migration, ainsi que la structure et le contenu de al documentation y relative (par ex. retour, instructions des utilisateurs, informations de service).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Exécuter ou faire exécuter le changement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure et le contenu du mandat pour la migration définitive.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>497</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=497%26clang=de</reference>
+            <level>5</level>
+            <lessons>30</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Projekte rechtskonform abwickeln</title>
+    <capability>Erkennt in ICT‐Projekten die Situationen, bei welchen das Arbeits‐ und Sozialversicherungsrecht, das Urheberrecht, das Datenschutzgesetz und das Vertragsrecht Vorgaben definieren. Trägt mit dem eigenen Handeln und der Einleitung von Massnahmen zur Einhaltung dieser Vorgaben bei.</capability>
+    <goals>
+        <goal>
+            Analysiert die Informationen und Daten, welche in einem Projekt oder zukünftig durch die Projektergebnisse bearbeitet und verwendet werden, leitet daraus potenzielle Gefahren hinsichtlich der Verletzung des Datenschutzgesetztes ab und veranlasst die notwendigen Massnahmen zur Einhaltung der rechtlichen Bestimmungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Formen des Rechts (z.B. Gesetzesrecht, Rechtsprechung, Verträge) und deren Zusammenwirken.
+                </knowledge>
+                <knowledge>
+                    Kennt die Ebenen der Gesetzgebung (z.B. internationales Recht, Bundesrecht etc.) und deren Hierarchie.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Unterteilungen des Rechts (z.B. Privatrecht und öffentliches Recht, zwingendes und dispositives Recht etc.).
+                </knowledge>
+                <knowledge>
+                    Kennt im Überblick die Hilfsmittel des juristischen Arbeitens (Rechtserlasse, Literatur, Rechtsprechung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundzüge der juristischen Arbeit zusammen mit den korrekten Begriffen (z.B. Sachverhalt, Tatbestand, Rechtsfolge etc.).
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundzüge des Datenschutzgesetzes und weiterer branchenspezifischer Gesetzgebungen mit Bezug zur Datenverarbeitung (z.B. medizinische Schweigepflicht).
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Grundprinzipien der Rechtsordnung (z.B. Grundsatz von Treu und Glauben, Beweisregeln etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prüft den Einsatz resp. die Anordnungen für den Einsatz von Mitarbeitenden hinsichtlich der Einhaltung der Bestimmungen im Arbeits‐ und Sozialversicherungsrecht und leitet bei Verletzungen die notwendigen Korrekturen und Anpassungen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundzüge des Arbeitsrechts bezüglich häufiger Problemstellungen im ICTUmfeld (z.B. Anordnung von Überzeit, Überwachung des Mailverkehrs etc.).
+                </knowledge>
+                <knowledge>
+                    Kennt die Besonderheiten und potenziellen Risiken verschiedener Arten von Dienstleistungsverträgen (z.B. freiberufliche Mitarbeit).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prüft den Einsatz von Anwendungen, Instrumenten, Tools und Methoden und die Entwicklung von Lieferobjekten im Rahmen der Projektarbeit hinsichtlich der Einhaltung der Bestimmungen im Urheberrecht sowie verwandten Schutzrechten und leitet bei Verletzungen die notwendigen Massnahmen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundzüge des Immaterialgüterrechts bezüglich häufiger Problemstellungen im ICT‐Umfeld (z.B. Urheberrecht bei Computerprogrammen).
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundzüge des allgemeinen Vertragsrechts (Entstehung, Erfüllung, Störung der Erfüllung).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt in Situationen der Projektarbeit, in denen rechtlich relevante Vereinbarungen getroffen werden, die der Situation und der Vertragsform entsprechenden inhaltlichen Eckpunkte und schlägt diese den verhandelnden Stellen begründet vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Gegenstand und Grundzüge der im OR geregelten Verträge (Kauf, Miete, Werkvertrag, einfacher Vertrag, Arbeitsvertrag).
+                </knowledge>
+                <knowledge>
+                    Kennt Gegenstand, Grundzüge und potenzielle Risiken weiterer, für das ICT‐Umfeld typischer Verträge (z.B. Software‐Lizenzvertrag, Outsourcing‐Vertrag etc.).
+                </knowledge>
+                <knowledge>
+                    Kennt Gegenstand, Grundzüge und potenzielle Risiken von im ICT‐Umfeld üblichen vertraglichen Spezialvereinbarungen (z.B. Letter of Intent, Non‐Discosure Agreement, Dienstleistungs‐Rahmenvertrag, Absichtserklärung etc.).
+                </knowledge>
+                <knowledge>
+                    Weiss, für welche im ICT‐Umfeld typischen Rechtsgeschäfte Musterverträge verfügbar sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert vorgegebene, in der Projektarbeit im ICT‐Umfeld regelmässig anzutreffende Vertragstexte im Hinblick auf deren inhaltliche Abdeckung bzw. inhaltliche Lücken, Wirkung und Konsequenzen sowie offensichtliche Probleme und Risiken und formuliert entsprechende Empfehlung an die verhandelnden Stellen.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, welche besonderen rechtlichen Aspekte am Ende eines IT‐Projekts zu beachten sind (z.B. Abnahmeregelung, Claim‐Management etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus den Ergebnissen der Analyse von Vertragstexten Empfehlungen an verhandelnde Stellen oder die Notwendigkeit von juristischer Unterstützung ab.</goal>
+    </goals>
+</competency>

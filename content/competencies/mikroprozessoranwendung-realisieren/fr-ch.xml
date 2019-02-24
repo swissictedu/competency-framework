@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>242</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=242%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Réaliser des applications pour microprocesseurs.</title>
+    <capability>Structurer, programmer selon les données du problème pour une application à microprocesseur, implémenter et tester sur le matériel cible.</capability>
+    <goals>
+        <goal>
+            Analyser la donnée sur les fonctions exigées et les signaux/données de sortie et d´entrée nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure fondamentale d´une application à microprocesseur ainsi que sa description logique (diagramme d’états).
+                </knowledge>
+                <knowledge>
+                    Connaître la structure du matériel cible avec les composants les plus importants  (registres, RAM, EEPROM, port, timer, UART, ADC, etc.), ainsi que leur importance en faveur de la solution de la tâche prévue.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les fonctions dépendantes du temps ainsi que celles temporellement indépendantes, et les organiser logiquement dans un projet de programme, assigner les données/signaux à des types de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités de réalisation pour des déroulements dépendants du temps et orientés événements, ainsi que leurs avantages et inconvénients.
+                </knowledge>
+                <knowledge>
+                    Connaître des types de données et leur rapport sur les divers composants du matériel cible.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transposer le projet de programme au moyen d’un langage de programmation et de l´environnement correspondants.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’environnement de développement pour réaliser une application à microprocesseur sur le matériel cible.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités de mise en œuvre de parties de programme pour  éditer, traduire, charger un code source et l’exécuter sur le système cible.
+                </knowledge>
+                <knowledge>
+                    Connaître la partie spécifique au matériel du langage de programmation et leur possibilité de mise en œuvre.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier, spécifier les cas de tests selon la donnée et les documenter.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères de tests (dépendants du matériel et du temps) pour la vérification d’applications à microprocesseurs.
+                </knowledge>
+                <knowledge>
+                    Connaître  les possibilités de changement dans les processus et leurs exigences temporellement critiques qui doivent être pris en compte dans les tests de la fonctionnalité demandée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier, sur le matériel cible, l´application réalisée avec des outils appropriés, identifier les erreurs, les corriger et documenter.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les outils de l’environnement de développement (simulateur, débogueur, etc.), ainsi que les possibilités pour exécuter et tester pas à pas une application sur le matériel cible.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>252</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=252%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>IT Projekte initialisieren</title>
+    <capability>Projektidee analysieren und mit dem Projektportfolio abgleichen, Projektumfeld analysieren, Strategiekonformität sicherstellen und Projektwürdigkeit aufgrund eines Business Cases beweisen.</capability>
+    <goals>
+        <goal>
+            Projektidee analysieren und konkretisieren und Projektumfeld untersuchen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein methodisches Vorgehen zur Konkretisierung von Projektideen und kann aufzeigen, wie damit klare Vereinbarungen zwischen Auftrageber und Auftragnehmer erzielt werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien, welche bei der Untersuchung des Projektumfelds zu beachten sind und kann darlegen, welche Bedeutung diese Kriterien für den Projekterfolg haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Business Case mit dem Fachbereich erarbeiten, um die Projektwürdigkeit zu beweisen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Struktur und Inhalte eines Business Case und kann aufzeigen, wie mit diesem Instrumentarium gesicherte Erkenntnisse zur Wirtschaftlichkeit eines Projektes ermittelt werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt kritische Erfolgsfaktoren bei Veränderungen im Unternehmen und kann anhand von bestimmten Ausgangssituationen erläutern, wie solche Veränderungen den Erfolg beziehungsweise Misserfolg eines Projekts beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kategorien von Anforderungen für die Planung des Finanzbedarfs eines Projekts und kann an Beispielen erläutern, wie diese Anforderungen den Finanzbedarf eines Projektes beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projektplan ausarbeiten mit Zielen, Ressourcen, Meilensteinen, Vorgehensmodell, Projektstrukturplan, Qualitäts- und Risikoplan sowie Projektorganisation festlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung der Teilpläne einer vollständigen Projektplanung (Ziele, Projektstruktur mit Arbeitspaketen, Ressourcen, Projektorganisation, Kosten, Termine, Budget, Information und Kommunikation, Risikomanagement, Qualität) und kann für die einzelnen Teilpläne darlegen, welchen Beitrag diese zur Projektplanung liefern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Stakeholdermap erstellen und Kommunikations-Massnahmen für den Projekterfolg spezifizieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Stakeholder eines Projekts und kann aufzeigen, welche Ansprüche diese während der Projektabwicklung und bezüglich des Projektergebnisses haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projekt-Marketing und Kommunikationsplan definieren und mit dem Auftraggeber und seinem Projektsteuerungs-Ausschuss abstimmen.
+            <knowledge-list>
+                <knowledge>
+                    Kann den Zweck der Projektpromotion und des Projektmarketings beschreiben und erläutern, welche projektbezogenen Zielsetzungen damit unterstützt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt verbreitete Massnahmen für das Projektmarketing und kann aufzeigen, in welchen Phasen des Projektes beziehungsweise in welchen Projektsituationen diese sinnvoll eingesetzt werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die häufigsten Berichtsarten, welche für die Information und Kommunikation in einem Projekt eingesetzt werden und kann darlegen, welchem Zweck diese bezüglich des Verhaltens der Projektbeteiligten und der Zusammenarbeit im Projekt dienen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Auswirkungen des Projekts auf das Unternehmen erkennen und erforderliche Anpassungen einleiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Anforderungen und unternehmensbezogene Eigenschaften, über die Personen und Gremien als Träger einer Veränderung im Unternehmen verfügen sollten und kann erläutern, warum diese Eigenschaften zum Projekterfolg beitragen können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kennzahlen und Methoden für die Fortschritts- und Erfolgskontrolle festlegen (Prozesse und Metriken).
+            <knowledge-list>
+                <knowledge>
+                    Kennt Darstellungsmöglichkeiten und Kenngrössen, die einen aussagekräftigen Nachweis hinsichtlich Projektstatus und Prognose liefern und kann an Beispielen erläutern, wie diese zu interpretieren sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien für die Beurteilung des Projekterfolgs und kann anhand von Bespielen erläutern, welchen Zusammenhang zwischen der Beurteilung und dem Projekterfolg besteht.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Resultate des Projektantrags in einen Projektauftrag überführen. Projekt¬auftrag mit den Stakeholdern abstimmen und dem Auftraggeber zur Entscheidung vorlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und die Struktur eines Projektauftrags und kann erläutern, welchen Beitrag die einzelnen Elemente zu einer klaren Definition und Führung des Projektes leisten und damit zu einer klaren Vereinbarung zwischen Auftraggeber und Auftragnehmer führen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

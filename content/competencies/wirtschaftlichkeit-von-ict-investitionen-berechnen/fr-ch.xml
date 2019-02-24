@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>314</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=314%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Calculer la rentabilité d’investissements TIC</title>
+    <capability>Apporter le soutien au département spécialisé lors du calcul et de l’évaluation de l’aspect économique de projets TIC à l’aide de méthodes de calcul d’investissement.</capability>
+    <goals>
+        <goal>
+            Choisir la méthode adéquate de calcul d’investissement compte tenu des caractéristiques du projet et des exigences en matière de calcul de rentabilité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la définition de l’investissement dans le contexte du patrimoine et des paiements.
+                </knowledge>
+                <knowledge>
+                    Savoir distinguer les méthodes statiques et dynamiques de calcul d’investissement et leurs applications respectives.Méthodes statistiques: Calcul comparatif des coûts Calcul comparatif des bénéfices Calcul de rentabilité (ROI Return on Investment) Calcul du délai de récupération Méthodes dynamiques: Méthode de la VAN (valeur actuelle nette) Calcul du délai de récupération
+                </knowledge>
+                <knowledge>
+                    Connaître des critères de structuration et de catégorisation des investissements et leur contexte dans l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître l’incidence des investissements sur la liquidité de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître l’influence de différents modèles d’investissement (achat, leasing) et formes de financement (financement interne, financement extérieur, effet de levier) sur le bilan et le compte de résultat de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux types d’investissement et leurs différences (fondation, remplacement, extension, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Collecter, en collaboration avec le département spécialisé, les informations permettant d’évaluer de manière fiable les recettes que dégagera l’investissement TIC.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la méthode permettant d’utiliser et de compléter les sources disponibles pour quantifier l’utilité et, sur cette base, établir et consolider les recettes que dégagera l’investissement TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Collecter, en collaboration avec le département spécialisé, les informations permettant d’évaluer de manière fiable les (économies de) coûts qui découleront de l’investissement TIC.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la méthode permettant d’utiliser et de compléter les sources disponibles pour quantifier les charges et, sur cette base, établir et consolider les coûts et les économies que dégagera l’investissement TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, compte tenu des consignes de l’entreprise, les paramètres des variantes d’investissement sur lesquelles portera le calcul d’investissement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les paramètres déterminants des différentes méthodes de calcul d’investissement et pouvoir en expliquer les conséquences pour le calcul.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Appliquer la méthode de calcul d’investissement choisie pour calculer la rentabilité des variantes d’investissement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le processus d’investissement et les résultats de ses différentes étapes ainsi que leur importance pour les étapes de la décision.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance du calcul d’investissement en tant que comptabilité des événements futurs et les problèmes que cela pose dans le cadre des décisions d’investissement (incertitude, capital limité et quantifiabilité des données déterminantes).
+                </knowledge>
+                <knowledge>
+                    Connaître l’impact des investissements sur les charges d’exploitation pendant la période d’utilisation et sur les éventuels désinvestissements une fois cette période écoulée.
+                </knowledge>
+                <knowledge>
+                    Connaître le critère de l’utilité nette et en tenir compte dans l’analyse des projets d’investissement et des sommes à engager.
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les variables des méthodes de calcul d’investissement. Savoir comment se les procurer.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Interpréter et comparer les résultats des calculs de rentabilité et intégrer les résultats obtenus dans des bases de décision où ils sont assortis d’arguments.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les exigences des investissements en tant que contributions stratégiques et savoir interpréter les décisions d’investissement dans le contexte de la direction de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux indicateurs, les informations qu’ils fournissent au management et la manière dont on les calcule.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères d’évaluation des risques inhérents aux investissements dont il faut tenir compte dans l’analyse d’un projet d’investissement et dans l’évaluation des résultats d’un calcul d’investissement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Accompagner la réalisation d’investissements TIC et évaluer les comparaisons à date fixe entre résultats et coûts d’investissement pendant et après l’investissement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes de contrôle d’avancement des coûts et des résultats (méthode de la valeur acquise, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

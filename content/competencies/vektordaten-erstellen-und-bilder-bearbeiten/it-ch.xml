@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>271</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=271%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Elaborare dati vettoriali e immagini</title>
+    <capability>Realizzare grafici, diagrammi e immagini, elaborarli dal punto di vista artistico e salvarli nel formato adatto al media di destinazione.</capability>
+    <goals>
+        <goal>
+            Realizzare elementi grafici mediante un software per la grafica vettoriale.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le differenze tra dati vettoriali e dati raster come pure vantaggi e svantaggi in termini di risoluzione, gradazione e volume di dati.
+                </knowledge>
+                <knowledge>
+                    Conoscere diversi strumenti per la realizzazione di grafici e il loro impiego.ke.
+                </knowledge>
+                <knowledge>
+                    Conoscere il tool "penna" per creare e modificare i tracciati.
+                </knowledge>
+                <knowledge>
+                    Conoscere gli strumenti appropriati per realizzare ed elaborare grafici vettoriali (loghi, pittogrammi, diagrammi, piani di situazione ed elementi tipografici) destinati a media stampati e digitali.
+                </knowledge>
+                <knowledge>
+                    Conoscere le direttive per realizzare grafici vettoriali adatti alla stampa su plotter.
+                </knowledge>
+                <knowledge>
+                    Conoscere le funzioni del tool per la vettorializzazione dell'immagine al fine di convertire dati raster in dati vettoriali.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eseguire semplici correzioni e montaggi mediante un software per la grafica raster.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere l'importanza dei fattori di qualità come la risoluzione e la dimensione delle im-magini nonché la dimensione dei file.
+                </knowledge>
+                <knowledge>
+                    Conoscere metodi per valutare la risoluzione delle immagini e modificare / impostare la dimensione delle immagini.
+                </knowledge>
+                <knowledge>
+                    Conoscere l'impiego dei dati immagine e, all'occorrenza, modificare il contrasto, la lumino-sità e i parametri di gradazione.
+                </knowledge>
+                <knowledge>
+                    Conoscere funzioni per eseguire semplici correzioni cromatiche delle immagini.
+                </knowledge>
+                <knowledge>
+                    Conoscere funzioni per trasformare immagini a colori in immagini in bianco e nero.
+                </knowledge>
+                <knowledge>
+                    Conoscere funzioni per mascherare porzioni di immagini e sopprimere lo sfondo.
+                </knowledge>
+                <knowledge>
+                    Conoscere strumenti appropriati per effettuare semplici ritocchi alle immagini.
+                </knowledge>
+                <knowledge>
+                    Conoscere strumenti appropriati per realizzare semplici combinazioni di immagini.
+                </knowledge>
+                <knowledge>
+                    Conoscere metodi per ottimizzare la nitidezza delle immagini.
+                </knowledge>
+                <knowledge>
+                    Conoscere diverse possibilità per automatizzare le fasi di elaborazione.
+                </knowledge>
+                <knowledge>
+                    Conoscere diverse possibilità per stabilire il linguaggio delle immagini adatto al gruppo target (ad es. tema, struttura dell'immagine, bianco e nero o a colori, formato e nitidezza delle immagini).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Salvare immagini e dati vettoriali in un formato adatto.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i formati di file appropriati e le relative caratteristiche per garantire un salvatag-gio ottimale delle immagini.
+                </knowledge>
+                <knowledge>
+                    Conoscere la compressione senza perdita di informazioni e la compressione con perdita di informazioni
+                </knowledge>
+                <knowledge>
+                    Conoscere funzioni finalizzate a ottimizzare e salvare le immagini per diversi media di desti-nazione.
+                </knowledge>
+                <knowledge>
+                    Conoscere formati grafici vettoriali.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

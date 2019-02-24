@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>476</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=476%26clang=fr</reference>
+            <level>5</level>
+            <lessons>60</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer le design logique d’une application</title>
+    <capability>Développer les artefacts du design orienté objet d’une application à partir de l’analyse.</capability>
+    <goals>
+        <goal>
+            Identifier et définir les composants à développer à partir du modèle d’analyse des exigences non fonctionnelles et de l’architecture choisie. Concevoir sur cette base le modèle en couches de l’application.
+            <knowledge-list>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de composants qui contribuent à la description du modèle en couches d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de composants et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de paquetage qui contribuent à la description du modèle en couches d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de paquetage et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier et définir les composants physiques de l’application à partir du modèle en couches, des exigences non fonctionnelles et des consignes d’architecture. Déterminer leur déploiement dans l’infrastructure du système.
+            <knowledge-list>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de déploiement qui contribuent à la description d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de déploiement et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Concevoir un modèle métier de sous‐systèmes et de composants compte tenu du modèle d’analyse et des composants à développer.
+            <knowledge-list>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de composants qui contribuent à la description des composants d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de composants et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Concevoir les modèles de classe des composants à développer compte tenu du modèle d’analyse et en recourant au design pattern, aux best practices, etc. en fonction de la solution.
+            <knowledge-list>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de classes qui contribuent à la description des composants d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de classes et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de structure composite qui contribuent à la description des composants d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de structure composite et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les design patterns (patrons de conception) qui contribuent au développement d’un composant et de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des design patterns et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Concevoir les modèles d’état qui définissent le comportement des objets et interactions dans et entre les composants à développer compte tenu du modèle d’analyse et en recourant au design pattern, aux best practices, etc. en fonction de la solution.
+            <knowledge-list>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme d’état qui contribuent à la description des modèles d’état d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme d’état et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer pour les composants à développer des unit tests orientés processus adéquats et automatisables.
+            <knowledge-list>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments de l’unité tests automatisés qui contribuent à la vérifiabilité du code de programme développé pour une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’une unité test automatisé et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir les éléments adéquats pour développer des interfaces utilisateur en fonction des attentes des utilisateurs et créer ces interfaces conformément aux consignes de style et d’utilisabilité de la plateforme qui les accueillera.
+            <knowledge-list>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un prototype d’écran qui contribuent à la description du modèle de domaine d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un prototype d’écran et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

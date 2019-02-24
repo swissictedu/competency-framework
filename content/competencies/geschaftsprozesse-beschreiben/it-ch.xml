@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>254</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=254%26clang=it</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Descrivere i processi aziendali</title>
+    <capability>Documentare i processi aziendali, eseguire l’analisi dei compiti e rap-presentare graficamente il percorso dei processi.</capability>
+    <goals>
+        <goal>
+            Stabilire e documentare le informazioni di processo rilevanti (denominazione, evento causale, risultato, fornitore, cliente) e basandosi sulla descrizione verbale di un’indagine eseguita precedentemente.
+            <knowledge-list>
+                <knowledge>
+                    Kennt einige Funktionsbereiche eines Unternehmens und kann diese, bezogen auf deren Ablauf, in eine sinnvolle Reihenfolge bringen.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Elemente einer Unternehmensorganisation, welche für die Festlegung von Zuständigkeit und Verantwortung in einem Geschäftsprozess relevant sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundelemente Objekt und Verrichtung zur Beschreibung eines Geschäftsprozesses.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Merkmale und Eigenschaften eines Geschäftsprozesses und kann mögliche Ausprägungen an praktischen Beispielen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten Informationen zur Definition eines Geschäftsprozesses und kann erläutern, welchen Beitrag diese zur Beschreibung und Abgrenzung eines Geschäftsprozesses leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt Ausprägungen von auslösenden Ereignissen und Ergebnissen in einem Geschäftsprozess und kann diese anhand von Beispielen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nell’analisi dei compiti, suddividere il processo aziendale in fasi di processo e rappresentare graficamente il percorso del processo. Basarsi sulla descrizione verbale del processo aziendale, sulle informazioni di processo rilevanti e sugli standard di descrizione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Grundformen von Folgebeziehungen in einem Ablauf und kann aufzeigen, welche Sachverhalte damit abgebildet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt mindestens eine Darstellungstechniken (z.B. mit UML) zur Beschreibung eines Prozessablaufs und kann aufzeigen, für welchen Verwendungszweck der Darstellungen sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Precisare il percorso del processo con informazioni aggiuntive, quali i mezzi d’aiuto necessari, unità esecutive e la descrizione degli output (risultati) da ottenere.
+            <knowledge-list>
+                <knowledge>
+                    Kennt prozessunterstützende Mittel und Ressourcen und kann aufzeigen, wie diese zur Optimierung eines Geschäftsprozesses eingesetzt werden können.
+                </knowledge>
+                <knowledge>
+                    Kann Geschäftsprozesse auf Organisation und IT aufteilen und dies entsprechend grafisch darstellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

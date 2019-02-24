@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>423</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=423%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Appliquer les CI/CD aux domaines d’applications élargis</title>
+    <capability>Comprendre une identité d’entreprise (CI) et en déduire, par conséquent, les éléments non définis dans le concept d’entreprise (CD), et compléter celui‐ci pour divers canaux de communication</capability>
+    <goals>
+        <goal>
+            Interpréter l’identité d’entreprise (CI), analyser et comprendre le positionnement, les groupes cibles, les limites de la concurrence, la culture et l´identité de l´entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les paramètres principaux de l’image pilote d’une entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes pour extraire le message essentiel d´une image pilote d’entreprise et del’identité de l´entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les bases et le processus de développement de la marque et de l’identité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Comprendre l´idée créatrice et le concept de communication du concept d’entreprise existant, et les appliquer à la tâche posée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes telles que extraction de valeurs, cluster de valeurs, planche de tendance, etc. pour représenter et transposer de manière compréhensible le positionnement et la nature de l´entreprise ou la diffusion de la culture d´entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les paramètres clés du contenu d´un concept de communication.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes versions de distribution des nouveaux médias (porteur du message).
+                </knowledge>
+                <knowledge>
+                    Connaître les chances et les limites, respectivement, les faiblesses du marketing viral et des médias sociaux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un projet pour les futures applications possibles du CD (en tenantcompte de l´aspect général homogène).
+            <knowledge-list>
+                <knowledge>
+                    Connaître des techniques d´enquête pour déterminer la consommation des médias du groupe cible et pouvoir en tirer les conclusions nécessaires.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de visualisation et de présentation des applications avancées afin de mettre celles‐ci en scène.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques de d’argumentation pour la justification professionnelle de nouveaux produits.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Garantir l’assurance de qualité, à savoir le contrôle et l´évaluation, et, au besoin, exécuter les interventions et corrections.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes de test pour déterminer l´impact émotionnel et le degré de l´effet de la reconnaissance de composants de conception nouvelle.
+                </knowledge>
+                <knowledge>
+                    Connaître des moyens d’aide (par exemple des outils statistiques) pour réussir à mesurer ultérieurement le taux de réponses.
+                </knowledge>
+                <knowledge>
+                    Connaître le cadre des compétences de sa propre intervention et le point de contact pour une éventuelle transmission au niveau supérieur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documenter les domaines d´application étendus et compléter éventuellement le manuel du CD.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les composants nécessaires et la structure logique d´un guide de l´utilisateur CI / CD.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

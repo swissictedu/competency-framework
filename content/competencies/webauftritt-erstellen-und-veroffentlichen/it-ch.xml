@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>101</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=101%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Realizzare e pubblicare un sito web</title>
+    <capability>Realizzare un sito web con un linguaggio di descrizione di pagina in base a delle specifiche e pubblicarlo.</capability>
+    <goals>
+        <goal>
+            Analizzare il mandato (obiettivo, contenuti, funzionalità) e scegliere gli elementi di testo risp. di grafica per il sito web.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen bei der Situationsanalyse und weiss, welchen Beitrag dieses zur Definition eines klaren Auftrags liefert.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborare una proposta di soluzione per il sito web (struttura del sito, navigazione, presentazione, etc.).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Unterschiede der verschiedenen Endgeräte hinsichtlich Funktionalität, Darstellung und Auflösung und Bandbreite der Netzwerkanbindung.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien die bei der Strukturierung von Informationen auf Websites verwendet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten rechtlichen Rahmenbedingungen (Copyrights, illegale Downloads, Lizenzierungsbedingungen) bei der Verwendung fremder Inhalte.
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigsten Medienformate für das Web und deren Einbindung in einer Webseite.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Gestaltungsregeln, die beim Einsatz von Schriften, Farben und Grafiken auf einer Website zu berücksichtigen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Convertire la proposta di soluzione in un sito web con un linguaggio di descrizione di pagine
+            <knowledge-list>
+                <knowledge>
+                    Kennt Grundelemente von HTML und Style Sheets (CSS) und kann diese für die Erstellung einer Website einsetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Grundelemente (Schrift, Farbe, Bild), die bei der Gestaltung einer Website berücksichtigt werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einsatzmöglichkeiten von PDF und kann Dokumente webgerecht aufbereiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verificare se il sito web rispetta le specifiche del mandato.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Methode (z.B. Testen, Validierung) für die Erfolgskontrolle und kann deren Einsatz für die Bestimmung der Zielerfüllung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Testkriterien um die korrekte Funktionsweise des Webauftritts auf unterschiedlichen Endgeräten und Browsern sicherzustellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Pubblicare il sito web su un web server.
+            <knowledge-list>
+                <knowledge>
+                    Kennt was beachtet werden muss, wenn die Website-Präsentation von der lokalen Arbeitsumgebung auf einen Web-Server übertragen wird.
+                </knowledge>
+                <knowledge>
+                    Kennt Werkzeuge zur sicheren Übertragung einer Website von einer lokalen auf eine serverbasierte Umgebung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

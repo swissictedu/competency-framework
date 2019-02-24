@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>215</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=215%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Informatikstrategie umsetzen</title>
+    <capability>Aus Unternehmensleitbild und IT Strategie die Anforderungen und Rahmenbedingungen ableiten und in eine konkrete konzeptionelle Vorgabe für eine IT Organisationseinheit überführen. Umsetzungsvarianten entscheidungsreif erarbeiten, präsentieren und die ausgewählte Variante den Verantwortlichen zur Realisierung übergeben.</capability>
+    <goals>
+        <goal>
+            Die IT Strategie auf Klarheit, Relevanz und Umsetzbarkeit überprüfen und dabei die Dienstleistungen und die organisatorischen Aspekte der beteiligten Organisationseinheiten berücksichtigen.Unklarheiten mit dem Verantwortlichen für die IT Strategie bereinigen und notwendige Anpassungen veranlassen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Zielsetzungen und Inhalte einer Informatikstrategie.
+                </knowledge>
+                <knowledge>
+                    Kann das Grundschema einer Vorgehensweise für die strategieorientierte Informatikplanung darstellen und für die einzelnen Schritte den Beitrag zu Informatik-Dienstleistungen, die auf die Zielsetzungen der Unternehmung abgestimmt sind, aufzeigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bereiche (Hardware, Applikationen, Projektmanagement etc.) innerhalb einer Organisationseinheit identifizieren, für die aus strategischer Sicht (Unternehmensleitbild, IT Strategie etc. ) Handlungsbedarf besteht. Konzeptionelle Lösungsansätze für die betroffenen Bereiche dieser Organisationseinheit entwickeln.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Aufgabengebiete einer IT Organisationseinheit und kann deren Beitrag zu den Zielsetzungen beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kann bei bekannten Analyse- und Designtechniken darlegen, mit welchen Methoden diese angewendet werden und wie sie ein Lösungskonzept darstellen können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Massnahmen zur Umsetzung der konzeptionellen Lösungsansätze bestimmen und Umsetzungsvarianten (potentielle IT Projekte oder Aufträge) einschliesslich Grobplanung entwickeln.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Kreativitätstechniken und kann aufzeigen welchen Beitrag diese zur Bestimmung von Lösungsvarianten leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Umsetzungsvarianten den personellen und finanziellen Möglichkeiten der Organisationseinheiten entsprechend bewerten und mit der bereinigten IT Strategie überprüfen. Empfehlung an die Entscheidungsträger in Berichtsform ausarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kann Techniken der Bewertung von Lösungskonzept-Alternativen nennen und kann deren Beitrag zu einer klaren Entscheidungsfindung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die inhaltlichen Bereiche eines Berichts zu einem Lösungsvorschlag für ein bestimmtes Vorhaben oder ein Problem und kann aufzeigen, welchen Beitrag diese zu einer plausiblen und nachvollziehbaren Empfehlung leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dokumentierte Umsetzungsvarianten mit Empfehlung vor den Entscheidungsträgern präsentieren und eine Entscheidung herbeiführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Gliederung einer aussagekräftigen Präsentation und kann beschreiben, welchem Zweck diese bei der Darlegung eines Vorschlags vor einem Entscheidungsgremium dient.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Mitarbeiter und verantwortlichen Stellen der Organisationseinheit über die Entscheidungen und deren Auswirkungen offen und nachvollziehbar informieren. Ausgewählte Projekte und/oder Aufträge an die für die Umsetzung verantwortlichen Stellen übergeben.
+            <knowledge-list>
+                <knowledge>
+                    Kann Kommunikationsregeln aufzeigen, welche sich bei der Präsentation von Entscheidungen an Betroffene eignen und darlegen, wie diese zur Akzeptanz beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt Inhalt und Struktur eines Projektauftrags und kann aufzeigen, was diese zu einem klaren Auftrag beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

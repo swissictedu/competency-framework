@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>303</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=303%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Objektbasiert programmieren mit Komponenten</title>
+    <capability>Vorgabe interpretieren, mit einer auf RAD-Technologie (Rapid Application Development) basierenden Programmiersprache implementieren, dokumentieren und testen.</capability>
+    <goals>
+        <goal>
+            Vorgabe interpretieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Darstellungsmöglichkeiten für ereignisorientierte Verarbeitungen (z.B. Zustandsdiagramm) und kann an Beispielen erläutern, welche Sachverhalte sich damit abbilden lassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Einfache graphische Bedieneroberfläche entwerfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Regeln, die beim Aufbau einer Bedieneroberfläche eingehalten werden müssen (Abfolge der Ereignisse einhalten, klare Zuordnung von Ereignissen und den dazugehörenden Aktionen, klare Bezeichnungen und sprechende Symbole) und kann erläutern, wie damit eine korrekte Bedienung durch die Benutzerinnen und Benutzer sichergestellt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Informationen (z.B. Funktionsbeschreibung), die in der Beschreibung einer Komponente enthalten sein müssen und kann erläutern, welchen Nutzen diese Informationen bei der Auswahl einer Komponente resp. bei der Verwendung dieser Komponente in einem Programm bringen.
+                </knowledge>
+                <knowledge>
+                    Kennt GUI-Komponenten, die eine Programmiersprache bzw. deren Bibliotheken für die Definition von Benutzerschnittstellen zur Verfügung stellen und kann erläutern, für welche Art von Benutzerinteraktionen diese eingesetzt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erforderliche Daten bestimmen und Datentypen festlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Datentypen (Ganzzahl, Gleitkommazahl, Zeichenketten, Boolean) und kann aufzeigen, welche Arten von Daten/Informationen diesen Datentypen zugeordnet werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmvorgabe unter Nutzung vorhandener Komponenten mit deren Eigenschaften und Methoden, sowie Operatoren, Prozeduren und Funktionen ereignisorientiert implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den grundsätzlichen Aufbau einer Komponente (Eigenschaften, Methoden) und kann an Beispielen aus dem Alltag erläutern, wie sich diese für die Verarbeitung eines Ereignisses einsetzen lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt den grundlegenden Aufbau eines Programms (lokale und globale Variablen, Ereignisprozeduren, Verarbeitung usw.) und kann diesen Aufbau an einem Programm beispielhaft erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Komponenten mit ihren Eigenschaften, Methoden und Ereignissen und kennt Operatoren, Prozeduren und Funktionen einer Programmiersprache und kann aufzeigen, welche Verarbeitungsanweisungen damit realisiert werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Regeln, die bei der Datenein- und -ausgabe auf dem Bildschirm einzuhalten sind (Bezeichnung der Informationen, Format für Dateneingabe usw.) und kann erläutern, welche Probleme sich ergeben, wenn diese Regeln nicht eingehalten werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beim Programmieren vorgegebene Standards und Richtlinien einhalten, das Programm in line dokumentieren und dabei auf Wartbarkeit und Nachvollziehbarkeit achten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Regeln für einen verständlichen Quellcode (sprechende Komponenten- und Variablenbezeichnungen, optische Strukturierung, geeignete Kommentare) und kann erläutern, welchen Beitrag diese Angaben zur Lesbarkeit von Programmen leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programm auf Einhaltung der Funktionalität testen, Fehler erkennen und beheben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Testfalls (zu testende Funktion oder Verarbeitung, Eingabedaten, erwartete Ergebnisse) und kann aufzeigen, welche Bedeutung die Definition dieser Elemente für den Nachweis der korrekten Verarbeitung von Informationen in einem Programm hat.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

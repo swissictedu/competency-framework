@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>156</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=156%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Neue Services entwickeln und Einführung planen</title>
+    <capability>Einen neuen Service aus Kundenanforderungen ableiten, Produkte und Ressourcen evaluieren, den verlangten Service entwickeln und die Einführung planen.</capability>
+    <goals>
+        <goal>
+            Auf Grund einer Kundenanforderung die benötigten Informationen recherchieren, die erforderlichen Produkte / Ressourcen evaluieren und ein Konzept zur Erbringung des verlangten Services erarbeiten. Dabei den qualitativen und quantitativen Nutzen bestimmen und die Servicekosten abschätzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Merkmale von Leistungen einer Serviceeinheit, die für die Zusammenarbeit zwischen Leistungserbringer und Leistungsempfänger relevant sind.
+                </knowledge>
+                <knowledge>
+                    Kennt den betriebswirtschaftlichen Nutzen einer differenzierten Spezifikation eines Services.
+                </knowledge>
+                <knowledge>
+                    Kennt ein bewährtes Vorgehen zur Definition von Services. .
+                </knowledge>
+                <knowledge>
+                    Kennt technische, organisatorische, kalkulatorische und rechtliche Aspekte, die zu einer verbindlichen Spezifikation von Services zwischen Leistungserbringer und Leistungsempfänger beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Das Konzept den zuständigen Gremien präsentieren und einen Entscheid für die Realisierung herbeiführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufbau und Inhalt einer professionellen Präsentation.
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Inhalt der notwendigen Dokumente um dem zuständigen Gremium einen Entscheid zu ermöglichen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            In Zusammenarbeit mit Fachspezialisten die für das Service Level Management massgebenden Leistungsziele und wirtschaftlichen Ziele ausarbeiten. Dabei Sicherheitsanforderungen, Risiken und das Verfahren für den Störungsfall beachten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Regeln welche bei der erfolgreichen Zusammenarbeit mit Fachkräften aus einem anderen Gebiet zu beachten sind.
+                </knowledge>
+                <knowledge>
+                    Kennt spezifische Risiken und deren Merkmale, die bei der Erbringung von Services auf Seite Leistungserbringer und Leistungsempfänger bestehen.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Methode um das Verfahren im Störungsfall abzubilden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Messkriterien für die Serviceüberwachung und Serviceverrechnung vorschlagen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt einen Überwachungsprozess zur Beurteilung der Serviceleistung.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien für die Kostenüberwachung von Dienstleistungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Den Service entwickeln, dokumentieren, Testumgebung aufsetzen   und die Einführung planen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Dokumentationsformen für die Beschreibung eines Services/einer Dienstleistung.
+                </knowledge>
+                <knowledge>
+                    Kennt Testverfahren zur Überprüfung der Funktionalität, Integrität und Wirtschaftlichkeit von Services.
+                </knowledge>
+                <knowledge>
+                    Kennt Aspekte, die bei der Übergabe eines Services in den operativen Betrieb beachtet werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>243</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=243%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Bussysteme anwenden</title>
+    <capability>Vorgegebene Komponenten (Master, Slaves) mit einer geeigneten Bus-Topologie vernetzen.</capability>
+    <goals>
+        <goal>
+            Aus einer Vorgabe die über Bussysteme zu verbindenden Aktoren, Sensoren und die Steuerung identifizieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktionalität der einzelnen Komponenten sowie deren Darstellungsformen und kann diese in der Vorgabe identifizieren und nennen.
+                </knowledge>
+                <knowledge>
+                    Kennt Merkmale wie Strom, Spannung und Leistung der verwendeten Komponenten und kann deren Einsatzbereich näher erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die zur Lösung der Aufgabe geeigneten Bussysteme vorschlagen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt gängige Bussysteme wie Profibus, Interbus, CAN-Bus, etc. sowie deren Protokolle und kann erläutern, für welche Einsatzfälle die verschiedenen Bussysteme besonders geeignet sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vor- und Nachteile der ausgewählten Bussysteme bewerten und sich für das am besten Geeignete entscheiden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die physikalischen und logischen Topologien, sowie Leitungscodierungen gängiger Bussysteme und kann diese Kenntnisse in die Entscheidung einfliessen lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt Limitierungen wie Reaktionszeiten, Verfügbarkeit, Ausdehnung, sowie maximale Anzahl der Komponenten gängiger Bussysteme und kann diese einander gegenüberstellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit dem ausgewählten Bussystem die Aktoren, Sensoren und die Steuerung verbinden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Softwareschnittstellen typischer Komponenten und kann erläutern, wie diese von der Anwendung angesprochen werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Anwendung zur Steuerung der Komponenten gemäss Vorgabe programmieren und implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Editoren, Compiler und Linker und kann erläutern, wie damit eine Steuerung für das Zielsystem realisiert werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Aus der Vorgabe die Testfälle identifizieren, spezifizieren und die mit dem Bussystem realisierte Anwendung testen und Testergebnisse dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Entwicklungsumgebung (Simulator, Debugger, etc.) und kann erläutern, welcher Arten von Fehlern in einem System damit vorgebeugt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

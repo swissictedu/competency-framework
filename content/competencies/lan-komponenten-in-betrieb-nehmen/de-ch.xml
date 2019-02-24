@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>129</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=129%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>LAN-Komponenten in Betrieb nehmen</title>
+    <capability>Netzwerkkomponenten in einer LAN-Umgebung nach Vorgaben und unter Beachtung der Sicherheitsanforderungen in Betrieb nehmen, konfigurieren, testen und abnehmen lassen.</capability>
+    <goals>
+        <goal>
+            Anforderungen für ein neues Netzwerk aufnehmen und die erforderlichen Netzwerkkomponenten bestimmen (Switch, Router).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Gremien (IEEE, ISO) sowie die von ihnen definierten Standards (z.B. 100BaseT, IEEE 802.x).
+                </knowledge>
+                <knowledge>
+                    Kennt die aktuellen LAN-Technologien und deren Einsatzgebiete und Funktionsweise.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionsweise von Switch und Router und deren Einsatzgebiete.
+                </knowledge>
+                <knowledge>
+                    Kennt Eigenschaften und Zusatzfeatures von Switches (z.B. manageable, stackable, auto-sense, spanning tree).
+                </knowledge>
+                <knowledge>
+                    Kennt die Sicherheitsschwachstellen von Switch und Routern (z.B. Defaultpasswort, telnet).
+                </knowledge>
+                <knowledge>
+                    Kennt Symbole zur schematischen Darstellung von Netzwerken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adressschema für IP Netz mit Subnetzen anpassen und geeignetes Subnetting mit zugehöriger Netzmaske aus Vorgaben ableiten (z.B. Aufteilung in IP Netze, Anzahl Clients).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente und Funktionen des IP-Protokolls (MAC- und IP-Adressen, IP-Adressklassen, private Adressen, Netzmasken, Routing, Adress Resolution Protocol (ARP)).
+                </knowledge>
+                <knowledge>
+                    Kennt Gründe für die Aufteilung eines Netzwerks in IP-Subnetze.
+                </knowledge>
+                <knowledge>
+                    Kennt die Algorithmen zur (binären) Berechnung von IP-Subnetzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Netzwerkkomponenten gemäss Netzwerkschema und Adressierung in Betrieb nehmen und konfigurieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die notwendigen Einstellungen für Router und Switch zur Sicherstellung der Kommunikation im Netzwerk.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Statisches Routing gemäss Netzwerkschema implementieren und Routing Tabelle interpretieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Unterschiede zwischen statischem und dynamischem Routing.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau und den Inhalt von Routingtabellen und den Zusammenhang zum Netzwerkschema.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Konfigurationsfehler und ihre Ursachen mit geeigneten Hilfsprogrammen analysieren und beheben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Verfahren zur systematischen Eingrenzung von Fehlern im Netzwerk (z.B. Ausschlussverfahren, Einordnung im OSI-Schichtenmodell).
+                </knowledge>
+                <knowledge>
+                    Kennt Werkzeuge zur Fehleranalyse und –behebung und weiss, bei welchen Symptomen welche Werkzeuge eingesetzt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Netzwerkdokumentation erstellen bzw. nachführen (Konfiguration, Netzwerkschema).
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufbau und Inhalt einer Netzwerkdokumentation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Netzwerk mit einem Abnahmeprotokoll dem Kunden übergeben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und Inhalt eines Abnahmeprotokolls.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

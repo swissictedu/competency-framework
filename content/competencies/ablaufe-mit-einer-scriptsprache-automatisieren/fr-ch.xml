@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>122</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=122%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Automatiser des procédures à l’aide de scripts.</title>
+    <capability>Automatiser des fonctions avec des scripts dans l´administration système.</capability>
+    <goals>
+        <goal>
+            Représenter graphiquement, dans un diagramme de flux, une fonction ou processus d´automatisation compte tenu des interactions de l´utilisateur.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des exemples de tâches d’automatisation.
+                </knowledge>
+                <knowledge>
+                    Connaître des critères qui sont déterminants dans l’évaluation du potentiel d’automatisation.
+                </knowledge>
+                <knowledge>
+                    Connaître des structures fondamentales de contrôles ainsi que leur mise en œuvre lors de l’automatisation des déroulements.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement d’une analyse de situation et savoir quelle contribution celle-ci apporte à la définition claire d’un mandat.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement de la représentation graphique de processus.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour la réalisation de scripts dans l’administration système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transposer le diagramme de flux dans un script.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctionnalités fondamentales du langage de scripts mis en œuvre.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Intégrer un script dans un environnement système.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les mesures courantes de sécurité lors de la mise en œuvre de scripts.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités d’intégration de scripts dans le système d’exploitation installé.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester le script en ce qui concerne le déroulement complet et correct de la fonction respectivement du déroulement souhaité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une procédure de test des scripts.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement des tests dans l’intégration de scripts.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir une documentation utilisateur pour la mise en œuvre du script.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments de la documentation pour les rôles concernés (par ex. système, administrateur, développeur).
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance de la documentation en regard de l’assurance qualité et de la maintenance.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

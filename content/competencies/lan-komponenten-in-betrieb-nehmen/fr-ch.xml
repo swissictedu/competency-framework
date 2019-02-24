@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>129</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=129%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettre en service des composants réseaux.</title>
+    <capability>Mettre en service, configurer, tester des composants réseaux dans un environnement LAN selon prescriptions et en observant les exigences de sécurité.</capability>
+    <goals>
+        <goal>
+            Enregistrer les exigences du réseau à installer, déterminer les composants nécessaires (switch, router, etc.)
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales instances de normalisation (IEEE, ISO) ainsi que leurs normes (par ex. 10BaseT, IEEE 802.x).
+                </knowledge>
+                <knowledge>
+                    Connaître les technologies de réseau actuelles et leurs domaines d´utilisation.
+                </knowledge>
+                <knowledge>
+                    Connaître les fonctionnalités des switchs et routeurs ainsi que leur domaines d’applications.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques et les particularités accessoires des switches (par ex. administrable, stackable, autosens, spanning tree).
+                </knowledge>
+                <knowledge>
+                    Connaître les faiblesses spécifiques des switchs et routeurs (par ex. mot de passe par défaut, telnet).
+                </knowledge>
+                <knowledge>
+                    Connaître des symboles pour la représentation graphique d’un réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adapter le schéma d’adresses dans la suite TCP/IP le protocole IP en configurant les adresses IP et les masques de sous-réseaux (par ex. répartition en sous réseaux IP, nombre de clients).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments et les fonctions du protocole TCP/IP (adresses MAC et IP, classes d´adresses IP, adresses privées, masques de réseau, routage, Adress Resolution Protocol (ARP)).
+                </knowledge>
+                <knowledge>
+                    Connaître les raisons d’une subdivision des réseaux en sous-réseaux IP.
+                </knowledge>
+                <knowledge>
+                    Connaître les algorithmes de calcul (binaire) de sous-réseaux IP.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Configurer et mettre en service les composants réseau selon la topologie et le plan d’adressage.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les réglages nécessaires sur un switch ou un routeur afin d’assurer la communication dans un réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter le routage statique sur la base de l’adressage choisi et interpréter les tables de routage.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la différence entre routage statique et routage dynamique.
+                </knowledge>
+                <knowledge>
+                    Connaître la structure et le contenu des tables de routage ainsi que la relation entre le schéma de réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser, éliminer les erreurs de configuration et leurs causes avec des programmes d’aide.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des procédures pour la délimitation systématique des erreurs dans un réseau (par ex. attribution dans l’architecture OSI).
+                </knowledge>
+                <knowledge>
+                    Connaître des outils d´analyse et de correction d´erreur ainsi quels sont les outils à utiliser en présence de quels symptômes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer la documentation du réseau (configuration, schéma, choix).
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’organisation et le contenu d’une documentation de réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Remettre le réseau au client selon le protocole de remise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’organisation et le contenu d’un procès-verbal de remise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

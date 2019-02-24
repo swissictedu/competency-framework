@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>495</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=495%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Evaluer l’utilité et l’intégrabilité de technologies TIC</title>
+    <capability>Analyser les capacités d’intégration et les avantages d’une technologie nouvelle à introduire pour un système existant et en déduire, à l´attention des décideurs, une recommandation concernant l’utilisation de cette technologie.</capability>
+    <goals>
+        <goal>
+            Définir si les possibilités offertes par une technologie à introduire ou les adaptations qui en résultent pour le système considéré sont déterminantes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes permettant de délimiter la frontière du système à analyser.
+                </knowledge>
+                <knowledge>
+                    Connaître, dans leurs grandes lignes, les tendances TIC actuelles et le concept de cycle de vie des technologies (Gartner Hype Cycle, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître la terminologie, les domaines d’utilisation et la pénétration de différentes technologies matérielles (mobile computing, cloud computing, virtualisation, architectures de système, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître la terminologie, les domaines d’utilisation et la pénétration du middleware (bases de données, moniteurs transactionnels, plateformes d’intégration, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître la terminologie, les domaines d’utilisation et la pénétration des logiciels standards (PGI, GRC, GCL, CAO, SGD, groupware, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître la terminologie, les domaines d’utilisation et la pénétration des méthodes et d’environnements de développement (Java, .NET, XML, SAP‐ABAB, Eclipse, RUP, Scrum, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître la terminologie, les domaines d’utilisation et la pénétration de différents concepts de sourcing (externalisation de centres de calcul, externalisation de processus, ASP, SaaS, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître la terminologie, les domaines d’utilisation et la pénétration des médias sociaux (XING, Facebook, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les domaines techniques et fonctionnels du système considéré dans lesquels la technologie a une implication et décrire cette implication pour le système.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des concepts d’exploitation technologiques et leurs liens avec la technologie à introduire.
+                </knowledge>
+                <knowledge>
+                    Connaître l’environnement système TIC de sa propre entreprise et savoir identifier les systèmes concernés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser et évaluer les implications identifiées dans l’optique de leur intégrabilité dans le système existant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes et techniques d’évaluation objective de l’intégrabilité (analysed’impact).
+                </knowledge>
+                <knowledge>
+                    Connaître les processus métier critiques de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes de gestion des risques.
+                </knowledge>
+                <knowledge>
+                    Connaître les langages de programmation et de développement utilisés dans l’entreprise pour le développement logiciel (Java, .NET, XML, SAP‐ABAB, Eclipse, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les défis organisationnels et technologiques posés par le mobile computing et la communication mobile.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, sur la base des résultats de l’analyse, les mesures à prendre pour l’intégration de la nouvelle technologie dans le nouveau système.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la stratégie TIC de sa propre entreprise ainsi que les objectifs des parties prenantes concernés par les nouvelles technologies.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences techniques envers la technologie à introduire.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes permettant de préparer la présentation de résultats d’analyse à des décideurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier et évaluer l’utilité et les possibilités fonctionnelles et non fonctionnelles qui résultent de l’intégration de la nouvelle technologie pour le système existant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître de méthodes et des sources permettant d’évaluer le degré de maturité de technologies et leur position dans le cycle de vie.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer si l’intégration de la nouvelle technologie dans le système existant est pertinente eu égard à sa phase de cycle de vie, à l’utilité attendue et à l’investissement nécessaire pour l’intégration et la réalisation. Elaborer sur cette base une recommandation destinée aux décideurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments qui permettent de justifier et de consolider une recommandation et savoir comment les présenter de manière adéquate.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

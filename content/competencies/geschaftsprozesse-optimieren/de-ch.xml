@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>198</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=198%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Geschäftsprozesse optimieren</title>
+    <capability>Geschäftsprozesse eines Unternehmens priorisieren, analysieren, optimieren und anpassen. Voraussetzungen für kontinuierliche Verbesserungsprozesse schaffen.</capability>
+    <goals>
+        <goal>
+            Geschäftsprozesse eines Unternehmens in einem Modell (Prozesslandkarte) darstellen und sich dabei auf gängige Unternehmensdokumente (Strategie, Unternehmensziele, Organigramm, Qualitätshandbuch) abstützen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von Aussagen (Markt, Produkt, Vertriebskanal etc.) in einem Strategiedokument einer Unternehmung oder einer Organisationseinheit und kann anhand von Beispielen erläutern, wie diese die Priorisierung von Prozessen beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Geschäftsprozesse nach deren Bedeutung für das Unternehmen priorisieren und die Kernprozesse identifizieren. Als Grundlage dafür die Prozesslandkarte und marktgängige Standardprozesse verwenden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Techniken zur Priorisierung von Geschäftsprozessen (z.B. ABC-Analyse) und kann erläutern in welchen Schritten die Priorisierung dieser Geschäftsprozesse mittels dieser Techniken erfolgt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Zu optimierende Geschäftsprozesse festlegen und sich dabei auf eine zuvor durchzuführende Stärken/Schwächen-Analyse der Kernprozesse abstützen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Gesichtspunkte, die bei der Durchführung einer Stärken/Schwächen-Analyse zu beachten sind und kann darlegen, wie diese eine zuverlässige Priorisierung der Prozesse unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Zu optimierende Kernprozesse analysieren und dabei veränderte Ausgangslagen, Verbesserungs- und Automatisierungspotenziale (erhöhte Wertschöpfung) sowie potenzielle Probleme berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien zur Beurteilung des Automatisierungspotentials eines Geschäftsprozesses und kann anhand von Beispielen erläutern, wann diese für oder gegen eine Automatisierung eines Prozesses sprechen.
+                </knowledge>
+                <knowledge>
+                    Kennt die grunsätzlichen Voraussetzungen (z.B. Prozessowner, Kennzahlen), damit eine systematische Führung eines Prozesses gewährleistet werden kann und kann darlegen, welchen Beitrag diese Voraussetzungen dabei leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt verbreitete aufbau- und ablauforganisatorische Ursachen für bestimmte Kategorien von Problemen in Prozessen und kann an Beispielen nachvollziehbar deren Zusammenhang erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Daraus Soll-Kernprozesse (inkl. Schnittstellen) optimieren und dokumentieren. Deren potenziellen Nutzen aufzeigen und überprüfen, wie weit damit Kundenbedürfnisse befriedigt werden können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verbreitete aufbau- und ablauforganisatorische Massnahmen (inkl. technische und applikatorische Massnahmen) zur Optimierung von Geschäftsprozessen und zur Definition von Schnittstellen und kann erläutern bei welchen Arten von Problemursachen diese zur Optimierung von Geschäftsprozessen beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken, welche bei der Definition eines Soll-Prozesses eingesetzt werden und kann aufzeigen, wie diese die Optimierung eines Prozesses unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kann Grundsätze der Kundenorientierung (z.B. ein Ansprechpartner; Prozesstransparenz) beschreiben und anhand von Beispielen aufzeigen, wie diese bei der Geschäftsprozess-optimierung umgesetzt werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterschiede zwischen revolutionärer und evolutionärer Prozessverbesserung und kann aufzeigen, bei welchen Rahmenbedingungen diese zur Anwendung kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verbesserungszyklus aus den Optimierungsergebnissen ableiten und Kennzahlen für die Lenkung der optimierten Kernprozesse bestimmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt grundsätzliche Vorgehensweisen (z.B. plan - do - check - act) bei der kontinuierlichen Verbesserung von Prozessen und kann darlegen, welchen Beitrag die einzelnen Schritte zu einer nachhaltigen Prozessqualität leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt Verfahren zur systematischen Ableitung von Messgrössen für die Bewertung der Prozessleistung und -qualität und kann aufzeigen, wie damit ein Instrumentarium für eine zielorientierte Prozessbewertung und -lenkung erreicht werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt Leistungskategorien (z.B. Kosten, Durchlaufzeit, Ressourcenbindung, Kundenzufriedenheit), die bei der Festlegung von prozessspezifischen Kennzahlen zur Bewertung und Lenkung von Geschäftsprozessen zu berücksichtigen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

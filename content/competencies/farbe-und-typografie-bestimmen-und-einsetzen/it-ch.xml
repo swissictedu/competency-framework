@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>270</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=270%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Definire e impiegare colori e assetti tipografici</title>
+    <capability>Definire colori e assetti tipografici per prodotti web e stampati, impiegarli in base all'incarico e ai media di destinazione, e salvare i dati di conseguenza.</capability>
+    <goals>
+        <goal>
+            Eseguire incarichi di design adattati al gruppo target, nel rispetto dei principi e delle regole di creazione.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere gli elementi fondamentali della creazione e impiegarli nel rispetto dei principi e delle regole di design.
+                </knowledge>
+                <knowledge>
+                    Conoscere gli elementi di creazione per poterli disporre in funzione della situazione e se-condo i principi di simmetria e asimmetria.
+                </knowledge>
+                <knowledge>
+                    Conoscere i principi di proporzione, ritmo e contrasto, e saperli applicare nella fase di crea-zione.
+                </knowledge>
+                <knowledge>
+                    Conoscere aspetti specifici dei gruppi target per creare, valutare e ottimizzare semplici prodotti mediatici secondo le direttive.
+                </knowledge>
+                <knowledge>
+                    Conoscere le abitudini di lettura e di visualizzazione del gruppo target, e tenerne conto nella fase di creazione.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Scegliere i caratteri adeguati per i diversi incarichi di design basandosi sul linguaggio visivo prestabilito.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le principali caratteristiche di un carattere per saperne valutare la leggibilità.
+                </knowledge>
+                <knowledge>
+                    Conoscere i criteri in base ai quali scegliere il carattere per i media stampati o digitali in funzione del contenuto e del gruppo target.
+                </knowledge>
+                <knowledge>
+                    Conoscere i principali termini tecnici relativi ai caratteri (famiglia di caratteri, stile di carat-tere, peso, crenatura).
+                </knowledge>
+                <knowledge>
+                    Conoscere i termini tecnici e le regole principali della microtipografia, e saperli impiegare correttamente.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formattare testi tenendo conto della leggibilità, della corretta gerarchia e delle usuali regole di composizione.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le regole di base per garantire una giustezza, un avvicinamento, una crenatura e un'interlinea ottimali.
+                </knowledge>
+                <knowledge>
+                    Conoscere funzioni per equilibrare i testi e ottimizzare la spaziatura tra lettere e cifre.
+                </knowledge>
+                <knowledge>
+                    Conoscere diverse possibilità per strutturare un testo mediante la scelta del carattere, il tipo di composizione, l'evidenziazione e un'adeguata dimensione del carattere.
+                </knowledge>
+                <knowledge>
+                    Conoscere le principali dimensioni del carattere per i diversi scopi (dimensione di consulta-zione, dimensione di lettura e dimensione per display). 
+                </knowledge>
+                <knowledge>
+                    Conoscere vantaggi e svantaggi dei diversi tipi di composizione.
+                </knowledge>
+                <knowledge>
+                    Conoscere le regole e i campi di applicazione comuni dei diversi tipi di composizione.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Scegliere, in funzione dell'incarico, il formato dei file adatto per i diversi elementi.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i comuni formati di file (PDF, PSD, RAW, JPEG, GIF, PNG, TIFF, INDD, IDML, AI, EPS) e i relativi campi di applicazione nell'ambito dei media stampati e digitali.
+                </knowledge>
+                <knowledge>
+                    Conoscere diversi formati di file e il loro impiego.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Creare contrasti, armonie e combinazioni di colori per gli incarichi di design ed ela-borarli con un software a regola d'arte.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere il cerchio di dodici colori per classificare i colori, applicarli e utilizzarli in modo creativo.
+                </knowledge>
+                <knowledge>
+                    Conoscere i sette contrasti cromatici di Johannes Itten e diversi esempi di come questi pos-sono essere impiegati in funzione della situazione.
+                </knowledge>
+                <knowledge>
+                    Conoscere metodi per realizzare e applicare armonie e combinazioni di colori.
+                </knowledge>
+                <knowledge>
+                    Conoscere tool digitali per la mescolanza dei colori (ad es. Adobe Color CC) finalizzati alla creazione di tavolozze dei colori.len.
+                </knowledge>
+                <knowledge>
+                    Conoscere i colori in quanto elementi di creazione e, nel sceglierli, considerare gli aspetti legati alla fisiologia e alla psicologia del colore.
+                </knowledge>
+                <knowledge>
+                    Conoscere le diverse possibilità per raggruppare, delimitare e strutturare gli elementi con i colori.
+                </knowledge>
+                <knowledge>
+                    Conoscere delle funzioni per creare, gestire e impiegare colori terziari e colori rotti in base al software.
+                </knowledge>
+                <knowledge>
+                    Conoscere le proprietà dei colori (tonalità, saturazione e luminosità).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Applicare modelli di colore (RGB e CMYK) e profili di colore in funzione del media di destinazione.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i campi di applicazione della sintesi additiva e sottrattiva. 
+                </knowledge>
+                <knowledge>
+                    Conoscere i colori primari e secondari della sintesi additiva e sottrattiva.
+                </knowledge>
+                <knowledge>
+                    Conoscere gli standard dei colori cui fa riferimento l'industria grafica e le fasi di lavoro ne-cessarie per installare e applicare i profili di colore.
+                </knowledge>
+                <knowledge>
+                    Conoscere i compiti svolti da un sistema di gestione dei colori nell'ambito dei media stam-pati.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

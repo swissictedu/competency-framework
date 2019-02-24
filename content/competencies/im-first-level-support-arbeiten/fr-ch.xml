@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>112</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=112%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assurer une assistance en première instance</title>
+    <capability>Saisir les problèmes et besoins du client, les classifier pour transmission, respectivement soumettre des propositions de solutions appropriées.</capability>
+    <goals>
+        <goal>
+            Cerner de façon structurée le problème, les causes du problème ou les besoins du client à l´aide de questions ciblées.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales techniques d´interrogation (questions ouvertes, questions fermées) et peut indiquer dans quelles situations de réception et d´analyse du problème elles peuvent être utilisées dans le dialogue avec le client.
+                </knowledge>
+                <knowledge>
+                    Connaît des méthodes permettant de cerner la cause d´une panne (par ex. principe d´exclusion, arbres de décision) et peut expliquer comment elles contribuent à l´analyse systématique de pannes ou de problèmes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réagir avec compréhension au comportement émotionnel du client et amener la conversation au niveau du problème.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales attentes de la clientèle envers un service d´assistance (fiabilité, capacité de réagir, compétence, empathie) et peut indiquer les comportements ou les qualités personnelles qui permettent d´y répondre.
+                </knowledge>
+                <knowledge>
+                    Connaît les règles à respecter pour s´exprimer de manière claire et compréhensible et peut expliquer au moyen d´exemples comment les appliquer dans le dialogue avec le client.
+                </knowledge>
+                <knowledge>
+                    Connaît les principaux comportements de la clientèle et leurs motifs et peut indiquer comment y réagir de manière adéquate.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sur la base des compétences définies pour l´assistance, décider si le problème, respectivement les besoins du client, peuvent être traités de façon autonome ou s´ils doivent être transmis plus loin.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales catégories de questions posées dans un environnement d´assistance informatique classique (PC/LAN, programmes bureautiques, logiciels standard) au helpdesk et peut indiquer comment elles diffèrent sur le plan de la complexité et en fonction du service qui est généralement responsable de la résolution du problème.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Décrire de façon exhaustive le problème, les causes du problème ou les besoins du client et, si nécessaire, transmettre le mandat de dépannage au second niveau d´assistance.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales catégories d´informations à transmettre avec le problème à un autre service et peut expliquer comment elles contribuent à un traitement efficace du problème.
+                </knowledge>
+                <knowledge>
+                    Peut indiquer un processus de transmission d´un problème adapté aux besoins de la clientèle et peut expliquer comment ses différentes étapes permettent de tenir compte de ces besoins.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier une solution avec les moyens d´aide disponibles (base de données de solutions, documentation du fabricant, etc.).
+            <knowledge-list>
+                <knowledge>
+                    Connaît les structures d´aide les plus répandues qui permettent de s´orienter dans les documentations des fabricants et les aides en ligne (structure thématique, index, fonctions de recherche, etc.) et peut expliquer comment elles facilitent la recherche précise d´indications et d´instructions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            En regard des connaissances informatiques du client, expliquer clairement la solution ou le guider avec des instructions ciblées pour la solution du problème.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales règles à respecter dans la communication de solutions (définition de termes techniques, phrases simples, démarche progressive, etc.) et peut expliquer comment elles permettent de garantir que le problème sera résolu de manière efficace et durable.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documenter le problème non encore survenu avec sa solution pour la base de données de dépannage.
+            <knowledge-list>
+                <knowledge>
+                    Peut indiquer les règles à respecter dans la documentation des problèmes d´assistance et de leur solution et peut expliquer comment elles permettent de garantir que les solutions pourront être réutilisées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

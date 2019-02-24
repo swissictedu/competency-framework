@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>211</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=211%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>IT Sicherheit gewährleisten</title>
+    <capability>Erarbeiten, umsetzen und unterhalten von strategischen IT Sicherheitskonzepten zur Gewährleistung der IT Sicherheit (Datenschutz, Datensicherheit, Verfügbarkeit). IT Sicherheitsprozesse und organisatorische Massnahmen definieren und einführen um einen operativen Betrieb von Unternehmen/Organisationen mit grösstmöglicher Sicherheit zu gewährleisten.</capability>
+    <goals>
+        <goal>
+            Unternehmensstrategie und IT Strategien analysieren, Sicherheitsanforderungen ableiten und eine IT Sicherheitsstrategie entwerfen oder adaptieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien, die in einer Unternehmensstrategie und/oder in einer IT Strategie für eine IT Sicherheitsstrategie von Bedeutung sind und kann deren Aussagen als Beitrag zur Gewährleistung der Unternehmenssicherheit erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Struktur einer standardisierten IT Sicherheitsstrategie und kann erläutern wie diese auf ein bestimmtes Unternehmen adaptiert werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sicherheitskonzepte, -verfahren, -prozesse und erforderliche Organisationsstrukturen zur Gewährleistung der IT Sicherheit ableiten und definieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Techniken, um aus Strategien Anforderungen, Messgrössen und Bedingungen in Konzepte, organisatorische und ablauftechnische Vorgaben zu überführen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            IT Sicherheitsrichtlinien, Sicherheitsorganisation und Messkriterien erarbeiten, dokumentieren und einführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt zu erfüllende Sicherheitskriterien eines Unternehmens und kann darlegen, in welchen Bereichen diese einen Beitrag zur Gewährleistung der Sicherheit und Vertraulichkeit leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Periodische Kontrollprozesse mit Mess- und Alarmkriterien für den operativen Betrieb definieren und einführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Struktur und Inhalte eines Qualitätssicherungsplans kann dessen Eignung als Steuerungsinstrument für periodische Überprüfungen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verfahren für eine periodische und zuverlässige Information des Personals über neue sicherheitsrelevante Aspekte erarbeiten und einführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Techniken zur Formulierung von Verhaltensleitsätzen und kann deren Wirkungen als Beitrag zur Sensibilisierung der Mitarbeiter darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Personal über IT Sicherheitsrisiken, Vorschriften und Sicherheitsorganisation aufklären, Alarmkonzept bekannt geben und gesichertes Verhalten im Verdachtsfall einüben.
+            <knowledge-list>
+                <knowledge>
+                    Kann Anordnungen zur korrekten Verhaltensweise formulieren (Richtlinien).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sicherheitsprozesse, Sicherheitsorganisation und Vorschriften periodisch auf Aktualität, Angemessenheit und Einhaltung überprüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kann einen Qualitätssicherungsplan für periodische Überprüfungen definieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Alarmorganisation und Eskalationsprozeduren für den Katastrophenfall periodisch auf Funktionalität überprüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kann nicht stetige Prozesse auf Wirksamkeit überprüfen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

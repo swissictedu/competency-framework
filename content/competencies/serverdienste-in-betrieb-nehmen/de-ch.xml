@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>123</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=123%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Serverdienste in Betrieb nehmen</title>
+    <capability>Verschiedene Serverdienste für den lokalen Netzwerkbetrieb nach Vorgaben installieren und konfigurieren. Funktionalität der Serverdienste überprüfen.</capability>
+    <goals>
+        <goal>
+            Die Konfiguration der verlangten Serverdienste (Verzeichnisdienst, DHCP, DNS, File, Print) gemäss den betrieblichen Vorgaben definieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Aufgaben eines Servers (Verzeichnisdienst, DHCP, DNS, File, Print) und kann die Vorteile einer zentralen Benutzerverwaltung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die verbreiteten Typen von Serverbetriebssystemen und Serverdiensten (File-, Print-, Web-, Mail-Server etc.) und kann erläutern, welche Funktionalität diese in einem Netzwerk zur Verfügung stellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an einen Server bezüglich Leistung, Verfügbarkeit und Energieeffizienz und kann erläutern, welche Systemkomponenten (Server-Hardware, -Software) mit ihren spezifischen Eigenschaften zur Sicherstellung dieser Anforderungen beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorteile und Nachteile von dedizierten und nichtdedizierten sowie cloud-basierten Serverdiensten.
+                </knowledge>
+                <knowledge>
+                    Kennt den prinzipiellen Unterschied zwischen einer dynamischen und einer statischen Zuweisung von IP Adressen und kann aufzeigen, in welchem Anwendungsfall eine dynamische resp. eine statische Adress-Zuweisung sinnvoll ist.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einstellungen zur Konfiguration eines DHCP Servers und kann erläutern, wie diese Einstellgrössen die Zuweisung einer IP Adresse, einer Subnet-Maske und allenfalls Angaben zu DNS-Servern und Standard-Gateways bei der Anfrage eines Clients beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einstellungen zur Konfiguration eines DNS-Servers und kann erläutern, wie diese Einstellgrössen das Verfahren bei der Umsetzung von Namen in IP Adressen (Namensauflösung mittels 'Hosts', DNS) beeinflussen resp. sicherstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einstellungen zur Konfiguration eines Print-Servers (Drucker-Spooler, Druckertreiber) und kann aufzeigen, welche Funktionalitäten bzw. welche Möglichkeiten die Einstellgrössen für die Nutzung und den Betrieb dieses Dienstes bereitstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien (gemeinsame Nutzung, Datensicherheit/-Informationssicherheit Sensitivität etc.), die bei der Konzeption der Datenablage in einem Netzwerk zu beachten sind und kann erläutern, wie diese Kriterien den Entscheid, welche Daten zentral resp. dezentral abgelegt werden, beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einstellungen zur Konfiguration eines File Servers und kann aufzeigen, wie die Einstellgrössen die physische Datenablage (Datenträger, Verzeichnisse), die Nutzung der Datenablage (z.B. Volumen) oder den Datenzugriff (z.B. Rechte) im Netzwerk beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Serverdienste gemäss den definierten Vorgaben installieren und konfigurieren. Die nicht erforderlichen Dienste deaktivieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorgehensweise bei der Inbetriebnahme von Serverdiensten (installieren, konfigurieren, starten, auf Client verfügbar machen, testen) und kann erläutern, welche technischen/logischen Abhängigkeiten mit dieser Abfolge berücksichtigt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Durch die notwendigen Anpassungen der Clients die verlangten Serverdienste den Benutzerinnen und Benutzern zur Verfügung stellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die notwendigen Netzwerkeinstellungen eines Clients in einer DHCP-/DNS-Serverumgebung und kann erläutern, welche Auswirkungen diese Einstellungen für den Betrieb eines Hosts/Clients in einem serverbasierten Netz haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die grundlegenden Sicherheitsmassnahmen eines Server-Betriebssystems für den Zugriffsschutz gemäss den betrieblichen Vorgaben implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten eines Server-Betriebssystems zur Gewährleistung und Absicherung des Zugriffs auf Netzwerk-Ressourcen (Benutzer-Authentifizierung, Benutzer-Autorisierung, Ressourcenanbindung) und kann an Beispielen erläutern, wie damit die Dienste, Konfigurationsdateien sowie weitere Daten vor unerlaubtem Zugriff geschützt werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Regeln und Vorgehensweisen bei der Definition von Passwörtern und kann aufzeigen, wie damit das 'Hacken' von Passwörtern erschwert werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Verfügbarkeit und die Funktionalität der Serverdienste gegenüber den betrieblichen Vorgaben überprüfen und protokollieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Einträge in Log-Dateien und kann erläutern, wie diese Informationen (z.B. Status-, Fehlermeldungen) die Fehlersuche hinsichtlich Verfügbarkeit und Funktionalität der Dienste unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Verfahren zum Testen und Protokollieren der installierten Serverdienste.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Dokumentation und die Abnahme/Betriebsfreigabe der eingerichteten Serverdienste vornehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Abnahmeprotokolls und kann deren Bedeutung für die Qualität der Leistung und den vollständigen Abschluss eines Auftrags darlegen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Struktur einer Betriebsdokumentation (Dienste, Konfigurationsdateien usw.) und kann die Bedeutung der einzelnen Elemente für die Administration des Servers und einen sicheren Betrieb darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

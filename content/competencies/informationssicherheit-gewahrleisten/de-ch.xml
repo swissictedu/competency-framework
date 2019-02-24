@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>176</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=176%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Informationssicherheit gewährleisten</title>
+    <capability>Definiert organisatorische Vorgaben und Massnahmen zur Gewährleistung der Informationssicherheit und zur Sicherstellung des operativen ICT‐Betriebs.</capability>
+    <goals>
+        <goal>
+            Untersucht ICT‐gestützte Prozesse und deren Datenflüsse hinsichtlich der Erfüllung von rechtlichen und betrieblichen Vorschriften an die Informationssicherheit.
+            <knowledge-list>
+                <knowledge>
+                    Kann erläutern, in welchen Beschreibungen und Dokumentationen (z.B. Funktions‐ und Prozessbeschreibungen, Weisungen, Organigrammen, etc.) Informationen betreffend betrieblicher und rechtlicher Vorschriften zu finden sind.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die Ergebnisse einer Dokumentenanalyse konsolidiert und übersichtlich dokumentiert werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Gestaltungselemente eines Geschäftsprozesses (Teilprozesse, Aktivitäten, Verantwortlichkeiten, etc.) und kann erläutern, welche dieser Elemente zur Abbildung welcher Sachverhalte in einer Geschäftstätigkeit dienen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Empfiehlt zur Erfüllung von rechtlichen und betrieblichen Vorschriften Sicherheits- und Schutzmassnahmen für den Einsatz von ICT‐Sachmitteln in Geschäftsprozessen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die nationalen Gesetze, Verordnungen und Vorschriften, die für die Informationssicherheit relevant sind: z.B. CH‐DSG, StGB, OR, und GebüV.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie ein ICT‐gestützter Prozess zur Identifikation von sicherheitsrelevanten Bereichen/ Objekten in seine Einzelteile zerlegt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt organisatorische Massnahmen, die zur Sicherstellung der Informationssicherheit dienen, z.B. Zugriffsberechtigungen, Betriebszeiten, Dateiablagen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken, um Empfehlungen über zukünftige resp. zusätzliche oder angepasste Massnahmen einer übergeordneten Stelle/einem übergeordneten Gremium vorzulegen und die Entscheidung herbeizuführen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Stellt die periodische Überprüfung der Wirksamkeit der getroffenen Sicherheits‐ und Schutzmassnahmen bzw. der Informationssicherheit sicher und rapportiert die Ergebnisse und die entsprechenden Massnahmen an die verantwortlichen Stellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt systematische Vorgehensweisen, um die Erfüllung der Vorgaben an bestehende Sicherheitsmassnahmen periodisch zu überprüfen.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensweisen für methodische Sicherheitsüberprüfungen (Audit) mit dem Ziel, Schwächen aufzudecken, diese zu beschreiben und damit die Voraussetzungen für eine gezielte Definition von Massnahmen zu schaffen.
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungstechniken, um Resultate einer Sicherheitsüberprüfung und die daraus gewonnenen Erkenntnisse der Unternehmensleitung anschaulich zu präsentieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Untersucht die Auswirkungen des Ausfalls eines ICT‐Systems auf die Abwicklung eines bestimmten Geschäftsprozesses.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Auswirkungen beim Ausfall eines ICT‐Systems/einer ICTKomponente auf andere ICT‐Systeme/ ICT‐Komponenten, ICT‐Prozesse, ICT‐gestützte Geschäftsprozesse etc. und kann die Zusammenhänge erläutern, welche dies bewirken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert Massnahmen im Rahmen des Business Continuity Management, welche die Fortführung der Geschäftstätigkeit resp. die Abwicklung der Geschäftsprozesse sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt grundlegende Möglichkeiten zur Vorbeugung eines Ausfalls von ICT‐gestützten Prozessen (z. B. Toleranzen, Redundanzen, etc.).
+                </knowledge>
+                <knowledge>
+                    Kennt proaktive, organisatorische Massnahmen, um die Auswirkung beim Ausfall eines ICT‐gestützten Prozesses zu minimieren (z.B. Notfallpläne, regelmässige Notfallübungen, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert Massnahmen zur Sensibilisierung der Mitarbeitenden hinsichtlich der Einhaltung echtlicher und betrieblicher Vorgaben an die Informationssicherheit.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten, wichtige Verhaltensregeln einem bestimmten Personenkreis anschaulich zu vermitteln, z.B. Schulungen, Informationsmaterial (Hand Outs), und kann Vorkehrungen im Rahmen dieser Möglichkeiten erläutern, welche die Sensibilisierung (Awareness) verstärken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

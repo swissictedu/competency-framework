@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>104</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=104%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implementare un modello di dati</title>
+    <capability>Rappresentare e amministrare dei dati strutturati in un software di banche dati sulla base di uno schema concettuale di banche dati.</capability>
+    <goals>
+        <goal>
+            Interpretare uno schema concettuale di banche dati in base a entità, attributi e relazioni.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Begriffe Entität, Attribut und Beziehung in einem konzeptionellen Datenbankschema und deren Darstellung .
+                </knowledge>
+                <knowledge>
+                    Kennt die unterschiedlichen Kardinalitäten und deren Aussage bezüglich der Beziehungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborare uno schema logico di banche dati, normalizzarlo e rappresentarlo sotto forma di diagramma.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen eines Datenbankentwurfs (Tabellen identifizieren, Attribute definieren, Beziehungen klären).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementare uno schema logico di banche dati con un software di banche dati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Datenbankprogramms zur Umsetzung eines Datenmodells in ein physisches Datenbankschema.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Realizzare con un software di banche dati le interfacce utente per l'inserimento, la modifica e l'interpretazione dei dati in una banca dati tenendo conto della protezione e della sicurezza dei dati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt GUI-Komponenten und Formularfelder für die Definition von Benutzerschnittstellen zur Erfassung, Veränderung sowie Auswertung von Daten.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Regeln, die bei der ergonomischen Gestaltung einer Benutzeroberfläche für eine Datenbank hinsichtlich Abfolge und Bezeichnung der Informationen einzuhalten sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Abfragen zur Manipulation, Selektion und Auswertung von Datenbeständen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeit eines Datenbankprogrammes um die Prinzipien von Datenschutz und Datensicherheit umzusetzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verificare l'applicazione con dei dati di test e protocollare i risultati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Testkriterien für Datenintegrität und Datenkonsistenz) und kann aufzeigen, wie Testfälle für die Überprüfung dieser Kriterien aufgebaut sein müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

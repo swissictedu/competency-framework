@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>200</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=200%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>IT Organisation konzipieren und umsetzen</title>
+    <capability>Leistungsbezogene IT Organisation konzipieren und sich dabei an konkreten Vorgaben (z.B. strategischen Veränderungen) ausrichten. Lösungsvorschläge für die Umsetzung ausarbeiten und den Entscheidungsträgern vorlegen. Die ausgewählte Variante umsetzen.</capability>
+    <goals>
+        <goal>
+            Aufgaben mit messbaren Zielen für eine IT Organisation ableiten und in einem Leistungsauftrag festhalten. Sich dabei auf einen konkreten Auftrag, z.B. ausgelöst durch strategische Veränderungen (Business, Technologie, Personal, Finanzen) abstützen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Aufgabengebiete einer IT Organisationseinheit und kann deren Beitrag zu den Zielsetzungen beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kann die Zielsetzungen aufzeigen, welche eine IT Organisationseinheit in ihren Kern-Aufgabengebieten erreichen sollte.
+                </knowledge>
+                <knowledge>
+                    Kennt die Merkmale und Inhalte eines Leistungsauftrages (Service Level Agreement) und kann beschreiben, wie damit die Leistungserbringung systematisch überprüft werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die im Leistungsauftrag enthaltenen Aufgaben gemäss Vorgaben in Leistungseinheiten gruppieren und pro Leistungseinheit einen spezifischen Leistungsauftrag formulieren.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Prinzipien aufzeigen, welche bei der Gruppierung von Leistungseinheiten beachtet werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Leistungsaufträge in aufbau- und ablauforganisatorischen Lösungsvorschlägen konzipieren und planen und dabei die Risikoaspekte berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Prinzipien aufzeigen, welche beim Aufbau einer Service-Einheit zu beachten sind und mögliche Konsequenzen dieser Prinzipien hinsichtlich der Ausgestaltung der Aufbauorganisation erläutern.
+                </knowledge>
+                <knowledge>
+                    Kann die Prinzipien schildern, die beim Arbeitsablauf einer Service-Einheit zu beachten sind und mögliche Konsequenzen dieser Prinzipien hinsichtlich der Ausgestaltung der Ablauforganisation erklären.
+                </knowledge>
+                <knowledge>
+                    Kennt die Prinzipien, die bei der Planung eines organisatorischen Projektes zur Anwendung kommen und kann deren Beitrag zur Zielerreichung darlegen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methode der Risiko-Analyse und kann darlegen, unter welchen Voraussetzungen eine Risikoanalyse in einem Projekt sinnvoll ist.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die organisatorischen Lösungsvorschläge empfehlend bewerten und in schriftlicher Form den Entscheidungsträgern vorlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kann bei verbreiteten Entscheidungs- und Bewertungstechniken aufzeigen, in welchen Schritten diese abgewickelt werden und welche Vorkehrungen getroffen werden müssen, damit eine zuverlässige Bewertung resultiert.
+                </knowledge>
+                <knowledge>
+                    Kennt die Struktur einer Dokumentation zu einem Lösungsvorschlag und kann für die einzelnen inhaltlichen Elemente erläutern, wie sie zu einer aussagekräftigen und nachvollziehbaren Beschreibung der Lösung beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die zur Umsetzung vorgeschlagene organisatorische Lösungsvariante den Entscheidungsträgern zur Genehmigung präsentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Prinzipien darlegen, welche bei der Definition von Inhalt und Gliederung einer Präsentation an Entscheidungsträger beachtet werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Funktionsbeschreibungen und Anforderungsprofile für die Aufgabenträger der genehmigten IT Organisation entwerfen.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Struktur einer Stellenbeschreibung im IT Bereich skizzieren und darlegen, wie sie die Funktionen und deren Anforderungen umfassend definieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eine die Anforderungen der genehmigten IT Organisation erfüllende Führungskraft systematisch suchen und einstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kann das Vorgehen beim Suchen und Anstellen eines neuen Mitarbeiters beschreiben und aufzeigen, welche Elemente beachtet werden müssen, um dem Anforderungsprofil möglichst nahe zu kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die von den organisatorischen Veränderungen Betroffenen zu Beteiligten machen. Aufträge formulieren und diese den IT Stellen zur Umsetzung übergeben.
+            <knowledge-list>
+                <knowledge>
+                    Kann Faktoren aufzeigen, welche bei organisatorischen Änderungen die Motivation eines Teams beeinflussen und deren Auswirkungen nachvollziehbar erläutern.
+                </knowledge>
+                <knowledge>
+                    Kann die Struktur eines Arbeits-Auftrages skizzieren und erläutern, wie dabei Verständlichkeit und Akzeptanz beim Adressaten erreicht wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

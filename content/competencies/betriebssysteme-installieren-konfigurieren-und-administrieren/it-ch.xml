@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>305</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=305%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Installare, configurare ed amministrare un sistema operativo</title>
+    <capability>Installare il sistema operativo e configurarlo per un utilizzo multiutente. Amministrare il sistema con comandi del sistema operativo e programmi ausiliari.</capability>
+    <goals>
+        <goal>
+            Differenziare i sistemi operativi sulla base delle diverse caratteristiche (ad esempio potenza, supporto hardware e software, tipo di licenza, modelli d'assistenza).
+            <knowledge-list>
+                <knowledge>
+                    Conosce i compiti, la struttura e i componenti di un sistema operativo e sa spiegare i differenti concetti di base (per es. multiutente, multitasking, nucleo, spazio nucleo, spazio utente, chiamata di sistema) e le caratteristiche dei sistemi operativi.
+                </knowledge>
+                <knowledge>
+                    Conosce i modelli di licenza dei diversi sistemi operativi (open source, GPL, OEM etc.) e ne sa rappresentare le principali conseguenze per i costi e il funzionamento del sistema.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prima dell'installazione del sistema operativo, definire le esigenze hardware così come la compatibilità hardware e procurarsi i driver necessari. Definire la configurazione del supporto dei dati.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le fasi di preparazione per l'installazione del sistema operativo e sa spiegare come esse contribuiscono alla sua riuscita.
+                </knowledge>
+                <knowledge>
+                    Conosce delle possibilità d'automatizzazione di un'installazione.
+                </knowledge>
+                <knowledge>
+                    Conosce le condizioni tecniche di un partizionamento e sa spiegare come tenerne conto durante l'installazione.
+                </knowledge>
+                <knowledge>
+                    Conosce i criteri di partizionamento di un supporto di dati e sa spiegare quali vantaggi porta il rispettivo partizionamento (partizione sistema, partizione dei dati, partizione di swap) per il funzionamento del sistema.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Partizionare il supporto dei dati, definire il file-system, configurare la gestione e le opzioni d'avvio.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le più importanti strutture di gestione dei supporti di dati (MBR, tabella delle partizioni, bootrecord, bootloader) necessari per l'avvio e sa spiegare i rispettivi compiti nelle differenti tappe del processo d'avvio.
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità di configurazione dei bootmanager attuali per creare un sistema dual boot.
+                </knowledge>
+                <knowledge>
+                    Conosce le regole di denominazione delle partizioni nei differenti sistemi operativi.
+                </knowledge>
+                <knowledge>
+                    Conosce le caratteristiche e la compatibilità dei filesystem attuali e ne sa spiegare i vantaggi, gli inconvenienti e i rispettivi campi d'applicazione.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire il tipo d'installazione (per esempio minima, tipica), scegliere i pacchetti software. Dopo l'installazione, aggiornare il sistema.
+            <knowledge-list>
+                <knowledge>
+                    Conosce l'ambito delle funzionalità fondamentali di un sistema operativo così come del software aggiuntivo disponibile e sa spiegare quali compiti vengono eseguiti o assistiti.
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità di aggiunta o eliminazione di un pacchetto software attraverso l'utilizzo di un gestore di pacchetti. 
+                </knowledge>
+                <knowledge>
+                    Conosce differenti concetti per la configurazione di software (file di configurazione, registri, configurazione sistema / utente) e sa indicare le possibilità d'elaborazione delle configurazioni di software.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Integrare e configurare ulteriori componenti hardware.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le metodologie e gli strumenti per integrare e amministrare hardware nel sistema (per esempio seconda scheda di rete, scheda grafica etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Scegliere e configurare l'interfaccia utente.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i criteri dell'utilizzo di un'interfaccia grafica utente risp. Dell'uso di una console.
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità di regolazione per un utilizzo confortevole (per esempio dimensione, contrasto etc.)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Creare e gestire le strutture delle cartelle e dei file. Amministrare utenti e gruppi ed assegnare i diritti d'accesso.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i differenti concetti di gerarchia di cartelle (percorsi assoluti/relativi, collegamenti, file nascosti, scorciatoie per applicazioni) e sa elencare i rispettivi comandi di sistema e i programmi d'aiuto.
+                </knowledge>
+                <knowledge>
+                    Conosce i differenti concetti per l'accesso ai supporti di dati e filesystem (comandi mount, devicefile, driver) e sa elencare i rispettivi comandi di sistema ed i rispettivi programmi d'aiuto.
+                </knowledge>
+                <knowledge>
+                    Conosce i differenti concetti per l'amministrazione degli utenti e delle autorizzazioni (user ID, diritti d'accesso, appartenenza a dei gruppi, autorizzazioni standard, eredità, cartelle personali) e sa elencare i rispettivi comandi di sistema ed i rispettivi programmi d'aiuto.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sorvegliare le risorse e gli eventi. Utilizzare i programmi di supporto contenuti nel sistema operativo per l'analisi e l'eliminazione di problemi.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le precauzioni da prendere per lavorare in sicurezza come amministratore (cambiamento d'utente; comandi come per es. su, sudo, runas; salvataggio; documentazione) e sa spiegare come esse contribuiscono alla sicurezza del sistema.
+                </knowledge>
+                <knowledge>
+                    Conosce le sorgenti d'informazione attuali da consultare in caso di problemi/compiti sconosciuti per quel che concerne il sistema operativo (sintassi di comando, sistemi d'aiuto, manuali, how-to, FAQ, gruppi/liste di discussione) e sa spiegare in quali tipi di problemi e compiti esse sono particolarmente utili.
+                </knowledge>
+                <knowledge>
+                    Conosce degli strumenti per la sorveglianza di sistemi (task manager, console di gestione, visualizzatore d'eventi, gestore di periferiche, informazioni di sistema, file di log) e sa spiegare quali informazioni contengono per quel che concerne lo stato ed i possibili problemi del sistema.
+                </knowledge>
+                <knowledge>
+                    Conosce degli strumenti e delle possibilità che permettono d'influenzare le risorse (utilizzo del processore, utilizzo della memoria, memoria di swap e spazio occupato sul supporto dei dati) e sa spiegare quali effetti si raggiungono per quel che concerne lo stato del sistema.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verificare e aggiornare regolarmente il software per motivi di sicurezza.
+            <knowledge-list>
+                <knowledge>
+                    Conosce delle possibilità di aggiornamento manuale ed automatica dei sistemi operativi/software per mezzo di patch di sicurezza.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

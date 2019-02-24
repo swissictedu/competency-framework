@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>227</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=227%26clang=it</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Effectuer des tests de systèmes et d’acceptation</title>
+    <capability>Preparare concetti di test specifici per progetti; pianificare test di oggetti di collaudo rilevanti per progetti; realizzare test; analizzarne i risultati e introdurre i necessari provvedimenti.</capability>
+    <goals>
+        <goal>
+            Preparare concetti di test per progetti IT. A questo scopo definire strategie, fasi e metodi del test e gli oggetti da collaudare; considerare inoltre le principali architetture.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Aktivitäten der Test-Vorbereitung, -Durchführung und -Auswertung und kann diese den im Testprozess involvierten Rollen zuordnen.
+                </knowledge>
+                <knowledge>
+                    Kennt die aus den Testaktivitäten resultierenden Ergebnisse und kann deren Bedeutung im Rahmen des IT Q-Systems erläutern.
+                </knowledge>
+                <knowledge>
+                    Kann die Abhängigkeiten des Testprozesses zu Projektmanagement-/Entwicklungs-/Beschaffungsprozess darlegen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Elemente einer Teststrategie und kann deren Beitrag zur Umsetzung der IT Strategie darlegen.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Testverfahren (Modul-, Abnahme-, Intergrationstest, usw.) und kann ihren Einsatz in Bezug auf zu prüfende Komponenten eines IT Systems aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kennt für Prüfobjekte geeignete Testmethoden und kann relevante Prüfkriterien erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Per concetto di test definire i termini temporali, i principali metodi di test per gli oggetti (componenti) da collaudare e stabilire le responsabilità in un piano di test (piano di collaudo).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente (Massnahmen, Termine, Verantwortlichkeiten) eines Prüfplans und kann der Beitrag zur Qualität erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Planungstechniken für die Erstellung eines Prüfplans.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Specificare i casi di test per gli oggetti da collaudare, considerando i requisiti del sistema da collaudare e i vantaggi del corrispondente concetto di test.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von Anforderungen an ein zu prüfendes System und kann Beispiele für Akzeptanzkriterien darlegen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Elemente eines Testfalls und versteht deren Abhängigkeit zu den Anforderungen der zu prüfenden Komponenten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Preparare lo scenario del test, specificandone il procedimento e considerando inoltre il concetto, l’ambiente e i casi di test.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Struktur eines Testdrehbuchs und kann den Beitrag der Strukturelemente zur Umsetzung des Testkonzepts erläutern.
+                </knowledge>
+                <knowledge>
+                    Kann die infrastrukturellen und organisatorischen Voraussetzungen, welche für den Aufbau einer Testumgebung notwendig sind, beschreiben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eseguire test statici (ad esempio Code inspection, Audit, Review) per oggetti di collaudo disponibili (ad esempio modello di dati, modello di processi, manuale degli utenti) e rilevarne i risultati in un protocollo del test (= protocollo dell’esito).
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau eines Testprotokolls und weiss was für eine eindeutige und empfängergerechte Formulierung beachtet werden muss.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche statische Tests und weiss für welche Art von Prüfobjekten sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eseguire test dinamici (ad esempio test di moduli, test a catena (in serie), test di collaudo) per le componenti di sistema da esaminare (ad esempio moduli, parti del sistema, applicazioni, hardware) e rilevarne i risultati in un protocollo del test (= protocollo dell’esito)
+            <knowledge-list>
+                <knowledge>
+                    Kennt unterschiedliche dynamische Tests und weiss für welche Art von Prüfobjekten sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analizzare il protocollo del test in un rapporto del test, tenendo conto anche del grado di raggiungimento degli obiettivi del test. Stabilire e avviare i necessari provvedimenti.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kriterien, nach denen die Aussagen der Testprotokolle in einen Testbericht überführt werden.
+                </knowledge>
+                <knowledge>
+                    Kann Bewertungs- und Entscheidungstechniken erläutern, die sich zur Ableitung von Massnahmen aus einem Testbericht eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

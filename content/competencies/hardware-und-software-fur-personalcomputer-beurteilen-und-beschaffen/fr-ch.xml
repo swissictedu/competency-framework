@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>149</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=149%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Elaborer des projets d’acquisition d’équipements et de logiciels pour PC.</title>
+    <capability>Projeter l´acquisition et la modernisation de l´équipement des postes de travail PC. Evaluer les composants et entreprendre l´acquisition.</capability>
+    <goals>
+        <goal>
+            Analyser l´infrastructure PC existante et le mandat, examiner la faisabilité et élaborer des propositions de solutions possibles (p. ex. décision pour remplacement ou extension, remplacement partiel, changement de système d´exploitation, etc.)
+            <knowledge-list>
+                <knowledge>
+                    Connaît les activités principales d´un projet d´acquisition, et peut préciser pour les différentes étapes, quelles contributions ceux-ci apportent pour une acquisition satisfaisant les besoins et peu coûteuse (rapport qualité/prix optimal).
+                </knowledge>
+                <knowledge>
+                    Connaît les catégories fondamentales des exigences et des besoins d´un utilisateur du point de vue logiciel et environnement du lieu de travail (fonctionnalité, disponibilité, confort, etc.) et peut décrire, quelle importance ont ces catégories en ce qui concerne la capacité, respectivement le soutien du travail d´un collaborateur.
+                </knowledge>
+                <knowledge>
+                    Connaît les critères fondamentaux (techniques, financiers, dépendants de la date d´échéance) qui doivent être pris en considération lors de la clarification de la faisabilité d´un projet et peut décrire, pourquoi ces critères sont importants pour la décision sur la réalisation d´un projet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réexaminer le concept au moyen d´une installation d´essai/pilote et le cas échéant, entreprendre les adaptations.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les exigences les plus importantes des programmes d´application qui doivent être prises en considération lors de la vérification d´un environnement de travail existant (système d’exploitation et matériel) et peut décrire, quelles contributions apportent la réalisation de ces exigences pour la garantie des prestations de services nécessaires.
+                </knowledge>
+                <knowledge>
+                    Connaît l´importance des installations pilotes destinées à prouver le caractère fonctionnel complet d´un projet de modernisation du matériel pour différentes configurations matérielles/logicielles, et peut décrire, comment la réalisation de l’objectif de mise à jour peut ainsi être assurée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir le cahier des charges et choisir les soumissionnaires possibles. Lancer l´appel d´offres.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la constitution d´un cahier des charges et peut préciser la contribution des différents éléments de ce cahier des charges pour une base obligatoire dans la position des offres des fournisseurs potentiels.
+                </knowledge>
+                <knowledge>
+                    Connaît les critères les plus importants à prendre en considération lors du choix des fournisseurs possibles et peut décrire, comment ils contribuent ainsi à une acquisition réussie.
+                </knowledge>
+                <knowledge>
+                    Connaît la procédure lors de la demande d’offres et peut décrire, ce qui doit être atteint par les différentes étapes pour recevoir à temps des offres contractuelles et satisfaisant les besoins.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Juger et évaluer les offres. Fournir une recommandation de décisions avec justifications à l´attention du mandataire.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des méthodes d´évaluation appropriées pour la comparaison des offres (p. ex. analyse de la valeur d´utilité) et peut décrire, ce qu´il faut prendre en considération lors de leur application pour garantir une évaluation significative.
+                </knowledge>
+                <knowledge>
+                    Connaît les éléments pertinents d’une demande d’offre et peut préciser, comment il faut élaborer ceux-ci afin qu´ils soutiennent les responsables lors de la prise de décision.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documenter et évaluer les implications techniques et économiques possibles, autant que prévisibles.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les implications possibles qui peuvent apparaître dans le déroulement d´un programme d´acquisition et peut décrire, quelles conséquences peuvent avoir celles-ci en regard d’une acquisition réussie.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

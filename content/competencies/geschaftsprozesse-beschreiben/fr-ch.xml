@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>254</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=254%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Décrire des processus métier</title>
+    <capability>Documenter des processus métier, mettre en œuvre l´analyse de tâches et représenter graphiquement les déroulements du processus.</capability>
+    <goals>
+        <goal>
+            Identifier et documenter les informations pertinentes du processus (désignation, événement déclenchant, résultats, fournisseur, client) et s’appuyer sur la description d´une enquête mise en œuvre antérieurement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la différence entre l’organisation du déroulement et sa structure, pour une entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux éléments de l’organisation d’une entreprise qui décrivent les compétences et responsabilités dans un processus commercial.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux éléments objets et d’exécution pour la description d’un processus commercial.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux éléments pour la représentation d’un processus commercial.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales informations pour la définition d’un processus commercial et leurs limites envers d’autres processus commerciaux.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques typiques des événements et résultats survenant dans un processus commercial.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Répartir dans une analyse des tâches les étapes du processus commercial et représenter graphiquement le déroulement du processus. La représentation graphique suit les bases des standards de descriptions reconnus et usuels.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une possibilité de représentation visuelle des conséquences et leur comportement.
+                </knowledge>
+                <knowledge>
+                    Connaître une technique de représentation (par ex. UML, diagramme des cas d’application, diagramme des activités) pour modéliser le déroulement d’un processus.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spécifier le déroulement du processus avec des informations supplémentaires telles que les aides indispensables, les divers exécutants ainsi que la description sur les résultats à produire.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des moyens et ressources soutenant un processus ainsi que leur mise en œuvre (par ex. checklist, logiciel de gestion des flux).
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences sur les informations et leur représentation pour la transmission aux étapes suivantes du processus.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

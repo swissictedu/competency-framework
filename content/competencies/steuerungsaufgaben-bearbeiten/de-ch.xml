@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>121</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=121%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Steuerungsaufgaben bearbeiten</title>
+    <capability>Steuerungsaufgabe aus einer Vorgabe identifizieren, analysieren und als Steuerung oder als Regelkreis realisieren.</capability>
+    <goals>
+        <goal>
+            Einen zu steuernden Prozess analysieren, die erforderlichen Elemente für die Steuerung bestimmen und diese in einer Prinzipskizze dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau häufig eingesetzter Sensoren und Aktoren und deren grundsätzliche Funktionsweise.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien für die Auswahl von Sensoren und Aktoren, sowie deren mögliche Einsatzgebiete.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente für die schematische Darstellung von Steuerungen und Regelungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            System auf der Grundlage der Prinzipskizze in Form einer Schaltung entwerfen oder als Simulation realisieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Arten, Aufbau und Verhalten von offenen Steuerungen und Regelkreisen, sowie deren Unterscheidungsmerkmale.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundprinzipien für die Steuerung von Abläufen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeit mittels Zustandsdiagrammen Steuerungsaufgaben zu beschreiben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Geeignete Elemente für die Steuerung inkl. Aktoren und Sensoren auswählen und zu einem System zusammenbauen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Komponenten zur Realisierung einfacher Steuerungen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, wie einfache Steuerungen simuliert oder realisiert werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Testfälle aus den Anforderungen ableiten, die Funktionen des Systems testen und Fehler finden und korrigieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Methodik, systematisch aus Anforderungen Testfälle zu definieren, sowie Grenzzustände zu berücksichtigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

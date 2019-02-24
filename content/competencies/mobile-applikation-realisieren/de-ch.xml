@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>335</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=335%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mobile-Applikation realisieren</title>
+    <capability>Eine Applikation für mobile Geräte nach Vorgabe umsetzen und testen</capability>
+    <goals>
+        <goal>
+            Vorgabe analysieren, Funktionalität und Storyboard entwerfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die ergonomischen Standards (z.B. EN-9241-110) und deren Anwendung auf einer mobilen Plattform.
+                </knowledge>
+                <knowledge>
+                    Kennt die Guidelines für das Design und Benutzerführung einer App.
+                </knowledge>
+                <knowledge>
+                    Kennt die Eigenschaften unterschiedlicher mobiler Geräte bezüglich Display-Grösse und -Ausrichtung und der Eingabeoptionen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Lösungskonzept für die Applikation erarbeiten und Einbettung in bestehenden Lösungen überprüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Applikationstypen (native App, Cross-(Hybrid-) und Web-App) und Frameworks.
+                </knowledge>
+                <knowledge>
+                    Kennt spezielle Funktionen, sowie Aktoren und Sensoren (z.B. Geolocation, Bewegungssensoren, Spracherkennung und –generierung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Besonderheiten der App-Architekturen bezüglich Funktionalitäten, Möglichkeiten und Grenzen der mobilen Devices
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten von Persistenzlösungen von mobilen Plattformen (Online-/Offline Szenarien).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mobile-Applikation mit einer gängigen Entwicklungsumgebung unter Berücksichtigung der Möglichkeiten und Einschränkungen von mobilen Geräten programmieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedienung und den Einsatz einer passenden Entwicklungs-, Simulations- und Testumgebung.
+                </knowledge>
+                <knowledge>
+                    Kennt ein gängiges Framework und dessen APIs (z.B. für IOS, Android, HTML5)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Veröffentlichung der Applikation auf einer gängigen Plattform planen und nötige Schritte festhalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten und Bedingungen zur Veröffentlichung einer App.
+                </knowledge>
+                <knowledge>
+                    Kennt die nötigen Schritte zur Veröffentlichung einer App.
+                </knowledge>
+                <knowledge>
+                    Kennt die Schritte zur Vermarktung der App (Product, Placement, Price, Promotion).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mobile-Applikation gemäss Testplan überprüfen, Testergebnisse festhalten und allenfalls erforderliche Korrekturen vornehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Testverfahren zur Überprüfung der funktionalen Anforderungen von Apps auf mobilen Geräten.
+                </knowledge>
+                <knowledge>
+                    Kennt Testverfahren zur Überprüfung der nicht-funktionalen Anforderungen (Portabilität, Ergonomie, Sicherheit, User-experience) von Apps auf mobilen Geräten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

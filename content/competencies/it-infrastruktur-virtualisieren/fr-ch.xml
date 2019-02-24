@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>340</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=340%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Virtualiser une infrastructure informatique.</title>
+    <capability>Evaluer, planifier et exécuter la simulation virtuelle d’une infrastructure informatique.</capability>
+    <goals>
+        <goal>
+            Décrire les objectifs, les caractéristiques ainsi que les domaines d’application de systèmes de virtualisation
+            <knowledge-list>
+                <knowledge>
+                    Connaître des procédures pour la virtualisation d’infrastructures informatiques.
+                </knowledge>
+                <knowledge>
+                    Connaître les conséquences liées aux droits de licence pour la virtualisation d’une infrastructure informatique.
+                </knowledge>
+                <knowledge>
+                    Connaître les différences entre la virtualisation d’un poste de travail, d’un serveur ou d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître des concepts pour la virtualisation de réseaux.
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages techniques et économiques de la virtualisation d’une infrastructure informatique.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un concept approprié de virtualisation  (ressources matérielles, moyens financiers, consommation d’énergie) pour un mandat prescrit. Mettre en évidence les possibilités d’économies financières.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les coûts matériel et logiciel pour un serveur et pouvoir estimer quelles conséquences financières peut avoir une virtualisation.
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages et inconvénients en regard du matériel, de la consommation énergétique et en moyens financiers  apportés par la virtualisation d’une infrastructure informatique.
+                </knowledge>
+                <knowledge>
+                    Connaître des moyens et procédures pour représenter la solution la virtuelle dans un concept.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Virtualiser et tester une infrastructure informatique avec des outils appropriés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les prérequis logiciels pour la virtualisation d’une infrastructure informatique.
+                </knowledge>
+                <knowledge>
+                    Connaître une procédure afin de pouvoir migrer de l’instance matérielle sur une infrastructure informatique.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités techniques du produit de virtualisation choisi.
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures pour tester et documenter l'infrastructure informatique virtualisée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, installer et configurer des composants appropriés pour un système de stockage et de sauvegarde.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des solutions de sauvegarde possibles pour la mémorisation des données de l’infrastructure virtuelle informatique.
+                </knowledge>
+                <knowledge>
+                    Connaître des critères qui sont importants pour la sécurité des données de l’infrastructure virtuelle informatique.
+                </knowledge>
+                <knowledge>
+                    Connaître des solutions de backup pour mémoriser les données produites par l’infrastructure virtuelle informatique.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transférer une infrastructure virtuelle dans l’exploitation productive.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une procédure pour le transfert dans l'environnement productif.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

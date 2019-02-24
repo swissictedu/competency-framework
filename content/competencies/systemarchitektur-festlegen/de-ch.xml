@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>204</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=204%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Systemarchitektur festlegen</title>
+    <capability>Bestehende Systemarchitektur analysieren und zielorientiert (IT Strategie) beurteilen. Soll-Systemarchitektur entwickeln und Umsetzungsvarianten definieren. Migration und Umsetzung planen und zur Entscheidung führen.</capability>
+    <goals>
+        <goal>
+            Soll-Systemarchitektur aus der Ist-Systemarchitektur und den IT-Zielsetzungen entwickeln und beschreiben und dabei die bevorzugten IT Technologien berücksichtigen. Zu diesem Zweck die Referenz-Architekturen verschiedener Systemwelten berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente einer Systemarchitektur und kann aufzeigen, welchen Nutzen die Festlegung einer Systemarchitektur auf die mittelfristige Entwicklung der IT im Unternehmen hat.
+                </knowledge>
+                <knowledge>
+                    Kennt Referenzarchitekturen verschiedener Systemwelten und kann deren Relevanz in Bezug auf die technologischen Trends bzw. Entwicklungen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Vorgehensweisen zur Erhebung von Kundenanforderungen und kann erläutern unter welchen Voraussetzungen und Rahmenbedingungen diese eingesetzt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Umsetzungsvarianten und Umsetzungsschritte für die Soll-Systemarchitektur bestimmen, und dabei Netzwerk- und Applikationsarchitektur berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Merkmale der Netzwerk- und Applikationsarchitektur und kann darlegen wie diese bei der Definition einer Systemarchitektur zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensweisen zur Entwicklung von Lösungsvarianten und kann erläutern, unter welchen Rahmenbedingungen diese zu einer breit abgestützten Evaluation beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vorgeschlagene Umsetzungsvarianten bewerten, und dabei die Auswirkungen auf Wirtschaftlichkeit, Softwareentwicklungsprozess, benötigte Methoden, Werkzeuge und Personal berücksichtigen. Entscheidung für eine Umsetzungsvariante herbei führen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Verfahren der Investitionsrechnung und kann erläutern, für welche Art von Investitionsvorhaben diese eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Verfahren zur Bewertung von Lösungsvarianten und kann beispielhaft aufzeigen, wie diese einen Entscheid beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Zustand der strategischen Applikationen und ihrer Perspektiven im „Lebenszyklus“ festhalten und Anforderungen für die Migrationsplanung ableiten. Migrationsplan auf der Grundlage der gewählten Umsetzungsvariante erarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Bedeutung der Position einer strategischen Applikationen im live cycle bei der Migration auf eine neue Systemarchitektur darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kritische Erfolgsfaktoren für die zu planende Umsetzung aus dem Migrationsplan ableiten. Massnahmen, Verantwortungen und Kontrollinstrumente für die Umsetzung bestimmen, und Projektantrag bis zur Entscheidungsreife ausarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt kritische Erfolgsfaktoren bei der Migration auf eine neue Systemarchitektur und kann aufzeigen, unter welchen Rahmenbedingungen diese bei der Migrationsplanung zu beachten sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Aspekte welche für einen Entscheid hinsichtlich Migration einer Systemarchitektur in einer Organisation zu berücksichtigen sind und kann darlegen, welche Auswirkungen hinsichtlich Ressourcenbedarf damit abgedeckt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>242</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=242%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mikroprozessoranwendung realisieren</title>
+    <capability>Mikroprozessoranwendung nach Vorgabe strukturieren, programmieren, auf der Zielhardware implementieren und testen.</capability>
+    <goals>
+        <goal>
+            Vorgabe auf verlangte Funktionen und benötigte Input- und Outputdaten/-Signale analysieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den grundlegenden Aufbau einer Mikroprozessoranwendung, sowie deren Logik-Beschreibung (Zustandsdiagramm).
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau der Zielhardware mit den wichtigsten Komponenten (Register, RAM, EEPROM, Port, Timer, UART, ADC, etc.) und kennt ihre Bedeutung für die Lösung der Aufgabenstellung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Zeitkritische und zeitlich unabhängige Funktionen identifizieren und in einem Programmentwurf logisch gliedern, Datentypen den Daten/Signalen zuordnen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Lösungsvarianten für die Realisierung zeitkritischer und ereignisorientierter Abläufe und deren Vor- und Nachteile.
+                </knowledge>
+                <knowledge>
+                    Kennt Datentypen und deren Bezug zu den unterschiedlichen Komponenten der Zielhardware.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mittels einer Programmiersprache und Programmierumgebung den Programmentwurf umsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Entwicklungsumgebung  und deren Möglichkeiten, eine Mikroprozessoranwendung für die Zielhardware zu realisieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Verfahren um Quellcode zu editieren, zu übersetzen, auf das Zielsystem zu laden und auszuführen.
+                </knowledge>
+                <knowledge>
+                    Kennt die hardwarespezifischen Teile der Programmiersprache und deren Einsatzmöglichkeiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Aus der Vorgabe die Testfälle identifizieren, spezifizieren und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Testkriterien (Hardware- und Zeit-Abhängigkeit) für die Überprüfung von Mikroprozessoranwendungen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, die Wechselwirkung der Prozesse und deren zeitkritischen Anforderungen für die geforderte Funktionalität in den Tests zu berücksichtigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Realisierte Applikation mit geeigneten Werkzeugen auf der Zielhardware austesten, Fehler identifizieren, korrigieren und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Werkzeuge einer Entwicklungsumgebung (Simulator, Debugger, In-System-Debugger, etc.), sowie die Möglichkeiten, eine realisierte Applikation auf der Zielhardware schrittweise auszuführen und zu testen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

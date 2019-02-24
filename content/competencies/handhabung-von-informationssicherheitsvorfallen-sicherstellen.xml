@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../schema/competency.xsd">
+    <description xml:lang="de-ch">./handhabung-von-informationssicherheitsvorfallen-sicherstellen/de-ch.xml</description>
+</competency>

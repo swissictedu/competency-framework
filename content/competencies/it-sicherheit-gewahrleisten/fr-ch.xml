@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>211</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=211%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Instituer une politique de sécurité</title>
+    <capability>Elaborer, mettre en œuvre et entretenir des concepts stratégiques de sécurité informatique pour garantir celle-ci (protection des données, sécurité des données, disponibilités). Définir et introduire des processus de sécurité informatique et des mesures organisationnelles en vue de garantir une exploitation effective des entreprises/organisations avec la plus haute sécurité possible.</capability>
+    <goals>
+        <goal>
+            Analyser la stratégie de l’entreprise et les stratégies informatiques, en déduire les exigences de sécurité et proposer ou adapter une stratégie de sécurité informatique.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les critères qui sont importants pour une stratégie de sécurité informatique dans une stratégie d’entreprise et/ou d’informatique et peut expliquer leurs implications au titre de contribution à la préservation de la sécurité dans l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaît la conception et la structure d’une stratégie standardisée de sécurité informatique et peut expliquer la manière dont celle-ci peut être adaptée à une entreprise spécifique.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déduire et définir les concepts et des procédures de sécurité ainsi que les structures organisationnelles nécessaires pour garantir la sécurité informatique.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les méthodes et les techniques permettant d’intégrer dans des concepts et des objectifs organisationnels ou relevant de la technique d’exécution des exigences, des échelles de mesure et des conditions préalables issues de stratégies.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer, documenter et introduire les directives de sécurité infor-matique, l’organisation de sécurité et les critères de mesure.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les critères de sécurité à satisfaire dans une entreprise et peur présenter dans quels domaines ceux-ci fournissent leur contribution à la garantie de la sécurité et de la confidentialité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et introduire des processus périodiques de contrôle avec des critères de mesure et d’alarme pour une exploitation effective.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure et les contenus d’un plan d’assurance qualité et peut expliquer leur adéquation en tant qu’instruments de contrôle pour des vérifications périodiques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer et introduire une procédure pour une information périodique et fiable du personnel par rapport à de nouveaux aspects relevant de la sécurité.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les techniques de formulation des principes directeurs de comportement et peut présenter leurs effets en termes de sensibilisation des collaborateurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Expliquer au personnel les risques de la sécurité informatique, les prescriptions et l’organisation de sécurité, faire connaître le concept d’alarme et élaborer un comportement de protection en cas de doute.
+            <knowledge-list>
+                <knowledge>
+                    Peut formuler les principes de modes de comportement corrects (directives).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier les processus de sécurité, l’organisation de la sécurité et les prescriptions en termes d’actualité, de justesse et de respect.
+            <knowledge-list>
+                <knowledge>
+                    Peut définir un plan d’assurance qualité soumis à des vérifications périodiques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier périodiquement en termes de fonctionnement l’organisation d’alarme et les procédures d’escalade pour les cas de catastrophes.
+            <knowledge-list>
+                <knowledge>
+                    Peut vérifier des processus non permanents en termes d’efficacité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

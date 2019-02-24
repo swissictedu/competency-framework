@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>124</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=124%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Einzelplatzcomputer auf-/umrüsten</title>
+    <capability>Hard- und Software Komponenten für die Auf-/Umrüstung eines Einzelplatzcomputers  auswählen und empfehlen. Auf-/umzurüstende Hard- und Software Komponenten installieren, konfigurieren und testen.</capability>
+    <goals>
+        <goal>
+            Merkmale der auf-/umzurüstenden  Einzelplatzcomputer bestimmen und dabei vorhandenen Dokumentationen konsultieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt gängige Dokumentationen von Computersystemen sowie Hilfsprogramme als Quelle für die Beurteilung betreffend Ausbaubarkeit des Computersystems.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Auf Grund der Ziele des Auf-/Umrüstvorhabens und der Merkmale des Einzelplatzcomputers mögliche Komponenten empfehlen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die relevanten Merkmale von Hardwarekomponenten zur Beurteilung der Kompatibilität zum bestehenden System.
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten Merkmale von Software (Betriebssystem, Anwender-SW) zur Beurteilung der Kompatibilität zum bestehenden System.
+                </knowledge>
+                <knowledge>
+                    Kennt den schematischen Aufbau eines Computersystems (z.B. Blockschema) und dessen Schnittstellen (z.B. Bussysteme, Speicherarten, CPU-Sockel).
+                </knowledge>
+                <knowledge>
+                    Kennt mögliche Parameter für die verschiedenen Hardware-Komponenten im BIOS/UEFI und deren Einfluss.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit einer Testeinrichtung Eignung und Kompatibilität der empfohlenen Komponenten überprüfen und die Ergebnisse dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Testverfahren zur Überprüfung der Eignung und Kompatibilität der Komponenten.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Verfahren um Performance-Probleme im System zu lokalisieren.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Verfahren zur Abklärung der Machbarkeit der Auf-/Um¬rüstung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anhand der Ergebnisse Hard- und Software-Komponenten zur Beschaffung vorschlagen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kostenkomponenten (Beschaffungskosten, Arbeitsaufwand), die beim Vergleich Auf-/Umrüstung versus Neuanschaffung eines Computersystems zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Schritte, die bei der Umrüstung eines PC Systems durchgeführt werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt Inhalt und Aufbau einer Offerte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Auf-/Umrüstungsablauf planen und dabei betriebliche Rahmenbedingungen beachten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die bei Arbeiten am offenen Computersystem einzuhaltenden gängigen  Schutz- und Sicherheitsvorschriften (ESD, SEV etc.).
+                </knowledge>
+                <knowledge>
+                    Kennt Inhalt und Aufbau einer Checkliste zur systematischen Vorgehensweise einer Auf-/Umrüstung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Daten sichern und neue Hard- bzw. Software-Komponenten installieren, konfigurieren und System wieder in Betrieb nehmen. Daten und Konfigurationseinstellungen migrieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Unterschied zwischen lokal abgespeicherten Daten (z.B. Systemeinstellungen, Anwendungseinstellungen, Nutzerdaten).
+                </knowledge>
+                <knowledge>
+                    Kennt gängige SW-Hilfsmittel und Speichermedien zur Sicherung und Wiederherstellung von Datenbeständen auf lokalen Systemen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nicht mehr benötigte Komponenten verwerten oder umweltgerecht entsorgen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorschriften welche bei der Entsorgung von Hardwarekomponenten, Verbrauchsmaterial und Verpackungsmaterial eingehalten werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

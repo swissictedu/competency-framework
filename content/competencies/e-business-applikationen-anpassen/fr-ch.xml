@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>150</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=150%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Adapter une application de commerce électronique.</title>
+    <capability>Adapter des applications de commerce électronique conformément aux prescriptions et compte tenu de la sécurité ainsi que des conditions cadres techniques.</capability>
+    <goals>
+        <goal>
+            Saisir la structure de l´application, le concept de transaction, l’environnement de l’application et des conditions cadres (sécurité, performance, disponibilité, volume de transaction, etc.)
+            <knowledge-list>
+                <knowledge>
+                    Connaître des architectures possibles dans des applications Web.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux éléments permettant de garantir la sécurité dans les applications Web.
+                </knowledge>
+                <knowledge>
+                    Connaître des critères qui influencent la performance et la disponibilité d’une application Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser la donnée, formuler les besoins de changement côté client, côté serveur et côté base de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes pour la formulation d’une demande de modifications (Request for Change).
+                </knowledge>
+                <knowledge>
+                    Connaître un déroulement pour estimer les effets des modifications sur les différents éléments d’une application Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier et documenter les effets des changements sur la sécurité et la protection des informations sur tous les niveaux, tels que clients, serveurs Web, serveurs d´application et serveurs de base de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les dispositions de la protection des données et de la sécurité des informations, ainsi que leur importance dans une application Web.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes de chiffrage des données et de garantie de l’authentification (HTTPS, certificats).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier les modifications y compris l’implémentation et les tests selon un processus de modifications prédéfini.
+            <knowledge-list>
+                <knowledge>
+                    Connaître un modèle de déroulement pour la planification de modifications d’une application Web.
+                </knowledge>
+                <knowledge>
+                    Connaître la procédure de test et de remise dans le cadre d’un processus de modifications.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement lors de l’introduction d’applications modifiées dans le cadre d’un processus de modifications.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser, documenter et tester les modifications.
+            <knowledge-list>
+                <knowledge>
+                    Connaître un déroulement méthodique pour une adaptation par étapes de composants d’une application, y compris la gestion des versions.
+                </knowledge>
+                <knowledge>
+                    Connaître une procédure pour la migration et l’introduction d’une application modifiée.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour l’exécution de tests et pour la remise des modifications.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

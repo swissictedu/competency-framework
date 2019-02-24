@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>417</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=417%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Adapter le design des CI/CD au média utilisé</title>
+    <capability>Développer les lignes directrices créatives, les constantes de publicité et les concepts de communication pour la conception d’entreprise sur la base d’une identité d’entreprise, les mettre en application et définir les principes directeurs pour divers canaux médiatiques</capability>
+    <goals>
+        <goal>
+            Comprendre et interpréter les principales conclusions d´une identité d´entreprise existante (CI) pour développer des éléments non encore défini avec le même effet.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la signification et le contexte de la personnalité morale, l’apparence, le comportement et la communication.
+                </knowledge>
+                <knowledge>
+                    Connaître la fonction du CI et CD.
+                </knowledge>
+                <knowledge>
+                    Connaître les objectifs d’actions et de communication de l´entreprise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déduire à partir des objectifs de marketing et de la conception d’entreprise (CD), les groupes cibles, l´architecture de marque, le positionnement et l’environnement de marché.
+            <knowledge-list>
+                <knowledge>
+                    Connaître diverses méthodes pour l’analyse des groupes cibles et de la concurrence.
+                </knowledge>
+                <knowledge>
+                    Connaître les bases du portefeuille de l’architecture, du portfolio et de l´image de marque.
+                </knowledge>
+                <knowledge>
+                    Connaître les bases de l´environnement, de la position et des tendances du marché.
+                </knowledge>
+                <knowledge>
+                    Connaître les méthodes pour mettre en évidence les forces et les qualités (positionnement).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Préciser les critères pour le développement du concept des nouveaux éléments.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux éléments du CI et CD.
+                </knowledge>
+                <knowledge>
+                    Connaître le sens et le contenu d´un entretien de conception.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Élaborer un cadre CD axé sur les médias pour les canaux appropriés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités et l´importance de la création de caractéristiques distinctives primaires telles que La mise en oeuvre dans les images, le concept de la couleur, le symbolisme.
+                </knowledge>
+                <knowledge>
+                    Connaître les propriétés de conception et les relations des différents niveaux d’images (marque faîtière ‐ marque unique – marque du produit).
+                </knowledge>
+                <knowledge>
+                    Connaître les différentes étapes du processus de concept graphique.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes pour la solution de problèmes dans le concept graphique.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes techniques de création (brainstorming, boîte morphologique) et leurs possibilités d’utilisations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en oeuvre un CD axé sur les médias pour l’impression, le web et l’équipement de bureau en respectant les conditions cadres du média concerné.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les propriétés des médias cibles, leurs possibilités et limites par rapport à la mise en oeuvre conceptuelle du CD.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les directives et compléter un manuel CD pour les besoins nouvellement ajoutés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les composants nécessaires et la structure logique d´un manuel CI / CD, et la portée de validité pour les partenaires internes et externes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

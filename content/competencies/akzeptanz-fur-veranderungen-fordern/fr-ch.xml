@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>492</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=492%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Promouvoir l’acceptation du changement</title>
+    <capability>Identifier les changements, ayant lieu avec les nouveaux ou avec la modification des systèmes TIC, qui touchent les personnes concernées et analyser leur acceptation. Accompagner et apporter le soutien aux personnes concernées afin de surmonter ces changements dans leur propre domaine de responsabilité et créer ainsi les conditions pour réussir le changement.</capability>
+    <goals>
+        <goal>
+            Identifier les changements que le projet TIC entraîne pour les personnes concernées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités d’identification des changements (analyse interne des parties prenantes, intégration de toutes les personnes concernées et de toutes les dimensions du changement (dimension du contexte, dimension des comportements, aptitudes, etc.)).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les changements identifiés pour en dégager les effets sur l’activité professionnelle des personnes concernées. En déduire les espoirs, peurs, incertitudes et comportements susceptibles d’influencer le succès de l’introduction.
+            <knowledge-list>
+                <knowledge>
+                    Savoir quelles sont les conséquences potentielles d’un changement pour les personnes concernées, comment les analyser et les évaluer.
+                </knowledge>
+                <knowledge>
+                    Savoir comment l’être humain peut réagir au changement.
+                </knowledge>
+                <knowledge>
+                    Connaître les phases typiques du processus de changement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Indiquer les conséquences du changement et formuler des recommandations.
+            <knowledge-list>
+                <knowledge>
+                    Savoir dans quelles phases du changement soutenir les personnes concernées et avec quelles mesures.
+                </knowledge>
+                <knowledge>
+                    Connaître la dynamique (processus de groupe, préférences, etc.) du changement et savoir comment agir dans quelle situation et quelles mesures il convient de prendre.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences particulières à la direction de personnel dans un processus de changement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Modeler consciemment son propre comportement en matière d’information et de communication afin de faire accepter le résultat du projet.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les flux émotionnels d’information et d’énergie.
+                </knowledge>
+                <knowledge>
+                    Etre capable d’intégrer les personnes concernées tout au long du changement. Connaître les règles de communication correspondantes et les comportements adéquats.
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs de succès des changements et savoir comment les planifier et les concrétiser (faire prendre conscience des changements, chercher des alliés, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les oppositions potentielles et existantes, être capable de les affronter de manière constructive, créer l’acceptation et intégrer les personnes concernées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les oppositions que peut soulever un processus de changement et les identifier à temps.
+                </knowledge>
+                <knowledge>
+                    Connaître et savoir appliquer des méthodes permettant d’affronter les oppositions.
+                </knowledge>
+                <knowledge>
+                    Savoir comment influencer, par des mesures et un soutien adéquats, la disponibilité au changement des personnes concernées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Aider les personnes concernées à vaincre leurs oppositions et à maîtriser les changements.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités de développer de manière ciblée l’aptitude au changement des personnes concernées.
+                </knowledge>
+                <knowledge>
+                    Connaître les différents comportements face au changement et savoir comment y réagir (acteur, passif, attentiste, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître et identifier les différents rôles dans le changement (sponsor, bureau de projet, agent du changement, etc.). Savoir quelles sont leurs tâches et comment communiquer avec eux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Proposer aux responsables hiérarchiques et de projets des mesures de soutien aux personnes concernées par le projet.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales erreurs commises dans les processus de changement (effet de « bombe », départ « à l’aveugle », etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs de succès des processus de changement et savoir comment les concrétiser (orientation client, organisation professionnelle, intégration des personnes concernées, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer des mesures de soutien (information, formation, coaching, etc.).
+            <knowledge-list>
+                <knowledge>
+                    Connaître différentes formes de formation et leur adéquation dans différentes situations.
+                </knowledge>
+                <knowledge>
+                    Connaître la démarche à suivre pour planifier et élaborer une formation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

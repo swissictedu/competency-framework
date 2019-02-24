@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>130</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=130%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Contrôler un réseau et mesurer ses flux.</title>
+    <capability>Mesurer le caractère fonctionnel et les performances d’un réseau local (LAN). 
+Interpréter les résultats et, le cas échéant, prendre les mesures nécessaires. Localiser et réparer les pannes avec des outils et procédures appropriés.</capability>
+    <goals>
+        <goal>
+            Vérifier et mesurer, avec des outils appropriés, la fonctionnalité ainsi que les performances d’un réseau en exploitation. Verbaliser et évaluer les résultats.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes et des outils pour la mesure de la charge et de l´efficacité des réseaux (par ex. référence, mesures de base, simulation de charge, analyse de tendance).
+                </knowledge>
+                <knowledge>
+                    Connaître la problématique de la protection des données et de la pénétration d´autres dispositions relatives à la sécurité avec l´application d´outils d´analyse.
+                </knowledge>
+                <knowledge>
+                    Connaître les causes les plus fréquentes des pannes dans le domaine de la fiabilité et de la performance des réseaux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Proposer, documenter et mettre en œuvre, le cas échéant, les mesures pour l’amélioration des performances ou pour éviter les pannes. Mettre à jour la documentation réseau et d’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le contenu et la structure d’une documentation réseau afin d’en  garantir la maintenance et l’exploitation.
+                </knowledge>
+                <knowledge>
+                    Connaître de bonnes mesures pour améliorer les prestations ou la réduction des pannes en regard de la fiabilité et la performance des réseaux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            En cas de pannes, interpréter et faire la saisie d’un message d’erreurs et fournir un rapport.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le modèle des couches OSI pour la recherche systématique de pannes.
+                </knowledge>
+                <knowledge>
+                    Connaître le contenu et la structure de la description d’une panne.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier avec des outils appropriés et verbaliser les caractéristiques (électriques, électromagnétiques ou optiques)  ainsi que les fonctionnalités des points de raccordement d’un réseau (OSI niveau 1).
+            <knowledge-list>
+                <knowledge>
+                    Connaître de nombreuses pannes et leurs symptômes qui interviennent au niveau 1 de la couche OSI.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et des outils pour le réexamen des médias et des liaisons (par ex. évaluation visuelle, LED des appareils, testeur de câbles, testeur de réseaux, multimètres).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Examiner avec un analyseur de protocoles, verbaliser les protocoles ainsi que les processus dans le réseau et évaluer les valeurs mesurées (OSI niveaux 2-4).
+            <knowledge-list>
+                <knowledge>
+                    Connaître la fonction et les entêtes les plus importants des protocoles d´un réseau IP (par ex. Ethernet, IP, ARP, ICMP, TCP, UDP, DHCP, DNS).
+                </knowledge>
+                <knowledge>
+                    Connaître de nombreuses pannes et leurs symptômes qui interviennent aux niveaux 2-7 de la couche OSI.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et des outils pour l´analyse des protocoles et des processus de communication (analyseur de protocoles, moniteur réseau).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Cerner systématiquement les pannes, trouver les causes possibles, documenter et éliminer les pannes, contrôler le succès obtenu par les mesures prises. Au besoin, entreprendre la transmission au niveau supérieur et, si nécessaire, mettre à jour la documentation d’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement systématique pour cerner les pannes (par ex. connexion de parties système intactes).
+                </knowledge>
+                <knowledge>
+                    Connaître le processus pour la transmission des pannes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

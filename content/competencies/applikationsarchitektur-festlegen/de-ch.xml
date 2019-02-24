@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>203</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=203%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Applikationsarchitektur festlegen</title>
+    <capability>Applikationsarchitektur analysieren und zielorientiert (IT Strategie) beurteilen. Umsetzungsvarianten definieren und Soll-Applikationsarchitektur entwickeln. Migration und Umsetzung planen und zur Entscheidung führen.</capability>
+    <goals>
+        <goal>
+            Aus der Ist-Applikationsarchitektur und den IT Zielsetzungen eine Soll-Applikationsarchitektur unter Berücksichtigung von IT Sicherheitsrichtlinien entwickeln und beschreiben. Dabei die Architekturprinzipien aus verschiedenen logischen Sichten anwenden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das klassische 3-Schichten-Modell (Presentation, Application, Data) einer Applikationsarchitektur und kann erläutern, welchen Nutzen und welche Gefahren dieses Modell bei der Entwicklung, Erweiterung und Betrieb von Applikationen mit sich bringt.
+                </knowledge>
+                <knowledge>
+                    Kennt nicht-funktionale Anforderungen (Datensicherheit, Verfügbarkeit, Skalierbarkeit, Wartbarkeit etc) an eine Applikation und kann erläutern, wie diese bei der Konzeption der Applikationsarchitektur berücksichtigt werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt logische Sichten (Objekt-, Daten-, Funktions-, Prozesssicht) auf eine Applikationsarchitektur sowie Kombinationen davon und kann erläutern, welche Sachverhalte damit abgebildet werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Umsetzungsvarianten und Umsetzungsschritte für die Soll-Applikationsarchitektur bestimmen und dabei die Ist-Applikationslandschaft (Ist-Applikationsarchitektur) berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Faktoren, welche bei der Migration von einer Ist- zu einer Soll-Applikationsarchitektur berücksichtigt werden müssen und kann aufzeigen welche Entscheidungen hinsichtlich der Migrationsplanung aus diesen Faktoren abgeleitet werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vorgeschlagene Umsetzungsvarianten bewerten und dabei die Auswirkungen auf Wirtschaftlichkeit, Softwareentwicklungsprozess, benötigte Werkzeuge und Personal berücksichtigen. Entscheidung für eine Umsetzungsvariante herbeiführen.</goal>
+        <goal>
+            Zustand von drei bestehenden Applikationen im Lebenszyklus festhalten. Migrationsplan auf der Grundlage der gewählten Umsetzungsvariante erarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien, welche den Stand einer Applikation im Lebenszyklus bestimmen lassen und kann erläutern, wie diese Kriterien den Entscheid eines Wechsel auf eine neue Applikationsarchitektur beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kritische Erfolgsfaktoren für die zu planende Umsetzung aus dem Migrationsplan ableiten. Massnahmen und Kontrollinstrumente für die Umsetzung bestimmen und falls erforderlich Projektantrag für das Unternehmensprojektportfolio formulieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt kritische Erfolgsfaktoren bei der Migration auf eine neue Applikationsarchitektur und kann aufzeigen, unter welche Rahmenbedingungen diese bei der Migrationsplanung zu beachten sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Aspekte, welch für einen Entscheid hinsichtlich Migration einer Applikationsarchitektur in einer Organisation zu berücksichtigen sind, und kann darlegen, welche Auswirkungen hinsichtlich Ressourcenbedarf damit abgedeckt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

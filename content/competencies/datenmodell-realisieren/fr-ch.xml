@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>479</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=479%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Réaliser un modèle de données</title>
+    <capability>Elaborer le modèle de données physique à partir du design orienté objet et représenter l’accès aux données de l’objet modélisé.</capability>
+    <goals>
+        <goal>
+            Analyser les exigences de persistance des objets sur la base des artefacts de l’analyse et du design et en déduire la manière dont ils seront stockés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques des objets qui conditionnent le type et la portée de leur persistance et pouvoir indiquer comment elles influencent les décisions concernant la persistance des objets.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes permettant de stocker des objets de manière persistante et pouvoir expliquer quelles sont leurs caractéristiques en ce qui concerne l’accès.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer le modèle de données conceptuel pour les objets qui seront stockés dans une base de données relationnelles sur la base des classes d’entités et de leurs caractéristiques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différences fondamentales de structuration des informations entre les modèles de classes et les modèles de données relationnels et pouvoir expliquer les conflits structurels qui en découlent lors de la migration.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques et des règles permettant de dériver un modèle logique de données relationnel à partir d’un modèle de classes et savoir expliquer comment elles permettent de parvenir à une cohérence entre les deux modèles.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Convertir le modèle de données logique en modèle de données physique compte tenu des conventions et des restrictions du système de base de données choisi.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les conventions et restrictions fondamentales concernant la conversion d’un modèle logique de données relationnel en un modèle physique de données relationnel et savoir expliquer comment elles influencent la cohérence entre les deux modèles.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir un mapping de framework objet‐relationnel en fonction des exigences relatives au mapping d’objets résultant du modèle de données physique et du modèle de classes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions de base d’un mapping de framework objet‐relationnel et pouvoir expliquer comment elles permettent d’influencer le comportement et les caractéristiques de la couche de persistance de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Représenter les structures du modèle de classes dans le modèle de données physique au moyen du mapping et en tenant compte de la fonctionnalité d’un mapping de framework objet‐relationnel et des accès individuels d’écriture et de lecture.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les techniques permettant d’implanter la couche de persistance d’une application au moyen d’un mapping de framework objet‐relationnel et pouvoir expliquer quelles conditions doivent être remplies en ce qui concerne le framework et l´accès aux données pour qu’elles soient adéquates.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer l’efficacité (nombre d’accès, quantité d’objets chargés) du mapping du modèle de classes dans le modèle de données physique et optimiser les accès compte tenu des artefacts provenant de l’analyse et du design.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes et techniques permettant d’analyser les accès au système de base de données résultant du mapping objet‐relationnel et pouvoir expliquer quelles sont les informations qu’elles fournissent en ce qui concerne l’efficacité de ces accès.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités d’optimisation de l’efficacité des accès du mapping objetrelationnel et pouvoir expliquer quelles adaptations elles nécessitent au niveau du système de base de données.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités d’optimisation de l’efficacité des accès du système de base de données et pouvoir expliquer quelles adaptations elles nécessitent au niveau du mapping objet‐relationnel.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>437</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=437%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Im Support arbeiten</title>
+    <capability>Supportprozess verstehen und Kundenanliegen im 1st und 2nd Level bearbeiten.</capability>
+    <goals>
+        <goal>
+            Den Supportprozess in seiner Gesamtheit verstehen. Die unterschiedlichen Rollen und Nahtstellen beschreiben können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die unterschiedlichen Supportlevel und deren Funktionen im Supportprozess.
+                </knowledge>
+                <knowledge>
+                    Kennt die gebräuchlichen Fachbegriffe im Supportprozess (z.B. Service Desk, Incident, Problem, Request)
+                </knowledge>
+                <knowledge>
+                    Kennt die beteiligten Akteure und deren Rollen im Supportprozess.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kundenanliegen im 1st Level Support vollständig aufnehmen, bearbeiten, dokumentieren oder eskalieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Prinzip eines Tickets und den darin festgehaltenen Informationen.
+                </knowledge>
+                <knowledge>
+                    Kennt Modelle Kommunikation zwischen Menschen (z.B. 4-Ohren, Sender-Empfänger, Sach- und Beziehungsebene).
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten schwierige Situationen bei Kundengesprächen professionell zu meistern (z.B. emotionale Gespräche auf die Sachebene zurückbringen).
+                </knowledge>
+                <knowledge>
+                    Kennt den Einsatz verschiedener Fragetechniken zum effizienten Erfassen und Lösen eines Kundenanliegens.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten und Grenzen für einen sinnvollen Einsatz von Remote-Support.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien für die Eskalation einer Support-Anfrage an den Second-Level-Support.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die dem 2nd Level zugewiesenen Kundenanliegen analysieren, Lösung vorbereiten, Lösung implementieren und dokumentieren oder Anliegen eskalieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Arbeitstechnik um den Einsatz beim Kunden zielgerichtet vorzubereiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Wirkung des eigenen Auftretens und Erscheinungsbildes auf die Kundenbeziehung.
+                </knowledge>
+                <knowledge>
+                    Kennt den Einfluss der nonverbalen und verbalen Kommunikation vor Ort beim Kunden auf den Arbeitserfolg.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung einer vollständigen und korrekten Dokumentation des Support-Falls im Hinblick auf die Nachvollziehbarkeit.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien für die Eskalation einer Support-Anfrage an den Third-Level-Support.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anfragen an den 3rd Level Support vorbereiten und Antworten in den Supportprozess einfliessen lassen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Anforderungen um ein technisches Problem fachgerecht zu formulieren und an die zuständige Stelle für die Bearbeitung weiterzuleiten.
+                </knowledge>
+                <knowledge>
+                    Kennt den Supportprozess um Antworten an die richtige Stelle weiterzuleiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Störungen analysieren und mit geeigneten Methoden Lösungen herbeiführen und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden um Fehler systematisch einzugrenzen und zu beheben.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten Störungsfälle auszuwerten und daraus Regelmässigkeiten zu erkennen um geeignete Massnahmen einzuleiten.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten auf Grund von Parametern mögliche Störungen schon im Vorfeld zu erkennen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Lösungen für Störungen zielgruppengerecht aufbereiten, dokumentieren und kommunizieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Medien um Lösungen zu dokumentieren und kommunizieren (z.B. Knowledgebase, FAQ, Help, Wiki).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

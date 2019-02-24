@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>196</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=196%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Wirkung von ERP-Sytemen auf Unternehmen beurteilen</title>
+    <capability>Auswirkungen von ERP-Systemen aus Unternehmens-, Kunden und Lieferantensicht beurteilen. Einführungsempfehlung für ein ERP-System ausarbeiten.</capability>
+    <goals>
+        <goal>
+            Standardprozesse eines evaluierten ERP-Systems mit den im Unternehmen tatsächlich vorhandenen Geschäftsprozessen vergleichen und Abweichungen (Unterschiede) schriftlich festhalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Merkmale von Geschäftstätigkeiten, welche idealerweise durch standardisierte Systeme unterstützt werden und kann aufzeigen, warum diese Merkmale für eine Standardisierung sprechen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kategorien von Geschäftsprozessen die typischerweise durch ERP-Systeme unterstützt werden und kann an Beispielen erläutern, welche Vorteile eine Standardisierung dieser Geschäftsprozesse für ein Unternehmen bringen kann.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzliche Problematik des Vergleichs von Geschäftsprozessen, die mit unterschiedlicher Terminologien beschrieben sind und kann erläutern, welche Massnahmen notwendig sind, um aussagekräftige Vergleichsergebnisse zu erreichen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Auswirkungen der Abweichungen auf das Unternehmen und dessen Umweltbeziehungen beurteilen (z.B. auf die Unternehmensorganisation, die Applikationsarchitektur, die Informatikinfrastruktur, die Beziehungen zu internen und externen Kunden und Lieferanten).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung der Berücksichtigung der Umweltbeziehungen einer Unternehmung (interne und externe Kunden, Lieferanten, Partnerfirmen etc.) bei der Einführung eines ERP-Systems und kann an Beispiel aufzeigen, welche negativen Konsequenzen damit verhindert werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt Faktoren (technische, organisatorische) die bei der Beurteilung der Eignung eines Standardprozesses für die Unterstützung eines unternehmensspezifischen Geschäftsprozesses berücksichtigt werden müssen und kann aufzeigen, welche negativen wirtschaftlichen Konsequenzen mit einer systematischen Abklärung dieser Faktoren verhindert werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anpassungsbedarf für das ERP-System und für die Unternehmensorganisation in Form von Einführungsvarianten ausarbeiten und dabei die erwarteten Auswirkungen berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Konsequenzen der Varianten "betriebsspezifische Anpassung der Standardprozesse" und "Übernahme der Standardprozesse" für die Einführung, den Betrieb und die Wartung von ERP-Systemen und kann anhand von Beispielen die Vor- und Nachteile dieser beiden Varianten erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ausgearbeitete Einführungsvarianten bewerten (inkl. Wirtschaftlichkeitsanalyse) und daraus eine Empfehlung formulieren und begründen.</goal>
+        <goal>
+            Formulierte Empfehlung dem Auftraggeber präsentieren, Diskussion führen und moderieren.
+            <knowledge-list>
+                <knowledge>
+                    Kann Methoden und Techniken zur Herbeiführung zur Entscheidung in einem Gremium beschreiben und an Beispielen erläutern, in welchen Situation diese zur Anwendung kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

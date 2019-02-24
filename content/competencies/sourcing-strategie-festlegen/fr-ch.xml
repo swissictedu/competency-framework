@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>603</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=603%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Fixer la stratégie des ressources</title>
+    <capability>Déterminer, sur la base de la stratégie TIC, quelles prestations peuvent être fournies localement ou doivent être acquises les exigences pour le portfolio des prestations de service TIC ou les exigences spécifiques de l’entreprise.</capability>
+    <goals>
+        <goal>
+            Fixer le modèle optimal des ressources en tenant compte de la stratégie TIC et les conditions cadres spécifiques à l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les champs d’application, les formes, et les caractéristiques des différences de l’outsourcing (par ex. outtasking, outsourcing sélectif, outsourcing transitoire, outsourcing complet).
+                </knowledge>
+                <knowledge>
+                    Connaître des concepts pour la consolidation et la centralisation des prestations de service, ainsi que les limites de l’outsourcing (par ex. shared services).
+                </knowledge>
+                <knowledge>
+                    Connaître l’utilité et les risques de l’outsourcing (par ex. concentration sur la tâche principale, connaissances du prestataire, indépendance du prestataire, la sécurité légale des contrats).
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs pour un outsourcing effectif et efficace (l’intérêt des collaborateurs, résistance du personnel concerné, orientation client et expérience du partenaire de l’outsourcing).
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures permettant de réduire et d’éliminer les risques dans l’outsourcing.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer la capacité et le degré de préparation des TIC pour la mise en œuvre du modèle de ressources choisi, et décrire ceux‐ci en tenant compte des conditions cadres organisationnelles, techniques et financières.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’objectif, la structure, les objets sources et le déroulement pour une analyse AFOM (SWOT‐Analyse par ex. selon Haward Business School).
+                </knowledge>
+                <knowledge>
+                    Connaître des domaines pertinents de recherche en regard de l’outsourcing pour la détermination de l’état actuel et le degré de préparation des TIC (par ex. Technology Readness Level).
+                </knowledge>
+                <knowledge>
+                    Connaître les grandeurs comparables en regard de la performance des prestations de service TIC avec des tiers en relation avec l’outsourcing (Benchmarking des coûts des TIC par fonction et genre de coûts).
+                </knowledge>
+                <knowledge>
+                    Connaître les aspects légaux de l’outsourcing et leur signification en regard de la capacité des TIC pour la mise en œuvre d’un modèle d’outsourcing (par ex. exigences de la protection des données).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les prestations qui peuvent être acquise auprès de tiers et décrire leur environnement et niveau de service possibles.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les objectifs et les composants d’un contrat d’outsourcing entre les mandants et les mandataires de prestations TIC (par ex. Service Level‐Agreements).
+                </knowledge>
+                <knowledge>
+                    Connaître les dispositions contractuelles d’un contrat d’outsourcing entre les mandants et les mandataires de prestations TIC (par ex. droit de licence, transmission du personnel).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir la procédure appropriée en tenant compte des exigences et règles spécifiques à l’entreprise pour l’établissement de la demande d’offres et la présentation de celles‐ci.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les formes usuelles de procédures de soumission ainsi que leurs avantages et inconvénients (par ex. procédure publique, procédure sur invitation, procédure privée).
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes d’une procédure de soumission (par ex. définition des critères de remise, publication des appels d’offres).
+                </knowledge>
+                <knowledge>
+                    Connaître les prescriptions légales relatives aux procédures de soumission (par ex. droit de remise, valeurs des seuils, bases du traitement équivalent).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

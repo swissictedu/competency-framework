@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>612</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=612%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Portfolio bewerten</title>
+    <capability>Bewertet und priorisiert unter Anwendung geeigneter Methoden und Tools die beantragten Projekte gemäss den geltenden Zielgrössen und erarbeitet die Entscheidungsgrundlagen für das Steuerungsgremium. Überwacht den aktuellen Stand der Projekte laufend und steuert und interveniert bei Abweichungen zeitnah.</capability>
+    <goals>
+        <goal>
+            Sammelt und erhebt die Vorgaben und Informationen für den Aufbau eines Bewertungssystems für beantragte Projekte und stuft deren Bedeutung zusammen mit den Anspruchsgruppen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von Projekten, die bei der Prüfung von Projektanträgen zu unterscheiden sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Bewertungsdimensionen für Projektanträge im Rahmen des Projektportfolio-Managements und kann diese auf ein Portfolio anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgaben einer Unternehmung, welche relevante Informationen für den Aufbau eines Bewertungssystems enthalten (ICT Strategie, Architekturvorgaben, regulatorische Rahmenbedingungen, Konzernrichtlinien, Rentabilitätsbandbreiten für Investitionen, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt aufgrund der Informationen und der ausgewählten Vorgaben ein Bewertungssystem, welches eine objektive und nachvollziehbare Einstufung der Relevanz und der Umsetzbarkeit der Projekte für das Unternehmen sicherstellt.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundlagen und Anforderungen an ein Bewertungssystem 
+(z.B. Metriken).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Tools für ein effizientes Bewertungssystem und wendet diese bei der Auswahl an.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Begründet gegenüber den wichtigen Anspruchsgruppen die Eignung des Bewertungssystems unter Einbezug der Informationen und Vorgaben und führt den Entscheid für den Einsatz dieses Bewertungssystems herbei.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Massnahmen und Vorgehen zur Vorbereitung von Entscheiden (z.B. Lobbing, Einbezug der Stakeholder, u.ä.).
+                </knowledge>
+                <knowledge>
+                    Kennt Strukturelemente von Präsentationen zur Herbeiführung von Entscheiden (z.B. Ausgangslage, Zielsetzungen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Stuft die Bedeutung und die Umsetzbarkeit der beantragten Projekte für das Unternehmen aufgrund der zur Verfügung gestellten Informationen unter Einhaltung des Bewertungsprozesses und mit Hilfe des Bewertungssystems ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung der Aussagekraft der Informationen zu einem Projekt für eine zuverlässige Bewertung mittels eines kriterien-orientierten Bewertungssystems (z.B. Differenzierungsgrad).
+                </knowledge>
+                <knowledge>
+                    Kennt interne Einflussfaktoren (z.B. persönliche Beziehungen und Interessen), welche trotz der Bewertung mittels eines kriterien-orientierten Bewertungssystems zu subjektiven Einschätzungen führen können.
+                </knowledge>
+                <knowledge>
+                    Kennt die externen Einflüsse mit Konsequenzen auf die Zuverlässigkeit eines Bewertungssystems (z.B. volkswirtschaftliche, regulatorische und technische Einflüsse).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt und begründet das Portfolio der zu realisierenden Projekte unter Berücksichtigung der Bewertungsergebnisse für die beantragten Projekte und den Rahmenbedingungen der Ressourcen- und Finanzplanung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Massnahmen und Vorgehen zur Vorbereitung von Entscheiden (z.B. Lobbing, Einbezug der Stakeholder).
+                </knowledge>
+                <knowledge>
+                    Kennt Strukturmerkmale eines Portfolios, die Inhalte einer Entscheidungsgrundlage darstellen (z.B. Ressourcen, Kosten, Abhängigkeiten, Strategiebezug).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert in Abstimmung mit den relevanten Anspruchsgruppen die Status- Informationen für laufende Projekte und die Periodizität, in der diese ausgewiesen werden müssen, um ein objektives und aussagekräftiges Projektportfolio-Controlling sicherzustellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Darstellungsmöglichkeiten und Kennzahlen, die einen aussagekräftigen Nachweis hinsichtlich Projektstatus und –prognose liefern. (z.B. Meilensteintrendanalyse).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fordert die Statusinformationen der laufenden Projekte zu den festgelegten Terminen bei den verantwortlichen Projektleitern ein und prüft die Einhaltung der im Projektportfolio-Management festgelegten Zielsetzungen, Anforderungen und Rahmenbedingungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung einer rechtzeitigen und vollständigen Lieferung der Statusinformationen als Basis für die Berichterstattung und Steuerung.
+                </knowledge>
+                <knowledge>
+                    Kennt Prüfkriterien für die Bewertung der Qualität von Projekt-Statusinformationen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Interveniert bei relevanten Abweichungen von den Zielsetzungen beim verantwortlichen Projektleiter und leitet - sofern notwendig - zeitnah geeignete Massnahmen zur Sicherstellung der Zielerreichung des entsprechenden Projektes ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Führungsfunktionen bei der Projektüberwachung und Steuerung (Handlungsbedarf erkennen, Entscheiden, Anordnen, Kontrollieren).
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Steuerungsmassnahmen (z.B. Krisenintervention, Projektstopp, Projektunterbruch) in einem Projekt und der Konsequenzen auf Projektverlauf, -ergebnis und -umfeld.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

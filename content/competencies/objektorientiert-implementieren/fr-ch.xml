@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>226</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=226%26clang=fr</reference>
+            <level>2</level>
+            <lessons>80</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter orienté objets</title>
+    <capability> Implémenter, tester et documenter un design orienté objets (OOD)</capability>
+    <goals>
+        <goal>
+            Reproduire un design orienté objets et compléter par des classes techniques.
+            <knowledge-list>
+                <knowledge>
+                     Connaît le paradigme de l'approche orientée objets et peut décrire à l'aide d'exemples quelles différences de principe existent par rapport à l'approche fonctionnelle.
+                </knowledge>
+                <knowledge>
+                     Peut préciser comment le monde réel est illustré dans le design au moyen des classes, de leurs attributs et de leurs méthodes.
+                </knowledge>
+                <knowledge>
+                     Connaît les types relationnels (association, agrégation, composition) entre les classes, le concept de l'héritage et peut préciser comment ceux-ci sont appliqués.
+                </knowledge>
+                <knowledge>
+                     Connaît la signification des classes techniques et peut décrire à l'aide d'exemples comment celles-ci complètent le design orienté objets avec les classes professionnelles.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rappresentare le strutture dinamiche e statiche tra oggetti rispettivamente classi per mezzo di Unified Modeling Language, UML (diagrammi di classi/sequenza).
+            <knowledge-list>
+                <knowledge>
+                     Connaît la notation des diagrammes de classes et d'objets, peut préciser en quoi ceux-ci se distinguent.
+                </knowledge>
+                <knowledge>
+                     Connaît la notation des digrammes de séquences et de collaboration, peut préciser comment les déroulements se laissent représenter.
+                </knowledge>
+                <knowledge>
+                     Connaît la notation des interfaces et des paquets, peut préciser comment ceux-ci affectent l'implémentation (définition de types, programmation en groupes, etc.)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementare un Design orientato oggetti. 
+            <knowledge-list>
+                <knowledge>
+                     Peut décrire comment des modèles de classes peuvent être transposés à l'aide d'un langage orienté objets.
+                </knowledge>
+                <knowledge>
+                     Peut montrer l'effet de la polymorphie avec un exemple de codes.
+                </knowledge>
+                <knowledge>
+                     Peut montrer comment par l'usage d'interfaces le code peut être établi et vérifié de façon indépendante.
+                </knowledge>
+                <knowledge>
+                     Connaît les fonctions de base d'un outil CASE et peut décrire avec quelles fonctions l'implémentation est soutenue.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testare sistematicamente le classi (Unit Test).
+            <knowledge-list>
+                <knowledge>
+                     Connaît les pas principaux qui doivent se dérouler lors du test d'une unité (Unit test) et peut préciser quelles contributions ceux-ci apportent pour un résultat qualitativement bon.
+                </knowledge>
+                <knowledge>
+                     Peut définir des valeurs et des cas de test pour une classe, peut les implémenter dans une classe de test.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+             Compléter les documentations de classes et système.
+            <knowledge-list>
+                <knowledge>
+                     Peut documenter le code programme de façon complète et correcte, afin d'en déduire les spécifications API.
+                </knowledge>
+                <knowledge>
+                     Connaît la structure d'une documentation système et peut énoncer sa signification pour la maintenance et la reproductibilité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

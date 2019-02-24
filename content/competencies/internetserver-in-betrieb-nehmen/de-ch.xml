@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>239</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=239%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Internetserver in Betrieb nehmen</title>
+    <capability>Internetserver mit verschiedenen Diensten konfigurieren und in Betrieb nehmen und dabei Sicherheitsvorgaben und betriebliche Anforderungen beachten.</capability>
+    <goals>
+        <goal>
+            Anforderungen (Sicherheit, Lastprofil, Datenvolumen, Verfügbarkeit, zu integrierende Applikationen) an einen Internetserver aufnehmen und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien, welche bei der Beurteilung einer Ausgangssituation für die Dimensionierung eines Internetservers angewendet werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestehende Infrastruktur (Server, Netzwerk, Dienste) mit den Anforderungen abgleichen und notwendige Anpassungen bzw. Erweiterungen vorschlagen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Merkmale und deren Bedeutung für die technische Spezifikation eines Internetservers.
+                </knowledge>
+                <knowledge>
+                    Kennt das Prinzip der Namensauflösung mittels DNS und deren Einfluss auf  den Betrieb weiterer Internetdienste (z.B. Virtual Hosts bei Webserver).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erforderliche Einstellungen gemäss Sicherheits- und Betriebskonzept festlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die empfohlenen (best practice) Betriebs- und Sicherheitseinstellungen eines Internetservers.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Software installieren, konfigurieren und Dienste einrichten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Abhängigkeiten der zu installierenden Dienste und den Einfluss auf die Reihenfolge der Installation/Konfiguration.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien, die bei der Anbindung fremder Ressourcen an einen Internetserver zu beachten sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Zugriffsberechtigungen vergeben, sichere Kommunikation  und Log-Services einrichten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kriterien für die Definition der Zugriffsberechtigungen von Benutzern und Gruppen.
+                </knowledge>
+                <knowledge>
+                    Kennt das Prinzip der sicheren Kommunikation und den Einsatz von Zertifikaten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Protokollierung und Auswertung von Log-Services.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Internetserver testen (Last-, Sicherheits- und Crashtest).
+            <knowledge-list>
+                <knowledge>
+                    Kennt grundlegende Testverfahren und deren Bedeutung für die Betriebssicherheit eines Internetservers.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

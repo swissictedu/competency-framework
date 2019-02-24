@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>105</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=105%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Traiter une base de données avec SQL</title>
+    <capability>Intégrer dans un système de gestion de bases de données relationnelles (SGBDR) un schéma logique de base de données avec un langage standard (strutured query language SQL). Exécuter des transactions.</capability>
+    <goals>
+        <goal>
+            Implémenter le schéma logique de base de données dans un SGBDR avec l´aide de commandes SQL.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les commandes les plus importantes d´un langage de définition de données (DDL) pour organiser une base de données et pouvoir décrire, comment ces définitions soutiennent l´accès à la base de données.
+                </knowledge>
+                <knowledge>
+                    Pouvoir implémenter les relations exigées compte tenu de l´intégrité référentielle (cohérence des données.)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Attribuer des rôles/autorisations pour garantir la protection et la sécurité des données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions d’un système de gestion des données visant la restriction de l´accès et des manipulations des données selon les directives.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Charger la base de données au moyen d’un utilitaire (Bulk charge) ou de commandes SQL avec des données de test.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des variantes pour charger de grands volumes de données dans une base de données et pouvoir décrire, quelles variantes doivent être utilisées de préférence avec certaines situations de départ.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Exécuter des transactions avec des commandes SQL visant le traitement et l´exploitation de la base de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les commandes d´un langage d´interrogation et de manipulation de données (DML, SQL) pour la manipulation, la sélection et l´exploitation des lots  des données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adapter sur la base des modifications des exigences le schéma de base de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la procédure progressive lors de la modification d’un schéma de base de données et peut préciser par des exemples, quelles conséquences peuvent avoir les modifications sur un stock des données existant.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

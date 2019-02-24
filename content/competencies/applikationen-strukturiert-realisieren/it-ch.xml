@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>135</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=135%26clang=it</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title> Realizzare un’ applicazione procedurale multiutente</title>
+    <capability>Progettare un’applicazione multiutente procedurale, fare le necessarie operazioni di modifica a banche dati ed implementare, testare e documentare l’applicazione.</capability>
+    <goals>
+        <goal>
+            Analizzare le esigenze dell’utente, ottimizzare e documentare le esigenze di mantenimento dei dati con la struttura e il contenuto della banca dati relazionale.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Auswirkungen auf eine Datenbank, die sich aus Benutzeranforderungen ergeben und kann aufzeigen, welche Ergänzungen/Anpassungen in einer Datenbank diese erfordern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire le esigenze di carico, rendimento, disponibilità e sicurezza in base alle specifiche di prestazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Auswirkungen, die bei der Interpretation von Leistungsspezifikationen abgeklärt werden müssen und kann aufzeigen, wann diese den Beizug von Systemspezialisten erfordern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Progettare delle transazioni multiutente. Specificare le interfacce utente e le operazioni di modifica a banche dati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Auswirkungen auf die Datenintegrität und Datensicherheit, die durch Multiusereinsatz entstehen und kann aufzeigen, welche prinzipiellen Massnahmen (Applikation, Datenbank) diesen entgegen wirken.
+                </knowledge>
+                <knowledge>
+                    Kennt die Komponenten einer Transaktionen und kann erläutern, warum das Transaktionsprinzip in einer Multiuserumgebung zwingend ist Unterschiede zwischen einem Programm und einer Transaktion bestehen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Komponenten einer Transaktion und kann an einem Beispiel aufzeigen, wie diese Komponenten zusammenspielen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Regeln zur Bildung von Transaktionen und kann erläutern, welchen Beitrag die Einhaltung dieser Regeln zu einer sicheren, leistungsgerechten und lauffähigen Multiuserapplikation leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundfunktionen eines Transaktionsmonitors und kann aufzeigen, wie damit konkurrenzierende Aktionen verhindert oder im Fehlerfall die Ausgangssituation wieder hergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementare le interfacce utente, le operazioni di modifica a banche dati e le transazioni.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Auswirkungen einer transaktionsorientierten Applikationsentwicklung auf die Spezifikation von User Interfaces und die Datenbankanbindung und kann erläutern, wie diese die Lauffähigkeit einer Applikation in einem Multiuser-Umfeld sicherstellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire un quaderno di test e dei casi di test per le esigenze funzionali e non–funzionali.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den prinzipiellen Aufbau eines Testdrehbuches und kann erläutern, welche Informationen die einzelnen Kapitel für die Durchführung der Tests einer Applikation enthalten.
+                </knowledge>
+                <knowledge>
+                    Kennt die prinzipiellen Unterschiede zwischen funktionalen und nicht-funktionalen Testverfahren und kann anhand ihrer Vor- und Nachteile erläutern, wie sich die beiden Testverfahren hinsichtlich eines ganzheitlichen Tests ergänzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testare l’applicazione e redigere un protocollo di test.</goal>
+        <goal>
+            Documentare l’applicazione, tenendo conto della manutenzione e della riproducibilità.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Struktur einer Applikationsdokumentationen und kann ihren Beitrag für die Wartung und Nachvollziehbarkeit darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

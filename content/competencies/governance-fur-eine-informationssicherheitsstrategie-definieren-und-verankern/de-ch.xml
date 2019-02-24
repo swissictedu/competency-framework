@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>666</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=666%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Governance für eine Informationssicherheitsstrategie definieren und verankern</title>
+    <capability>Definiert basierend auf der Informationssicherheitsstrategie eine angemessene Sicherheitsorganisation, erarbeitet die Sicherheitsrichtline und verankert diese zusammen mit dem Management in der Organisation.</capability>
+    <goals>
+        <goal>
+            Definiert für die Sicherheitsorganisation notwendige Rollen, deren Verantwortlichkeiten und die Aufgabentrennung zwischen den Rollen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Rollen zur Gewährleistung der Informationssicherheit in einer Organisation.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken zur Beschreibung und Definition von Rollen und Verantwortlichkeiten (z.B. Stellen- und Funktionsbeschreibungen, RACI-Technik, AKV-Prinzip).
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken zur Darstellung von Aufbauorganisationen (z.B. Organigramm, Funktionsdiagramme)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert Prozesse und organisatorische Massnahmen, damit die Informationssicherheit in allen ICT-Vorhaben und relevanten Geschäftstätigkeiten berücksichtigt und verankert ist.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Schnittstellen zu Fachbereichen in einer Organisation (z.B. Management, ICT, Facility Management und technischer Hausdienst, Rechtsabteilung, Personalwesen, Projektleitung) und kann deren Relevanz für die Informationssicherheit erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken zur Modellierung von Geschäftsprozessen (z.B. Business Process Model and Notation BPMN, Ereignisgesteuerte Prozessketten EPK, UML).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Baut ein tragfähiges Beziehungsnetzwerk zu relevanten Behörden und externen Stellen im Bereich der Informationssicherheit auf und stellt den regelmässigen Wissens- und Erfahrungsaustausch sicher.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Behörden im Bereich der Informationssicherheit (z.B. MELANI, Bundesamt für Polizei fedpol, andere Sicherheits- und Strafverfolgungsbehörden).
+                </knowledge>
+                <knowledge>
+                    Kennt relevante externe Stellen im Bereich der Informationssicherheit (z.B. Fachverbände, ISACA, Expertenforen, externe Beratungsstellen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwirft eine unternehmensweite Sicherheitsrichtlinie (Information Security Policy, ISP), welche die Informationssicherheitspolitik der Organisation widerspiegelt und transparent macht.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente einer Sicherheitsrichtlinie (z.B. Zielsetzung, Bekenntnis und Verpflichtung des Managements, Sicherheitsorganisation und Zuständigkeiten) und kann deren Zweck erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Veranlasst die Genehmigung der Sicherheitsrichtlinie durch das Management und organisiert die Bekanntmachung der Sicherheitsrichtline bei den relevanten Anspruchsgruppen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Wichtigkeit und die Gründe für das Bekenntnis des Managements zur Informationssicherheit.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Formen zur Integration und Bekanntmachung der Sicherheitsrichtline bei unterschiedlichen Anspruchsgruppen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

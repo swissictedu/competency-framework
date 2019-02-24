@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>193</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=193%26clang=it</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Evaluer des technologies de l’information</title>
+    <capability>Esaminare e valutare le tecnologie e i metodi d’informazione, le informazioni di mercato e l’ambiente (concorrenza, ricerca, ecc.) nell’infor-matica. Individuare il potenziale di miglioramento e dedurne le basi decisionali.</capability>
+    <goals>
+        <goal>
+            Circoscrivere i principali settori IT d’osservazione per un’azienda e contemporaneamente tenere conto delle direttive (strategia, architetture, tecnologie, ambito di ricerca e di sviluppo, fornitori, ecc.)
+            <knowledge-list>
+                <knowledge>
+                    Kann die wesentlichen Merkmale und Eigenschaften der aktuellen Computerarchitekturen aufzeigen und deren Einsatzmöglichkeiten beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Speichertechnologien und kann aufzeigen, bei welchen Anforderungen und Rahmenbedingungen sich diese eignen.
+                </knowledge>
+                <knowledge>
+                    Kann die Technologien der Informations-Erfassung und -Ausgabe aufzählen und erklären, inwieweit sie im heutigen Umfeld der Informatik noch zur Anwendung kommen.
+                </knowledge>
+                <knowledge>
+                    Kennt die prinzipiellen Merkmale von IT Systemarchitekturen und kann aufzeigen, welche grundsätzlichen Zielsetzungen mit der Definition einer IT Systemarchitektur in einem Unternehmen verfolgt werden.
+                </knowledge>
+                <knowledge>
+                    Kann die verschiedenen Arten der Anwendungssoftware (z.B. Standardsoftware, individuelle Software) verständlich darlegen und deren wirtschaftlichen Stellenwert in der IT Strategie beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Methoden der Softwareentwicklung und kann aufzeigen, welche Eigenschaften bezüglich der IT Architektur relevant sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            In determinati settori d’osservazione scegliere e applicare appropriate tecniche di rilevamento; elaborare un catalogo di valutazione adattato all’azienda (ad esempio considerando fattori strategici ed economici) ed assegnargli una ponderazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und die Elemente eines Bewertungskatalogs und kann erklären, welche Elemente auf strategische und wirtschaftliche Faktoren Einfluss haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Raccogliere gli sviluppi rilevanti della tecnologia dell’informazione nel settore d’osservazione, valutarli ed esporli, in forma appropriata, in una lista delle tecnologie.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Erhebungstechniken beschreiben, die für Beobachtung der Technologie-Entwicklung geeignet sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken zur Bewertung von Alternativen und Vorbereitung von Entscheidungen (z.B. SWOT-Analyse, Nutzwertanalyse) und kann darstellen, wie deren einzelne Vorgehensschritte zur Entscheidungsfindung beitragen können.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Beschreibung der technischen Entwicklung (z.B. technischer Lebenszyklus, S-Kurven-Konzept) und kann beschreiben, wie sie zur Beschaffungs-Entscheidung beigezogen werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methoden der Technologie-Bewertung (z.B. Trendextrapolation, Delphi-Methode, morphologischer Kasten, Relevanzbaum-Analyse, Risiko-Analyse, Modellsimulation, Verflechtungsmatrix, Szenario-Gestaltung, Nutzwertanalyse) und kann darstellen, welchen Beitrag sie zur Entscheidungsfindung leisten können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rilevare il potenziale di miglioramento nel settore d’osservazione e documentarlo. A questo scopo tenere conto della Best Practice e applicare il Benchmarking.
+            <knowledge-list>
+                <knowledge>
+                    Kann eine spezifische Benchmarking-Technik beschreiben, die für Vergleiche von Informationstechnologien verwendet werden kann und kann deren Beitrag zur Entscheidungsfindung erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dedurre, dalla lista delle tecnologie valutata, i provvedimenti di miglioramento e presentarli alla commissione di decisione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Inhalt und Gliederung einer Präsentation und kann aufzeigen, welche Aspekte die Überzeugungsarbeit gegenüber Entscheidungsträgern unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

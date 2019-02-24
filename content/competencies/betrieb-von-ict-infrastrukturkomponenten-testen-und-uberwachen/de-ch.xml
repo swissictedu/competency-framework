@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>482</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=482%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Betrieb von ICT-Infrastrukturkomponenten testen und überwachen</title>
+    <capability>Testet und überwacht ICT‐Infrastrukturkomponenten (Server, Storage, Netzwerk), interpretiert die Resultate und ergreift Massnahmen, um den ICT‐Betrieb gemäss den Anforderungen sicherzustellen.</capability>
+    <goals>
+        <goal>
+            Bestimmt aufgrund der Anforderungen an den Betrieb von ICT‐Infrastruktur‐Komponenten (Server, Storage, Netzwerk) oder Systemen Test‐ resp. Überwachungsobjekte sowie die dazu gehörigen Kriterien, die eine zuverlässige Überprüfung der Erfüllung dieser Anforderungen erlauben.
+            <knowledge-list>
+                <knowledge>
+                    Kann aufgrund der gestellten Anforderungen an den Betrieb von ICTInfrastrukturkomponenten und Systemen funktionale und nicht‐funktionale Aspekte unterscheiden.
+                </knowledge>
+                <knowledge>
+                    Kann die vorhandenen Infrastrukturkomponenten und Systeme in Anforderungsklassen nach Leistungs‐ und Verfügbarkeitsanforderungen einordnen und weiss, welche Testresp. Überwachungsobjekte geeignet sind, um den Nachweis für diese Anforderungen zu erbringen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt geeignete Test‐ resp. Überwachungsmethoden für bestimmte Infrastrukturkomponenten oder Systeme, die einen zuverlässigen Nachweis der Einhaltung der Test‐ resp. Überwachungskriterien sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Unterschiede zwischen proaktiven und reaktiven Ansätzen zur Überwachung von Komponenten und ihre jeweiligen Einsatzgebiete.
+                </knowledge>
+                <knowledge>
+                    Kennt Test‐ resp. Überwachungsmethoden, die geeignet sind, um den Nachweis der Einhaltung geforderter Test‐ respektive Überwachungskriterien zu erbringen.
+                </knowledge>
+                <knowledge>
+                    Kann den gewählten Einsatz geeigneter Test‐ resp. Überwachungsmethoden für die vorhandene ICT‐Infrastruktur begründen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt ausgehend von der gewählten Test‐ resp. Überwachungsmethode das Testresp. Überwachungskonzept für Infrastrukturkomponenten oder Systeme.
+            <knowledge-list>
+                <knowledge>
+                    Kann zweckmässige Überwachungen erläutern, die dienlich sind, um ein System in Betrieb zu halten und ungeplante Stillstände oder Unterbrüche zu vermeiden.
+                </knowledge>
+                <knowledge>
+                    Kann geeignete Überwachungsinstrumente für eine Infrastrukturkomponente sowie Massnahmen, die ergriffen werden müssen, wenn ein Parameter über‐ oder unterschritten wurde, erläutern und dokumentieren.
+                </knowledge>
+                <knowledge>
+                    Kennt die festzulegenden Bedingungen (z.B. Anzahl erfolgter Testfälle, Konfigurationsvorgaben, Stabilitätsnachweis etc.), unter denen ein System erstmals in Betrieb genommen wird, und kann deren Einfluss auf den Betrieb von Systemen und Komponenten beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kennt die Merkmale für einen der Inbetriebnahme vorgängigen Pilotbetrieb, z.B. Teilsystembetrieb, Erfolgsmessungen und laufende Feedback‐Integration, sowie die Bedeutung der Dokumentation der im Pilotbetrieb gewonnenen Erkenntnisse für die Inbetriebnahme.
+                </knowledge>
+                <knowledge>
+                    Versteht, wie die Fehlersuche und ‐behebung bei auftretenden Störungen dokumentiert und dadurch das Wissen um das System laufend ergänzt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt ausgehend vom Testkonzept Prozesse zur Abwicklung der Tests sowie die dazu gehörigen Testfälle und setzt diese um.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie detaillierte Testpläne für die (Wieder‐)Inbetriebnahme einer Komponente und der darauf angebotenen Dienste auszuarbeiten sind, und kennt die Vorgaben zu deren Erstellung inklusive der Definition von Konsequenzen bei unerwarteten Ergebnissen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente von Testfällen wie Vorbedingungen, Durchführungsanweisungen, erwartete Ergebnisse, eingetretene Ergebnisse und Nachbearbeitung der Ergebnisse.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen, wie die einzelnen Testfälle nach Anweisung auf den verschiedenen Ebenen wie Einzelkomponententests, Integrationstests und Systemtests durchzuführen und zu protokollieren sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt ausgehend vom Überwachungskonzept die Überwachungsprozesse und schafft die technischen und organisatorischen Voraussetzungen für eine ordnungsgemässe und effiziente Umsetzung.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie Wartungsfenster und Rahmenparameter (Kennzahlen und Grenzwerte) in Abstimmung mit der Anforderungsklasse festgelegt werden.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie Überwachungsprozesse in Abstimmung mit der bestehenden Organisation zu erarbeiten und Verantwortungen zuzuteilen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Automatisierung von Überwachungsmassnahmen und weiss, wie bei der Über‐ oder Unterschreitung von Rahmenparametern entsprechende Reaktionen wie Alarmierungen oder weiterführende Automatismen (z.B. Systemabschaltung oder Netzwerktrennungen) einzurichten sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bereitet Test‐ resp. Überwachungsresultate auf und stellt die Ergebnisse übersichtlich dar.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Verdichtungsmethoden zur Aufbereitung von Test‐ resp. Überwachungsresultaten, z.B. Kennwerte, grafische Darstellungen oder Tabellen.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die Verfügbarkeit und Nichtverfügbarkeit von Systemen ermittelt werden (z.B. Protokolle auswerten, Statistiken des Help Desks).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Interpretiert die aufbereiteten Ergebnisse, leitet daraus den notwendigen Handlungsbedarf ab und schlägt gezielte Massnahmen zur Behebung und Vermeidung von Störungen vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden zur Analyse von aufbereiteten Überwachungsresultaten in Bezug auf eingetretene Störungen, Tendenzen zur Verfügbarkeit und Einhaltung der Sicherheitsvorgaben.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur systematischen Störungseingrenzung (z.B. Ausschlussverfahren, Eingrenzungsverfahren, systematische Einzeltests), kann erläutern, welche Vorkehrungen diese beinhalten und wie damit ein schnelles und effizientes Auffinden der Störung unterstützt wird.
+                </knowledge>
+                <knowledge>
+                    Kann Belegungs‐ oder Belastungstendenzen in den Bereichen Stamm‐ und Bewegungsdaten erkennen und weiss, wie daraus proaktive Massnahmen abzuleiten sind, um sicherzustellen, dass genügend Kapazitäten verfügbar sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

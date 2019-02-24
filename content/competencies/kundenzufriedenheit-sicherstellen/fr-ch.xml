@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>228</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=228%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>S’assurer de la satisfaction de la clientèle</title>
+    <capability>Déterminer la satisfaction de la clientèle envers les prestations TIC à l’aide de mesures et de sondages. Interpréter les résultats, élaborer des mesures, les présenter, les mettre en œuvre et en assurer le suivi.</capability>
+    <goals>
+        <goal>
+            Sélectionner une méthodologie (appels de suivi, sondages d’opinion) de détermination de la satisfaction de la clientèle (interne et externe). Elaborer un questionnaire avec des exemples significatifs (« best practice »), définir la métrique, déterminer les grandeurs de mesure et fixer la pondération.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des méthodes permettant de déterminer la satisfaction de la clientèle. Peut expliquer pour quelles caractéristiques de prestations TIC ces méthodes sont particulièrement recommandées.
+                </knowledge>
+                <knowledge>
+                    Connaît les résultats à prendre en compte dans la mesure de la satisfaction de la clientèle. Peut expliquer quels sont les résultats déterminants pour les différentes prestations TIC.
+                </knowledge>
+                <knowledge>
+                    Connaît la différence entre la pondération de l’importance et de la satisfaction d’un client dans un domaine d’enquête. Peut expliquer à l’aide d’exemple le rôle que joue leur détermination pour la définition de la nécessité d’agir.
+                </knowledge>
+                <knowledge>
+                    Connaît des techniques permettant de recenser et d’analyser à la fois l’importance et la satisfaction dans le cadre d’une enquête de clientèle. Peut expliquer à l’aide d’exemples comment elles contribuent à la qualité des résultats.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formuler un cahier des charges pour la mesure et l’enquête (périodicité, étendue/contenu, échéances), demander des offres et établir le catalogue des critères d’évaluation.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les critères de dimensionnement d’une enquête de clientèle. Peut expliquer comment ils influencent la significativité et le travail d’enquête.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer les offres concernant le mandat de mesure au moyen du catalogue de critères et mandater l’entreprise choisie pour la réalisation de l’enquête/de la mesure.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les critères permettant d’évaluer la compétence d’un institut de sondage. Peut expliquer comment ces critères influencent la qualité des résultats d’une enquête.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les résultats de l’enquête/de la mesure, les commenter, les comparer avec les résultats de l’année précédente, les résumer et les consigner dans un rapport.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les méthodes d’évaluation (statistique descriptive) et les formes de représentation permettant de communiquer des informations de manière condensée et adaptée aux destinataires.
+                </knowledge>
+                <knowledge>
+                    Connaît des techniques de représentation permettant de comparer efficacement les résultats de différentes périodes d’enquête ou de différents groupes de clientèle.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les potentiels d’amélioration de la satisfaction de la clientèle, établir un plan d’action (temps/coûts) visant à éliminer les points faibles et à atteindre les objectifs de satisfaction de la clientèle, le présenter et faire prendre une décision.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des critères d’évaluation de résultats d’enquêtes (tendance, comparaison, niveau). Peut expliquer comment ces critères contribuent à l’identification des potentiels et à la définition des priorités en ce qui concerne l’amélioration de la satisfaction de la clientèle.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre le plan d’action, vérifier les résultats, les consigner dans un rapport et, en cas de divergence avec l’objectif, prendre des mesures correctives.
+            <knowledge-list>
+                <knowledge>
+                    Peut expliquer l’importance de la vérification périodique des mesures d’amélioration pour la garantie du succès durable de l’entreprise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>129</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=129%26clang=it</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettere in servizio i componenti di una LAN</title>
+    <capability>Mettere in servizio, configurare, testare e consegnare i componenti di rete di un ambiente LAN secondo le specifiche in conformità alle esigenze di sicurezza.</capability>
+    <goals>
+        <goal>
+            Definire le esigenze per una nuova rete e determinare i necessari componenti di rete (switch, router).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Gremien (IEEE, ISO) sowie die von ihnen definierten Standards (z.B. 100BaseT, IEEE 802.x).
+                </knowledge>
+                <knowledge>
+                    Kennt die aktuellen LAN-Technologien und deren Einsatzgebiete und Funktionsweise.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionsweise von Switch und Router und deren Einsatzgebiete.
+                </knowledge>
+                <knowledge>
+                    Kennt Eigenschaften und Zusatzfeatures von Switches (z.B. manageable, stackable, auto-sense, spanning tree).
+                </knowledge>
+                <knowledge>
+                    Kennt die Sicherheitsschwachstellen von Switch und Routern (z.B. Defaultpasswort, telnet).
+                </knowledge>
+                <knowledge>
+                    Kennt Symbole zur schematischen Darstellung von Netzwerken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Aggiornare lo schema d'indirizzamento per reti IP con sottoreti e definire una sottorete idonea con relativa maschera di rete secondo specifiche (per esempio segmentazione in reti IP, numero di client).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente und Funktionen des IP-Protokolls (MAC- und IP-Adressen, IP-Adressklassen, private Adressen, Netzmasken, Routing, Adress Resolution Protocol (ARP)).
+                </knowledge>
+                <knowledge>
+                    Kennt Gründe für die Aufteilung eines Netzwerks in IP-Subnetze.
+                </knowledge>
+                <knowledge>
+                    Kennt die Algorithmen zur (binären) Berechnung von IP-Subnetzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Netzwerkkomponenten gemäss Netzwerkschema und Adressierung in Betrieb nehmen und konfigurieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die notwendigen Einstellungen für Router und Switch zur Sicherstellung der Kommunikation im Netzwerk.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementare l'instradamento (routing) statico secondo lo schema di rete e interpretare le tabelle d'instradamento.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Unterschiede zwischen statischem und dynamischem Routing.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau und den Inhalt von Routingtabellen und den Zusammenhang zum Netzwerkschema.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analizzare gli errori di configurazione e le loro cause per mezzo di programmi d'aiuto specifici ed eliminarli.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Verfahren zur systematischen Eingrenzung von Fehlern im Netzwerk (z.B. Ausschlussverfahren, Einordnung im OSI-Schichtenmodell).
+                </knowledge>
+                <knowledge>
+                    Kennt Werkzeuge zur Fehleranalyse und –behebung und weiss, bei welchen Symptomen welche Werkzeuge eingesetzt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Redigere rispettivamente aggiornare la documentazione di rete (configurazione, schema di rete).
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufbau und Inhalt einer Netzwerkdokumentation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Consegnare la rete al cliente con un protocollo di consegna.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und Inhalt eines Abnahmeprotokolls.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

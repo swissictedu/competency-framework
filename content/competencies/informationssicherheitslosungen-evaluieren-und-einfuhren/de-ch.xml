@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>672</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=672%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Informationssicherheitslösungen evaluieren und einführen</title>
+    <capability>Erhebt die Anforderungen für neue Informationssicherheitslösungen, erbringt den Wirtschaftlichkeitsnachweis, unterstützt die Evaluation und Beschaffung und stellt die Integration der neuen Lösung in einer Organisation sicher.</capability>
+    <goals>
+        <goal>
+            Identifiziert laufend neue Technologien und Innovationen und bewertet diese hinsichtlich Ihres Nutzens für die Informationssicherheit in einer Organisation.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das S-Kurven-Modell im Innovationsmanagement, die Klassifizierung von Technologien (Schrittmacher-, Schlüssel- und Basistechnologien) und kann die Eigenschaften, Chancen und Risiken der verschiedenen Technologietypen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt aktuelle Informationsquellen für ICT-Trends und Innovation (z.B. Gartner Life Cycle, relevante Konferenzen zur Informationssicherheit, Studien).
+                </knowledge>
+                <knowledge>
+                    Kennt das betriebswirtschaftliche Grundmodell eines Produktelebenszyklus mit den Phasen Einführung, Wachstum, Reife, Sättigung, Rückgang und End-of-Life.
+                </knowledge>
+                <knowledge>
+                    Kennt Modelle und Instrumente des strategischen Managements von Technologien und Produkten (S-Kurve, BCG-Portfolio, McKinsey-Portfolio, ADL-Portfolio).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erhebt und dokumentiert in Absprache mit den Fachabteilungen die Anforderungen an eine neue Informationssicherheitslösung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Zweck und den Inhalt des Pflichten- und des Lastenheftes.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen funktionalen, technischen, betriebswirtschaftlichen, organisatorischen und ökologischen Anforderungen und kann die Bedeutung der Messbarkeit von Anforderungen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegende Struktur eines Anforderungskatalogs.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Erhebung von Anforderungen (z.B. Dokumentenstudium, Interviews, Umfragen, Workshops, Beobachtung, Prozessanalyse) und kann deren Vor- und Nachteile erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert und bewertet mögliche Implikationen bei der Integration einer neuen Informationssicherheitslösung in die bestehende Architektur einer Organisation und veranlasst bei Bedarf Massnahmen zur Minimierung der Risiken oder zur Validierung kritischer Anforderungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Überprüfung der Machbarkeit (z.B. Machbarkeitsstudien, Proof of Concept, Prototyping, Pilotprojekte).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Berechnet die Wirtschaftlichkeit neuer Informationssicherheitslösungen und leitet aus den Ergebnissen eine Entscheidungsempfehlung aus finanzieller Sicht ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Zweck der Investitionsrechnung und deren Bestimmungsgrössen (Kapitaleinsatz, Cashflow, Nutzungsdauer, Liquidationserlös und Zinssatz).
+                </knowledge>
+                <knowledge>
+                    Kennt statische Verfahren der Investitionsrechnung (Kostenvergleichsrechnung, Gewinnvergleichsrechnung, Rentabilitätsrechnung (Return on Investment ROI), Amortisationsrechnung (Payback-Methode)) und deren zweckmässiger Einsatz.
+                </knowledge>
+                <knowledge>
+                    Kennt dynamische Verfahren der Investitionsrechnung (Kapitalwertmethode (Net-Present-Value NPV), dynamische Payback-Methode) und deren zweckmässiger Einsatz.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Finanzierungsmodelle (z.B. Kauf, Miete) und Finanzierungsformen (Eigen‐ und Fremdfinanzierung) und kann deren Einfluss auf die Bilanz und Erfolgsrechnung einer Organisation erläutern (z.B. Leverage‐Effekt).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert unter Berücksichtigung der Anforderungen und der Wirtschaftlichkeitsberechnung den Kriterienkatalog für die Evaluation einer Informationssicherheitslösung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt unterschiedliche Typen von Kriterien (z.B. qualitative und quantitative Kriterien, Ausschlusskriterien) und die grundlegende Struktur eines Kriterienkatalogs als Basis für eine nachvollziehbare und transparente Evaluation.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Anforderungen an Ausschreibungs- und Submissionsverfahren (z.B. Nachvollziehbarkeit, Transparenz) und kann die Unterschiede gängiger Verfahren erläutern (z.B. öffentliches Verfahren, Einladungsverfahren, privatwirtschaftliche Verfahren).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vergleicht verschiedene Angebote auf der Basis des Kriterienkatalogs und leitet eine Empfehlung für die Beschaffung einer Informationssicherheitslösung ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Bewertung und zum Vergleich von Varianten (z.B. Paargewichtung, Präferenzmatrix, Rangreihenverfahren, Nutzwertanalyse).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Unterstützt die zuständigen Stellen bei der Beschaffung und Einführung einer neuen Informationssicherheitslösung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die typischen Phasen in einem Beschaffungsprozess und kann relevante Schnittstellen zur Informationssicherheit erläutern (z.B. Compliance der Verträge, Betrieb und Wartung).
+                </knowledge>
+                <knowledge>
+                    Kennt notwendige Massnahmen zur Informationssicherheit, welche die Einführung einer neuen Lösung nach sich ziehen (z.B. Aktualisierung bestehender Prozesse und Verfahren, Sicherstellung der Wirkungsmessung).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

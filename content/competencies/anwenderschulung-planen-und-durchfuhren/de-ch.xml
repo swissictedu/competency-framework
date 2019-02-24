@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>139</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=139%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Anwenderschulung planen und durchführen</title>
+    <capability>Ausbildungsmassnahmen für Informatik-Anwender planen, die dazu notwendigen Mittel bereitstellen und die Anwenderschulung organisieren und durchführen.</capability>
+    <goals>
+        <goal>
+            Einen Auftrag für die Ausbildung von Anwendern analysieren und falls erforderlich, mittels Interviews und/oder Checklisten die zu erreichenden Ausbildungsziele verifizieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von Informationen, die bei der Definition von Inhalten für Ausbildungseinheiten relevant sind und kann an Beispielen erläutern, wie diese Informationen bei der Planung einer Ausbildungseinheit zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Kategorien von Informationen, die bei der Gestaltung und Organisation von Ausbildungseinheiten relevant sind und kann an Beispielen erläutern, wie diese Informationen bei der Erstellung eines Ausbildungsangebots zu berücksichtigen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Unter Berücksichtigung der Ausbildungsinhalte, des Wissensstandes der TeilnehmerInnen und den organisatorischen und finanziellen Rahmenbedingungen einen Ausbildungsplan erarbeiten, der den zeitlichen und inhaltlichen Aufbau der Ausbildung strukturiert aufzeigt.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Unterrichtsformen Frontalunterricht und individuelle Lernaufgaben und kann aufzeigen, zu welchem Zeitpunkt im Unterricht und mit welchem Ziel diese Formen angewendet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Regeln, die bei den Unterrichtsformen Frontalunterricht und individuelle Lernaufgaben zu berücksichtigen sind und kann erläutern, welchen Beitrag dies zum Lernerfolg leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ausgehend vom Ausbildungsplan den detaillierten Ablauf, die verwendeten Hilfsmittel und die Medien in Form eines Drehbuches für einzelne Ausbildungseinheiten gestalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verbreitete Hilfsmittel und Medien zur Unterstützung des Unterrichts und kann darlegen, wie diese zu einem effektiven Unterricht beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Regeln für den Einsatz der verbreiteten Hilfsmittel und Medien im Unterricht und kann erläutern, welche Wirkungen damit erzielt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Elemente eines Unterrichts-Drehbuches und kann aufzeigen, welchen Beitrag diese für einen reibungslosen Unterricht leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anwenderschulung kommunizieren und ausschreiben und Teilnehmerinnen/Teilnehmer verwalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Informationen einer Kursausschreibung und kann erläutern, wie diese zu einem transparenten und ansprechenden Angebot beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anhand des Drehbuches zweckmässige und adressatengerechte Schulungsunterlagen erstellen oder beschaffen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kriterien für die Beurteilung der Eignung und Qualität von Ausbildungsunterlagen und deren Bedeutung für den Lernerfolg und die Anwendung am Arbeitsplatz.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anwenderschulung durchführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten persönlichen Voraussetzungen beim Umgang mit anderen Personen (Anstand, Engagement, Auftreten, Toleranz, usw.) und kann beispielhaft erläutern, welchen Beitrag diese für eine erfolgreiche Schulung leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Regeln der Unterrichtsdurchführung (Stoffmenge, Tempo, Repetition, Pausen, Hilfestellung, usw.) und kann erläutern, welchen Beitrag diese Regeln für eine erfolgreiche Stoffvermittlung leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit Hilfe eines Fragebogens die Erreichung der Ziele und die Zufriedenheit der TeilnehmerInnen überprüfen, negative Rückmeldungen und Hinweise zur Verbesserung dokumentieren und in einer nächsten Anwenderschulung berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Dimensionen bei der Beurteilung von Ausbildungsangeboten und kann exemplarisch Fragen aufzeigen, die zu einer zuverlässigen Beurteilung innerhalb dieser Dimensionen beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

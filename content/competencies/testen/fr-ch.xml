@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>227</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=227%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Effectuer des tests de systèmes et d’acceptation</title>
+    <capability>Élaborer une stratégie de test adaptée aux caractéristiques d’un projet; planifier les tests portant sur les objets de contrôle relatifs au projet, procéder aux tests, en évaluer les résultats et prendre les mesures nécessaires.</capability>
+    <goals>
+        <goal>
+            Élaborer des stratégies de tests pour les projets informatiques. Définir à cet effet des approches, des étapes et des méthodes de tests ainsi que des objets de contrôle en fonction des architectures déterminantes.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales activités de préparation, d’exécution et de d’évaluation des tests et peut les allouer aux rôles définis dans le processus de test.
+                </knowledge>
+                <knowledge>
+                    Connaît les résultats des activités de test et peut en expliquer la fonction dans le cadre du système d’assurance qualité de l’informatique.
+                </knowledge>
+                <knowledge>
+                    Peut expliquer les liens entre le processus de test et le processus de gestion de projet, de développement et d’acquisition.
+                </knowledge>
+                <knowledge>
+                    Connaît les principaux éléments d’une stratégie de test et peut présenter leur contribution à la mise en œuvre de la stratégie informatique.
+                </knowledge>
+                <knowledge>
+                    Connaît les différentes méthodes de test (test de module, de livraison, d’intégration, etc.) et peut en expliquer l’application aux composants à tester dans un système informatique.
+                </knowledge>
+                <knowledge>
+                    Connaît des méthodes de test adaptées aux objets de contrôle et peut présenter des critères de contrôle appropriés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Pour une stratégie de test, définir un plan de test indiquant les délais, les méthodes de test adaptées aux objets de contrôle (composants) ainsi que les responsabilités.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les éléments (mesures, délais, responsabilités) d’un plan de test et peut expliquer leur contribution à la qualité.
+                </knowledge>
+                <knowledge>
+                    Connaît des techniques de planification permettant d’élaborer un plan de test.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, en tenant compte des particularités du système définies dans la stratégie de test, des cas de test pour les objets de contrôle relatifs aux exigences du système à tester.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les catégories d’exigences que doit remplir un système à tester et peut donner des exemples de critères d’acceptation.
+                </knowledge>
+                <knowledge>
+                    Connaît les principaux éléments d’un cas de test et comprend leur lien avec les exigences envers les composants à tester.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Élaborer un scénario de test compte tenu de la stratégie de test, de l’environnement de test et des cas de test.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure d’un scénario de test et peut expliquer la contribution de ses éléments à l’application de la stratégie de test.
+                </knowledge>
+                <knowledge>
+                    Peut décrire les conditions infrastructurelles et organisationnelles nécessaires à la mise en place d’un environnement de test.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Procéder à des tests statiques (par ex. inspection de code, audit, revue) des objets de contrôle définis (par ex. modèle de données, modèle de processus, manuel d’utilisateur) et consigner les résultats sous forme de protocoles de tests (= constatations).
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure d’un protocole de test et sait comment le formuler de manière claire et adaptée à ses destinataires.
+                </knowledge>
+                <knowledge>
+                    Connaît différents tests statiques et sait à quels types d’objets de contrôle ils sont adaptés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Procéder à des tests dynamiques (par ex. tests modulaires, tests de chaîne, tests d’acceptation) des composants du système à tester (par ex. module, système partiel, application, matériel) et consigner les résultats sous forme de protocoles de tests (= constatations).
+            <knowledge-list>
+                <knowledge>
+                    Connaît différents tests dynamiques et sait à quels types d’objets de contrôle ils sont adaptés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Évaluer les résultats dans un rapport en tenant compte du degré de réalisation des objectifs du test. Définir et mettre en oeuvre les mesures nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les critères d’intégration des contenus d’un protocole de test dans un rapport de test.
+                </knowledge>
+                <knowledge>
+                    Peut expliquer des techniques d’évaluation et de décision permettant de définir des mesures à partir d’un rapport de test.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

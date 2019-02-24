@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../schema/competency.xsd">
+    <description xml:lang="de-ch">./im-first-level-support-arbeiten/de-ch.xml</description>
+    <description xml:lang="it-ch">./im-first-level-support-arbeiten/it-ch.xml</description>
+    <description xml:lang="fr-ch">./im-first-level-support-arbeiten/fr-ch.xml</description>
+</competency>

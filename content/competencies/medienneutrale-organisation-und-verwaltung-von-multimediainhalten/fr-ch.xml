@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>414</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=414%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Organiser et gérer des contenus multimédia indépendamment du support</title>
+    <capability>Organiser et gérer des données afin qu’elles puissent être utilisées dans différents canaux et formats conformément aux moyens.</capability>
+    <goals>
+        <goal>
+            Analyser des données existantes en ce qui concerne leur utilisation et leur exigence.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des outils et procédures pour analyser des données existantes en regard du format des données, de la grandeur du fichier et les éventuelles redondances.
+                </knowledge>
+                <knowledge>
+                    Connaît les risques et les chances en relation avec les droits d’accès des stocks de données existantes.
+                </knowledge>
+                <knowledge>
+                    Connaître l’instrument pour l’analyse des besoins.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les exigences qualitatives, techniques et organisationnelles envers les éditeurs et organisateurs des données médiatiques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les lieux d’engagement et les caractéristiques de données brutes, de données maîtresses et de données d’exportation.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques, les lieux d’engagement et les standards des formats de données, des plages de couleurs, de la gestion des couleurs et des métadonnées.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités conceptuelles et techniques pour l’optimalisation et la réduction des volumes de données, ainsi que pour l’inhibition des redondances.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter les standards et flux de travaux à respecter.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les bases de la gestion des processus.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences et les voies de solutions pour l’organisation de publications multilingues (Flux des traductions, outils)
+                </knowledge>
+                <knowledge>
+                    Connaître des concepts et des possibilités de mise en oeuvre d’une convention de désignation uniforme, de préfixes et appendices (lisibilité par machine)
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes pour déterminer la version.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes d’estimation et d’évaluation pour différentes variantes de processus.
+                </knowledge>
+                <knowledge>
+                    Connaître la différence ainsi que les chances et les risques de processus de travail destructif et non‐destructif.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques techniques des interfaces des applications et leur compatibilité en données (Formats de données et interfaces)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier, implémenter et exploiter l’infrastructure y relative nécessaire.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des concepts pour la gestion de données médiatiques pour des personnes individuelles comme pour des groupes de travail.
+                </knowledge>
+                <knowledge>
+                    Connaître le principe et les fonctionnalités du système DMS (Document‐Management‐System) et les possibilités du système MAM (Media‐Asset‐Management).
+                </knowledge>
+                <knowledge>
+                    Connaître les différences, du point de vue organisationnelle et financier, entre des systèmes MAM et des lots de données non structurés.
+                </knowledge>
+                <knowledge>
+                    Connaître des mesures pour l’assurance qualité en regard des exigences données et des conventions définies.
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures et des moyens d’aides pour l’automatisation de l’organisation de données médiatiques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Exécute l’introduction du standard des médias ce en quoi les fournisseurs sont orientés, les collaborateurs sont formés et les standards sont documentés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des concepts et variantes d’une description pas à pas telle que par exemple un texte modèle, un tutorial, etc.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes didactiques simples pour pouvoir planifier et exécuter une formation adaptée aux utilisateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître des variantes et des méthodes pour une auto‐assistance telles que les FAQ, les saisies écrans, etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

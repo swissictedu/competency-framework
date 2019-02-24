@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>611</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=611%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Portfolio-Prozess entwickeln</title>
+    <capability>Definiert den Projektportfolio-Prozess und implementiert diesen in einer Organisationseinheit. Legt die dafür geeignete Aufbauorganisation fest und bestimmt die dazu notwendigen Methoden und Tools.</capability>
+    <goals>
+        <goal>
+            Definiert zusammen mit den relevanten Anspruchsgruppen die Zielsetzungen, Vorgaben und Rahmenbedingungen für das Projektportfolio-Management.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die theoretische Einbettung der Grundsätze von Markowitz (Portfolio-Selection) bezüglich Risiko, Rendite und Liquidität.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau und Inhalt eines ICT-Projektportfolio-Managements und dessen Bedeutung für die Steuerung des Unternehmens.
+                </knowledge>
+                <knowledge>
+                    Kennt die Aufgaben und Ziele des ICT- Projektportfolio-Managements (z.B. Strategie-Alignement).
+                </knowledge>
+                <knowledge>
+                    Kennt die funktionale Einbettung des ICT- Projektportfolio-Managements in der Führung und Steuerung einer ICT-Organisation (z.B. Steering-Committee PPM).
+                </knowledge>
+                <knowledge>
+                    Kennt die Zusammenhänge und Abgrenzungen zwischen ICT-Projektportfolio-Management und Projektmanagement (z.B. Projektsteuerung, Freigaben).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus den Zielsetzungen, Vorgaben und Rahmenbedingungen die Anforderungen an das Projektportfolio-Management ab und stimmt diese mit den Anspruchsgruppen ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kategorien von Anforderungen für die Konzeption eines ICT-Projektportfolio-Managements (z.B. organisatorisch, funktional).
+                </knowledge>
+                <knowledge>
+                    Kennt ICT- und unternehmensbezogene Faktoren, hinsichtlich adäquater Anforderungen (Detaillierungsgrad, Umfang, Diversifikation etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt unter Berücksichtigung der Anforderungen an das Projektportfolio-Management die Projektportfolio-Prozesse und wählt Methoden und Tools aus, die eine optimale Prozessunterstützung sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Hauptprozesse eines Projektportfolio-Managements und die Leistungen, welche diese für die ICT und das Unternehmen erbringen (z.B. Bewertung und Priorisierung, Controlling und Reporting, Projektlenkung).
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Schritte der Hauptprozesse und deren Beitrag zur Sicherstellung der Leistungen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Zusammenhänge und Schnittstellen des ICT-Projektportfoliomanagements zu anderen Unternehmensprozessen, wie z.B. zur Budgetierung und Planung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an Methoden und Tools zur Automatisierung und Unterstützung der Hauptprozesse bzw. ihrer Schritte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Legt unter Berücksichtigung der Aufbauorganisation der ICT die verantwortlichen Stellen und deren Verantwortungen und Kompetenzen fest. Damit wird eine transparente und den Zielsetzungen entsprechende Abwicklung des Projektportfolio-Managements sichergestellt.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Aufgaben und Teilaufgaben, die im Rahmen des Hauptprozesses ICT-Projektportfolio-Management anfallen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Aufgaben, Kompetenzen und Verantwortungen der Rollen einer ICT-Aufbauorganisation und ihre Bedeutung für das ICT-Projektportfolio-Management.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt abgestimmt auf die Finanzplanung und den Budgetierungsprozess der Unternehmung sowie die Interessen der Anspruchsgruppen das Projektportfolio-Management in der Organisation ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Phasen der Realisierung eines Projektes (insbesondere die Schritte der Einführung) und dem damit verbundenen Umgang mit Widerständen und Herausforderungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft periodisch den Projektportfolio-Prozess in Bezug auf die Gültigkeit der Zielsetzungen, Vorgaben und Rahmenbedingungen sowie eine optimale operative Abwicklung des Projektportfolio-Managements und leitet daraus Verbesserungsmassnahmen ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Faktoren, welche für Effizienz und Qualität der ICT-Portfolio-Prozesse verantwortlich sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die Umfeld Einflüsse und welche Konsequenzen diese auf die ICT-Projektportfolio-Prozesse haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>212</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=212%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Utilizzare metodi di studio e di lavoro</title>
+    <capability>Percepire, valutare e migliorare il proprio modo d’apprendimento e di lavoro. Per ogni situazione, scegliere ed impiegare le appropriate tecniche di studio e di lavoro.</capability>
+    <goals>
+        <goal>
+            Percepire, documentare, rifletterci sopra e valutare il proprio modo d’apprendimento e di lavoro.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i modi di comportamento personali più importanti (lasciarsi distrarre, rinviare sempre i lavori difficili, etc.) che influiscono sul successo dell’apprendimento e del lavoro e sa mostrare, attraverso degli esempi, come essi si ripercuotono concretamente sul successo dell’apprendimento e del lavoro.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Informarsi sui metodi alternativi di apprendimento e di lavoro, sperimentarli ed esercitarli nelle appropriate situazioni con l’obiettivo di migliorare sistematicamente il proprio modo d’apprendimento e di lavoro.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le tecniche d’apprendimento (memorizzare, apprendimento del contesto, etc.) e sa spiegare a quali tipi di acquisizione di argomenti rispettivamente di piani di formazione esse sono adatte.
+                </knowledge>
+                <knowledge>
+                    Per le tecniche d’apprendimento più diffuse, sa mostrare in modo esemplare come esse vengono impiegate per l’ acquisizione di argomenti o di materie d’apprendimento.
+                </knowledge>
+                <knowledge>
+                    Conosce le tecniche di lavoro per strutturare rispettivamente preparare (Mind Mapping, ricerche in internet, riassumere le fonti, etc.) le informazioni, argomenti, etc. e sa mostrare in quale tipi di progetti possono essere impiegate.
+                </knowledge>
+                <knowledge>
+                    Per le tecniche di lavoro più diffuse, sa spiegare attraverso degli esempi con quali regole avviene la preparazione di informazioni ed argomenti utilizzando queste tecniche di lavoro.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Modificare il proprio modo di lavorare sulla base di un’analisi degli stimoli ricevuti da parte di terze persone (formatore/formatrice professionale, persone in formazione, colleghe e colleghi, superiori, etc.).
+            <knowledge-list>
+                <knowledge>
+                    Sa gestire gli elogi e le critiche e sa dedurre quali conseguenze personali ne risultano per il proprio lavoro.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Scegliere le tecniche adeguate di apprendimento e di lavoro per delle concrete fasi di apprendimento e di lavoro, utilizzarle, giustificarle ed eventualmente, in base ai risultati raggiunti, modificarle.
+            <knowledge-list>
+                <knowledge>
+                    Conosce un procedimento per la sistematica annotazione delle proprie esperienze nell’utilizzo di fasi di apprendimento e di lavoro e sa spiegare come tali annotazioni aiutano in un successivo impiego delle tecniche d’apprendimento e di lavoro.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

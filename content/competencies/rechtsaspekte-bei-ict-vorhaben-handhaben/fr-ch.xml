@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>654</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=654%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Appliquer les aspects du droit dans les projets TIC</title>
+    <capability>Appliquer les bases et aspects principaux du droit dans l’environnement TIC et garantir, avec des directives et mesures appropriées, que les prescriptions du droit, les prestations personnelles ainsi que les acquisitions soient respectées, que les prestations convenues puissent être fournies et utilisées de manière judicieuse.</capability>
+    <goals>
+        <goal>
+            Analyser des situations ou des événements et estimer l’importance de la signification du droit des sociétés en regard des relations d’affaires (par ex. type d’entreprise du fournisseur de prestations). Définir des directives pour assurer la sécurité du droit (par ex. les aspects de responsabilité) et garantir le respect de celle‐ci.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le classement du droit des sociétés en tant que partie du droit privé dans le système global du droit (droit privé et droit publique).
+                </knowledge>
+                <knowledge>
+                    Connaître la signification du droit des sociétés en relation avec la création, la clôture, l’organisation et le financement d’une entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître le droit des sociétés régissant l’activité commerciale en tant que partie du droit commercial dépendant du type de société.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer, sur la base des caractéristiques de l’objet du contrat et de ses exigences, le type adéquat de contrat et exécute, avec les partenaires du contrat, l’organisation du contenu de celui‐ci. Surveiller le respect des prestations et résultats définis dans le contrat pour sa propre organisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la création d’un contrat sous forme de capacité contractuelle et de l’expression de la volonté mutuellement convenue.
+                </knowledge>
+                <knowledge>
+                    Connaître l’annulabilité (erreur importante, tromperie délibérée, excitation des craintes et menaces, tricheries) et la nullité (impossibilité objective, illégalité, violation des bonnes manières) de contrat ou d’objets du contrat.
+                </knowledge>
+                <knowledge>
+                    Connaître les formes de contrat (contrat informel, simple écriture, écriture qualifiée, authentification publique, enregistrement au registre du commerce) ainsi que les délais de prescription liés à la forme et prestation du contrat pour assurer la conformité légale.
+                </knowledge>
+                <knowledge>
+                    Connaître les types de contrat (mandat, mandat de prestation de service, contrat de société, contrat d’achat, contrat logiciel/licence, contrat d’entreprise, contrat de travail).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer, pour son domaine d’organisation, les aspects pertinents du droit de la propriété intellectuelle et les distinguer des domaines voisins de droit (par ex. droit de timbre). Reconnaître la violation des intérêts de la propriété intellectuelle (personnel ou de tiers) et assure le respect du droit de la protection.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les domaines partiels TIC du droit de la propriété intellectuelle tel que droit des patentes, droit de la topographie, droit de timbre, logo d’entreprise (marque, équipement, raison sociale), le droit du design (échantillon, modèle), le droit d’auteur (protection des créations intellectuelles technologiques).
+                </knowledge>
+                <knowledge>
+                    Connaître les lois et ordonnances nationales spécifiques importantes en relation avec le commerce TIC ainsi que les conventions internationales en matière de droit intellectuel.
+                </knowledge>
+                <knowledge>
+                    Connaître les actions illégales dans le droit sur la propriété intellectuelle (violation de la patente, violation de la marque, violation du droit d’auteur) ainsi que les sanctions légales telles que les moyens légaux du droit civil (par ex. action en cessation, action en dommages‐intérêts) et les sanctions pénales.
+                </knowledge>
+                <knowledge>
+                    Connaître l’assurance du droit de protection des droits d’auteur en relation avec la non transférabilité du droit moral de l’auteur (reconnaissance de la paternité, la première publication) et le droit patrimonial de l’auteur (établissement de copies, modification de l’ouvrage, décompilation, droit de location).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Reconnaître des situations qui représentent un danger ou une violation de la loi sur la protection des données. Créer, dans son domaine d’influence, une sensibilité plus élevée en regard de la loi sur la protection des données et démontrer les conséquences (juridiques et organisationnelles) en cas de violation de la loi sur la protection des données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les bases de la loi sur la protection des données en vue de la protection de la personnalité et les droits de base des personnes physiques et morales qui sont traités via les données.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques de différenciation dans la protection des données (protection contre les modifications) et de la sécurité des données (protection contre la perte).
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes pour garantir un comportement confidentiel avec des données personnelles et le respect du droit actuel (par ex. règles/directives internes).
+                </knowledge>
+                <knowledge>
+                    Connaître des moyens d’information et de sensibilisation des collaborateurs en regard de la protection des données (par ex. Intranet, eLearning, prospectus d’informations, formation).
+                </knowledge>
+                <knowledge>
+                    Connaître les conséquences juridiques et organisationnelles pour l’entreprise ou les collaborateurs en cas de violation de la protection des données (par ex. dommages-intérêts, perte de la place de travail).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

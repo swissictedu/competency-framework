@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>177</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=177%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Gérer les incidents dans un service d’assistance informatique</title>
+    <capability>Identifier les problèmes intervenant dans l’exploitation opérationnelle, les analyser et mettre en place des solutions durables.</capability>
+    <goals>
+        <goal>
+            Evaluer systématiquement les informations provenant de l’exploitation opérationnelle et préparer les résultats en vue des décisions de gestion des incidents.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les catégories d’erreurs intervenant dans l’exploitation de systèmes et pouvoir en indiquer les causes fondamentales.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales valeurs statistiques à consigner lors de la consolidation des informations d’un système de tickets de dépannage en vue de la rédaction d’un rapport de qualité périodique. Pouvoir expliquer les conclusions qu’on peut en tirer pour le traitement systématique des erreurs.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques de représentation à utiliser lors de la consolidation des informations d’un système de tickets de dépannage en vue de la rédaction d’un rapport de qualité périodique (analyses graphiques, analyses de tendance, etc.). Pouvoir expliquer comment ces techniques contribuent à augmenter la valeur significative en ce qui concerne la qualité du service.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prioriser les incidents et faiblesses identifiés lors de l’évaluation en fonction de leur importance pour l’activité de l’entreprise. Elaborer sur cette base un plan de réalisation visant à les éliminer.
+            <knowledge-list>
+                <knowledge>
+                    Connaître et pouvoir décrire les éléments d’information importants pour la priorisation des incidents.
+                </knowledge>
+                <knowledge>
+                    Pouvoir décrire les méthodes et les techniques permettant d’obtenir une décision de la part d’une instance et illustrer par des exemples les situations dans lesquelles elles sont utilisées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les variantes de solution à un incident, les évaluer sous l’angle de l’efficacité, de l’investissement nécessaire et de la faisabilité. Décider sur cette base si une solution transitoire est nécessaire ou si une solution durable peut être réalisée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes proactives permettant d’éviter les incidents (FAQ, informations destinées aux utilisateurs, actualisation de logiciels, surveillance ou remplacement).
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes de résolution provisoire des incidents survenant dans l’exploitation opérationnelle de systèmes et pouvoir indiquer comment elles contribuent à l’efficacité et à la sécurité de l’exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, avec le responsable de l’exploitation TIC et les utilisateurs, des solutions transitoires permettant au système de livrer les prestations souhaitées malgré l’incident.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir indiquer les règles et conditions générales à respecter lors de l’élaboration de solutions transitoires en cas de recours à une procédure d’escalade et la manière dont elles contribuent à la définition d’une solution acceptable pour les fournisseurs et les utilisateurs de prestations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir des demandes de modification fournissant des consignes précises et contraignantes pour la réalisation d’une solution durable à l’incident.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments d’information qui doivent figurer dans une demande de modification et pouvoir indiquer comment ils contribuent à une résolution ciblée des incidents.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes fondamentaux de la résolution efficace et efficiente d’incident et pouvoir indiquer comment les demandes de modification contribuent à leur respect.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales informations que doit contenir une proposition de correction d’erreur et pouvoir expliquer comment elles contribuent à l’élaboration d’une base de décision globale.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les critères et objectifs pour l’implémentation d’une solution transitoire ou d’une modification et en contrôler le respect.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les conditions générales et les critères de l’implémentation réussie de la solution à un incident.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes de surveillance et de réalisation de solutions transitoires validées dans l’exploitation opérationnelle (surveillance de la fiabilité, avis d’événements, réactions d’utilisateurs, évaluation de tickets d’incident, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>120</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=120%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Benutzerschnittstellen implementieren</title>
+    <capability>Benutzerschnittstellen für eine Applikation entwerfen und implementieren. Dabei Standards und ergonomische Anforderungen beachten.</capability>
+    <goals>
+        <goal>
+            Für grafische Benutzerschnittstellen vorgegebene Standards und Ergonomieanforderungen anwenden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Regeln für die Gestaltung einer Benutzerschnittstelle und weiss, wie diese nach ergononmischen Kriterien aufgebaut wird.
+                </knowledge>
+                <knowledge>
+                    Kennt Komponenten und entsprechende Konventionen für die Gestaltung von Benutzerschnittstellen (z.B. Menu-Darstellung).
+                </knowledge>
+                <knowledge>
+                    Kennt den Nutzen von Style Guides.
+                </knowledge>
+                <knowledge>
+                    Kennt mehrere Möglichkeiten zur gezielten Integration von Hilfefunktionen in einer Benutzerschnittstelle.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Geeignete Entwurfsmuster zur Trennung von Präsentations- und Anwendungslogik einsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kriterien zur Trennung von Präsentations- und Anwendungslogik.
+                </knowledge>
+                <knowledge>
+                    Kennt das MVC-Entwurfsmuster und dessen Funktionsprinzip.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Benutzerschnittstellen implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Implementationskonzept der View-Komponenten einer Programmierumgebung und deren Einsatz.
+                </knowledge>
+                <knowledge>
+                    Kennt das Konzept der Ereignisverarbeitung.
+                </knowledge>
+                <knowledge>
+                    Kennt den Einsatz von MVC in einer Benutzerschnittstelle.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ergonomie (Benutzerfreundlichkeit) und Funktionalität der Benutzerschnittstellen prüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Schritte, die bei einem Test durchlaufen werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien zum Testen der ergonomischen Aspekte einer Benutzerschnittstelle (Usability).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

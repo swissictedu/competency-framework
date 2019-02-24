@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>669</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=669%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Handhabung von Informationssicherheitsvorfällen sicherstellen</title>
+    <capability>Initialisiert, überwacht und steuert in einer Organisation die Strukturen, Prozesse und Verfahren zur Erkennung und Handhabung von Informationssicherheitsvorfällen über deren gesamten Lebenszyklus.</capability>
+    <goals>
+        <goal>
+            Überwacht die aktuelle Bedrohungslage laufend, identifiziert mögliche Gefährdungen für die eigene Organisation und leitet bei Bedarf präventive Massnahmen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Begriffe Bedrohung (threat), Schwachstelle (vulnerability) und Gefährdung (applied threat) und kann deren Bedeutung aus der Sicht einer Organisation erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt interne und externe Quellen mit Informationen zur aktuellen Bedrohungslage und Kataloge mit Bedrohungen (z.B. Gefährdungskataloge MELANI oder BSI, aktuelle Security Reports von Herstellern, Foren, Erfahrungsaustausch im Beziehungsnetzwerk).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert und beurteilt die Prozesse, Verfahren und Hilfsmittel zur Meldung und Handhabung von Informationssicherheitsvorfällen und passt diese bei Bedarf an neue Bedrohungen oder Anforderungen an.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Anforderungen an die Handhabung von Informationssicherheitsvorfällen aus der Norm ISO/IEC 27001.
+                </knowledge>
+                <knowledge>
+                    Kennt verwandte oder alternative Prozesse zur Handhabung von Vorfällen oder Problemen (z.B. ITIL-Incident oder Problem Management).
+                </knowledge>
+                <knowledge>
+                    Kennt Hilfsmittel zur Verwaltung von Informationssicherheitsvorfällen (z.B. Security Incident Management System, Issue-Tracking-System, Problem-Datenbank).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beurteilt Informationssicherheitsvorfälle, leitet bei Bedarf Sofortmassnahmen ein und definiert die reaktiven Massnahmen zur Minimierung der Auswirkungen eines Informationssicherheitsvorfalls.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Konzepte zur Priorisierung und Kategorisierung von Informationssicherheitsvorfällen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Zweck einer Eskalationsstrategie und den Unterschied zwischen fachlichen und hierarchischen Eskalationen.
+                </knowledge>
+                <knowledge>
+                    Kennt Sofortmassnahmen zur Aufrechterhaltung der Informationssicherheit und zur Gewährleistung der späteren Aufklärung (z.B. Deaktivierung von Konten oder Diensten, Sichern von Beweismaterial, forensische Duplikate von Festplatten und IT-Forensik).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Informiert die relevanten Anspruchsgruppen über den Informationssicherheitsvorfall und das weitere Vorgehen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Anspruchsgruppen in der eigenen Organisation (z.B. Management, Compliance, Personalwesen) und externe Behörden (z.B. Ermittlungs- und Strafverfolgungsbehörden).
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Kommunikationswege (z.B. persönliche Absprache, schriftlicher Bericht, E-Mail, Telefon, Botengang) und kann die Unterschiede hinsichtlich Zeit, Verbindlichkeit (Nichtabstreitbarkeit) und Zurechenbarkeit erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Untersucht und dokumentiert einen Informationssicherheitsvorfall und beurteilt den Schaden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Elemente für die nachvollziehbare Dokumentation von Informationssicherheitsvorfällen (Incident Record).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Problemlösung und strukturierten Ursachenanalyse (z.B. Fehler-Ursachen-Analyse, ABC-Analyse nach Pareto, 5-Why-Methode, Ursache-Wirkungsdiagramm nach Ishikawa).
+                </knowledge>
+                <knowledge>
+                    Kennt mögliche Faktoren zur Schätzung und Bemessung von Schäden (z.B. Sachschaden, Ausfallzeit, Haftung, Reputationsschaden).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wertet den Informationssicherheitsvorfall aus und identifiziert mit den zuständigen Stellen Verbesserungsmassnahmen zur Verringerung der Eintrittswahrscheinlichkeit oder der Auswirkungen bei zukünftigen Vorfällen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Anspruchsgruppen der Organisation (z.B. Management, ICT, technischer Hausdienst, Rechtsabteilung, Personalwesen, Projektleitung) und kann deren Relevanz für die Informationssicherheit erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Lösungsansätze und potenzielle Informationssicherheitslösungen zur Gewährleistung der Informationssicherheit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

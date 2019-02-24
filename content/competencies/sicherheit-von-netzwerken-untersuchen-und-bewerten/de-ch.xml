@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>675</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=675%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Sicherheit von Netzwerken untersuchen und bewerten</title>
+    <capability>Untersucht die Netzwerkinfrastruktur einer Organisation auf der Übertragungs-, Vermittlungs- und Transportschicht (OSI-Layer 1 bis 4), bewertet deren Reifegrad bezüglich Informationssicherheit und empfiehlt Verbesserungsmassnahmen für die Netzwerksicherheit.</capability>
+    <goals>
+        <goal>
+            Ermittelt die Netzwerkinfrastruktur einer Organisation und dokumentiert die Netzwerkarchitektur in geeigneter Form.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die gebräuchlichen Netzwerkstandards (IEEE 802) für lokale Netzwerke (LAN), Drahtlosnetzwerke (WLAN), drahtgebundene und drahtlose persönliche Netzwerke (PAN, WPAN) und kann deren Merkmale und potenzielle Schwachstellen für die Informationssicherheit erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Konzepte zur Verbindung von mehreren Standorten (z.B. Standleitung, virtuelle private Netzwerke VPN) und kann die sicherheitsrelevanten Merkmale erläutern (z.B. geteilte oder dezidierte Nutzung, Leistung, Verfügbarkeit und Vertraulichkeit).
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Netzwerkkomponenten bis OSI-Layer 4 (z.B. Bridge, Hub, Switch, Router, Firewall) und kann deren Funktion erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Konzepte zur physischen oder logischen Trennung von Netzwerken in Segmente (z.B. Spanning Tree STP, Layer 2 und 3 Switching, Subnetting, VLAN, Firewall, DMZ).
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungsformen zur Dokumentation der Netzwerkarchitektur (z.B. physikalische und logische Netzwerkpläne, Verkabelungspläne, Inventarlisten für Netzwerkgeräte).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft die Sicherheit der Netzwerkarchitektur oder Teilen davon mit geeigneten Methoden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die relevanten Empfehlungen im Bereich Netzwerksicherheit aus dem de-facto Standard Open Source Security Testing Methodology Manual (OSSTMM).
+                </knowledge>
+                <knowledge>
+                    Kennt relevante Bedrohungen und Angriffsvektoren in Netzwerken (z.B. DDoS-Attacken, Sniffing, Man-in-the Middle, MAC- und IP-Spoofing, DNS-Attacken).
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen Belastungs- und Auslastungsmessungen in Netzwerken und kann gebräuchliche Methoden und Werkzeuge zur Überprüfung der Netzwerksicherheit (z.B. Portscanner, Penetrationstests, Protokollanalyzer, Sniffer, relevante Kommandozeilenbefehle) benennen
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die Sicherheit der Netzwerkarchitektur auf der Ebene der Prozesse und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Prozessanforderungen an die Netzwerkadministration (z.B. Zugangssteuerung und Schlüsselverwaltung, Behandlung von Ausnahmen und Änderungen, Lizenzverwaltung, Aktualität der Dokumentation).
+                </knowledge>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Anforderungen an die Überwachung von Netzwerken und die relevanten gesetzlichen oder regulatorischen Vorgaben (z.B. Ereignisprotokollierung, Datenschutz bei der Aufzeichnung sensibler Daten, Verhältnismässigkeit, Aufbewahrungsdauer der aufgezeichneten Daten).
+                </knowledge>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Anforderungen an das Release-, Update- und End-of-Life-Management von Netzwerkkomponenten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die Sicherheut der Netzwerkarchitektur aus technischer Sicht und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Einsatzmöglichkeiten, Voraussetzungen und Grenzen von technischen Massnahmen zur Trennung von Netzwerken und zur Erhöhung der Verfügbarkeit.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Massnahmen zur Steuerung der Dienstgüte in IP-Netzwerken (Quality of Service QoS) mittels reservierter Bandbreite oder Priorisierung.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Massnahmen zur Steuerung des Zugriffs auf Netzwerke (z.B. MAC- und IP-Filter, WLAN-Authentifizierung).
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Systeme zur Steuerung des physischen Zutritts auf Netzwerkzonen und deren Verkabelung (z.B. Schlüssel, Badge, biometrische Systeme).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die Netzwerkarchitektur in Bezug auf den Einsatz von kryptografischen Massnahmen und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundlagen der symmetrischen, asymmetrischen und hybriden Verschlüsselung und kann die Unterschiede erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die gebräuchlichen kryptografischen Verfahren (z.B. RSA, ECDHE, ECDSA, SHA, 3DES, AES) und kann deren Funktionen erläutern (Schlüsselaustausch, Authentisierung, Hashfunktion und Verschlüsselung).
+                </knowledge>
+                <knowledge>
+                    Kennt die gebräuchlichen Netzwerk- und Transportprotokolle zur Verschlüsselung (z.B. IPSec, TLS).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erarbeitet auf der Basis der identifizierten Schwachstellen einen Massnahmenkatalog für die Verbesserung der Netzwerksicherheit, formuliert eine Empfehlung und präsentiert diese den Entscheidungsträgern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Inhalte und die Gliederung eines strukturierten Massnahmenkatalogs (z.B. Massnahme, Zeitbedarf, Zuständigkeit, Mehrwert, Kostenschätzung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Inhalte und die Gliederung einer guten Präsentation und kann den Einfluss relevanter Haltungen auf die Überzeugungsarbeit erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

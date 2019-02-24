@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>145</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=145%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Exploiter et étendre un réseau.</title>
+    <capability>Surveiller la disponibilité et les performances réseau et interpréter les résultats. Etendre des réseaux selon les directives avec WLAN/VPN et relier deux réseaux distants par un canal de transmission sûr.</capability>
+    <goals>
+        <goal>
+            Interpréter et mettre à jour la documentation d´un réseau.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux éléments de la documentation d´un réseau (schémas logique et physique, configuration, inventaire, etc.)
+                </knowledge>
+                <knowledge>
+                    Connaître des représentations usuelles et les symboles pour les schémas, plans de réseaux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Surveiller, enregistrer, verbaliser les performances et la disponibilité du réseau avec les utilitaires adéquats. Interpréter les résultats (Logfiles).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les sources de données possibles (composants réseau et terminaux branchés) pour la surveillance d’un réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître des outils de surveillance réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux paramètres pour l’exploitation des performances et de la disponibilité.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales représentations des données capturées et savoir comment interpréter celles-ci.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            En cas de problème, saisir systématiquement les symptômes et messages d´erreur. Cerner les problèmes avec des utilitaires, reproduire et éliminer les erreurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux indices ou symptômes qui mettent en évidence les perturbations en regard des performances et de la disponibilité.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes permettant de découvrir systématiquement des erreurs et les éliminer.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Répartir et configurer un réseau en VPN.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités d´organisation physique et logique d´un réseau ainsi que leurs effets sur les performances et la disponibilité.
+                </knowledge>
+                <knowledge>
+                    Connaître les types de VPN (basé port, dynamique) ainsi que des possibilités typiques de configuration des appareils.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etendre des réseaux avec le sans fil et configurer avec un accès sécurisé.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des standards WLAN, des types d’antennes, les applications typiques ainsi que leurs avantages et inconvénients.
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures de sécurité WLAN.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Relier de manière sûre des réseaux locaux distants.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités et les domaines d’application des réseaux distants pour une communication sûre.
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages et inconvénients des technologies VPN pour une communication sûre.
+                </knowledge>
+                <knowledge>
+                    Connaître la principale différence de liaison entre un WAN-Access, réseau WAN-Core et VPN.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

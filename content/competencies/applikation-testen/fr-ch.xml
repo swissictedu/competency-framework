@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>451</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=451%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Tester une application</title>
+    <capability>Développer un concept de tests, en tenant compte de toutes les conditions cadres du développement d’applications, et le mettre en oeuvre en respectant les méthodes d’assurance qualité logicielle.</capability>
+    <goals>
+        <goal>
+            Développer un concept de test en tenant compte des objectifs du projet, des directives, des normes et de la stratégie de test.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différentes stratégies de test et pouvoir expliquer à quelles conditions elles peuvent être utilisées dans un projet de développement.
+                </knowledge>
+                <knowledge>
+                    Connaître les conventions contenues dans un concept de test et pouvoir les caractériser. Connaître la structure et la chronologie d’un concept de test.
+                </knowledge>
+                <knowledge>
+                    Connaître les méthodes de test courantes et pouvoir expliquer à quels types d’objets de test et à quels niveaux de test elles sont destinées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spécifier un environnement de test approprié sur la base des consignes de l’entreprise, de la planification de projet, du concept de test et des niveaux de test qui y sont définis.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères à prendre en compte dans la définition d’un environnement de test et pouvoir expliquer comment le respect de ces critères contribue à la significativité des tests en ce qui concerne le bon fonctionnement de l’application en environnement opérationnel.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Préparer les outils de test et définir des consignes pour la spécification des cas de test.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions des outils courants de test et de gestion de test et savoir comment ils contribuent à la fiabilité et à l’efficacité du déroulement des tests applicatifs.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités de configuration des fonctions des outils courants de test et de gestion de test et pouvoir en expliquer l’influence sur l’implémentation et la réalisation des tests.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de définition des modèles de test et savoir comment ils contribuent à l’implémentation et la réalisation correcte des tests.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un scénario de test approprié compte tenu des niveaux de test, objectifs et jalons définis dans le concept de test.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments d’une description de cas de test et pouvoir expliquer comment ils contribuent à la concrétisation d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’une description de cas de test et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer des cas de test compte tenu des méthodes de création de cas de test définis dans le concept de test.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments d’un scénario de test et pouvoir expliquer comment ils contribuent à la cohérence et à l’efficacité du déroulement des tests.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer des tests automatisables, implémenter le script et mettre les données nécessaires à disposition sous une forme lisible.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les conditions qui justifient l’automatisation d’un test et pouvoir expliquer le lien entre ces conditions et l’efficacité et la fiabilité du déroulement du test.
+                </knowledge>
+                <knowledge>
+                    Connaître les règles d’implémentation des tests automatisés et savoir comment elles influencent la réalisation des tests ou contribue à leur implémentation correcte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Procéder à des tests sur la base du scénario de test, regrouper et évaluer les résultats de tests, rédiger et analyser des avis d’erreur et les documenter dans un rapport à l’intention des décideurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères d´interprétation différenciée des résultats de tests courants et pouvoir expliquer les conclusions qu’ils permettent de tirer quant à la qualité d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères que doit remplir une analyse traçable de résultats / d’interprétations de tests et savoir comment ils contribuent à l’évaluation des résultats de tests et à la prise de décision.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Archiver les artefacts et documents de tests pour garantir la traçabilité des résultats de tests.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques d’un archivage structuré des résultats de tests et pouvoir expliquer comment ils garantissent la traçabilité et l’accessibilité des résultats de tests.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance de l’archivage des tests et de leurs résultats pour la réutilisabilité et l’administration de la preuve en cas de réclamation pour non‐conformité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

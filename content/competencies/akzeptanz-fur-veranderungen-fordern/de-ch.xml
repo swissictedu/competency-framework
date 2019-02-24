@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>492</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=492%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Akzeptanz für Veränderungen fördern</title>
+    <capability>Identifiziert Veränderungen, die sich durch neue oder sich ändernde ICT‐Systeme für die Betroffenen ergeben, und analysiert deren Akzeptanz. Begleitet und unterstützt im eigenen Verantwortungsbereich die Betroffenen bei der Bewältigung dieser Veränderungen und schafft dadurch die Voraussetzungen für eine erfolgreiche Veränderung.</capability>
+    <goals>
+        <goal>
+            Identifiziert die Veränderungen, welche für die Betroffenen aus dem ICT‐Projekt entstehen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten, um Veränderungen zu identifizieren (interne Stakeholder‐Analyse, Einbezug aller Betroffenen sowie die verschiedenen Ebenen der Veränderung (z.B. Ebene der Umgebung, Ebene der Verhaltensweisen, Fähigkeiten).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert die identifizierten Veränderungen hinsichtlich ihrer Auswirkungen auf die Arbeitstätigkeit der Betroffenen und leitet daraus mögliche Hoffnungen, Ängste, Verunsicherungen und Verhaltensweisen ab, welche eine erfolgreiche Einführung beeinflussen.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, welche Auswirkungen Veränderungen auf die Betroffenen haben können und wie sie zu erarbeiten und einzuschätzen sind.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie Menschen auf Veränderungen reagieren können.
+                </knowledge>
+                <knowledge>
+                    Kennt die typischen Phasen des Veränderungsprozesses.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Zeigt Folgen aus der Veränderung auf und gibt Empfehlungen ab.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, in welchen Phasen der Veränderung mit welchem Massnahmen und Handlungen die Beteiligten zu unterstützen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die Dynamik (Gruppenprozesse, Präferenzen usw.) von Veränderungen und weiss, wie in welcher Situation zu handeln ist und welche Massnahmen zu treffen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die speziellen Anforderungen der Führung in Veränderungsprozessen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gestaltet das persönliche Informations‐ und Kommunikationsverhalten bewusst und richtet es auf die Akzeptanz des Projektergebnisses aus.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die emotionalen Informations‐ und Energieflüsse.
+                </knowledge>
+                <knowledge>
+                    Weiss Betroffene von Anfang bis Ende in die Veränderung einzubeziehen, kennt die entsprechenden Regeln der Kommunikation und geeignete Vorgehensweisen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Erfolgsfaktoren von Veränderungsprozessen und weiss, wie diese zu planen und umzusetzen sind (z.B. Veränderungen bewusst machen, Verbündete suchen usw.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erkennt potenzielle und aktuelle Widerstände und kann damit konstruktiv umgehen, schafft Akzeptanz und bindet Betroffene ein.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, welche Widerstände im Veränderungsprozess auftreten können, und erkennt diese frühzeitig.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensweisen im Umgang mit Widerständen und weiss, wie sie umzusetzen sind.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die Veränderungsbereitschaft bei den Betroffenen durch entsprechendes Handeln und Unterstützung beeinflusst werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Unterstützt Betroffene beim Abbau von Widerständen und bei der Bewältigung von Veränderungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten, um die Veränderungsfähigkeit der Betroffenen gezielt zu fördern.
+                </knowledge>
+                <knowledge>
+                    Kennt die einzelnen Typen in der Veränderung und weiss. wie mit ihnen umzugehen ist (Treiber, Passive, Abwartende...).
+                </knowledge>
+                <knowledge>
+                    Kennt und identifiziert die einzelnen Rollenträger in der Veränderung (z.B. Sponser, Projektoffice, Change Agent usw.) und weiss um deren Aufgabe und Umgang mit ihnen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schlägt gegenüber Projekt‐ und Linienverantwortlichen Unterstützungsmassnahmen für die vom Projekt Betroffenen vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die häufigsten Fehler in Veränderungsprozessen (z.B. Bombenwurf, Blindstart usw.).
+                </knowledge>
+                <knowledge>
+                    Kennt die Erfolgsfaktoren von Change‐Prozessen und weiss, wie sie umzusetzen sind (z.B. Kundenfokus, professionelle Gestaltung, Einbindung der Betroffenen usw.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Arbeitet Unterstützungsmassnahmen aus (z.B. Information, Schulung, Coaching usw.).
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Schulungsformen und deren Eignung in verschiedenen Situationen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgehensweise bei der Planung und Erarbeitung einer Schulung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

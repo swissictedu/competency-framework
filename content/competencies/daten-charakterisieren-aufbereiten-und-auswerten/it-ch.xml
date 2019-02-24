@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>100</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=100%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Distinguere, preparare ed interpretare dei dati</title>
+    <capability>Preparare dei dati per una valutazione, verificare e interpretare i risultati della valutazione.</capability>
+    <goals>
+        <goal>
+            Esaminare le principali caratteristiche per quanto concerne la struttura (testo, foglio di calcolo, banca dati, etc.) dei dati risp. dell'insieme di dati in vista del loro trattamento e interpretazione.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le differenti forme di dati e d'informazioni (numeriche – misure / classificazioni; verbali – testi in forma scritta o parlata; non verbali – musica, film, video) che possono essere memorizzati su di un supporto di dati e sa indicare come si comportano per quel che concerne la valutazione per mezzo di un sistema informatico.
+                </knowledge>
+                <knowledge>
+                    Conosce le caratteristiche strutturali di differenti sorgenti d'informazione (documenti di testo, fogli di calcolo, banche dati) e sa spiegare quali conseguenze ne derivano dalla valutazione elettronica di queste sorgenti di dati.
+                </knowledge>
+                <knowledge>
+                    Conosce le relazioni tra strutture di dati (associazioni, cardinalità) e sa illustrare con degli esempi presi dalla quotidianità, quali stati di un insieme di dati essi permettono di rappresentare.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Esaminare le principali caratteristiche per quanto concerne la qualità (incongruenza ,esaustività, ridondanza,) dei dati risp. dell'insieme di dati in vista della loro interpretazione.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le caratteristiche degli insiemi di dati per quel che concerne l'unicità delle informazioni (indicazioni differenti per la stessa informazione, contenuti d'informazione differenti, etc.) e sa spiegare quali conseguenze possono avere queste caratteristiche per il significato della valutazioni.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Aufgrund der Charakteristik eines Datenbestands die Informationen auswählen, die sich für eine bestimmte Auswertung eignen.
+            <knowledge-list>
+                <knowledge>
+                    Sa differenziale le scale nominali ("vecchio" – "giovane", "insufficiente" – "sufficiente" – "buono"), ordinali (classifica, note, etc.) e metriche (età, taglia, etc.) e indicare le conseguenze che ne derivano nelle possibilità di valutazione
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Convertire i dati non strutturati in una forma strutturata ed elaborata per permetterne una interpretazione.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le possibilità offerte dalle tabelle per la strutturazione d'insiemi di dati e sa illustrare, attraverso degli esempi, le possibilità di strutturazione che ne scaturiscono per la valutazione di dati.
+                </knowledge>
+                <knowledge>
+                    Conosce i principi della teoria degli insiemi e sa creare la relazione con gli operatori (per es. funzione d'aggregazione per il raggruppamento di dati).
+                </knowledge>
+                <knowledge>
+                    Conosce i formati di dati più diffusi (valuta, ora, data, testo, etc.) e ne sa indicare i limiti per quel che concerne la valutazione di dati.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Scegliere un'appropriata forma di interpretazione e rappresentazione per le informazioni richieste ed applicarla.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le più semplici grandezze statistiche (media, minimo, massimo) e sa indi- care quali condizioni devono essere soddisfatte (tipi di scala, numero d'osservazioni, qualità delle informazioni, etc.) per ottenere dei risultati attendibili
+                </knowledge>
+                <knowledge>
+                    Conosce i tipi di diagrammi più semplici per la rappresentazione delle informazioni e sa spiegare per quali tipi di scale di dati (metriche, nominali, ordinali) essi sono adatti.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analizzare e commentare in maniera critica il significato e la forza espressiva dell'interpretazione.
+            <knowledge-list>
+                <knowledge>
+                    Sa che è necessario giudicare i risultati di una valutazione e sa spiegare per mezzo di esempi presi dalla quotidianità che le tendenze uscenti dai risultati di una valutazione possono essere significative o non significative
+                </knowledge>
+                <knowledge>
+                    Sa che è necessario valutare i risultati di una valutazione sotto delle prospettive differenti (dipendente – datore di lavoro; cittadino – Stato; etc.) e sa illustrare per mezzo di esempi tratti dalla quotidianità che i risultati di una valutazione possono essere significativi o non significativi a seconda della prospettiva considerata
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

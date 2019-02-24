@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>228</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=228%26clang=it</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>S’assurer de la satisfaction de la clientèle</title>
+    <capability>Rilevare la soddisfazione della clientela per le prestazioni di servizi ICT mediante misurazioni e inchieste. Interpretare i risultati, elaborare provvedimenti, presentarli, applicarli e verificarli regolarmente.</capability>
+    <goals>
+        <goal>
+            Scegliere un metodo di procedere (Trailer Calls, sondaggio d’opinioni) per accertare la soddisfazione della clientela (interna ed esterna). Preparare un questionario con esempi “best practice“, dedurne criteri di misurazione, stabilire i valori da misurare e assegnarne la ponderazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Verfahren zur Ermittlung der Kundenzufriedenheit und kann erläutern, bei welchen Merkmalen von ICT-Dienstleistungen sich diese besonders eignen.
+                </knowledge>
+                <knowledge>
+                    Kennt Dimensionen, die bei der Messung der Kundenzufriedenheit zu berücksichtigen sind und kann erläutern, bei welchen Arten von ICT-Dienstleistungen welche Dimensionen relevant sind.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen der Einstufung der Wichtigkeit und Zufriedenheit eines Kunden in einem Erhebungsbereich und kann an Beispielen erläutern, welche Bedeutung deren Ermittlung für die Bemessung des Handlungsbedarfs haben.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken zur gemeinsamen Erhebung und Auswertung von Wichtigkeit und Zufriedenheit in einer Kundenumfrage und kann an Beispielen erläutern, wie diese zu aussagekräftigen Ergebnissen beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formulare un capitolato d’oneri per il rilevamento e l’inchiesta (periodicità, estensione/contenuto, scadenze), richiedere offerte e preparare il catalogo dei criteri per la valutazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Merkmale für die Dimensionierung einer Kundenumfrage und kann erläutern, wie diese die Aussagekraft und den Erhebungsaufwand beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mediante il catalogo dei criteri, valutare le offerte riguardanti il mandato di misurazione e incaricare l’azienda scelta per la realizzazione dell’inchiesta/misurazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien, welche für die Beurteilung der Kompetenz eines Umfrageinstitutes relevant sind und kann erläutern, wie die Beurteilung in diesen Kriterien die Qualität der Umfrageergebnisse beeinflussen kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analizzare i risultati dell’inchiesta/misurazione, commentarli, confrontarli con i risultati dell’anno precedente, riassumerli ed esporli sotto forma di rapporto.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Auswertungsmethoden (deskriptive Statistik) und Darstellungsformen, um Informationen in verdichteter Form empfängergerecht zu präsentieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungsformen, welche einen aussagekräftigen Vergleich zwischen den Ergebnissen unterschiedlicher Erhebungsperioden oder verschiedener Kundengruppen erlauben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dedurre i potenziali di miglioramento per la soddisfazione dei clienti, preparare il corrispondente piano d’azione (tempi/costi) per eliminare i punti deboli e per raggiungere l’obiettivo di soddisfazione della clientela, presentarli e condurre ad una decisione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien zur Beurteilung von Erhebungsergebnissen (Trend, Vergleich, Niveau) und kann erläutern, wie diese zur Aufdeckung des Potentials und zur Bestimmung der Priorität hinsichtlich der Verbesserung der Kundenzufriedenheit beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eseguire il piano d’azione, esaminare i risultati, esporli in un rapporto e, nel caso di differenze con l’obiettivo, introdurre provvedimenti correttivi.
+            <knowledge-list>
+                <knowledge>
+                    Kann darlegen, welche Bedeutung die anfänglich periodische Überprüfung eingeleiteter Verbesserungsmassnahmen für die nachhaltige Sicherung des Unternehmenserfolgs haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

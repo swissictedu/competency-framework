@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>151</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=151%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Intégrer des bases de données dans des applications Web</title>
+    <capability>Intégrer une base de données existante respectivement des éléments de données dans une application Web en tenant compte des exigences techniques et de sécurité.</capability>
+    <goals>
+        <goal>
+            Analyser les exigences d’une application Web et de la base de données, respectivement des éléments de données à lier, définir et documenter la technique de liaison.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités pour l’analyse de la structure d’une application Web et  l’interactivité des composants logiciels.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques et les fonctions d’interfaces vers des systèmes de bases de données et éléments de données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les informations importantes de protection et de sécurité en tenant compte de la protection des données, et définir les mesures.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des critères pour déterminer les informations à protéger, tels que les données personnelles particulièrement sensibles comme aussi des données commerciales.
+                </knowledge>
+                <knowledge>
+                    Connaître des mesures de sécurité organisationnelles et techniques pour les informations, les données et les applications Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser l’intégration de l’application Web avec la base de données, respectivement aux éléments de données, en prêtant attention aux transactions, à la protection et la sécurité des données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des langages de programmation et de scripts pour des applications Web, ainsi que leurs caractéristiques.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques courantes pour la mise en œuvre de transactions de bases de données.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour garantir l’intégrité des données, la disponibilité, l’authenticité et la confidentialité dans les applications Web.
+                </knowledge>
+                <knowledge>
+                    Connaître une technique pour verrouiller des éléments de données dans une application.
+                </knowledge>
+                <knowledge>
+                    Connaître diverses architectures pour l’intégration d’éléments de données, respectivement de bases de données dans une application Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre les souhaits de modifications conformément au déroulement prescrit des modifications.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure et les caractéristiques d’un concept de modifications et  leur importance pour la mise en œuvre intégrale du mandat.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et exécuter la procédure de test et de remise, la documenter dans un procès-verbal de tests. Si nécessaire, entreprendre les corrections.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des procédures de contrôles et de remise, appropriées pour un examen étendu d’une application Web avec base de données.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour déterminer les critères de tests et de remise pour une requête de modifications.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

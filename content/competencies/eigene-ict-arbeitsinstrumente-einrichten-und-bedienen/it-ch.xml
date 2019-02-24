@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>286</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=286%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Impostare e utilizzare i propri strumenti di lavoro ICT</title>
+    <capability>Impostare e utilizzare i propri strumenti di lavoro in modo corretto, autonomo e nel rispetto delle norme di sicurezza.</capability>
+    <goals>
+        <goal>
+            Collegare diversi terminali (periferiche).
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i collegamenti tramite cavi o soluzioni wireless e le loro caratteristiche (ad es. velocità di trasmissione).
+                </knowledge>
+                <knowledge>
+                    Conoscere l'interfaccia di diversi terminali.
+                </knowledge>
+                <knowledge>
+                    Conoscere una procedura di verifica del collegamento.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettere in funzione i terminali.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere la procedura di messa in funzione (ad es. completezza e volume di consegna).
+                </knowledge>
+                <knowledge>
+                    Conoscere l'importanza e l'utilità delle istruzioni per l'uso
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verificare lo stato attuale dei terminali e, se necessario, aggiornarli (update).
+            <knowledge-list>
+                <knowledge>
+                    Conoscere l'importanza di aggiornare i software (update).
+                </knowledge>
+                <knowledge>
+                    Conoscere le diverse procedure di aggiornamento possibili (ad es. aggiornamento automatico o manuale).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Stabilire il livello di sicurezza dei dati e definire, all'occorrenza, le misure necessarie.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le disposizioni legali sulla protezione dei dati.
+                </knowledge>
+                <knowledge>
+                    Conoscere esempi di situazioni in cui vengono applicate le disposizioni legali sulla protezione dei dati
+                </knowledge>
+                <knowledge>
+                    Conoscere possibili conseguenze qualora le disposizioni legali sulla protezione dei dati non vengano rispettate.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installare e configurare software.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere diversi modi di procedere per installare e configurare correttamente un software.
+                </knowledge>
+                <knowledge>
+                    Conoscere possibili modelli di licenza.
+                </knowledge>
+                <knowledge>
+                    Conoscere la procedura per configurare piattaforme condivise da gruppi di lavoro e servizi cloud.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Garantire la sicurezza dei dati personali e di quelli relativi ai progetti.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere diversi modi di procedere per garantire la sicurezza dei dati personali e di quelli relativi ai progetti (ad es. versioning).
+                </knowledge>
+                <knowledge>
+                    Conoscere i possibili supporti dati e i relativi vantaggi e svantaggi.
+                </knowledge>
+                <knowledge>
+                    Conoscere rischi e conseguenze della perdita di dati.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

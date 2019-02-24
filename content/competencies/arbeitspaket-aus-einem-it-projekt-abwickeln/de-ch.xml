@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>131</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=131%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Arbeitspaket aus einem IT Projekt abwickeln</title>
+    <capability>Arbeitspaket aus einem IT Projekt in Zusammenarbeit mit dem Auftraggeber und dem Projektteam selbständig abwickeln.</capability>
+    <goals>
+        <goal>
+            Arbeitspaket entgegen nehmen, eigenes Verständnis und Abhängigkeiten im IT Projekt erkennen und mit dem Auftraggeber klären.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Elemente einer Organisation (Aufgabe, Aufgabenträger, Sachmittel, Information) und kann erläutern, welchen Beitrag diese Elemente zur Bestimmung einer Aufgabe leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt Merkmale eines Vorhabens, die dafür sprechen, dieses sinnvoll in Form eines Projektes abzuwickeln.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Rollen (Auftraggeber, Projektleiter, Projektmitarbeiter) in einem Projekt und kann deren Aufgaben, Kompetenzen und Verantwortungen beschreiben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Abwicklung des Arbeitspakets unter Berücksichtigung eines methodischen Vorgehensprinzips planen und mit Hilfe des Auftraggebers oder von Projektbeteiligten auf Zweckmässigkeit resp. Abstimmung auf das Projektvorgehen prüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Sinn und Zweck eines Arbeitspakets und kann erläutern, wie die Bildung von Arbeitspaketen zu einer effizienten Projektabwicklung beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Elemente, welche ein Arbeitspaket definieren und kann erläutern, welche Bedeutung diese Elemente für die Einhaltung von Terminen und Kosten sowie der Qualität der zu erbringenden Leistung haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Das Arbeitspaket selbstständig bearbeiten und die Einhaltung der Ziele und Termine gemäss Vorgehensplan regelmässig überwachen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Techniken zur Planung, Überprüfung und Dokumentation des persönlichen Arbeitsfortschrittes und kann erläutern, wie diese die Einhaltung der Vorgaben eines Auftrages unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Den eigenen Arbeitsfortschritt und die eigenen Arbeitsergebnisse regelmässig mit dem Auftraggeber und dem Projektteam abstimmen und damit zu einer koordinierten Abwicklung des Projekts und zum Projekterfolg beitragen.
+            <knowledge-list>
+                <knowledge>
+                    Kann den Beitrag einer Dokumentation zur Sicherstellung und Nachvollziehbarkeit von Arbeitsergebnissen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dem Auftraggeber das Ergebnis mit den notwendigen Hinweisen und Erläuterungen vorlegen, welche die Nachvollziehbarkeit und die Integration ins Projektergebnis sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten inhaltlichen und formalen Regeln, die bei der Dokumentation von Arbeitsergebnissen einzuhalten sind und kann erläutern, wie diese deren Sicherstellung und Nachvollziehbarkeit unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Das eigene Arbeitsverhalten bei der Abwicklung des Arbeitspakets mit dem Auftraggeber und Projektbeteiligten reflektieren und Erkenntnisse ableiten, die eine Verbesserung des persönlichen Beitrags erlauben.
+            <knowledge-list>
+                <knowledge>
+                    Kann aufzeigen, welche Bedeutung die Dokumentation von Erkenntnissen während der Ausführung eines Vorhabens auf die Nachvollziehbarkeit des Arbeitsergebnisses und die Abwicklung zukünftiger Vorhaben hat.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

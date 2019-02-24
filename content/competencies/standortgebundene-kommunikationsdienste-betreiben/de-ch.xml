@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>161</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=161%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Standortgebundene Kommunikationsdienste betreiben</title>
+    <capability>Implementiert standortgebundene Kommunikationsdienste nach betrieblichen Anforderungen in ein bestehendes Firmen‐Netzwerk und stellt den operativen Betrieb dieser Dienste sicher.</capability>
+    <goals>
+        <goal>
+            Empfiehlt hinsichtlich der betrieblichen Anforderungen an eine Datenkommunikation einen geeigneten, standortgebundenen Kommunikationsdienst.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kategorien betrieblicher Anforderungen (technische, organisatorische, betriebswirtschaftliche und ökologische) mit Bezug auf den Einsatz von Kommunikationsdiensten, um sie systematisch zu erheben.
+                </knowledge>
+                <knowledge>
+                    Kennt die Eigenschaften, Voraussetzungen, Funktionen und Einsatz Möglichkeiten der gängigsten, standortgebundenen Kommunikationsdienste, wie z.B. Fax, E‐Mail, Kollaborations‐ und Zugangsdienste, VoIP, etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus den betrieblichen Anforderungen die Vorgaben an die Konfiguration des gewählten Kommunikationsdienstes ab.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie aus den betrieblichen Anforderungen die technischen Anforderungen an einen zu wählenden Kommunikationsdienst abzuleiten sind.
+                </knowledge>
+                <knowledge>
+                    Kann für die Kategorien von betrieblichen Anforderungen ein passendes Lösungskonzept für den Einsatz eines Kommunikationsdienstes erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungstechniken, um ein Lösungskonzept adressatengerecht zu präsentieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwirft unter Berücksichtigung der Vorgaben das technische Konzept für die Implementierung des Kommunikationsdienstes in das bestehende Netzwerk.
+            <knowledge-list>
+                <knowledge>
+                    Kann die technischen Spezifikationen, die für den effizienten Betrieb eines ortsgebundenen Kommunikationsdiensts notwendig sind, definieren.
+                </knowledge>
+                <knowledge>
+                    Kennt die Eigenschaften und Funktionsweise der gängigsten auf TCP/IP basierenden Kommunikationsprotokolle, wie z.B. Fax over IP (T.37/38), VoIP, SMTP, POP3, IMAP, FTP, SSH, HTTP/S, etc.
+                </knowledge>
+                <knowledge>
+                    Kann erläutern, welchen Einfluss QoS (Quality of Service) für den ordnungsgemässen Betrieb eines Kommunikationsdienstes hat.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Komponenten und Voraussetzungen, die es für den Betrieb einer VoIP‐Lösung braucht, wie z.B. Soft‐ und Hardphones, Codecs (z.B. GSM, G.711, G.722, G.723, G.729), Gateway, Gatekeeper, SIP, RTP, SRTP, H.323, POTS, PBX, PSTN, MOS (Mean Opinion Score).
+                </knowledge>
+                <knowledge>
+                    Kennt die Eigenschaften und Einsatzmöglichkeiten einer Unified‐Communication‐basierten Lösung in Zusammenhang mit dem Einsatz des gewählten Kommunikationsdienstes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert die Datenbestände, die bei der Ablösung eines Kommunikationsdienstes durch den neuen Kommunikationsdienst wieder zur Verfügung stehen müssen.
+            <knowledge-list>
+                <knowledge>
+                    Kann ein technisches Lösungskonzept erstellen und dieses aussagekräftig zu dokumentieren.
+                </knowledge>
+                <knowledge>
+                    Kennt die notwendigen Methoden‐ um ein technisches Lösungskonzept systematisch und anforderungsgerecht umzusetzen.
+                </knowledge>
+                <knowledge>
+                    Kann erläutern, anhand welcher Kriterien es sinnvoll ist, einen Kommunikationsdienst von extern zu beziehen (Hosting Lösung), anstatt diesen mit eigenen Mitteln aufzubauen und zu betreiben.
+                </knowledge>
+                <knowledge>
+                    Kann die Abhängigkeiten von neuen und bereits vorhandenen Kommunikationsdiensten erkennen und weiss, wie diese bei der Implementation einer neuen Lösung zu berücksichtigen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Migriert die benötigten Datenbestände und stellt sicher, dass diese unter dem neuen Kommunikationsdienst genutzt werden können.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Relevanz bestehender Datenbestände im Hinblick auf den Betrieb eines Kommunikationsdienstes beurteilen.
+                </knowledge>
+                <knowledge>
+                    Weiss, auf welche Weise bestehende Datenbestände (z.B. Adressdaten), die für den Betrieb eines Kommunikationsdienstes benötigt werden, mit technischen Mitteln, wie z.B. LDAP zur Verfügung zu stellen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementiert geeignete und sichere Kommunikationslösungen für den externen Zugriff von Benutzer/innen auf das Firmennetzwerk respektive für die Anbindung unterschiedlicher Standorte an das Firmennetzwerk.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die im Markt gängigsten Verbindungsmöglichkeiten für Kommunikationsdienste und deren spezifische Eigenschaften, wie z.B. DSL, CATV, ISDN, Glasfaser, Mietleitungen, etc.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Übertragungsprotokolle respektive Zugriffs‐/Kopplungslösungen, die sich für den externen Zugriff auf ein Firmennetzwerk respektive zur Koppelung verschiedener Netzwerke (LANs) eignen, z.B. RDP, SSH, ICA, X11, NX No Machine, VNC, Remote Frame Buffer RFB, etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt aufgrund der Anforderungen der Fachabteilung und des technischen Konzepts ein Betriebskonzept für den Kommunikationsdienst.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein standardisiertes Vorgehen für die Definition einer Dienstleistungsvereinbarung (Service Level Agreement, SLA) zwischen Leistungserbringer und Leistungsempfänger.
+                </knowledge>
+                <knowledge>
+                    Kennt die notwendigen Inhalte und Aussagen eines Betriebskonzepts für einen technischen Kommunikationsdienst.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

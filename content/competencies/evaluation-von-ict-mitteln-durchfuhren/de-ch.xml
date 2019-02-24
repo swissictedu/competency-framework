@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>262</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=262%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Evaluation von ICT-Mitteln durchführen</title>
+    <capability>Für einen Kunden die Evaluation von ICT-Benutzer-Endgeräten durchführen und Lösungsvarianten Adressanten gerecht unterbreiten.</capability>
+    <goals>
+        <goal>
+            Kundenanforderungen, Situation und Probleme aufnehmen und die Bedürfnisse darlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Erhebungstechniken (z.B. Brainstorming, 6-3-5-Methode, Fragebogen, Interview) zum Aufnehmen der Kundenanforderungen für ICT-Benutzer-Endgeräten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen (an die Infrastruktur und auch an die Benutzer) für die Nutzung der ICT-Benutzer-Endgeräten.
+                </knowledge>
+                <knowledge>
+                    Kennt den Inhalt eines Lastenhefts, eines Pflichtenhefts, eines Anforderungs- oder eines Kriterienkatalogs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Relevante Daten zur Gegenüberstellung von Lösungsvarianten klassifizieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Informationsquellen zur Beschaffung von relevanten Daten.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten und das Vorgehen um detaillierte Informationen zu ICT-Benutzer-Endgeräten (Technische Daten, Anbieter und Preise) zusammenzutragen und für einen Vergleich zusammenzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten sich eine Übersicht über den Markt für die angeforderten ICT-Benutzer-Endgeräten zu verschaffen und sie bezüglich Preis, Anbieter, technischen Voraussetzungen und Wirkung für die Benutzung zu klassifizieren und einzuordnen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beschaffungsrelevante Daten gegenüberstellen, bewerten und daraus die Vor- und Nachteile verschiedener Lösungsvarianten aus wirtschaftlicher, ökologischer und technischer Sicht ableiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische, wirtschaftliche und ökologische Kriterien zur Gegenüberstellung von Lösungsvarianten.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden (z.B. Nutzwertanalyse, Kosten-Nutzen-Analyse) um Lösungsvarianten zu bewerten.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten Vor- und Nachteile darzustellen und entsprechend begründen, argumentieren und vertreten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entscheidungsgrundlagen zusammenstellen und situationsgerecht in mündlicher oder schriftlicher Form vor dem Kunden vertreten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Techniken und Möglichkeiten um die erarbeiteten Grundlagen zur Entscheidungsfindung zielgruppengerecht zu darzulegen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen für einen verbindlichen Entscheid.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Administrative Beschaffungsprozesse unterstützen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt mögliche administrative Prozesse der Beschaffung mit den Rollen, Aufgaben und Verantwortungen.
+                </knowledge>
+                <knowledge>
+                    Kennt die beschaffungsnotwendigen Informationen und Bedingungen (Verfügbarkeiten, Beschaffungskosten.)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

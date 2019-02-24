@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>204</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=204%26clang=it</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Définir une architecture de systèmes</title>
+    <capability>Analizzare le architetture di sistema esistenti e valutarle in funzione degli obiettivi (strategia IT). Sviluppare l’architettura di sistema prevista e definire le varianti di realizzazione. Pianificare la migrazione e la realizzazione e condurre alla decisione.</capability>
+    <goals>
+        <goal>
+            Sviluppare e descrivere l’architettura di sistema di riferimento, partendo dall’architettura di sistema esistente e dagli obiettivi IT, considerando inoltre le tecnologie IT preferite. A questo scopo considerare le architetture di riferimento dei diversi ambiti sistemistici.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere gli elementi di un’architettura di sistema; saper indicare quali vantaggi comporterà, a medio termine, la determinazione di un’architettura di sistema, nello sviluppo IT di un’azienda.
+                </knowledge>
+                <knowledge>
+                    Conoscere le architetture di riferimento dei diversi ambiti sistemistici e saperne spiegare l’importanza con riferimento alle tendenze, rispettivamente agli sviluppi della tecnologia.
+                </knowledge>
+                <knowledge>
+                    Conoscere metodi e modi di procedere per il rilevamento delle esigenze dei clienti e saper spiegare in base a quali presupposti e condizioni quadro essi vengono applicati.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Individuare le varianti e le fasi di realizzazione per l’architettura del sistema prevista, considerando inoltre l’architettura della rete e delle applicazioni.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le caratteristiche dell’architettura della rete e delle applicazioni; saper spiegare come queste caratteristiche devono essere considerate per la definizione di un’architettura di sistema.
+                </knowledge>
+                <knowledge>
+                    Conoscere i modi di procedere per lo sviluppo di varianti di soluzione; saper spiegare in base a quali condizioni quadro questi modi di procedere possono contribuire ad una valutazione e scelta ampiamente supportata.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Valutare le varianti di realizzazione proposte, considerando inoltre gli effetti sulla redditività, sul processo di sviluppo software, sui metodi, sugli strumenti e sul personale richiesti. Condurre alla scelta di una variante di realizzazione.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i procedimenti di calcolo degli investimenti e saper spiegare per quali tipi di progetti d’investimento vengono applicati.
+                </knowledge>
+                <knowledge>
+                    Conoscere i metodi e i procedimenti per la valutazione delle varianti di soluzione e saper indicare, con esempi appropriati, in quale modo essi influiscono su una decisione.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Accertare lo stato delle applicazioni strategiche e le rispettive prospettive nel loro “ciclo di vita” e dedurre i requisiti per la pianificazione della migrazione. Elaborare la pianificazione della migrazione in base alla variante di realizzazione scelta.
+            <knowledge-list>
+                <knowledge>
+                    Saper spiegare il significato del ruolo di un’applicazione strategica nel ciclo di vita al momento della migrazione verso una nuova architettura di sistema.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dedurre, dalla pianificazione della migrazione, i fattori critici di successo per la realizzazione da pianificare. Individuare provvedimenti, responsabilità e strumenti di controllo per la realizzazione; preparare l’istanza del progetto pronta per la decisione.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i fattori critici di successo durante la migrazione verso una nuova architettura di sistema e saper indicare in base a quali condizioni quadro questi devono essere rispettati nella pianificazione della migrazione.
+                </knowledge>
+                <knowledge>
+                    Conoscere gli aspetti principali che devono essere considerati in un’organizzazione, per una decisione riguardante la migrazione di un’architettura di sistema; saper spiegare quali effetti ne derivano per quanto riguarda i fabbisogni di risorse.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

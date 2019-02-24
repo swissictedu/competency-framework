@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>186</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=186%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Softwaresysteme in die Produktion übernehmen</title>
+    <capability>Technische und organisatorische Massnahmen planen und ausarbeiten für die Einführung von Software bzw. von Releases (Ressourcen, Migration, Schnittstellen, Integration); Übergabe in den operativen Betrieb.</capability>
+    <goals>
+        <goal>
+            Organisatorische und technische Spezifikationen der zu übernehmenden Software, produktive Zielumgebung und Benutzerumgebung analysieren und Einführungsplanung erarbeiten (Ergebnisse, Termine, Verantwortungen, Aufwand, Ressourcen).
+            <knowledge-list>
+                <knowledge>
+                    Kennt organisatorische und technische Spezifikationen einer Software, die für die Einführungsplanung relevant sind und kann aufzeigen, wie diese bei der Übernahme in den operativen Betrieb berücksichtigt werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testdaten bestimmen und erzeugen, Datenmigration, Client-Migration und Abnahmetest vorbereiten, und Zeitfenster für Abnahmetest und Übergabe in den operativen Betrieb festlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Verfahren zur Erzeugung von Testdaten und kann darlegen, für welche Art von Testfällen oder Prüfobjekten sich diese eignen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Aspekte, die bei der Migration auf eine neue Software bzw. auf einen neuen Release zu beachten sind und kann darlegen, welchen negativen Folgen man damit vorbeugt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schulungsmassnahmen planen, vorbereiten und überwachen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien zur Abklärung des Schulungsbedarfs, die bei der Migration auf eine neue Software bzw. auf einen neuen Release von Bedeutung sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Software auf einem Abnahmesystem installieren, Testumgebung einrichten, und Abnahmetests durchführen und protokollieren.
+            <knowledge-list>
+                <knowledge>
+                    Kann erläutern, warum Softwaretests und -Abnahmen idealerweise in einer Testumgebung durchzuführen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Inhalt eines Testprotokolls und kann dessen Bedeutung für die Qualitätssicherung erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Checkpoints, Datensicherungs- und Datenschutzvorkehren nach Vorgaben planen und realisieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung von Checkpoints, Datensicherungs- und Datenschutzvorkehrungen bei der Einführung neuer Software in die Produktion und kann deren Stellenwert für die Sicherheit des Unternehmens darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rückkehrprozeduren für den Fehlerfall vorbereiten und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Voraussetzungen, die bei einer Softwaremigration für die Wiederherstellung der Ursprungssituation im Fehlerfall zu treffen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Betriebs- und Wartungsdokumentationen ergänzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Dokumentationsarten die für Wartung und Betrieb von Software von Bedeutung sind und kann beispielhaft aufzeigen, wie diese im Fehlerfall genutzt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Migrationen gemäss Einführungs- und Abnahmeplanung organisieren, durchführen und überwachen. Software in den operativen Betrieb übergeben und Übergabeprotokoll erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Verfahren zur Abnahme und Betriebsübergabe von Software.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

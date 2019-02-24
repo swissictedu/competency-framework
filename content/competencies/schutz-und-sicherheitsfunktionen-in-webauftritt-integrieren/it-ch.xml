@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>173</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=173%26clang=it</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Protéger et sécuriser les sites et les applications WEB</title>
+    <capability>In un sito Web integrare provvedimenti di protezione e sicurezza dati, per dati personali e aziendali.</capability>
+    <goals>
+        <goal>
+            In un sito Web analizzare le informazioni da elaborare in funzione della loro protezione e classificarle in base ad aspetti di riservatezza, disponibilità, integrità e obbligatorietà.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere gli obiettivi di protezione per le informazioni che derivano dalle esigenze di carattere legale e aziendale; saper spiegare quali rischi vengono controllati con il loro adempimento.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analizzare sequenze di processi d’impiego del Web da e verso una base dati, scoprire lacune di protezione e di sicurezza e documentarle.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le più frequenti lacune, in termini di sicurezza, per i dati e le informazioni in un’applicazione Internet e saper mostrare in quale modo dati ed informazioni vengono messi in pericolo.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identificare siti Web e dati aziendali che, mediante transazioni, sono potenzialmente esposti ai rischi.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le più frequenti lacune, in termini di sicurezza, per i dati e le informazioni in un’applicazione Internet e saper mostrare in quale modo dati ed informazioni vengono messi in pericolo.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire il profilo d’uso degli utenti con tool appropriati e creare classi d’utenti standardizzate.
+            <knowledge-list>
+                <knowledge>
+                    Saper indicare punti di vista per la creazione di profili d’uso, rispettivamente classi d’utenti, per un sito Web e spiegare il loro significato per un’operatività sicura ed efficiente di un sito Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Proporre appropriati provvedimenti per la protezione del collegamento e dell’accesso (login, password, autenticazione, autorizzazione, certificati, ID della sessione, cifratura, ecc.).
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i procedimenti per la protezione del collegamento e dell’accesso ad un sito Internet; saper spiegare per quali potenziali pericoli questi procedimenti sono ragionevolmente impiegati.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            In base ai fabbisogni garantire la protezione delle informazioni sulla rete con opportuni provvedimenti (VPN, SSL, ecc.).
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i procedimenti per proteggere le connessioni di comunicazione contro la visualizzazione non autorizzata delle informazioni e la loro manipolazione; saper spiegare per quali potenziali pericoli questi procedimenti sono ragionevolmente impiegati.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Riunire obiettivi di protezione, sequenze di processi, dati aziendali potenzialmente a rischio e provvedimenti di protezione previsti e sviluppare un concetto di sicurezza con riferimento al Web.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere il modo di procedere sistematico per risolvere un problema; saper indicare quale contributo, alla soluzione del problema, portano le singole fasi di questo procedimento.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Presentare il concetto e farlo autorizzare.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le regole che devono essere rispettate nella preparazione di una strutturazione del contenuto; saper spiegare come il rispetto di queste regole contribuisca alla chiarezza e alla forza espressiva.
+                </knowledge>
+                <knowledge>
+                    Saper descrivere metodi e tecniche per condurre, all’interno di una commissione, ad una decisione e saper spiegare, usando degli esempi, in quali situazioni possono essere applicati.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verificare i provvedimenti presi mediante uno scenario di test e preparare il protocollo del test.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere gli aspetti tecnici, nell’ambito della sicurezza, che devono essere considerati nella migrazione e nell’integrazione di una soluzione e saper spiegare quale importanza assumono questi aspetti durante l’implementazione di un sito Internet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Descrivere le direttive di comportamento e i provvedimenti di motivazione per l’incoraggiamento di una cultura della sicurezza.
+            <knowledge-list>
+                <knowledge>
+                    Saper spiegare gli effetti che hanno i comportamenti tipici di persone o di gruppi sulla cultura della sicurezza in un’azienda.
+                </knowledge>
+                <knowledge>
+                    Saper descrivere le premesse ed i provvedimenti più importanti da applicare nella conduzione dei collaboratori, che conducano i collaboratori ad essere disposti ad assumersi responsabilità.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

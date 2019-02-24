@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>422</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=422%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Identifier les potentiels d’optimisation et réaliser les solutions</title>
+    <capability>Interroger en permanence les processus et l´organisation, reconnaître les potentiels d’optimisation et mettre en oeuvre des mesures d´amélioration.</capability>
+    <goals>
+        <goal>
+            Déterminer l’inventaire des processus existants et de l´organisation au sein du champ d’application.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des moyens pour visualiser des tâches ou des mandats d’une organisation, tels que par des organigrammes ou des graphiques de processus.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes manières possibles d´organisation de l’entreprise, et les compétences des différentes fonctions, telles qu’état‐major, les fonctions de soutien, etc.
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages et les inconvénients de l´alignement d´une entreprise sur les processus de flux de travail ainsi que les bases de la gestion des processus.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser des processus et l´organisation sur la base des objectifs du processus.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des aspects importants de la conception du processus, en particulier l´importance de la minimisation des interfaces comme sources d´erreur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les chiffres clés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le sens et l´importance des chiffres clés comme base pour des révisions et des améliorations, et pouvoir les classer par pertinence.
+                </knowledge>
+                <knowledge>
+                    Connaître le sens et la mise en oeuvre de contrôles pour le pilotage des processus d’entreprise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et vérifier les buts visés et en tirer, au besoin, les champs d´actions nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des outils d’analyse (par exemple, état actuel – état visé) pour pouvoir être en mesure de peser où une action est nécessaire.
+                </knowledge>
+                <knowledge>
+                    Pouvoir définir les caractéristiques de qualité en termes mesurables.
+                </knowledge>
+                <knowledge>
+                    Connaître la systématique de l’analyse de la valeur ajoutée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les mesures et procédures visant à optimiser les processus d’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des éléments de la gestion de réduction des pertes liées au processus d’optimisation.
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs clés de succès d´une organisation et pouvoir les démontrer.
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs d’influence de différentes formes d´organisation sur le déroulement des processus.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en oeuvre de nouveaux champs d’actions dans l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les bases de la gestion organisationnelle en ce qui concerne le travail principal ou la mission.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes pour expliquer le succès d´une organisation en utilisant le moins de paramètres.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Contrôler la sortie générée en termes d´objectif et prendre, si nécessaire , des mesures correctives.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l´importance des tâches de contrôle dans une entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître des instruments de contrôle afin de prendre des mesures d´amélioration telles que le processus d´amélioration continue / cercle de Deming.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

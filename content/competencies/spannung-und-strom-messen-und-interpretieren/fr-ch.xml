@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>316</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=316%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mesurer et interpréter des tensions, des courants</title>
+    <capability>Mesurer des tensions et des courants sur des composants, appareils électriques ou électroniques. Interpréter les résultats mesurés.</capability>
+    <goals>
+        <goal>
+            Distinguer les principales sources d´énergie et calculer les coûts pour l´énergie consommée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître diverses sources d´énergie (pile sèche, accumulateur, source de tension alternative, etc.) et interpréter leurs caractéristiques principales.
+                </knowledge>
+                <knowledge>
+                    Calculer des circuits composés d´une source, d´un conducteur et d´un consommateur.
+                </knowledge>
+                <knowledge>
+                    Appliquer les formules pour la puissance et l´énergie consommée. Interpréter les indications de puissance sur les consommateurs et en déduire les coûts d´utilisation.
+                </knowledge>
+                <knowledge>
+                    Respecter les directives et prescriptions en matière d´élimination de composants électriques ou électroniques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Reconnaître les dangers du courant électrique dans des situations privées et dans l´environnement professionnel. Mettre en oeuvre les mesures de protection des personnes et des composants/appareils.
+            <knowledge-list>
+                <knowledge>
+                    Connaître et citer les dangers de l´électricité, quels sont leurs effets sur le corps humain (IEC 479) et quelles mesures doivent être mises en oeuvre pour la protection des personnes (FI, mise à terre, etc.)
+                </knowledge>
+                <knowledge>
+                    Citer les mesures de protection des composants et circuits électroniques contre les dégâts causés par les décharges électrostatiques du corps humain.
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures de premier secours en cas d´accident du à l´électricité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Distinguer entre la transmission de l´énergie électrique et la transmission des signaux sur des connecteurs ou des câbles, choisir les formats appropriés.
+            <knowledge-list>
+                <knowledge>
+                    Nommer les exigences pour les liaisons et transmission de l´énergie électrique (diamètre du conducteur, isolation, distance entre conducteurs, etc.)
+                </knowledge>
+                <knowledge>
+                    Nommer les types de câbles et de connecteurs pour la transmission des signaux (Blindage, coaxial, paire torsadée, etc.)
+                </knowledge>
+                <knowledge>
+                    Nommer des formes mixtes pour la transmission simultanée des signaux et de l´énergie électrique (par ex. USB)
+                </knowledge>
+                <knowledge>
+                    Tester la conduction d´un câble de transmission et en déduire l´ordre des connexions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier à l´aide de la documentation des composants, des ensembles de composants et des interfaces.
+            <knowledge-list>
+                <knowledge>
+                    Distinguer le comportement de base d´éléments électriques ou électroniques tels que commutateurs, résistances, transistors, condensateurs, bobines, diodes (LED) etc.
+                </knowledge>
+                <knowledge>
+                    Identifier, sur la base du schéma, les composants et connexions sur un circuit simple.
+                </knowledge>
+                <knowledge>
+                    Connaître le comportement fondamental des tensions et courants sur des circuits simples sur la base des lois de Kirchhoff.
+                </knowledge>
+                <knowledge>
+                    Représenter et lire des schémas électriques simples, et expliquer leurs fonctions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mesurer des tensions et des courants sur des composants, sur des connexions, et ainsi vérifier les fonctions.
+            <knowledge-list>
+                <knowledge>
+                    Mettre en oeuvre correctement un instrument de mesure (multimètre).
+                </knowledge>
+                <knowledge>
+                    Exécuter des mesures sur des appareils à basse tension et en vérifier les résultats par le calcul.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

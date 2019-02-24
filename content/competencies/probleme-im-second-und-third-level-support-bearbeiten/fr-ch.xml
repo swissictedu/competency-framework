@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>137</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=137%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Prendre en charge l&amp;#039;assistance en deuxi&amp;egrave;me et troisi&amp;egrave;me instance</title>
+    <capability>Analyser les problèmes transmis à l’assistance en 2e et 3e instance, élaborer respectivement proposer une solution, implémenter la solution et la documenter dans le Trouble Ticket System ou transmettre plus haut selon prescriptions.</capability>
+    <goals>
+        <goal>
+            Au moyen de la liste de contrôle, constater les aspects de sécurité et de risque des problèmes transmis par le 1er et/ou 2e niveau d’assistance et intégrer dans la poursuite du traitement. Analyser le problème et collecter toutes les informations et tous les documents nécessaires à la découverte de solution. Consulter le Trouble Ticket System.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des procédures et des techniques pour cerner et classifier des états d´erreurs et peut préciser, avec quels moyens celles-ci sont transposées en listes de contrôle.
+                </knowledge>
+                <knowledge>
+                    Connaît les fonctions fondamentales d´un Trouble Ticket System et peut décrire, quelles contributions celles-ci apportent à un traitement efficace et effectif des erreurs.
+                </knowledge>
+                <knowledge>
+                    Connaît les catégories d’informations qui sont importantes lors du traitement d´un Trouble Ticket et peut décrire, quelles contributions celles-ci apportent à un traitement efficace et effectif des erreurs
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Limiter le problème de façon autonome ou à une équipe de spécialistes, exploiter les constatations et élaborer une solution, au besoin passer au niveau supérieur.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des règles de comportement personnelles pour un traitement efficace et effectif des données du problème au sein d’un groupe et peut préciser, quelles contributions elles apportent à cet égard.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer ou mettre à jour le protocole de solutions concernant la réparation du dérangement/problème, et transmettre plus haut selon prescriptions les points faibles reconnus.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les informations les plus importantes pour solutionner un problème ou pour le traitement des erreurs et peut préciser, quelles contributions celles-ci apportent en ce qui concerne la reproductibilité et une clarté.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sur la base de la liste de contrôle de risques, transmettre plus haut les processus/applications hautement priorisés avec des problèmes/dérangements non directement solubles.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les étapes fondamentales avec la transmission des problèmes critiques et peut préciser, quelle importance ont les procédures de transmission pour un fonctionnement sûr des systèmes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Collecter des informations complémentaires nécessaires chez les fournisseurs (matériel et logiciel) et, le cas échéant, documenter les modifications ou développements techniques.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les différentes sortes de documentations des fabricants et peut préciser, pour quelles catégories de problèmes celles-ci offrent une aide.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>127</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=127%26clang=it</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assicurare la funzionalit&amp;agrave; dei server</title>
+    <capability>Gestire un server nell'ambiente esistente e sorvegliare le prestazioni, la disponibilità e la sicurezza del sistema.</capability>
+    <goals>
+        <goal>
+            Ambientarsi nel sistema esistente con l'aiuto della documentazione operativa.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Inhalt, Aufbau und die Anwendung einer Betriebsdokumentation.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung einer vollständigen und nachgeführten Betriebsdokumentation für das Sicherstellen der Wartbarkeit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Aggiornare la documentazione operativa con le modifiche al concetto di accesso e diritti e amministrare gli utenti.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten eines Betriebssystems, Zugriffsberechtigungen auf Ressourcen festzulegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Utilizzare i tool d'aiuto a disposizione per la sorveglianza dei sistemi e la funzionalità dei server.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die im Betriebssystem integrierten Hilfsmittel zur Systemüberwachung und wendet diese an.
+                </knowledge>
+                <knowledge>
+                    Kennt ein weiteres Hilfsmittel zur Systemüberwachung und Auswertung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Aufgaben, die bei der Administration von Servern anhand der Auswertung der Systemüberwachung (z.B. Reorganisation der Filestruktur) erforderlich sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installare e testare aggiornamenti e patch secondo specifiche e aggiornare la documentazione operativa.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen für die Integration von Updates, Patches und Workarounds.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eliminare i difetti hardware ed eseguire la sostituzione hardware secondo specifiche e aggiornare la documentazione operativa.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das korrekte Vorgehen für Hardwareersatz und Hardwareausbau.
+                </knowledge>
+                <knowledge>
+                    Kennt die typischen Störungen von Hardwarekomponenten (z.B. RAM, HD, USV, Netzteil, Lüfter).
+                </knowledge>
+                <knowledge>
+                    Kennt die RAID Technologie zur redundanten Speicherung der Daten auf verschieden Festplatten zur Steigerung der Sicherheit und Performance.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>303</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=303%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Programmer dans un cadre prescrit (basé objets)</title>
+    <capability>Interpréter la donnée, implémenter, documenter et tester celle-ci à l´aide d´un langage de programmation RAD (Rapid Application Development).</capability>
+    <goals>
+        <goal>
+            Interpréter la donnée.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des possibilités de représentation de traitements orientés événements (par ex. diagramme d´état) et peut expliquer au moyen d´exemples les états de fait qu´elles permettent de reproduire.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer une interface graphique utilisateur simple.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales règles à respecter lors de la création d´une interface utilisateur (respecter la suite des événements, définir les événements et leurs états avec précision, dénominations claires et symboles parlants) et peut expliquer comment elles garantissent son utilisation correcte.
+                </knowledge>
+                <knowledge>
+                    Connaît les principales informations (par ex. description de fonction) que doit contenir la description d´un composant et peut en expliquer l´utilité de ces informations pour le choix, respectivement l´utilisation d´un composant dans un programme.
+                </knowledge>
+                <knowledge>
+                    Connaît les composants GUI et les champs de formulaire que les langages de programmation et leurs bibliothèques contiennent pour la définition d´interfaces utilisateur et peut indiquer pour quels types d´interactions ils sont utilisés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les données nécessaires et fixer leur type.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principaux types de données (nombre entier, virgule flottante, caractère/chaîne) et peut indiquer à quels genres de données ou d´informations ils sont attribués.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter le programme orienté événements en utilisant des composants disponibles, avec leurs propriétés, méthodes, opérateurs, procédures et fonctions.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la constitution fondamentale d´un composant (propriétés, méthodes) et peut, sur la base d´exemple journalier, expliquer comment ceux-ci interviennent dans le traitement d´un événement.
+                </knowledge>
+                <knowledge>
+                    Connaît la structure fondamentale d´un programme (variables locales, variables globales, procédures événementielles, traitement, etc.) et peut l´expliquer exemplairement au travers d´un programme.
+                </knowledge>
+                <knowledge>
+                    Connaît des composants avec ses propriétés, ses méthodes et ses événements, ainsi que des opérateurs, procédures et fonctions d´un langage de programmation, et peut énoncer les traitements qu´il est possible de réaliser avec ceux-ci.
+                </knowledge>
+                <knowledge>
+                    Connaît les principales règles à respecter pour la saisie et l´affichage de données à l´écran (désignation des informations, format de saisie, etc.) et peut expliquer les problèmes qui surviennent lorsqu´elles ne sont pas respectées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Lors de la programmation, respecter les directives et prescriptions, documenter le programme dans l´éditeur en veillant à la facilité de maintenance et à la reproductibilité.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales règles à respecter pour qu´un code source soit compréhensible (noms de variable parlants, commentaires adéquats) et peut expliquer comment elles contribuent à la lisibilité des programmes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester le programme en regard de la fonctionnalité et, au besoin, détecter et corriger les erreurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les éléments des cas de tests (fonction ou traitement à tester, données de saisie résultats attendus) et peut en expliquer l´importance pour le contrôle du traitement correct des informations dans un programme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

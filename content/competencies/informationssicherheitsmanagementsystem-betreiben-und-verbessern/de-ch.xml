@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>668</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=668%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Informationssicherheitsmanagementsystem betreiben und verbessern</title>
+    <capability>Führt und steuert auf der Basis der relevanten Normen den Betrieb eines Informationssicherheitsmanagementsystems (ISMS) in einer Organisation und stellt die fortlaufende Verbesserung des Systems sicher.</capability>
+    <goals>
+        <goal>
+            Überprüft und bewertet periodisch die Sicherheitsrisiken des Risikomanagements und passt die Sicherheitsmassnahmen des ISMS bei Bedarf an.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Kriterien zur Durchführung periodischer Informationssicherheitsrisikobeurteilungen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Prozessschritte des Risikomanagements in einer Organisation (z.B. Risikoidentifikation, Risikobewertung, Risikobehandlung) und kann deren Zweck erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Risikobehandlungsplans (z.B. Sicherheitsmassnahme, Verantwortlichkeit, Termin).
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien für die Risikoakzeptanz im Kontext einer Organisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft und bewertet periodisch die Leistung und Wirksamkeit des ISMS und passt die Sicherheitsmassnahmen des ISMS oder das Kontrollsystem bei Bedarf an.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Informationssicherheitsziele einer Organisation und die Planungsgrundlagen zur Erreichung dieser Ziele.
+                </knowledge>
+                <knowledge>
+                    Kennt die Key Performance Indikatoren (KPI) einer Organisation zur Messung der Leistung und Wirksamkeit des ISMS.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Plausibilitätsprüfung und zum Vergleich von Messwerten (z.B. Plausibilitätsregeln, Soll-/Ist-Vergleich, Vorperiodenvergleich, Trendextrapolation).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant und organisiert periodische interne oder externe Audits zur Überprüfung des ISMS und stellt die Dokumentation der Ergebnisse sicher.
+            <knowledge-list>
+                <knowledge>
+                    Kennt unterschiedliche Audittypen (z.B. Systemaudit, Prozessaudit, Complianceaudit, Performanceaudit, Finanzaudit) und kann den Auditgegenstand als Unterscheidungsmerkmal erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Planung eines Audits (z.B. Häufigkeit, Methode, Umfang, Objektivität, Unparteilichkeit, Berichterstattung) und kann den Unterschied zwischen internen und externen Audits erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Audits im Zusammenhang mit der Zertifizierung eines ISMS (z.B. Voraudit, Zertifizierungsaudit, Überwachungsaudit) und kann den Auditzweck als Unterscheidungsmerkmal erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft die Einhaltung der Informationssicherheit bei Geschäftsbeziehungen mit Lieferanten und externen Dienstleistern und rapportiert die Ergebnisse gegenüber den zuständigen Stellen der Compliance.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Aspekte eines Dienstleistungsmanagementprozesses mit Lieferanten und externen Dienstleistern (z.B. Überwachung der Einhaltung vereinbarter Service Levels, Überprüfung der Service Level Reports, Durchführung von Lieferantenaudits, Kommunikation und Bereitstellung von Informationen bei Informationssicherheitsvorfällen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Untersucht bei Nichtkonformitäten die Ursachen eines Fehlers, leitet Korrekturmassnahmen ein und nimmt bei Bedarf Anpassungen beim ISMS vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt mögliche Quellen zur Erkennung von Nichtkonformitäten (z.B. Management von Informationssicherheitsvorfällen, periodische Überprüfung der Leistung und Wirksamkeit eines ISMS, Auditreports, Managementreport, periodisches Risikomanagement, kontinuierlicher Verbesserungsprozess).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Problemlösung und strukturierten Ursachenanalyse (z.B. Fehler-Ursachen-Analyse, ABC-Analyse nach Pareto, 5-Why-Methode, Ursache-Wirkungsdiagramm nach Ishikawa).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wertet relevante Informationen aus dem Betrieb des ISMS aus, bereitet die Ergebnisse aussagekräftig auf und veranlasst die periodische Bewertung des ISMS durch das Management.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die relevanten Aspekte für die periodische Managementbewertung des ISMS.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Darstellungstechniken zur Verdichtung von Informationen in einem Managementreport (z.B. Histogramm, Korrelationsdiagramm, Trendanalyse).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vertritt Haltungen und fördert Massnahmen, die kontinuierliches Lernen in einer Organisation begünstigen und unterstützen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Führungsprinzipien, die kontinuierliches Lernen und Verbessern unterstützen (z.B. Fehlerkultur, Lernfähigkeit, Partizipation, Mitsprache und Mitbestimmung).
+                </knowledge>
+                <knowledge>
+                    Kennt das Konzept des Einschleifen- und Doppelschleifenlernens in Organisationen.
+                </knowledge>
+                <knowledge>
+                    Kennt das Konzept der Lernenden Organisation (nach P.M. Senge) und kann die relevanten Disziplinen erläutern (individuelle Selbstentwicklung, Reflexion mentaler Modelle, gemeinsame Visionen, Lernen im Team und Denken in Systemen).
+                </knowledge>
+                <knowledge>
+                    Kennt Konzepte (z.B. SECI-Modell nach Nonaka und Takeuchi), Methoden (z.B. Communities of Practice, Storytelling, Lessons Learned) und Techniken (z.B. Groupware, soziale Medien, Enterprise Wiki, Expertensysteme, künstliche Intelligenz) zum Wissensmanagement in Organisationen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

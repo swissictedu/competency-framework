@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>197</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=197%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Konfigurationsmanagement-System konzipieren und implementieren</title>
+    <capability>Anforderungen an ein Konfigurationsmanagementsystem einer IT Organisation erheben und mögliche Lösungsvarianten vorschlagen. Die Grundlagen für die Auswahlentscheidung erarbeiten. Die geeignete Variante auswählen lassen und im Detail konzipieren. Deren Realisierung planen und ausführen. Die Abnahme durch den Auftraggeber sicherstellen und das realisierte System an den produktiven Betrieb übergeben.</capability>
+    <goals>
+        <goal>
+            Ausgehend von einem Projektauftrag eine geeignete Technik zur Erhebung der Anforderungen an ein Konfigurationsmanagementsystem bestimmen. Die dazu gehörigen Erhebungsinstrumente festlegen und die Erhebung in Zusammenarbeit mit den Benutzern durchführen.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Zielsetzungen des Konfigurationsmanagement aufzeigen und die Aufgaben beschreiben, welche zum Erreichen dieser Zielsetzungen beitragen.
+                </knowledge>
+                <knowledge>
+                    Kann die Erhebungs- und Informationsbeschaffungs-Techniken beschreiben, welche geeignet sind, die Anforderungen an die Benutzerfreundlichkeit an ein Konfigurationsmanagementsystem zu erhalten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Einen vollständigen und widerspruchsfreien Anforderungskatalog aus den Ergebnissen der Erhebung ableiten, auf die Konfigurationselemente abstimmen und die organisatorischen Rahmenbedingungen einhalten.
+            <knowledge-list>
+                <knowledge>
+                    Kann die grundlegenden Anforderungen an ein Konfigurationsmanagement-System aufzählen und dessen Funktionalität beschreiben, welche zur Sicherstellung dieser Anforderungen beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die möglichen Schritte, die beim Hardware-Change-Management durchlaufen werden und kann aufzeigen, welchen Beitrag die einzelnen Schritte zu einer zuverlässigen und wirkungsvollen Änderung leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die möglichen Schritte, die beim Software-Change-Management durchlaufen werden und kann aufzeigen, welchen Beitrag die einzelnen Schritte zu einer zuverlässigen und wirkungsvollen Änderung leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Umsetzbare Lösungsvarianten (Rollen, Prozesse, Werkzeuge, Methoden und organisatorische Hilfsmittel) aus dem Anforderungskatalog ableiten und die Grundlagen für die Auswahlentscheidung erarbeiten. Die Entscheidungsgrundlagen vor dem Auftraggeber präsentieren und die Auswahlentscheidung herbeiführen.
+            <knowledge-list>
+                <knowledge>
+                    Kann bei verbreiteten Entscheidungs- und Bewertungstechniken aufzeigen, in welchen Schritten diese abgewickelt werden und welche Vorkehrungen getroffen werden müssen, damit eine zuverlässige Bewertung resultiert.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die gewählte Lösungsvariante mit geeigneten Analyse- und Designtechniken in einem detaillierten Konzept beschreiben und für die Umsetzung vorbereiten.
+            <knowledge-list>
+                <knowledge>
+                    Kann bei bekannten Analyse- und Designtechniken darlegen, mit welchen Methoden diese angewendet werden und wie sie ein detailliertes Lösungskonzept darstellen können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Umsetzungsschritte aus dem Detailkonzept so planen, initialisieren, durchführen und kontrollieren, dass ein einführungsbereites Konfigurationsmanagementsystem entsteht. Zu diesem Zweck alle notwendigen Konfigurationselemente festlegen und deren Erfassung und Versionierung im System sicher stellen. Die Konfigurationselemente abgestimmt mit der aktuellen Konfigurations-Baseline zu einem lauffähigen Softwarerelease verbinden.
+            <knowledge-list>
+                <knowledge>
+                    Kann für die funktionellen Bereiche des Projektmanagements erläutern, bei welchen Rahmenbedingungen und Anforderungen diese für ein erfolgreiches Projekt von Bedeutung sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die notwendigen Schritte, die bei der Einführung eines Konfigurationsmanagement-Systems nötig sind und kann erklären, welchen Beitrag die einzelnen Schritte zu einer erfolgreichen Einführung leisten.
+                </knowledge>
+                <knowledge>
+                    Kann die Bereiche des Release-Managements aufzählen und deren Beitrag für ein erfolgreiches Versionensystem für Software beschreiben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Das Konfigurationsmanagementsystem mit dem Anforderungskatalog validieren und bei Abweichungen korrigierend eingreifen. Die Systemfreigabe beim Auftraggeber beantragen. Die notwendige Ausbildung der zukünftigen Rollenträger sicherstellen. Das freigegebene System an den produktiven Betrieb übergeben.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Grundsätze einer Benutzerausbildung nennen und darlegen, bei welchen Rahmenbedingungen sie für eine erfolgreiche Einführung relevant sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

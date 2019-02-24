@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>270</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=270%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Déterminer et appliquer les couleurs et typographies</title>
+    <capability>Déterminer les couleurs et typographies pour des produits web et/ou imprimés, les appliquer conformément au mandat et aux types de médias, et enregistrer les données en conséquence.</capability>
+    <goals>
+        <goal>
+            Réaliser des mandats de conception adaptés au groupe cible en tenant compte des principes/règles en matière de design.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments de base de la conception et savoir les utiliser en tenant compte des principes/règles en matière de design.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de conception et savoir les structurer selon une situation donnée et les principes de symétrie et d'asymétrie.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes de proportion, de rythme et de contraste, et savoir les utiliser lors de la conception.
+                </knowledge>
+                <knowledge>
+                    Connaître des aspects spécifiques au groupe cible pour concevoir, évaluer et optimiser des produits média simples conformément aux instructions.
+                </knowledge>
+                <knowledge>
+                    Connaître les habitudes de lecture et les modes de visualisation du public cible, et en tenir compte lors de la conception.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir, selon le langage visuel imposé, des polices appropriées pour les mandats de conception.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales caractéristiques d'une police pour évaluer la lisibilité.
+                </knowledge>
+                <knowledge>
+                    Connaître des critères afin de choisir une police pour des médias imprimés ou numériques en fonction du contenu et du groupe cible.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux termes techniques d'une police (famille de police, style de police, graisse, graphie, chasse).
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux termes techniques et les règles de la microtypographie, et savoir les utiliser correctement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formater des textes en tenant compte de la lisibilité, d'une hiérarchie correcte et des règles de composition usuelles.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les règles de base pour une longueur de ligne optimale ainsi que les espacements entre les lettres, les mots et l'interlignage. 
+                </knowledge>
+                <knowledge>
+                    Connaître des fonctions pour équilibrer des textes et optimiser les espacements entre les lettres et les chiffres.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour organiser et structurer des textes tels que choix de la police, orientation des caractères, emphase et corps de police adapté.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales tailles d'une police (taille de consultation, taille de lecture et taille d'affichage) pour les différentes applications.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vor- und Nachteile der unterschiedlichen Satzarten.
+                </knowledge>
+                <knowledge>
+                    Connaître les règles et les champs d'application usuels des différents types de composition.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir en fonction du mandat un format de fichier approprié pour les différents éléments.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les formats de fichiers usuels (PDF, PSD, RAW, JPEG, GIF, PNG, TIFF, INDD, IDML, AI, EPS) et leurs champs d'application dans les médias imprimés ou numériques.
+                </knowledge>
+                <knowledge>
+                    Connaître différents formats de fichiers et leurs utilisations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Créer des contrastes, des harmonies et des combinaisons de couleur pour des mandats de conception, et les utiliser de manière professionnelle dans le programme.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le cercle des douze couleurs pour utiliser les couleurs de manière conceptuelle, les classifier et les utiliser.
+                </knowledge>
+                <knowledge>
+                    Connaître les sept contrastes de la couleur selon Johannes Itten ainsi que des exemples d'une utilisation adaptée à la situation.
+                </knowledge>
+                <knowledge>
+                    Connaître des moyens pour créer et appliquer des combinaisons et des harmonies de couleur.
+                </knowledge>
+                <knowledge>
+                    Connaître des outils numériques de mélange de couleur (p. ex. Adobe Color CC) pour créer des palettes de couleurs.
+                </knowledge>
+                <knowledge>
+                    Connaître des couleurs comme éléments conceptuels et tenir compte lors de leur choix des aspects liés à la physiologie et à la psychologie des couleurs
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de groupement, de délimitation et de structuration des éléments à l'aide de couleurs.
+                </knowledge>
+                <knowledge>
+                    Connaître des fonctions pour créer, gérer et utiliser des couleurs tertiaires et des couleurs rompues conformément au programme.
+                </knowledge>
+                <knowledge>
+                    Connaître les propriétés des couleurs (teinte, saturation et luminosité).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Appliquer des modèles de couleur (RGB/CMYK) et des profils de couleur en adéquation avec le média cible.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le champ d'application du modèle de couleur additif ou soustractif. 
+                </knowledge>
+                <knowledge>
+                    Connaître les couleurs primaires et secondaires du modèle de couleur additif ou soustractif.
+                </knowledge>
+                <knowledge>
+                    Connaître les standards de couleur de l'industrie graphique et les étapes de travail pour installer et appliquer des profils de couleur.
+                </knowledge>
+                <knowledge>
+                    Connaître les tâches d'un système de gestion des couleurs dans les médias imprimés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

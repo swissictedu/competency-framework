@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>184</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=184%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Netzwerksicherheit implementieren</title>
+    <capability>Bei einem bestehenden Netzwerk einen sicheren Netzwerkzugang implementieren und den Netzwerkverkehr mit einem NIDS überwachen.</capability>
+    <goals>
+        <goal>
+            Bestehendes Netzwerk gezielt mit Hilfe der Netzwerkdokumentation und geeigneten technischen Mitteln auf Sicherheitslücken und Konfigurationsmängel untersuchen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die erforderlichen Informationen für ein Asset Management/Inventar und kann diese zur Verifizierung einer Dokumentation auf Aktualität einsetzen. Kennt die grundlegenden Elemente einer Netzwerkdokumentation.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Netzwerkkomponenten und deren Sicherheitseinstellungen.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Grundlagen für den Remote Access.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten des kontrollierten, sicheren WAN Zugangs.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Hilfsmittel zur Analyse (z.B. Portscanner, Sniffer) des Datenverkehrs im Netzwerk.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erarbeiten eines Konzepts für externe Netzzugänge, definieren von Nutzungsrichtlinien ins WAN und festlegen der Technologie für den externen Zugang ins LAN.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Standardverfahren für die Härtung von Netzwerkkomponenten (z.B. Router, Firewall, Proxy).
+                </knowledge>
+                <knowledge>
+                    Kennt technische Verfahren für einen sicheren Remote Access (z.B. Protokolle, Standards, Technologien).
+                </knowledge>
+                <knowledge>
+                    Kennt technische Verfahren für einen sicheren Datenverkehr LAN/WAN (z.B. Protokolle, Technologien, Richtlinien).
+                </knowledge>
+                <knowledge>
+                    Kennt organisatorische Massnahmen zur Definition von Nutzungsrichtlinien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Konfiguration der Sicherheitssysteme (z.B. Remote Access, Firewall, Proxy) gemäss erarbeitetem Konzept.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Sicherheitssysteme und Zugänge und deren Konfigurationsmöglichkeiten (z.B. Remote Access, Firewall, Proxy).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            NIDS nach Vorgaben installieren, konfigurieren und ins Netzwerk integrieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die technischen Möglichkeiten und die Funktionsweise eines NIDS.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Änderungen / Anpassungen bezüglich Sicherheit und Funktionsfähigkeit mit den zur Verfügung stehenden Log- und Systeminformationen sowie Informationen aus dem NIDS auf Wirksamkeit überprüfen. Falls erforderlich, Netzwerkdokumentation nachführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kriterien und Inhalte von Logfiles aus Netzwerkkomponenten und dem NIDS. Sicherheitseinstellungen und Netzkonfigurationen beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kennt Verfahren aus den Logfiles sicherheitsrelevante Informationen zu erkennen.
+                </knowledge>
+                <knowledge>
+                    Kennt aktuelle Exploits und kennt Vorgehensweisen diese in Bezug zu den gewonnenen Erkenntnissen zu setzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementierte Netzwerksicherheit überwachen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten die Informationen des NIDS im operativen Betrieb zu nutzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

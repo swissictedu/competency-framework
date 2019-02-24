@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>307</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=307%26clang=it</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Realizzare delle pagine web interattive con formulari</title>
+    <capability>Realizzare e testare delle pagine web interattive con un linguaggio di programmazione lato server, secondo la formulazione del problema.</capability>
+    <goals>
+        <goal>
+            Sviluppare la funzionalità delle pagine web interattive secondo la formulazione del problema.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i criteri secondo i quali una direttiva può essere trasferita in uno sviluppo attuabile.
+                </knowledge>
+                <knowledge>
+                    Conosce gli elementi e i protocolli di un'applicazione web, come anche i suoi compiti nel modello client/server.
+                </knowledge>
+                <knowledge>
+                    Conosce le più importanti precauzioni per garantire la sicurezza di pagine web interattive e sa spiegare come con queste si possono evitare degli abusi.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sviluppare il layout per la raccolta e la presentazione dei dati tenendo in considerazione gli aspetti ergonomici.
+            <knowledge-list>
+                <knowledge>
+                    Conosce il principio del raggruppamento di informazioni.
+                </knowledge>
+                <knowledge>
+                    Conosce le più importanti regole per l'allestimento di un formulario web per l'inserimento e la visualizzazione dei dati per quel che concerne la sequenza e la denominazioni delle informazioni.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Scegliere gli elementi appropriati dei formulari per adempiere la formulazione del problema e garantire la convalida dei dati inseriti.
+            <knowledge-list>
+                <knowledge>
+                    Conosce gli elementi di un formulario in HTML e le loro possibilità di utilizzo.
+                </knowledge>
+                <knowledge>
+                    Conosce i metodi di trasmissione dei dati di un formulario e la loro analisi in un'applicazione web.
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità lato client e lato server per la convalida dei dati inseriti attraverso un formulario e il loro contributo per evitare degli inserimenti errati e per affrontare i rischi sulla sicurezza.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmare l'applicazione in modo modulare e secondo le direttive di codifica.
+            <knowledge-list>
+                <knowledge>
+                    Conosce gli elementi base di un linguaggio di script lato client e quali funzionalità possono realizzare (ad esempio finestra Popup, convalida dei formulari, Link Automation).
+                </knowledge>
+                <knowledge>
+                    Conosce gli elementi base di un linguaggio di programmazione lato server.
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità di strutturazione del codice sorgente in moduli e il loro utilizzo rispettando le direttive di implementazione.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire ed eseguire degli appropriati casi di test per le pagine web interattive e documentarli nel protocollo di test.
+            <knowledge-list>
+                <knowledge>
+                    Conosce la struttura di una specifica di test in un'applicazione web.
+                </knowledge>
+                <knowledge>
+                    Conosce le fasi di un test (specifica, esecuzione e valutazione) che devono essere eseguite in un test.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

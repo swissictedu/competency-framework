@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>250</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=250%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Gérer un portefeuille de projets informatiques</title>
+    <capability>Initialiser, contrôler et piloter un portefeuille de projets informatiques dans un département ou une entreprise. Faire garantir la priorité des projets informatiques par les organes responsables. Informer les personnes concernées des décisions et des mesures prises. Prédéterminer, implémenter et mettre en pratique les standards, les méthodes et les outils nécessaires.</capability>
+    <goals>
+        <goal>
+            Déterminer qu’elles sont les informations (de projet) qui doivent être fournies, sous quelle forme et à quelle fréquence, par les projets/plans informatiques individuels comme base à une gestion efficace de portefeuille de projets informatiques. Définir à cet effet des standards, évaluer les méthodes et les outils adéquats, les implémenter, les communiquer et les mettre en pratique.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les objectifs qui sont recherchés avec un portefeuille de projets et peut présenter les conditions générales au niveau de l’entreprise qui parlent en faveur de l’introduction d’un portefeuille de projets.
+                </knowledge>
+                <knowledge>
+                    Peut indiquer quels sont les domaines englobés dans un portefeuille de projets et expliquer l’utilité qui découle de la gestion effective des projets dans une entreprise.
+                </knowledge>
+                <knowledge>
+                    Peut présenter les informations de projets et d’entreprise nécessaires à la construction d’un portefeuille de projets et peut expliquer quelles sont les principes de décision que celles-ci fournissent dans le cadre d’un portefeuille de projets.
+                </knowledge>
+                <knowledge>
+                    Connaît les méthodes qui sont utilisées dans le cadre du portefeuille de projets pour le traitement des informations resp. pour la préparation des éléments de décision et peut expliquer leur utilité pour un portefeuille effectif de projets.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            S’assurer que les informations nécessaires correspondent aux indications préalables en termes de qualité et de délais et qu’elles soient disponibles en quantité voulue. Faire apporter les éventuelles corrections par les fournisseurs (chefs de projets informatiques).</goal>
+        <goal>
+            Evaluer les informations de projet contrôlées et documenter les interdépendances et les recoupements de ressources (frais, personnel, limites du système).
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principes qui doivent être pris en compte pour éviter les conflits de ressources dans la planification de projets et peut expliquer à l’aide d’exemples issus de la pratique la manière dont ceux-ci contribuent à une planification réaliste.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les priorités des projets informatiques en collaboration avec les départements responsables de telle sorte que la stratégie du département ou de l’entreprise ainsi que les informations récentes soient prises en compte dans leur intégralité. Préparer et faire adopter à cet effet les décisions requises
+            <knowledge-list>
+                <knowledge>
+                    Peut citer les techniques ou les règles de communication de préparation des décisions et peut expliquer leur contribution à la compréhension et à l’acceptation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer resp. mettre à jour le portefeuille de projets de telle sorte que les changements et leurs effets puissent être identifiés et les mesures correspondantes prises.</goal>
+        <goal>
+            Informer dans les délais les personnes concernées et la direction sur l’ensemble des décisions et des mesures prises.
+            <knowledge-list>
+                <knowledge>
+                    Peut esquisser les formes de communication destinées à l’explicitation des décisions et à leurs conséquences et peut décrire la manière dont celles-ci accroissent la compréhension et l’acceptation auprès des mandataires.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

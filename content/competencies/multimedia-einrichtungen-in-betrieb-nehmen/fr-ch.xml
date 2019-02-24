@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>115</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=115%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettre en oeuvre des équipements multimédias</title>
+    <capability>Installer, configurer, tester et mettre en service des installations (matérielles et logicielles) multimédias.</capability>
+    <goals>
+        <goal>
+            Installer et configurer des appareils multimédias (par ex. caméra, beamer, afficheur, ensemble microphone-écouteurs, système à haut-parleurs.)
+            <knowledge-list>
+                <knowledge>
+                    Peut mettre en service des équipements multimédia à l´aide des modes d´emploi et les configurer conformément aux exigences.
+                </knowledge>
+                <knowledge>
+                    Connaît des interfaces et composants logiciels disponibles sur un PC pour la mise en service d´équipements multimédias, peut préciser comment ils servent ces équipements multimédias.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser des solutions de transmission et de traitement de données audio et vidéo.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des techniques de digitalisation ainsi que de compression d´informations audio et vidéo, peut expliquer quelles sont les conditions préalables nécessaires pour leur exploitation avec un PC.
+                </knowledge>
+                <knowledge>
+                    Connaît les procédures principales pour la digitalisation de signaux analogiques et peut décrire les facteurs qui influencent la qualité lors de la digitalisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester l´installation, la configuration et documenter le tout.
+            <knowledge-list>
+                <knowledge>
+                    Connaît une procédure systématique pour la vérification des capacités fonctionnelles d´équipements multimédias et peut décrire pourquoi celle-ci se prête en particulier dans ce cas à la découverte d´erreurs ou de perturbations.
+                </knowledge>
+                <knowledge>
+                    Peut document judicieusement l´installation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Servir les appareils multimédia et leurs logiciels spécifiques.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les options d´exploitation matérielles et logicielles possibles pour les équipements multimédias, peut décrire comment par le choix d´options adéquates l´installation multimédia peut être optimisée.
+                </knowledge>
+                <knowledge>
+                    Connaît des logiciels de traitements d´images, de sons et de vidéo, peut décrire par des exemples comment le matériel de sortie est modifié ou enrichi d´effets spéciaux.
+                </knowledge>
+                <knowledge>
+                    Connaît la signification des modes d´emploi et peut décrire comment ceux-ci permettent à une personne non formée de servir de façon sûr et simple l´équipement multimédia.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Expliquer au client l´ensemble, les fonctions et la mise en oeuvre concrète des appareils multimédias.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les domaines d´application d´équipements multimédias analogiques et numériques, peut expliquer dans quelles situations leur mise en application est appropriée (caméra, beamer, afficheur, carte sons, cartes TV, logiciels audio et vidéo, etc.)
+                </knowledge>
+                <knowledge>
+                    Connaît la constitution et les fonctions d´appareils multimédias, peut les expliquer à l´aide d´exemples simples.
+                </knowledge>
+                <knowledge>
+                    Peut transmettre de façon compréhensible à l´aide des modes d´emploi et au travers de démonstrations par étapes successives, l´usage des équipements multimédias pour des personnes non formées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

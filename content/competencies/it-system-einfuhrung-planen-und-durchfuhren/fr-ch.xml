@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>157</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=157%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>IT-System-Einführung planen und durchführen</title>
+    <capability>Ablösung bzw. Erstinstallation eines IT-Systems (Server, Einzelplatz-Computer, Betriebssysteme und Applikationen) gemäss Auftrag, planen, initialisieren und durchführen.</capability>
+    <goals>
+        <goal>
+            Eigenschaften eines IT-Systems einordnen und dessen betriebswirtschaftlichen Nutzen und Auswirkungen abschätzen
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen zur Spezifikation einer Hardwareplattform (z.B. Server, Netzwerkkomponenten, Einzelplatz-Computer) und der dazugehörenden Betriebssysteme.
+                </knowledge>
+                <knowledge>
+                    Kennt die Aspekte, die bei der Migration auf eine neue Hardwareplattform zu beachten sind.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Verfahren zur konzeptionellen Darstellung eines IT Systems.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kundenanforderungen, Geschäftsprozesse, Anwendungen, Netzwerk- und Plattformstrategie erkennen und beschreiben 
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Genehmigungsverfahren bei der Bearbeitung von Aufträgen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden Anforderungen eines Kunden aufzunehmen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden Anforderungen zu dokumentieren.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Notation um Geschäftsprozesse festzuhalten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vorgehen planen: Rahmenbindungen, Termine, und erforderliche Ressourcen bestimmen
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines vollständigen Arbeitsauftrags (z.B. Zielsetzungen, Rahmenbedingungen, Termine, Ressourcen, Skills).
+                </knowledge>
+                <knowledge>
+                    Kennt die Schritte des Evaluationsprozesses bei der Beschaffung von Hardware und Software.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Rahmenbedingungen, die hinsichtlich der zeitlichen Machbarkeit eines Auftrages zu berücksichtigen sind (z.B. Anzahl Mitarbeitende, Verfügbarkeit der Mitarbeitenden, Anzahl Arbeitstage bis zum Endtermin, Verfügbarkeit der notwendigen Sachmittel).
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Rahmenbedingungen, die hinsichtlich der inhaltlichen Machbarkeit eines Auftrages zu berücksichtigen sind (z.B. Kompetenzen der Projektmitarbeiter, technologische und betriebswirtschaftliche Voraussetzungen).
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Inhalt einer Planung.
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Inhalt einer Rollout Planung (z.B. Ausgangs- und Zielsystem, Zeitplanung, örtliche Gegebenheiten, Migration, Beteiligte, Schulung, Support).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vorgaben für den Nachweis der Funktionalität und Sicherheit (z.B. Rollbackverfahren, Datensicherheit, Anforderungen an die Verfügbarkeit) ausarbeiten
+            <knowledge-list>
+                <knowledge>
+                    Kennt Testverfahren für den Nachweis der Funktionalität und Sicherheit.
+                </knowledge>
+                <knowledge>
+                    Kennt die Notwendigkeit von Integrationstests in einer realen oder virtuellen Testumgebung und deren Bedeutung für die Risikominimierung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testinstallation aufbauen, Funktionalität und Sicherheit testen. Plattformsoftware und Datenmigration erproben und Abnahmetests mit dem Auftraggeber durchführen
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorgehensweise für die Planung und Durchführung einer Pilotinstallation.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Verfahren um den personellen und materiellen Ressourcenbedarf für den Rollout auf der Basis einer Pilotinstallation zu ermitteln.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgaben für die Durchführung und Dokumentation eines Abnahmetests.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Methoden für die Inbetriebnahme kennen und anwenden, Rollout planen und durchführen, Termine festlegen und genehmigen lassen
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorkehrungen zur Sicherstellung eines Rollback Verfahrens, welche vor dem Start des Roll out getroffen werden müssen.
+                </knowledge>
+                <knowledge>
+                     Kennt die begleitenden Massnahmen für den Rollout sowie Aufbau und Inhalt der entsprechenden Dokumentation (z.B. Rollback, Anwenderinstruktion, Servicedesk-Information).
+                </knowledge>
+                <knowledge>
+                     Kennt Auftragsinhalt und -aufbau für den Rollout.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anwenderinstruktionen und ServicedeskInformationen zusammen mit dem Auftraggeber ausarbeiten und dokumentieren
+            <knowledge-list>
+                <knowledge>
+                     Kennt die wesentlichen Schritte, welche bei einer Anwenderinstruktion durchlaufen werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

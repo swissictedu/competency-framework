@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>124</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=124%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Etendre ou modifier une place de travail avec ordinateur.</title>
+    <capability>Sélectionner et recommander des composants matériels et logiciels pour équiper une place de travail. Installer, configurer et tester les composants matériels et logiciels équipant l’ordinateur.</capability>
+    <goals>
+        <goal>
+            Déterminer les caractéristiques du poste à équiper et consulter la documentation à disposition.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des documentations habituelles des ordinateurs individuels ainsi que des programmes d´aide en tant que source pour l’évaluation concernant l’extension d’un système d’ordinateur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Recommander les composants possibles sur la base de l’équipement du poste et de ses caractéristiques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques les plus importantes des composants matériels pour évaluer la compatibilité avec le système existant.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques les plus importantes des logiciels (système d’exploitation, logiciels de l’utilisateur) pour évaluer la compatibilité avec le système existant.
+                </knowledge>
+                <knowledge>
+                    Connaître la structure schématique d’un ordinateur (par ex. schéma bloc) ainsi que ses interfaces (par ex. système de bus, mode de sauvegarde, socle CPU).
+                </knowledge>
+                <knowledge>
+                    Connaître les paramètres possibles dans le BIOS/UEFI pour les différents composants matériels ainsi que leurs influences.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier sur banc d´essai si les composants sont appropriés et compatibles, et documenter les résultats.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une procédure de tests pour vérifier l’aptitude et la compatibilité des composants.
+                </knowledge>
+                <knowledge>
+                    Connaître une procédure pour localiser des problèmes de performance dabs le système
+                </knowledge>
+                <knowledge>
+                    Connaître une procédure pour localiser des problèmes de performance dans le système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Proposer l’acquisition des composants matériels et logiciels sur la base des résultats.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les coûts des composants (coûts d´acquisition, coût des travaux) à prendre en considération dans la comparaison entre l’extension/modification en regard d’une nouvelle acquisition d’un système d’ordinateur.
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes fondamentales qui doivent être envisagées lors de l’extension d´un système d’ordinateur.
+                </knowledge>
+                <knowledge>
+                    Connaître le contenu et la structure d’une offre.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier l’équipement du poste en prenant en considération les conditions cadres de l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les prescriptions de sécurité et de protection habituelles (ESD, SEV etc.) lors de travaux sur un système ouvert d’ordinateur.
+                </knowledge>
+                <knowledge>
+                    Connaître le contenu et la structure d’une checklist pour un déroulement systématique lors de l’extension/modification d’un ordinateur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sécuriser les données, installer et configurer les nouveaux composants matériels et logiciels, remettre le système en service. Migrer les données et les réglages de configuration.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la différence entre les données sauvegardées localement (par ex. réglages système, réglages des applications, données de l’utilisateur).
+                </knowledge>
+                <knowledge>
+                    Connaître des aides logicielles usuelles et des supports de données pour la garantie et le rétablissement des données sur des systèmes locaux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eliminer les composants inutiles conformément au respect de l’environnement ou les recycler.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les dispositions qui doivent être respectées lors de l´élimination des déchets de composants matériels, d’usage et d’emballage.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

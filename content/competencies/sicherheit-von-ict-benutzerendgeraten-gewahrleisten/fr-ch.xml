@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>263</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=263%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Garantir la sécurité des terminaux ICT utilisateurs</title>
+    <capability>Garantir la sécurité de terminaux ICT utilisateurs (portables, PC, terminaux mobiles, webcam) en décelant les actuelles menaces et points faibles. Sécuriser les appareils avec les mesures de protection nécessaires.</capability>
+    <goals>
+        <goal>
+            Expliquer et comprendre les relations entre les termes de la sécurité ICT (objets de protection, points faibles, menaces, dangers, protection des données, sécurité des données, mesures de protection).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les termes techniques de la sécurité ICT (confidentialité, disponibilité, intégrité, authentification, obligations) et pouvoir les expliquer.
+                </knowledge>
+                <knowledge>
+                    Connaître les menaces actuelles (dangers les plus élevés, tentatives de pénétration, substitutions, espionner, dérober, empêcher, détruire, modifier, tromper, mentir, fausser), qui compromettent les bases de la sécurité.
+                </knowledge>
+                <knowledge>
+                    Connaître la relation entre les points faibles (mots de passe faibles, mots de passe en texte clair, mises à jour manquantes, erreurs de configuration, défectuosités, erreurs d'utilisateurs) et de la mise en danger de l'objet à protéger (terminaux ICT, réseaux, applications).
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités pour s'informer sur la situation actuelle des menaces. 
+                </knowledge>
+                <knowledge>
+                    Connaître l'environnement d'une protection informatique globale pour les terminaux ICT. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier des terminaux ICT selon directives conformément à une configuration de sécurité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement lors des travaux selon les lignes directrices.
+                </knowledge>
+                <knowledge>
+                    Pouvoir mettre en œuvre les moyens d'aide prescrits pour une vérification ciblée des fonctions exigées ainsi que l'efficacité d'une mesure de protection.
+                </knowledge>
+                <knowledge>
+                    Pouvoir vérifier, selon directives, la configuration de terminaux ICT en ce qui concerne les erreurs importantes du point de vue de la sécurité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Configurer les terminaux ICT selon les mesures prescrites de sécurité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des programmes proactifs, des fonctions et des processus pour l'amélioration de la sécurité des terminaux ICT et pouvoir les mettre en œuvre dans la pratique.
+                </knowledge>
+                <knowledge>
+                    Pouvoir configurer une protection informatique de base pour un terminal ICT selon directives.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Isoler des terminaux tombés dans une situation incertaine ou infestée, et mettre en œuvre les mesures nécessaires pour limiter les dommages, analyse et remise en service.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement dans le comportement avec des terminaux ICT incertains et pouvoir l'expliquer.
+                </knowledge>
+                <knowledge>
+                    Connaître le comportement sûr avec des moyens ICT et pouvoir, en conséquence, instruire les collaborateurs et les clients.
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes pour permettre de limiter les dommages, pendant ou après une agression, qui doivent être mis en œuvre pour l'analyse et une remise en service.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

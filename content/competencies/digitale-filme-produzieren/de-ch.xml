@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>268</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=268%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Digitale Filme produzieren</title>
+    <capability>Erstellt digitale Filmsequenzen gemäss Konzept und bearbeitet und exportiert diese für den finalen Verwendungszweck.</capability>
+    <goals>
+        <goal>
+            Erstellt ein Konzept für eine einfache digitale Filmproduktion und verwendet passend zur jeweiligen Produktionsphase verschiedene Hilfsmittel (z.B. Storyboard).
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Konzeptionsprozess innerhalb der Vorproduktion einer Filmproduktion.
+                </knowledge>
+                <knowledge>
+                    Kennt die einzelnen Tätigkeiten innerhalb der Konzeptionsphase (z.B. Exposé).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt eine Produktionsplanung und gliedert diese in die Produktionsphasen: Vorproduktion (Pre-Production), Produktion (Production) und Postproduktion (Post-Production).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die einzelnen Tätigkeiten einer Filmproduktion und deren Zuordnung zu den Produktionsphasen: Vorproduktion, Produktion und Postproduktion.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Berufsgruppen für einfache Filmproduktionen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organisiert die benötigte Infrastruktur und Materialien für die Produktion.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Anforderungen an das Projektteam und das Material, um eine erfolgreiche Durchführung der einzelnen Phasen zu gewährleisten.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Quellen, um die benötigten materiellen und personellen Ressourcen zu organisieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt Filmrohdaten (Film und Audio) gemäss konzeptioneller Planung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die zur Produktion benötigte Ausrüstung.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Kameratypen und deren grundlegende Funktionen.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Lichtquellen und deren Charakteristik.
+                </knowledge>
+                <knowledge>
+                    Kennt die rechtlichen Aspekte und die gängige Vorgehensweise bei der Durchführung einer einfachen Filmproduktion.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert die Filmrohdaten vor Ort (z.B. Belichtung) und erarbeitet, falls nötig, Alternativen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Hilfsmittel zur Qualitätsprüfung (z.B. Histogramm, Kontrollmonitor).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Parameter und Methoden, um die Qualität einer Aufnahme zu optimieren (z.B. Slow-Motion).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Importiert die Filmrohdaten von einem Speichermedium auf die vorgegebene Dateiablage und legt diese korrekt strukturiert ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Speichermedien und deren Vor- und Nachteile.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Schnittstellen, welche beim Import von Filmrohdaten verwendet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Systeme einer logischen Datenablage.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sortiert und arrangiert Filmrohdaten innerhalb der Schnittsoftware.
+            <knowledge-list>
+                <knowledge>
+                    Kennt non-lineare Schnittsysteme bzw. Applikationen zur Bearbeitung von Rohdaten.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur effizienten Sichtung von Filmrohmaterial.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schneidet Filmrohdaten und wendet verschiedene Schnitttechniken an.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Schnitttechniken und deren filmische Wirkung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterschiede zwischen Roh- und Feinschnitt.
+                </knowledge>
+                <knowledge>
+                    Kennt den Zusammenhang von Schnitt und Storytelling.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Finalisiert den Feinschnitt und nimmt Farbanpassungen (z.B. Farbkorrektur, Farbgebung) vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Farbsysteme und deren Verwendungszweck.
+                </knowledge>
+                <knowledge>
+                    Kennt grundlegende Techniken und Werkzeuge, um eine Farbgebung vorzunehmen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bereitet den Feinschnitt für das erforderliche Zielformat auf und exportiert diesen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Container und Codecs für Filmprojekte und deren Eigenschaften.
+                </knowledge>
+                <knowledge>
+                    Kennt WWW-Plattformen zur Veröffentlichung von Filmmaterial und deren Anforderungen an das zu veröffentlichende Material.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

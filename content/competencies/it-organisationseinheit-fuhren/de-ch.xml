@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>209</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=209%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>IT Organisationseinheit führen</title>
+    <capability>Ressourcen für eine IT Organisationseinheit planen und budgetieren, den Mitarbeitereinsatz organisieren und die interne Kommunikation sicherstellen. Mitarbeitende rekrutieren und ihre Entwicklung fördern.</capability>
+    <goals>
+        <goal>
+            Die kurz-, mittel- und langfristige Ressourceneinsatz- und Bedarfsplanung nach vorgegebenem Leistungsauftrag und den entsprechenden Zielsetzungen in Zusammenarbeit mit der vorgesetzten Stelle festlegen und budgetieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehensweisen für die Planung des Ressourcen-Einsatzes in der IT Organisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die eigene Organisationseinheit auf die Ressourceneinsatz- und Bedarfsplanung abstimmen. Stellen- und Rollenbeschreibungen unter Berücksichtigung von Aufgaben, Kompetenzen und Verantwortung aktualisieren oder erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Struktur einer Stellenbeschreibung aufzeigen und erläutern, welche Informationen deren inhaltliche Elemente bezogen auf die Rekrutierung und Entwicklung von Mitarbeitern liefern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Bedarfsplanung mit den bestehenden Ressourcen vergleichen und sicherstellen, dass Mitarbeitende mit den richtigen Fähigkeiten und Entwicklungsmöglichkeiten auch längerfristig zeitgerecht zur Verfügung stehen. Bei Bedarf die Prioritäten zusammen mit der vorgesetzten Stelle neu setzen.
+            <knowledge-list>
+                <knowledge>
+                    Kann beschreiben, wie die Prinzipien der Personalbeurteilung Eigenschaften und Verhalten von Bewerbern aufzeigen können.
+                </knowledge>
+                <knowledge>
+                    Kann geeignete Massnahmen für die langfristige Entwicklung von Mitarbeitenden hinsichtlich Verhalten und Fähigkeiten aufzählen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Klar definierte Arbeitsaufträge (Ergebnis, Termin, Aufwand) erstellen und erteilen (intern und extern) und dabei die Ziele und die kurzfristige Ressourcenplanung berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Struktur eines Arbeits-Auftrages skizzieren und erläutern, wie dabei Verständlichkeit und Akzeptanz beim Adressaten erreicht wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Zielerreichung der laufenden Arbeitsaufträge mit geeigneten Führungsmitteln überwachen. Bei Bedarf Korrekturmassnahmen vorschlagen und der vorgesetzten Stelle Bericht erstatten.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Führungsfunktionen (planen, entscheiden, anordnen, kontrollieren) erklären und ihre Wirkung für die Kontrolle der Zielerreichung beschreiben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit Meinungsverschiedenheiten und Konflikten im Team konstruktiv umgehen. Wirksame Massnahmen vorsehen, um unterschwellige Konflikte rechtzeitig zu erkennen. Offenes und entspanntes Arbeitsklima schaffen, um ungewollten Kündigungen und eskalierenden Teamkonflikten vorzubeugen.
+            <knowledge-list>
+                <knowledge>
+                    Kann mögliche Ursachen für Konflikte, die sich aus der Zusammenarbeit in Gruppen ergeben können, aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kennt wirksame Massnahmen zur Beilegung von Konflikten in Gruppen und kann Regeln und Vorgehensweisen für einen korrekten Einsatz dieser Massnahmen aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kann die Rahmenbedingungen und Massnahmen aufzählen, die ein Team motivieren und beschreiben, wie sie dazu beitragen, die Leistung des Teams zu verbessern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ein internes Berichtswesen aufbauen, das die Informations- und Kommunikationsbedürfnisse der organisatorischen Einheit sicherstellt.
+            <knowledge-list>
+                <knowledge>
+                    Kann Informations- und Kommunikationsmittel, die innerhalb eines organisatorischen Bereiches Anwendung finden, aufzeigen und beschreiben, wie diese zu einem funktionierenden Bereich beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

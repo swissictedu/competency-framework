@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>264</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=264%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Preparare contenuti mediatici digitali</title>
+    <capability>Elaborare un concetto per una produzione digitale semplice, archiviare dati nonché controllare e provvedere alla manutenzione degli strumenti di lavoro.</capability>
+    <goals>
+        <goal>
+            Assicurarsi che le informazioni necessarie per svolgere l'incarico siano chiare e complete.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere gli strumenti necessari a verificare la completezza delle informazioni (ad es. checklist).
+                </knowledge>
+                <knowledge>
+                    Conoscere i termini tecnici relativi ai progetti e usarli correttamente.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborare un concetto (ad es. un moodboard o un elenco del materiale) per una produzione digitale semplice.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le basi del linguaggio visivo (ad es. teoria dei colori).
+                </knowledge>
+                <knowledge>
+                    Conoscere diverse fonti da cui attingere per elaborare un concetto.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Applicare semplici tecniche di creatività.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere diverse tecniche di creatività.
+                </knowledge>
+                <knowledge>
+                    Sapere impiegare adeguatamente diverse tecniche di creatività.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Avere cura di apparecchi e materiali.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere diversi apparecchi e materiali e l'impiego previsto.
+                </knowledge>
+                <knowledge>
+                    Sapere come avere cura di apparecchi e materiali.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Controllare apparecchi e materiali a regola d'arte.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere diverse fonti dove procurarsi documentazione tecnica. 
+                </knowledge>
+                <knowledge>
+                    Conoscere tutti gli aspetti di una manutenzione a regola d'arte di apparecchi e materiali.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Trasferire dati digitali da un supporto dati alla banca dati predefinita e archiviarli correttamente e secondo una struttura prestabilita.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le comuni interfacce di trasmissione dati.
+                </knowledge>
+                <knowledge>
+                    Conoscere i comuni supporti dati per l'archiviazione.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Scegliere il formato appropriato in base alle esigenze specifiche di diverse piattaforme
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le comuni piattaforme e le loro esigenze specifiche per caricarvi contenuti mediatici digitali.
+                </knowledge>
+                <knowledge>
+                    Conoscere diversi formati di file e il loro impiego.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Salvare e archiviare i dati secondo le direttive e in base a una struttura prestabilita.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere diverse convenzioni sui nomi (ad es. SEO).
+                </knowledge>
+                <knowledge>
+                    Conoscere diverse strutture di archiviazione (ad es. archiviazione numerica).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

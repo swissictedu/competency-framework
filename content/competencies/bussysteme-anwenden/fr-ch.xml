@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>243</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=243%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Utiliser des bus.</title>
+    <capability>Interconnecter des composants allégués (maîtres, esclaves) avec une topologie bus appropriée.</capability>
+    <goals>
+        <goal>
+            Identifier, selon données, les organes de commande, capteurs et circuit de commande à relier sur des systèmes de bus.
+            <knowledge-list>
+                <knowledge>
+                    Connaît le caractère fonctionnel des différents composants ainsi que leur forme de représentation, peut identifier et nommer ceux-ci dans la donnée.
+                </knowledge>
+                <knowledge>
+                    Connaît les caractéristiques telles que le courant, la tension et la puissance des composants utilisés et peut décrire leurs domaines d’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Proposer les systèmes de bus appropriés à la solution de la tâche.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les systèmes de bus courants tels que le Profibus, Interbus, CAN-Bus, etc. ainsi que leurs protocoles, peut les nommer et peut décrire plus précisément leurs propriétés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer les avantages et inconvénients des systèmes de bus choisis et se décider pour le plus approprié.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les topologies physiques et logiques, ainsi que les codages des lignes de systèmes de bus courants, et peut faire passer ces connaissances dans la décision.
+                </knowledge>
+                <knowledge>
+                    Connaît les limites telles que temps de réaction, disponibilité, expansion, ainsi que le nombre maximal de composants des bus courants, et peut les confronter les uns aux autres.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Relier les organes de commande, les capteurs et la commande au système de bus choisi.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les interfaces logicielles de composants types et peut expliquer comment celles-ci peuvent être mise à contribution par l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmer et mettre en œuvre l´application visant la commande des composants conformément à la donnée.
+            <knowledge-list>
+                <knowledge>
+                    Connaît l’environnement de développement (éditeur, compilateur, éditeur de liens) et peut ainsi réaliser une commande pour le système visé.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier et spécifier les cas de tests selon la donnée, expérimenter l´application réalisée avec le système de bus et documenter les résultats des tests.
+            <knowledge-list>
+                <knowledge>
+                    Connaît l’environnement de développement (simulateur, débogueur, etc.) et peut trouver des erreurs dans le système à l´aide de ces outils.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

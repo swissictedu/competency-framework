@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>424</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=424%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Elaborer et déployer des activités marketing en fonction du média utilisé</title>
+    <capability>Analyserl'environnement marketingde l'entreprise et planifier, respectivement développer, avec les possibilités des divers canaux de communicationetde médias, les activités de marketinget les mettre finalement en œuvre.</capability>
+    <goals>
+        <goal>
+            Analyser l'environnement marketing d'une entreprise et utiliser au besoin les ressources existantes, telles que départements de marketing, documents guides, projets antérieurs, etc.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les facteurs les plus importants pour créer une analyse de marché et de l'environnement d'une entreprise, tels que les objectifs de marketing et de la communication, l'environnement de marché, la stratégie commerciale, marketing mix, les groupes cibles, la limitation à la concurrence, identité d'entreprise, etc.
+                </knowledge>
+                <knowledge>
+                    Connaître les responsabilités internes et externes ainsi que les interfaces pour les activités commerciales au sein d'une entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître des instruments afin d'identifier des facteurs externes, tels que La politique de concurrence, la législation, la presse, etc. et pouvoir peser les éventuelles conséquences sur leur propre activité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Accepter un contrat de commercialisation pour un produit ou un service, et en déduire la fixation des objectifs en tenant compte des conditions cadres données et des canaux des médias.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les facteurs les plus importants pour caractériser un produit ou un service, tels que profil, message-clé, positionnement, stratégie publicitaire, politique de distribution, politique de prix, etc.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités et les opérations nécessaires pour formuler les objectifs stratégiques d'un produit ou d'un service.
+                </knowledge>
+                <knowledge>
+                    Connaître les opérations nécessaires et les facteurs les plus importants afin de formuler les objectifs financiers d'un produit ou d'un service.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes de collecte de données et des instruments, respectivement, des sources afin de pouvoir déterminer les habitudes médiatiques du groupe cible.
+                </knowledge>
+                <knowledge>
+                    Connaître la fixation d'objectifs selon SMART en vue de formuler les objectifs de manière mesurables et plus précise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier et développer une stratégie de mise en œuvre (ou éventuellement plusieurs variantes) pour l'activité de commercialisation concernée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des outils et des méthodes pour définir le processus de l'état actuel de l'état souhaité afin de développer la stratégie de marketing appropriée.
+                </knowledge>
+                <knowledge>
+                    Connaître le contenu et la différenciation entre les stratégies de concurrence, du portefeuille, du positionnement et d'innovation afin d'en utiliser une seule ou une combinaison de plusieurs pour leur propre stratégie de marketing.
+                </knowledge>
+                <knowledge>
+                    Connaître les chances et les risques de différents canaux de distribution et de médias, en référence à une stratégie de commercialisation définie.
+                </knowledge>
+                <knowledge>
+                    Connaître la possibilité et l'effet de l'utilisation de différents médias et canaux de communication (multimédias).
+                </knowledge>
+                <knowledge>
+                    Connaître les chances et des risques d'outils de marketing viral, comme la propagation dans les blogs et les plateformes de médias sociaux.
+                </knowledge>
+                <knowledge>
+                    Connaître les différents instruments de planification tels que: diagramme de Gantt ou plan de réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître l'outil d'analyse FFOM pour déterminer les différences de plusieurs variantes de stratégies.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre l'activité de commercialisation (Marketing-Mix).
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure et le contenu du Marketing-Mix et les appliquer à la stratégie commerciale définie.
+                </knowledge>
+                <knowledge>
+                    Connaître des outils et des méthodes pour surveiller les activités commerciales en cours, en particulier dans les zones sous contrôle étranger (tels que le marketing viral, blogs, médias sociaux, etc.)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Évaluer le fonctionnement de l'activité commerciale et documenter les résultats.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les outils d'aide (par exemple des outils statistiques) afin de mesurer à posteriori le succès ou le taux de retour.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes méthodes d'enquêtes qualitatives (par exemple, entrevues avec les clients) et quantitatives (par exemple le concours) pour évaluer les objectifs de commercialisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

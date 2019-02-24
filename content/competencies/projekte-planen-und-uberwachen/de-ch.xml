@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>249</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=249%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Projekte planen und überwachen</title>
+    <capability>Plant, überwacht und steuert ein Projekt abgestimmt auf den Projektauftrag</capability>
+    <goals>
+        <goal>
+            Analysiert einen gegebenen Projektauftrag, verifiziert diesen bei Bedarf mit dem Auftraggeber, bereinigt Unklarheiten und erstellt einen Gesamtprojektplan.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Rollen in einem Projekt und weiss, welche Aufgaben, Kompetenzen und Verantwortungen diese im Rahmen der Projektorganisation wahrnehmen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Merkmale von vollständigen Zielen und weiss, wie diese zu einer klaren Vereinbarung zwischen Auftragnehmer und Auftraggeber führen und den Auftragnehmer bei der Zielerreichung unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kennt fachliche, terminliche und wirtschaftliche Faktoren, welche den Projektablauf beeinflussen und kann erläutern, wie diese bei der Ausarbeitung eines Projektplans zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die Planungsmethoden für die terminliche, qualitative und inhaltliche Zielerreichung, wie GANTT, Netzplan, Projektstrukturplan etc.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundprinzipien einer strukturierten Projektabwicklung.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Vorgehensmodelle (Wasserfall, SCRUM, Hermes, V‐Modell etc.) und deren Unterschiede.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Projektorganisationsformen wie Task Force, Projektkoordination, Matrix etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Strukturiert die Projektleistungen in Teilprojekte und Arbeitspakete und formuliert die entsprechenden Aufträge mit fachlichen, wirtschaftlichen und terminlichen Zielen.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie die Arbeitsleistungen des Projektes in einem Projektstrukturplan abgebildet und dokumentiert werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Kriterien, die bei der Bildung von Arbeitspaketen zu berücksichtigen sind, und kann erläutern, wie diese zu einer sinnvollen Arbeitsteilung und zu einer effizienten Abwicklung eines Vorhabens beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an einen stufengerechten und zielorientierten Arbeitsauftrag (z.B. inhaltliche Konsistenz, klare Abgrenzung oder Übereinstimmung mit den Projektzielen).
+                </knowledge>
+                <knowledge>
+                    Kennt die Kriterien, die bei der Bildung von Teilprojekten angewendet werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt auf der Grundlage der fachlichen, wirtschaftlichen und terminlichen Ziele der definierten Teilprojekte und Arbeitspakete einen Projektüberwachungsplan.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Instrumente und Verfahren, die in der Projektüberwachung eingesetzt werden können, und kann erläutern, wie diese dazu beitragen, eine bestmögliche Zielerreichung sicherzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung ökologischer Einflussfaktoren und kann erläutern, wie diese auf die Zielerreichung einwirken respektive zu berücksichtigen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt abgestimmt auf die Vorgaben des Projektauftrages und den gemäss der Projektorganisation zu berücksichtigenden Anspruchsträgern einen Projektkommunikationsplan.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, welche Informationsbedürfnisse in einem Projekt aufgrund der Anforderungen aus Projektauftrag und Projektüberwachung abgedeckt werden müssen.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie diese Anforderungen in einem Projektkommunikationsplan umgesetzt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wählt geeignete Aufgabenträger zur Durchführung von Teilprojekten und Arbeitspaketen aus und erteilt Aufträge.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die qualitativen und personellen Anforderungen für die Ausführung von Arbeitspaketen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines vollständigen Arbeitsauftrages.
+                </knowledge>
+                <knowledge>
+                    Kennt die terminlichen, qualitativen, ökologischen und wirtschaftlichen Anforderungen für die Vergabe von Teilprojekten.
+                </knowledge>
+                <knowledge>
+                    Weiss, welche Elemente ein Teilprojektauftrag enthalten muss, und kennt die firmenspezifischen Vorgaben bezüglich der Vergabe von Teilprojekten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert und analysiert Projektrisiken und schlägt Massnahmen zur Risikobewältigung vor.
+            <knowledge-list>
+                <knowledge>
+                    Kann das systematische Vorgehen bei der Risikoanalyse beschreiben und den Beitrag der einzelnen Schritte zur Identifikation, Bemessung und Bewältigung von Projektrisiken aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kann geeignete Massnahmen zur Risikobewältigung aufzeigen, deren Wirksamkeit erläutern und weiss, wie diese in den Planungsprozess eingebunden werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft kontinuierlich die Projektfortschritte, ergreift geeignete Steuerungsmassnahmen und koordiniert diese wenn nötig mit dem Auftraggeber.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Methoden zur kontinuierlichen Fortschrittsüberprüfung von Projekt, Teilprojekten und Arbeitspaketen (z.B. Arbeitsberichte, Fortschrittsmeldungen, Leistungsrapporte, Reviews etc.)
+                </knowledge>
+                <knowledge>
+                    Kennt Projektsteuerungsmassnahmen, die bei Planabweichungen aufgrund der Fortschriftüberprüfung getroffen werden können, und weiss, wie diese in den Planungsprozess eingebunden werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Merkmale von Steuerungsmassnahmen bei Abweichungen im Projekt, die darüber entscheiden, wer für die Genehmigung zuständig ist, und kann aufzeigen, warum bei der Berücksichtigung dieser Merkmale die Entscheidungsträger entsprechend ihrer Kompetenz einbezogen werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant den Prozess für den Umgang mit Änderungsanträgen im Projekt, richtet diesen ein und wickelt die Änderungsanträge entsprechend ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Ursachen, die zu Änderungen an den Rahmenbedingungen und Zielsetzungen eines Projektes führen können.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie ein auf das Projekt angepasster Änderungsprozess definiert sein sollte.
+                </knowledge>
+                <knowledge>
+                    Weiss, welche Informationen über eine Änderungsverwaltung in die Projektdokumentation einfliessen müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt Projektfortschrittsberichte und Phasenberichte zuhanden des Auftraggebers und präsentiert diese an Projektausschusssitzungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Merkmale eines Projektberichtes (Meilensteinberichte, Projektberichte, Phasenberichte, Phasenanträge etc.) und weiss, wie diese zur Genehmigung vorbereitet werden.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie eine Projektstatuspräsentation vorbereitet wird, und kann die Kriterien für eine erfolgreiche Präsentation erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

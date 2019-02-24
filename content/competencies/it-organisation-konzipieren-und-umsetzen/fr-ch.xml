@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>200</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=200%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Organiser et implanter un secteur informatique</title>
+    <capability>Concevoir une organisation informatique performante et, dans ce but, s’orienter selon des indications concrètes (par ex. évolutions stratégiques). Elaborer des ébauches de solutions pour leur mise en application et les présenter aux décideurs. Appliquer la variante choisie.</capability>
+    <goals>
+        <goal>
+            Déduire, des tâches courantes, des objectifs mesurables pour une organisation informatique et les intégrer à un contrat de prestations. S’appuyer sur un mandat concret, par ex. déclenché par des évolutions stratégiques (Business, technologie, personnel, finances).
+            <knowledge-list>
+                <knowledge>
+                    Connaît les domaines d’activité d’un département informatique et peut décrire leur contribution aux objectifs.
+                </knowledge>
+                <knowledge>
+                    Peut indiquer les objectifs qu’un département informatique devrait atteindre dans le domaines de ses activités de base.
+                </knowledge>
+                <knowledge>
+                    Connaît les caractéristiques et les contenus d’un mandat de prestation (Service Level Agreement) et peut décrire la manière dont la fourniture des prestations peut être contrôlée de cette manière.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Regrouper en unités de prestations les tâches contenues dans le cahier des charges d’après les données de base et formuler un contrat de prestations spécifique par unité de prestations.
+            <knowledge-list>
+                <knowledge>
+                    Peut décrire les principes qui doivent être pris en compte dans le regroupement des unités de prestations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Concevoir et planifier les contrat de prestations sous la forme d’ébauches de solutions en termes d’organisation, de construction et de déroulement tout en tenant compte de la notion de risques.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter les principes qui doivent être observés dans la construction d’une unité de service et peut expliquer les conséquences possibles de ces principes par rapport à la conception d’une organisation en cours de construction.
+                </knowledge>
+                <knowledge>
+                    Peut présenter les principes qui doivent être observés dans le déroulement du travail d’une unité de service et peut expliquer les conséquences possibles de ces principes par rapport à la conception d’une organisation en cours de construction.
+                </knowledge>
+                <knowledge>
+                    Connaît les principes qui sont utilisés dans la planification d’un projet organisationnel et peut présenter leur contribution à l’atteinte des objectifs.
+                </knowledge>
+                <knowledge>
+                    Connaît la méthode d’analyse des risques et peut présenter dans quelles conditions une analyse des risques est cohérente dans un projet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer, en les recommandant, les ébauches de solutions organisationnelles et les présenter par écrit aux décisionnaires.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter au cours de quelles étapes des techniques de décision et d’évaluation courantes peuvent être développées et quelles sont les précautions à prendre pour en tirer une appréciation fiable.
+                </knowledge>
+                <knowledge>
+                    Connaît la structure d’une documentation permettant de proposer une solution et peut expliquer comment les éléments contextuels individuels contribuent à une description expressive et intégrale de la solution.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Présenter aux décisionnaires, pour approbation, les variantes de solutions organisationnelles pour leur mise en application.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter les principes qui doivent être respectés lors de la définition des contenus et dans la préparation d’une présentation aux décisionnaires.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Suggérer les descriptifs de fonctions et les profils d’exigence au responsable de la mise en place de l’organisation informatique approuvée.
+            <knowledge-list>
+                <knowledge>
+                    Peut expliquer la structure d’un descriptif de fonction dans le domaine informatique et peut présenter la manière dont elle définit les fonctions et leurs exigences de manière complète.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rechercher systématiquement et engager les dirigeants répondant aux exigences de l’organisation informatique approuvée.
+            <knowledge-list>
+                <knowledge>
+                    Peut décrire la procédure de recherche et d’engagement d’un nouveau collaborateur et présenter quels sont les éléments qui doivent être observés pour se rapprocher le plus près possible du profil d’exigence.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transformer en acteurs les personnes concernées par les changements organisationnels. Formuler les mandats et les transférer au centre informatique pour leur mise en application.
+            <knowledge-list>
+                <knowledge>
+                    Peut indiquer les facteurs qui influent sur la motivation d’une équipe lors de changements dans l’organisation et peut expliciter la totalité de leurs effets.
+                </knowledge>
+                <knowledge>
+                    Peut esquisser la structure d’un mandat de travail et peut expliciter la manière dont la compréhension et l’acceptation sont enregistrées chez les destinataires.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

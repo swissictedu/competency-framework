@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>662</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=662%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Sicherheit sicherstellen</title>
+    <capability>Stellt bei der Planung, Entwicklung und im produktiven Gesamtsystem die Sicher-heit, d.h. die Integrität, die Vertraulichkeit (inkl. Datenschutz) sowie die Verfügbar-keit von Informationen/Daten und der zugrunde liegenden ICT-Systeme sicher.</capability>
+    <goals>
+        <goal>
+            Definiert, welche nationalen und internationale Normen sowie externen Regu-lationen im Bereich der ICT Compliance auf das Unternehmen zutreffen, und setzt diese um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt nationale und internationale Normen im Bereich ICT Security (z.B. CobiT, BSI 100-x, ISO 2000, ITIL, ISO 2700x, IKS, etc.) und deren Verbindlichkeit.
+                </knowledge>
+                <knowledge>
+                    Kennt externe Regulatoren und deren Bestimmungen (z.B. DSG und DS-Verordnungen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und formuliert in Zusammenarbeit mit der Geschäftsleitung die Sicherheitsziele und –Leitlinien zur Informationssicherheit und setzt diese mithilfe eines nachvollziehbaren PDCA Zyklus (Plan-Do-Check-Act) um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kategorien von ICT Sicherheitszielen (z.B. Vertraulichkeit, Verfügbarkeit, Integrität).
+                </knowledge>
+                <knowledge>
+                    Kennt die Restriktionen, welche bei der Definition von ICT Sicherheitszielen zu beachten sind (z.B. Stand der Technologie, Budget, Know-how).
+                </knowledge>
+                <knowledge>
+                    Kennt die Schritte, welche der PDCA Zyklus durchläuft und kann erläutern, wie diese zur Erreichung der ICT Sicherheit beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt ein Information Security Management System (ISMS) sowie ein ICT Compliance Framework.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Definitionselemente eines Information Security Management Systems (z.B. nach ISO 27000).
+                </knowledge>
+                <knowledge>
+                    Kennt Elemente eines ICT Compliance Frameworks als integrierter Bestandteil eines ISMS.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt diese in enger Zusammenarbeit mit der Geschäftsleitung anhand eines nachvollziehbaren Informationssicherheits-Managementprozesses um und stellt deren Einhaltung sicher.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die spezifischen Herausforderungen, welche zwecks einer nachhaltigen Einführung und Umsetzung eines ISMS zu berücksichtigen sind (z.B. Awareness)
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten zur Definition von Kontrollmechanismen (z.B. Kontrollfragen BSI Grundschutzkataloge).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt zur Überwachung und Kontrolle sowie zur Optimierung der ICT Sys-teme ein umfassendes Kontrollmanagement über alle Business-Prozesse und Infrastrukturen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Anforderungen an ein Auditmanagement-System (z.B. unterstützte Systeme und Komponenten, Zertifizierungskonformität).
+                </knowledge>
+                <knowledge>
+                    Kennt Form, Aufbau und Inhalt von Überwachungs- und Kontrollmechanismen in Bezug auf ICT Sicherheitsvorgaben (z.B. in Form von IDS-Regeln).
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorkehrungen bei der Definition und Planung eines Audits zur Bestimmung der Tiefe, des Umfangs und der daraus resultierenden Aussagekraft.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dokumentiert das Vorgehen von Audits, die Erfassung der Ergebnisse bzw. deren Bewertung, so dass diese nachvollzieh- und reproduzierbar sind.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Angaben in einem Auditbericht und kann aufzeigen, wie diese die Reproduzierbarkeit und Aussagekraft beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt in regelmässigen Abständen Audits zum ICT Framework (Verfügbar-keit, Vertraulichkeit, Integrität, Informations-Sicherheit, Datenaufbewahrung und Datenschutz) von Informationen und  ICT-Systemen durch.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehensmodelle zur Durchführung von Audits bei ICT Systemen (z.B. Umfang, Tiefe, Vorkenntnisse/Wissensstand, Intern/Extern).
+                </knowledge>
+                <knowledge>
+                    Kennt Bewertungssysteme und deren Aussagekraft im Bereich der ICT Sicherheit (z.B. OSSTMM).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wertet die Auditergebnisse aus und definiert den Prozessrahmen für die Implementierung und das Management von Massnahmen zur Sicherstellung von spezifischen Zielen der Informationssicherheit.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Bewertungsdimensionen zur Auswertung von Überwachungs- und Kontrollmechanismen (z.B. Bedrohungspotential).
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzliche Methoden und Techniken zur Planung und Überwachung von ICT Sicherheitsmassnahmen (z.B. Delegation, Vereinbarung, Rapportierung).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

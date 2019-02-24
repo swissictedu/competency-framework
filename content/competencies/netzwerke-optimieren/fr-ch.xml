@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>471</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=471%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Optimiser des réseaux</title>
+    <capability>Analyser les réseaux de l’entreprise, optimiser et développer leurs performances et leur utilisation par des mesures adéquates et des possibilités inédites d’application en tenant compte des nouvelles technologies.</capability>
+    <goals>
+        <goal>
+            Définir les exigences envers une architecture de réseau en fonction des caractéristiques d’une technique spécifique de transmission de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les paramètres spécifiques utilisés pour définir et vérifier la QdS (qualité de service): largeur de bande (débit), latence, gigue et taux de perte de paquets.
+                </knowledge>
+                <knowledge>
+                    Connaître les technologies utilisées dans les réseaux IP pour atteindre la QdS (DiffServ, RSVP, etc.).
+                </knowledge>
+                <knowledge>
+                    Savoir définir les paramètres de QdS nécessaires sur la base des exigences de qualité d’une application envers la transmission de données.
+                </knowledge>
+                <knowledge>
+                    Connaître les conditions techniques nécessaires pour mettre en oeuvre la QdS dans un réseau IP.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier sur la base de la documentation du réseau existant les points névralgiques en matière de performance et d’efficacité énergétique.
+            <knowledge-list>
+                <knowledge>
+                    Savoir identifier les points névralgiques d’une infrastructure de réseau sur la base d’une documentation de réseau et les décrire de manière adéquate.
+                </knowledge>
+                <knowledge>
+                    Savoir lire et interpréter les documentations réseau des différents fournisseurs pour procéder à une analyse adéquate.
+                </knowledge>
+                <knowledge>
+                    Savoir comment reconnaître les goulots d’étranglement et les points faibles potentiels d’un réseau. Savoir comment en évaluer les effets, eu égard notamment aux exigences croissantes de performance.
+                </knowledge>
+                <knowledge>
+                    Savoir comment mesurer les facteurs de consommation et d’efficacité énergétiques dans un réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mesurer au moyen d’outils d’analyse adéquats la performance actuelle du réseau de l’entreprise. Représenter les résultats sous une forme significative.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des outils techniques facilitant l’enregistrement et l’analyse d’informations d’état dans un réseau local (LAN) (SNMP V.x, RMON, Netflow, sFlow, MRTG, RRD, etc.), et savoir les implémenter.
+                </knowledge>
+                <knowledge>
+                    Savoir collecter des informations d’état de manière ciblée et au moyen d´outils d´analyse et de surveillance adéquats, p. ex. de logiciels de supervision (cacti, ntop, openNMS, Zabbix, etc.) et d’analyseurs de LAN (Wireshark, MS Network Monitor etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Recommander, sur la base des résultats de l’analyse, des mesures techniques et organisationnelles permettant de respecter les consignes de performance et d’optimiser l’utilisation des ressources.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment une comparaison existant‐objectif est effectuée concernant les consignes de QdS définies (accord de niveau de service) sur la base de données de performance mesurées.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités courantes permettant de garantir ou d’augmenter la QdS et la disponibilité dans un réseau local (LAN) (segmentation du réseau par des VLAN, introduction d’une gestion de largeur de bande par priorisation et limitation de certains flux de données, utilisation de Spanning Tree, etc.).
+                </knowledge>
+                <knowledge>
+                    Savoir expliquer sur la base d’une description ou d’un mode d’emploi si un composant de réseau donné dispose des spécificités ou caractéristiques nécessaires pour accroître la disponibilité ou la performance d’un réseau (IEEE 802.1D/p/Q/v/w/s, 802.1ax, cut‐through switching, jumbo frames, DiffServ, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Compléter le réseau local par un réseau de stockage dédié pour l’élargir ou le décharger.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les incidences en matière de charge du réseau local (LAN) de l’accès aux mémoires de masse par l’intermédiaire du réseau local (storage area network).
+                </knowledge>
+                <knowledge>
+                    Connaître les méthodes de base permettant de mettre à disposition des mémoires de masse (DAS, NAS et SAN) ainsi que les différentes technologies de stockage (SATA, SAS, etc.) ou organisations de stockage utilisées (bandes, miroir ou RAID10/50). Savoir quelle influence chaque technologie exerce sur la charge du LAN.
+                </knowledge>
+                <knowledge>
+                    Connaître les composants, les protocoles de transmission et le principe de fonctionnement des réseaux de stockage (HBA, RAID, commutateurs FC, Fibre Channel (FC), FC‐AL, iSCSI, AoE, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les utilisations possibles des réseaux de stockage en relation avec des services tels que des bases de données, des virtualisations et des services de fichiers.
+                </knowledge>
+                <knowledge>
+                    Savoir comment les facteurs coûts, performance et disponibilité influencent la technologie (FC, iSCSI) et la topologie (anneau, étoile, maille).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etudier si de nouvelles technologies peuvent contribuer à l’optimisation et au développement du réseau de l’entreprise et, le cas échéant, préparer les phases nécessaires de l’implémentation.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir rechercher des informations qualitatives précises sur les développements dans le domaine de la technologie des réseaux.
+                </knowledge>
+                <knowledge>
+                    Connaître une méthode permettant d’obtenir des informations déterminantes pour son propre réseau à partir de sources d’informations (fiches techniques, descriptions de produits, articles de journaux, tests, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les paramètres de performance des nouveaux appareils et savoir les exprimer sous forme de bilan énergétique (Green ICT).
+                </knowledge>
+                <knowledge>
+                    Savoir comment intégrer des nouvelles technologies de manière adéquate dans un réseau existant.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

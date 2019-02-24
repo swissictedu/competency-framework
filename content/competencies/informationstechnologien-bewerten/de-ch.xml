@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>193</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=193%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Informationstechnologien bewerten</title>
+    <capability>Informationstechnologien und -methoden, Marktinformationen und Umfeld (Konkurrenz, Forschung etc.) in der IT beobachten und bewerten. Verbesserungspotenziale ermitteln und daraus Entscheidungsgrundlagen ableiten.</capability>
+    <goals>
+        <goal>
+            Das für ein Unternehmen relevante IT Beobachtungsfeld eingrenzen und dabei die Vorgaben (Strategien, Architekturen, Technologien, Forschungs- und Entwicklungsbereiche, Lieferanten etc) berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kann die wesentlichen Merkmale und Eigenschaften der aktuellen Computerarchitekturen aufzeigen und deren Einsatzmöglichkeiten beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Speichertechnologien und kann aufzeigen, bei welchen Anforderungen und Rahmenbedingungen sich diese eignen.
+                </knowledge>
+                <knowledge>
+                    Kann die Technologien der Informations-Erfassung und -Ausgabe aufzählen und erklären, inwieweit sie im heutigen Umfeld der Informatik noch zur Anwendung kommen.
+                </knowledge>
+                <knowledge>
+                    Kennt die prinzipiellen Merkmale von IT Systemarchitekturen und kann aufzeigen, welche grundsätzlichen Zielsetzungen mit der Definition einer IT Systemarchitektur in einem Unternehmen verfolgt werden.
+                </knowledge>
+                <knowledge>
+                    Kann die verschiedenen Arten der Anwendungssoftware (z.B. Standardsoftware, individuelle Software) verständlich darlegen und deren wirtschaftlichen Stellenwert in der IT Strategie beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Methoden der Softwareentwicklung und kann aufzeigen, welche Eigenschaften bezüglich der IT Architektur relevant sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Im definierten Beobachtungsfeld geeignete Erhebungstechniken auswählen und einsetzen und einen auf das Unternehmen abgestimmten Bewertungskatalog (z.B. unter Berücksichtigung strategischer und wirtschaftlicher Faktoren) erarbeiten und gewichten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und die Elemente eines Bewertungskatalogs und kann erklären, welche Elemente auf strategische und wirtschaftliche Faktoren Einfluss haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Relevante Entwicklungen der Informationstechnologie im Beobachtungsfeld mit Informationsbeschaffungstechniken erheben, bewerten und in einer Technologieliste in geeigneter Form darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Erhebungstechniken beschreiben, die für Beobachtung der Technologie-Entwicklung geeignet sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken zur Bewertung von Alternativen und Vorbereitung von Entscheidungen (z.B. SWOT-Analyse, Nutzwertanalyse) und kann darstellen, wie deren einzelne Vorgehensschritte zur Entscheidungsfindung beitragen können.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Beschreibung der technischen Entwicklung (z.B. technischer Lebenszyklus, S-Kurven-Konzept) und kann beschreiben, wie sie zur Beschaffungs-Entscheidung beigezogen werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methoden der Technologie-Bewertung (z.B. Trendextrapolation, Delphi-Methode, morphologischer Kasten, Relevanzbaum-Analyse, Risiko-Analyse, Modellsimulation, Verflechtungsmatrix, Szenario-Gestaltung, Nutzwertanalyse) und kann darstellen, welchen Beitrag sie zur Entscheidungsfindung leisten können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Das Potenzial für Verbesserungen im Beobachtungsfeld ermitteln und dokumentieren. Zu diesem Zweck Best Practices berücksichtigen und Benchmarking einsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kann eine spezifische Benchmarking-Technik beschreiben, die für Vergleiche von Informationstechnologien verwendet werden kann und kann deren Beitrag zur Entscheidungsfindung erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Verbesserungsmassnahmen aus der bewerteten Technologieliste ableiten und dem Entscheidungsgremium präsentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Inhalt und Gliederung einer Präsentation und kann aufzeigen, welche Aspekte die Überzeugungsarbeit gegenüber Entscheidungsträgern unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>643</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=643%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Entwicklungsprozess definieren</title>
+    <capability>Definiert die Entwicklungsprozesse und die Entwicklungsorganisation, um eine der ICT Enterprise-Architektur  (EA) sowie den anstehenden Entwicklungsvorhaben angemessenes und effizientes Vorgehen zu gewährleisten und setzt dieses adäquat um.</capability>
+    <goals>
+        <goal>
+            Definiert unter Berücksichtigung der Komplexität der zu entwickelnden Applikationen und dem gewählten Entwicklungsvorgehen die Artefakte, welche den Prozessleistungen des Entwicklungsprozesses entsprechen. Definiert abgestimmt auf die zu liefernden Artefakte, die Entwicklungsorganisation und das Entwicklungsvorgehen den Prozess und Informationsfluss, welcher die Qualität und Nachvollziehbarkeit der Entwicklung sicherstellt.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die methodischen Schritte des Software-Entwicklungsprozesses und kann die Vorgehensmodel¬le der Software-Entwicklung (Bsp: open Unified Process. Wasserfall-Modell, Agile) umsetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt Softwareentwicklungs-Philosophien (Bsp: Extrem Programming, Scrum, Prototyping, open Unified Process) und weiss wie sich diese in Entwicklungsvorgehen einbinden lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgaben von UML an die Erstellung der Artefakte (Bsp: Klassen-, Verteilungs-, Interaktions-Diagramm der objektorientierten Softwareentwicklung) und welchen inhaltlichen Beitrag diese an die Konkretisierung einer Applikation leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Steigert die Effizienz und Effektivität der Entwicklungsvorhaben durch den Einsatz von Automatismen und Werkzeugen zur Unterstützung des Entwicklungsprozesses.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Merkmale von Applikationen (Bsp: Fat/Thin/Mobile Client) und der Softwarearchitektur (Bsp: Web-, Mobile-, 3tier Enterprise-Applikation), welche über den Einsatz der Werkzeuge beeinflussen und deren Einfluss auf den Entwicklungsprozess.
+                </knowledge>
+                <knowledge>
+                    Kennt Mechanismen von Source Code Management-Werkzeugen (SCM: cvs, svn, git), welche die parallele Entwicklung auf mehreren Entwicklungszweigen unterstützen und wie diese sicherstellen, dass zu jedem Zeitpunkt ein definierter Stand nachvollzogen werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Prozesse (Bsp: Peer Programming, SCM: git), um die Entwicklung mit mehreren Entwicklern zu koordinieren, den Lebenszyklus der Applikation zu kommunizieren und wie damit der Informationsfluss zwischen Entwicklung und Release Management sichergestellt werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgaben von Zielsystemen für die Erstellungs-Prozesse (Generierung, Unit-Test, Paketieren, Deployment) und wie diese bei der Automatisierung der Build-Prozesse zu berücksichtigen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert die notwendigen Kenntnisse und Fähigkeiten aufgrund der Anforderungen, welche die Architektur- und die Applikations-Portfolio und Technologie-Entwicklung stellen und bestimmt, inwieweit die vorhandenen Mitarbeitenden über diese Kenntnisse und Fähigkeiten verfügen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Karrieremodelle in der Softwareentwicklung und Kriterien, welche Entscheidungen zum Karrierewechsel zu lassen und den Entwicklungsprozess beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt Rollen sowie deren Aufgaben, Verantwortungen, Kom¬petenzen (AKV) in einem Entwicklungsprozess und bei welchen Merkmalen eines Entwicklungsvorhabens diese benötigt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Merkmale von zur Bestimmung eines Reifegrades ( Bsp: Junior oder Senior Programmierer),  und kann aufzeigen, welche Leistungen eines Mitarbeiters mit dem entsprechenden Reifegrad erwartet wird.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Bestimmung des Reifegrades von Mitarbeitern (Bsp: Assessements)  und kann aufzeigen wie der Nutzen im Projektvorhaben beeinflusst wird.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken der Gesprächsführung (Bsp: aktives Zuhören, Spiegeln etc.) und wie und wann diese im Gespräch eingesetzt werden, um ein Gespräch zielführend abzuwickeln.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt die Entwicklungsressourcen unter Berücksichtigung ihrer Kenntnisse, Fähigkeiten, Verfügbarkeit, Mitarbeiterentwicklungsplanes und Belastbarkeit abgestimmt auf die Komplexität und Dringlichkeit der Entwicklungsvorhaben ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Techniken einer Einsatzplanung (Bsp.: Gant Diagramm, Projektplan, Ressourcenplan) und wie  diese den optimalen Einsatz der Ressource den Projektverlauf beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt Merkmale der verschiedenen Führungsstile (Bsp: Patriarchat, Management by Objective) und wie sich diese auf das Projekt und die daraus resultierende Leistungskurve (Ruhephasen, Belastungskurven, work-/life balance) der Mitarbeitenden auswirken.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methoden und Techniken zur Leistungserfassung (Bsp: Mitarbeiter-bezogene, Leistungs-bezogene) und wie diese die Kontrolle und die Steuerung der Projekte sicherstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Merkmale der verteilten Projekte (Bsp: near, off-shore Projekte) und welche Auswirkungen diese auf den Teambildungsprozess haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert die Erhebung und Verwaltung der Erfahrungen und Erkenntnissen aus den Entwicklungsvorhaben sowie der Artefakte und trifft die organisatorischen Vorkehrungen, damit diese in anderen Projekten zur Verfügung stehen und genutzt werden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Merkmale des Aufbaus eines Knowledge-Management-Systems und wie die Nutzung des Wissens und der Erfahrungen das Entwicklungsvorhaben beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt Instrumente und Massnahmen einer systematischen Personalentwicklung und bei welcher Ausgangslage diese zum Einsatz kommen und welche Wirkung sie in Bezug auf die Entwicklung einer Person haben.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken um Erfahrungen und Erkenntnisse in Projekten in Erfahrung zu bringen sowie zu sichern (lessons learned) und auf welche Gesichtspunkte bei deren Einsatz besonders Wert gelegt werden muss, um diese vollständig zu erfassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

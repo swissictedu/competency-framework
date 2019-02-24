@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>212</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=212%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Lern- und Arbeitstechniken einsetzen</title>
+    <capability>Das eigene Lern- und Arbeitsverhalten wahrnehmen, beurteilen und verbessern. Situationsbezogen geeignete Arbeits- und Lerntechniken auswählen und einsetzen.</capability>
+    <goals>
+        <goal>
+            Eigenes Arbeits- und Lernverhalten wahrnehmen, dokumentieren, reflektieren und beurteilen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten persönlichen Verhaltensweisen (sich ablenken lassen, schwierige Aufgaben vor sich her schieben etc.) die den Lern- oder Arbeitserfolg beeinflussen und kann an Beispielen darlegen, wie sich diese konkret auf den Lern- und Arbeitserfolg auswirken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sich informieren über alternative Arbeits- und Lernmethoden und diese in geeigneten Situationen erproben und trainieren mit dem Ziel, das eigene Arbeits- und Lernverhalten systematisch zu verbessern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Lerntechniken (Memorisieren, Kontextlernen etc.) und kann aufzeigen, für welche Arten der Aneignung von Themen bzw. Lernvorhaben sich diese eignen.
+                </knowledge>
+                <knowledge>
+                    Kann für die verbreiteten Lerntechniken beispielhaft aufzeigen, wie diese zur Aneignung von Themen oder Lernstoff eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Arbeitstechniken, um Informationen, Themen etc. zu strukturieren bzw. aufzubereiten (Mind Mapping, Recherchen im Internet, Zusammenfassen von Quellen etc.) und kann aufzeigen, für welche Art von Vorhaben diese eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kann für die verbreiteten Arbeitstechniken an Beispielen erläutern, nach welchen Regeln die Aufbereitung von Informationen und Themen mit diesen Arbeitstechniken erfolgt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anregungen Dritter (Berufsbildner/Berufsbildnerin, Lehrende, Kolleginnen und Kollegen, Vorgesetzte usw.) aufnehmen, beurteilen und danach sein Arbeitsverhalten verändern.
+            <knowledge-list>
+                <knowledge>
+                    Kann mit Lob und Kritik umgehen und daraus ableiten, welche persönlichen Konsequenzen sich für die eigene Arbeit ergeben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Für konkrete Arbeits- und Lernschritte geeignete Arbeits- und Lerntechniken auswählen, einsetzen, begründen und aufgrund der erzielten Ergebnisse allenfalls modifizieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Vorgehen zur systematischen Aufzeichnung eigener Erfahrungen beim Einsatz von Arbeits- und Lernschritten und kann darlegen, wie solche Aufzeichnungen die weitere Anwendung von Lern- und Arbeitstechniken unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

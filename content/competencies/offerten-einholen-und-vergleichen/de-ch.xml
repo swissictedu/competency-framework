@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>132</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=132%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Offerten einholen und vergleichen</title>
+    <capability>Offerten für Informatikmittel aus dem Bereich des eigenen Tätigkeitsfeldes einholen, beurteilen und Beschaffungsempfehlung erstellen.</capability>
+    <goals>
+        <goal>
+            Aus einem Pflichtenheft die notwendigen Informationen für das Einholen und die Beurteilung von Offerten ermitteln.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen bei der Beschaffung von Sachmitteln und kann aufzeigen, welchen Beitrag die einzelnen Schritte zu einer guten Auswahl leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Abschnitte eines Pflichtenhefts und kann erläutern, welche Abschnitte beim Einholen von Offerten und deren Beurteilung beachtet werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Auswählen von Anbietern am Markt und Einholen von Offerten.
+            <knowledge-list>
+                <knowledge>
+                    Kann erläutern, warum eine Vorauswahl von Anbietern beim Einholen von Offerten sinnvoll ist.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eingegangene Offerten mit Entscheidungstechniken bewerten. Risiken abschätzen und Kosten ermitteln.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Struktur und Inhalt von Angeboten/Offerten und kann an Beispielen aufzeigen, wo sich allfällige Risiken in Angeboten/Offerten verbergen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Kriterien für die Bewertung von Angeboten und kann aufzeigen, wie mit Hilfe dieser Kriterien ein Entscheid für ein Angebot herbeigeführt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellen einer Beschaffungsempfehlung mit Begründungen zuhanden der Entscheidungsträger.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Informationen, welche eine Beschaffungsempfehlung beinhalten muss und kann aufzeigen, welche Regeln dabei für eine verständliche und nachvollziehbare Empfehlung zu beachten sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

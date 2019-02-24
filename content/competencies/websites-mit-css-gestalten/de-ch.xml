@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>287</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=287%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Websites mit CSS gestalten</title>
+    <capability>Gestaltet eine Website mit Cascading Style Sheets (CSS) nach Vorgaben und überprüft das Endprodukt.</capability>
+    <goals>
+        <goal>
+            Erstellt syntaktisch und semantisch korrekten Code mit Cascading Style Sheets (CSS).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die eigene Entwicklungsumgebung und Werkzeuge (Tools), um effizient Websites zu gestalten und mögliche Codierungsfehler zu beheben.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau (Syntax) und die Bedeutung (Semantik) von Cascading Style Sheets (CSS) und deren Einbindung in HTML-Seiten.
+                </knowledge>
+                <knowledge>
+                    Unterscheidet verschiedene Arten von CSS-Selektoren (z.B. Typ, Klasse, ID, Attribut und Wert).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Arten der Schreibweise und Darstellung von CSS-Code (z.B. Coding-Standards) und deren sinnvolle Kommentierung.
+                </knowledge>
+                <knowledge>
+                    Kennt CSS-Validatoren, um CSS-Code zu überprüfen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Realisiert mit CSS eine benutzerfreundliche und responsive Website.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vor- und Nachteile von benutzerfreundlichen Webschnittstellen (Webinterface).
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Gestaltungsmöglichkeiten (z.B. ein- oder mehrspaltige Seitenraster, Grid, Boxen) zur Erstellung benutzerfreundlicher Webschnittstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Techniken zur Erstellung von benutzerfreundlichen Navigationen und Eingabemasken.
+                </knowledge>
+                <knowledge>
+                    Kennt Strategien (Mobile-First, Desktop-First) zur Erstellung von responsiven Websites.
+                </knowledge>
+                <knowledge>
+                    Kennt Werkzeuge (Tools), um die Reaktionsfähigkeit (Responsiveness) von Websites zu überprüfen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt CSS-Bibliotheken (CSS-Frameworks) ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt aktuelle CSS-Bibliotheken und deren wichtigste Vor- und Nachteile.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Techniken zur Einbindung von CSS-Bibliotheken (z.B. CDN, lokal, http-Link)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gestaltet eingebundene Multimedia-Elemente (Bild, Audio, Video, einfache Animation) in einer Website.
+            <knowledge-list>
+                <knowledge>
+                    Kennt unterschiedliche Darstellungen der verschiedenen Multimedia-Elemente (Bild, Audio, Video, einfache Animation).
+                </knowledge>
+                <knowledge>
+                    Kennt Strategien und Techniken zur Gestaltung der verschiedenen Multimedia-Elemente.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testet das Endprodukt auf die Erfüllung der Vorgaben mit verschiedenen Browsern und nimmt geeignete Anpassungen vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehensweisen (z.B. Abnahmetest, Akzeptanztest) für die Erfolgskontrolle und kann deren Einsatz für die Bestimmung der Zielerfüllung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Testkriterien, um die korrekte Funktionsweise des Webauftritts auf unterschiedlichen Endgeräten und Browsern sicherzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Quellen, um sich über unterstützte CSS-Funktionen von Browsern zu informieren (z.B. caniuse.com).
+                </knowledge>
+                <knowledge>
+                    Kennt einfache Varianten von Browserweichen zur Optimierung der Browserkompatibilität.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>461</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=461%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Intégrer des services de communication mobile</title>
+    <capability>Analyser les aspects organisationnels, techniques et spécifiques à l’utilisation des services de communication mobile en vue de leur intégration dans un réseau d’entreprise existant.</capability>
+    <goals>
+        <goal>
+            Analyser les besoins de l’entreprise et en déduire les exigences fonctionnelles envers un service de communication mobile.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des catégories d’exigences qui peuvent être satisfaites par un service de communication mobile.
+                </knowledge>
+                <knowledge>
+                    Pouvoir identifier systématiquement les exigences de l’entreprise (fonctionnelles, techniques, organisationnelles, environnementales et économiques) envers les services de communication mobile.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Recommander un service de communication mobile ou un prestataire adéquat sur la base des exigences fonctionnelles de l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctionnalités d’un service de communication mobile (téléphonie, services d’informations, collaboration, messagerie, etc.) et pouvoir expliquer comment elles satisfont les exigences.
+                </knowledge>
+                <knowledge>
+                    Connaître les catégories de prestataires (fournisseurs de services complets, fournisseurs spécialisés, etc.) et pouvoir expliquer l’influence de leurs offres sur le choix d’un service de communication.
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs déterminants à prendre en compte dans le calcul de rentabilité d’un service mobile (frais d’acquisition, d’implémentation, de maintenance, d’utilisation (taxes), d’élimination, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance de l’écobilan du service de communication pour le choix d’un fournisseur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer sur la base des exigences fonctionnelles et des consignes du service de communication le concept technique d’implémentation du service de communication mobile.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les services de communication mobile les plus courants (téléphonie, SMS, MMS, services basés sur le Web, GPS, push mail, etc.) et leurs utilisations.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques de transmission les plus courantes utilisées par les services de communication mobile (GSM, EDGE, UMTS, WiMAX, LTE, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les utilisations possibles du cloud computing en relation avec les services de communication mobile et pouvoir en expliquer l’utilité pour le service de communication mobile choisi.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer comment les facteurs d’influence environnementaux (utilisation durable, élimination, recyclage, etc.) doivent être pris en compte dans le concept technique.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir sur la base du concept les conditions techniques à remplir pour l’utilisation de services et de terminaux de communication mobile dans une infrastructure de réseau existante.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes permettant de définir le degré de satisfaction d’une offre concernant un service de communication mobile sur la base d’informations récoltées, p.ex. au moyen d’une liste de critères complétée.
+                </knowledge>
+                <knowledge>
+                    Connaître les terminaux mobiles les plus courants (PDA, smartphones, netbooks, tablettes, etc.) et pouvoir en expliquer les fonctions et l’utilité.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales influences des conditions techniques sur la mise en place de services de communication mobile (puissance du signal, interférences, planification de fréquence, largeur de bande, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les ensembles de données nécessaires pour assister l’activité de l’entreprise par un service de communication mobile.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la problématique de l’actualisation d’ensembles de données distribués ou redondants en relation avec l’utilisation de services de communication mobile.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer comment les ensembles de données doivent être préparés pour la communication afin d’éviter la problématique décrite.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un concept de synchronisation et de stockage des données identifiées sur des terminaux mobiles et sur le réseau existant de l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les formats de données les plus courants utilisés en relation avec les services de communication mobile (XML, CSV, iCal, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques / protocoles de transmission les plus courants et leurs possibilités en relation avec l’utilisation de terminaux mobiles (IrDa, Bluetooth, 802.11b/g/n, WAP, WebDAV, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, sur la base du concept de synchronisations et de stockage ainsi que des exigences d’intégrité et de confidentialité des données, les mesures de sécurité nécessaires pour l’utilisation du service de communication mobile et des terminaux.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les risques les plus courants que présentent l’utilisation de terminaux mobiles et l’implémentation de services de communication mobile dans un réseau d’entreprise existant.
+                </knowledge>
+                <knowledge>
+                    Connaître des mesures de protection permettant de réduire ou d’éliminer les risques les plus courants que présente l’utilisation de terminaux mobiles et de services de communication mobile.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

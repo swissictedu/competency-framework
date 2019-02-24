@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>330</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=330%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettre en service un système de téléphonie IP.</title>
+    <capability>Installer, configurer et mettre en service un système de téléphonie IP selon les directives.</capability>
+    <goals>
+        <goal>
+            Saisir et documenter les exigences (sécurité, profil de charge, volume de données, disponibilité des services nécessaires, interfaces, terminaux) pour un système de téléphonie IP.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères (y compris la qualité du service) qui doivent être appliqués lors du dimensionnement d’un système de téléphonie IP.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Comparer, avec les exigences, l’infrastructure réseau existante ainsi que les liaisons avec le monde extérieur, au besoin proposer les adaptations nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des spécifications techniques de systèmes de serveurs et réseau pour la téléphonie IP.
+                </knowledge>
+                <knowledge>
+                    Connaître différents concepts et modèles VoIP, ainsi que leurs avantages et inconvénients.
+                </knowledge>
+                <knowledge>
+                    Connaître les protocoles usuels (par ex. SIP et RTP, y.c. codecs et protocoles comme H.323, STUN, NAT, aLaw, uLaw.)
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux services de la téléphonie classique (analogique, ISDN) ainsi que leur liaison au moyen de passerelles.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités de connexion d’un système de téléphonie IP au réseau à grande distance.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser les réglages nécessaires conformément à la sécurité et au concept d’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des mesures spécifiques de sécurité pour un système de téléphonie IP.
+                </knowledge>
+                <knowledge>
+                    Connaître des mesures pour garantir la disponibilité de système de téléphonie IP (par ex. redondances, USV).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer et configurer les terminaux et le logiciel, installer les services nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la possibilité de raccordement à un ERP et/ou à des systèmes Groupware existants.
+                </knowledge>
+                <knowledge>
+                    Connaître la possibilité de raccordement à la téléphonie classique via une passerelle.
+                </knowledge>
+                <knowledge>
+                    Connaître divers types de clients VoIP ainsi que leurs avantages et inconvénients.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter et documenter les fonctionnalités de la téléphonie.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctionnalités fondamentales de la téléphonie (Call-Routing, appel circulaire, réponse automatique, transferts, MOH, Blacklist, etc.)
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour définir des services/fonctions pour des numéros/utilisateurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester le système de téléphonie IP (test des fonctions, test de charge, sécurité, crash test, inclus la panne d’alimentation électrique).
+            <knowledge-list>
+                <knowledge>
+                    Connaître une procédure pour tester de manière reproductible un système de téléphonie IP.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

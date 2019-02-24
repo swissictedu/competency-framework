@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>665</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=665%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Informationssicherheitsstrategie entwickeln</title>
+    <capability>Erarbeitet unter Berücksichtigung der relevanten Einflussfaktoren die strategischen Ziele für die Informationssicherheit in einer Organisation und stellt die Einbettung der Informationssicherheitsstrategie in die übergeordnete Unternehmensstrategie sicher.</capability>
+    <goals>
+        <goal>
+            Untersucht die Geschäftsprozesse einer Organisation in Bezug auf die Wertschöpfung und identifiziert die essenziellen Prozesse, welche aus der Sicht der Informationssicherheit schützenswert sind.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Begriffe Kern-, Unterstützungs- und Managementprozess und deren Bedeutung in der Wertschöpfungskette einer Organisation.
+                </knowledge>
+                <knowledge>
+                    Kennt die allgemeinen Schutzziele der Informationssicherheit (Vertraulichkeit, Integrität, Verfügbarkeit).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Untersucht das Umfeld einer Organisation und identifiziert relevante Anspruchsgruppen für die Informationssicherheit und deren Interessen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Einflussfaktoren (z.B. Wirtschaft, Gesellschaft, Technologie, Natur) und Anspruchsgruppen (z.B. Kunden, Lieferanten) im Umfeld einer Organisation.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Analyse und Darstellung des Bezugsrahmens einer Organisation (z.B. St. Galler Management-Modell SGMM, Umfeldanalyse, Stakeholder-Analyse).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert die Unternehmensstrategie und identifiziert relevante Bedrohungen für die Informationssicherheit.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Elemente einer Unternehmensstrategie (Leitbild, Mission, Vision, Werte, strategische Ziele).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken der strategischen Planung (z.B. SWOT-Analyse, Wertkettenanalyse, Balanced Scorecard) und zur Analyse strategischer Lücken (z.B. GAP-Analyse).
+                </knowledge>
+                <knowledge>
+                    Kennt gängige Quellen und Kataloge mit Bedrohungen (z.B. MELANI, Gefährdungskataloge BSI).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus den Bedrohungen und unter Berücksichtigung des Risikoappetits des Managements die strategischen Ziele für die Informationssicherheit ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Begriffe Risikoappetit (Risikobereitschaft) und Risikotoleranz (Risikokapazität) und kann die Unterschiede erklären.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Aspekte bei der Formulierung strategischer Ziele (Erwartungshaltung Management, Auftrag, Planungshorizont, Leistungen, Organisation, Finanzierung).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sensibilisiert das Management für die Informationssicherheit und stellt die Einbettung der Informationssicherheitsstrategie in die übergeordnete Unternehmensstrategie sicher.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Wichtigkeit und die Gründe für die Verankerung der Informationssicherheitsstrategie im Management.
+                </knowledge>
+                <knowledge>
+                    Kennt unterstützende Haltungen für die Sensibilisierung des Managements (z.B. Kommunikationsfähigkeit, Loyalität, Integrität).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

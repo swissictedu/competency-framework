@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>183</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=183%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Applikationssicherheit implementieren</title>
+    <capability>Applikationen sicher planen, entwickeln und in Betrieb nehmen.</capability>
+    <goals>
+        <goal>
+            Aktuelle Bedrohungen erkennen und erläutern können. Aktuelle Informationen zum Thema (Erkennung und Gegenmassnahmen) beschaffen und mögliche Auswirkungen aufzeigen und erklären können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Informationsquellen zu aktuellen Bedrohungen.
+                </knowledge>
+                <knowledge>
+                    Kennt Sicherheitslücken und mögliche Folgen von Angriffen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sicherheitslücken und ihre Ursachen in einer Applikation erkennen  können. Gegenmassnahmen vorschlagen und implementieren können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt mögliche Ursachen von Sicherheitslücken in Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Vorgehen zur Identifikation von Sicherheitslücken in Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Gegenmassnahmen zu den verschiedenen Kategorien von Bedrohungen und wie diese implementiert werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mechanismen  für die Authentifizierung und Autorisierung umsetzen können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Authentifizierungsmechanismen und deren Funktionsweise.
+                </knowledge>
+                <knowledge>
+                    Kennt Verschlüsselungsmechanismen und deren Einbindung in der Applikation.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Verfahren zur Zugriffssteuerung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sicherheitsrelevante Aspekte bei Entwurf, Implementierung und Inbetriebnahme berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt sicherheitsrelevante Aspekte beim Entwurf von Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken bei der Realisierung zur Vermeidung von Sicherheitslücken (z.B. Input/ Output Validierung, Defensives Programmieren, Session-Management, Error Handling).
+                </knowledge>
+                <knowledge>
+                    Kennt ein Vorgehen für das sichere Deployment von Applikationen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Informationen für Auditing und Logging generieren. Auswertungen und Alarme definieren und implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Sinn, Aufbau und Inhalt eines Logs.
+                </knowledge>
+                <knowledge>
+                    Kennt Sinn, Aufbau und Inhalt eines Audit-Trails.
+                </knowledge>
+                <knowledge>
+                    Kennt mögliche Formen der Alarmierung und Regeln für eine Alarmauslösung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

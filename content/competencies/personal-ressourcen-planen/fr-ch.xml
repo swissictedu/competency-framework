@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>652</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=652%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Planifier les ressources en personnel</title>
+    <capability>Planification et direction du personnel dans une unité d’organisation TIC avec des exigences clairement définies avec les demandeurs de prestations en ce qui concerne les prestations à fournir.</capability>
+    <goals>
+        <goal>
+            Etablir la planification des besoins en personnel en accord avec les développements futurs, exigences et prévision des besoins des demandeurs de prestations.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les méthodes et les procédures concernant la planification en besoin en personnel (planification des FTE) quantitatives (extrapolation de tendance, méthode analogique, méthode des ratios par exemple balanced scorecard, la méthode Delphi) et qualitatives (exigences du poste, groupe de qualifications, plan d’occupation des postes, description de poste).
+                </knowledge>
+                <knowledge>
+                    Connaître la représentation de l’aperçu des prestations perçues du demandeur de prestations (SLA, OLA, portefeuille de service) et l’analyse du degré de réalisation et de couverture quant au respect et à la fourniture des prestations du domaine exigées.
+                </knowledge>
+                <knowledge>
+                    Connaître la prise en considération des coûts de personnel budgétisés dans le contexte de l’effectif cible (besoin d’investissement, besoin de réserve) et plans des effectifs.
+                </knowledge>
+                <knowledge>
+                    Connaître le calcul des besoins en personnel nets (besoin en personnel actuel, futur) compte tenu des besoins de remplacements (collaborateurs à remplacer) et des nouveaux besoins (collaborateurs supplémentaires), ainsi que les valeurs d’influence externes (développement économique, technique, situation de la concurrence) et internes (objectifs/stratégie d’entreprise, structure organisationnelle, possibilités de financement).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déduire, de la planification des besoins en personnel, les mesures nécessaires dans les domaines de l’acquisition de personnel, développement du personnel ou réduction du personnel.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la description de période (court, moyen, long terme) des objectifs et des mesures de marketing de personnel de la communication interne et externe à l’entreprise du besoin en personnel (postes vacants), ainsi que les voies et moyens d’acquisition.
+                </knowledge>
+                <knowledge>
+                    Connaître l’utilisation d’instruments d’acquisition de personnel comme Electronic Recruiting (portail d’emploi Internet, page d’accueil internet de l’entreprise, les plateformes média-sociales (Xing, Facebook)), conseil en personnel, chasseur de tête, offices régionaux de placement (ORP).
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures concernant la qualification des collaborateurs au moyen de mise en œuvre de différents concepts de développement de personnel.
+                </knowledge>
+                <knowledge>
+                    Connaître la planification de la carrière (Management Development MD) basée sur les plans des postes et de la relève de l’entreprise, ainsi que l’appréciation de potentiel des collaborateurs et de la planification de développement personnelle (compétence spécialisée, compétence de méthode, compétence sociale, compétence moi).
+                </knowledge>
+                <knowledge>
+                    Connaître différente planification de libération de personnel (promotion, mutation, retraite, chômage partiel, résiliation) et les mesures accompagnatrices (newplacement, outplacement, management-buy-out, plan social, licenciements collectifs article 335d ff. du CO).
+                </knowledge>
+                <knowledge>
+                    Connaître les formes des planifications et de demande de coûts de recherche de personnel, de licenciement et de qualification / développement de personnel, ainsi que les changements de coûts de personnels.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, pour son unité d’organisation, un système de direction adéquat, introduire celui-ci et garantir son respect.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’application des plans, des décisions, des mises en œuvre, des contrôles compte tenu des valeurs fondamentales de l’entreprise des fonctions de conduite / cycle de conduite.
+                </knowledge>
+                <knowledge>
+                    Connaître la distinction de la conduite fondamentale selon conduite directe (personne de conduite, tâches, collaborateurs) et indirecte (stratégie, structure, culture).
+                </knowledge>
+                <knowledge>
+                    Connaître les valeurs obtenues des principes / stratégie de conduite (style de conduite, comportement de conduite, règle de collaboration, instruments de conduite, information, communication, convention d’objectif et évaluation des prestations, culture d’erreurs, degré de participation et de décision, comportement de résolution de conflit).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Diriger les collaborateurs au moyen des méthodes et instruments prescrits et ainsi garantir que tous les collaborateurs apportent leur contribution au succès de l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les méthodes de conduite comme le modèle de la motivation (Maslow), théorie des deux facteurs (Herzberg).
+                </knowledge>
+                <knowledge>
+                    Connaître les caractères distinctifs du style de conduite selon conduite continuum (Tannenbaum/Schmidt : autoritaire, patriarcal, consultatif, participatif, délégatif), selon matrice à 4 cases (Kälin/Müri : style 1 à 4), selon grille de conduite (managériale Grid Blake/Mouton : orientation relation respectivement orientation collaborateur), orientation académique respectivement orientation de tâche, conduite situationnelle respectivement modèle du niveau de maturité (Hersey/Blanchard : niveau de maturité 1à 4).
+Connaître des techniques de conduite comme MbO Management by Objectives, MbE Management by Exception (conduite par règlement d’exception), MbD Management by Delegation (conduite par délégation), MbR Management by Results (conduite par 
+orientation résultats), ou MbM Mangement by Motivation (conduite par motivation).
+                </knowledge>
+                <knowledge>
+                    Connaître les instruments de conduite comme Jour-Fix, meeting de team, newsletter.
+                </knowledge>
+                <knowledge>
+                    Connaître les phases du processus de la constitution d’équipe (forming, norming, storming, performing).
+                </knowledge>
+                <knowledge>
+                    Connaître la structure de rang sociodynamique et d’autres modèles et les prendre en considération dans la composition et la conduite de teams (par exemple sentiment de nous).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Appliquer le droit suisse du travail depuis la responsabilité d’un employeur jusqu’à la dénonciation du contrat de travail de telle sorte qu’aucun désavantage n’apparaisse aussi bien pour l’employé que l’employeur.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes fondamentaux du droit du travail concernant les données des problèmes fréquents de l’environnement ICT (par exemple disposition des heures supplémentaires, surveillance du trafic des emails, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les formes prescrites (orales, écrites), type de contrat (contrat de travail individuel CIT, convention collective de travail CCT), formation de contrat (promesse verbale, signature).
+                </knowledge>
+                <knowledge>
+                    Connaître les formes d’engagement et de collaboration spécifiques à ICT liées au contrat de travail comme bodyleasing, freelancer, consultant et spécialistes et les responsabilités, les interdiction de confidentialité et d’utilisation, interdiction à la concurrence, clauses pénales ainsi que les domaines d’applications pertinentes de la loi sur le travail (LTr) qui en sont liées.
+                </knowledge>
+                <knowledge>
+                    Connaître les prescriptions et les règlements du droit du travail comme la période d’essai, l’horaire de travail, le travail supplémentaire, les pauses, les vacances, les congés payés (militaire, grossesse), maintien du salaire en cas de maladie/accident, assurances (AP/ANP), frais, prévoyance professionnelle, fringe benefits, salaire.
+                </knowledge>
+                <knowledge>
+                    Connaître les formes prescrites et procédures lors de rupture de contrat ou fin de contrat (contrat à durée déterminé) concernant la résiliation, la validité, la forme, les délais, la libération.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

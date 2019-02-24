@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>326</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=326%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Objektorientiert entwerfen und implementieren</title>
+    <capability>Eine objektorientierte Analyse (OOA) in ein objektorientiertes Design (OOD) überführen, implementieren, testen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Aufgrund der Businessanalyse Anwendungsfälle formulieren und daraus die fachlichen Klassen ableiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Use Case Models und wie Sachverhalte aus dem Alltag damit abgebildet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensprinzipien zur Klassenfindung sowie die Bedeutung eines iterativen Design-Prozesses.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien, nach denen Objekte der realen oder Vorstellungswelt zueinander in Beziehung gebracht werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ein objektorientiertes Design erstellen und mittels Unified Modeling Language darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Architekturen um die Fachklassen zu einer lauffähigen Applikation zu ergänzen.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete UML-Diagramme und welche Sachverhalte sich damit abbilden lassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Objektorientiertes Design implementieren..
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten, wie eine Architektur mit einer objektorientierten Programmiersprache umgesetzt werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorteile eines iterativen Vorgehens für die Implementa-tion des Designs.
+                </knowledge>
+                <knowledge>
+                    Kennt Entwurfsmuster und deren Nutzen bei der Konkretisierung und Implementierung eines Designs.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Vorteile von Frameworks und mit welchen Funktionen diese das objektorientierte Design unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erfüllung der fachlichen Anforderung prüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehensweisen, um auf Grund der Analysedokumente (Use Cases, Aktivitätsdiagramme, Klassendiagramme) Testfälle zu bestimmen und auszuarbeiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Schritte die bei einem Systemtest durchlaufen werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Applikations-Architektur nachvollziehbar dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien für die Auswahl geeigneter UML-Diagramme für die nachvollziehbare Dokumentation einer Applikations-Architektur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

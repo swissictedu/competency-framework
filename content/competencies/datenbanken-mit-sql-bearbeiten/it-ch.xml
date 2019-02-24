@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>105</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=105%26clang=it</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Interagire con banche dati attraverso SQL</title>
+    <capability>Integrare uno schema logico di banca dati in un sistema di gestione di banche dati relazionale (RDBMS) attraverso un linguaggio standard (Structured Query Language SQL) Management System (RDBMS). Eseguire delle transazioni.</capability>
+    <goals>
+        <goal>
+            Implementare uno schema logico di banca dati in un RDBMS con l'aiuto di comandi SQL (DDL).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Befehle einer Datendefinitionssprache (DDL) zur Einrichtung einer Datenbank und kann beschreiben, wie diese Definitionen den Zugriff auf die Datenbank unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kann die geforderten Beziehungen unter Berücksichtigung der referenzielle Integrität (Datenkonsistenz) implementieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Attribuire i ruoli/autorizzazioni per garantire la protezione e la sicurezza dei dati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktionen eines Datenbankmanagementsystems um gemäss Vorgabe die Einschränkung des Zugriffs und der Manipulationen von Daten zu steuern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Caricare dei dati di test nella banca dati, attraverso una utility (bulk charge) o con dei comandi SQL.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Varianten, grössere Datenmengen in eine Datenbank zu laden und kann erläutern, welche Varianten bei bestimmten Ausgangssituationen vorzugsweise einzusetzen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eseguire delle transazioni con dei comandi SQL per l'elaborazione e l'analisi della banca dati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Befehle einer Datenmanipulations- und Abfragesprache (DML, SQL) zur Manipulation, Selektion und Auswertung von Datenbeständen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sulla base delle modifiche delle esigenze, adattare lo schema della banca dati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das schrittweise Vorgehen bei der Änderung eines Datenbankschemas und kann an Beispielen aufzeigen, welche Auswirkungen die Änderungen auf einen bestehenden Datenbestand haben können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

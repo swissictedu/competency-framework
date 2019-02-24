@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>210</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=210%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>IT Projekte leiten</title>
+    <capability>Projekte leiten und verantworten.</capability>
+    <goals>
+        <goal>
+            Projektauftrag abgrenzen, auf Vollständigkeit prüfen und für den Projektstart konkretisieren (um was geht es? was wird benötigt, welches sind die Ziele?).
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und die Struktur eines Projektauftrags und kann erläutern, welchen Beitrag die einzelnen Elemente zu einer klaren Definition und Führung des Projektes leisten und damit zu einer klaren Vereinbarung zwischen Auftraggeber und Auftragnehmer führen.
+                </knowledge>
+                <knowledge>
+                    Kann aus komplexen Vorgaben die essentiellen Aspekte erkennen und diese in einem Resümee kurz und prägnant zusammenfassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projektinfrastruktur spezifizieren, beschaffen und einrichten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Faktoren, welche die Verfügbarkeit von Material- und Informations-Ressourcen beeinflussen und kann anhand von Beispielen aufzeigen, wie diese Faktoren sich auf die Projektentwicklung auswirken können.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegende Struktur eines Anforderungskatalogs sowie den Beitrag der einzelnen Elemente dieser Struktur zu einer klaren Ausgangslage für die zu beschaffende Lösung.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Vorkehrungen für den Start eines Projekts und kann aufzeigen, wie diese Vorkehrungen zur Teambildung eines Projektteams beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bedarf an personellen Ressourcen ermitteln (Skills, Kapazitäten) und Projektteam bilden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden zur Definition von Anforderungsprofilen für Mitarbeiter und kann an Beispielen aufzeigen, wie damit Fehlbesetzungen in einem Projektteam vorgebeugt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projektspezifisches Vorgehensmodell mit den Lieferobjekten bestimmen.
+            <knowledge-list>
+                <knowledge>
+                    Kann aus einem Standardmodell für die Projektabwicklung ein projektspezifisches Vorgehensmodell ableiten und aufzeigen, welche Lieferobjekte bei den einzelnen Phasen des Vorgehensmodells entstehen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projektstrukturplan mit Teilprojekten erstellen und Teilprojekte aufsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Techniken zur Aufteilung und Koordination komplexer Projekte in Teilprojekte/Arbeitspakete und kann aufzeigen, wie ein komplexes Vorhaben durch Teilung vereinfacht und durch parallele Bearbeitung der Teile beschleunigt abgewickelt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Instrumente zur Steuerung und Kontrolle der Teilprojektleitungen und der Schnittstellen festlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Bedeutung der Führungsfunktionen (planen, entscheiden, anordnen, kontrollieren) erklären und an Beispielen eines situativen Führungsverhaltens ihre Wirkung im Hinblick auf die Zielerreichung darlegen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Elemente der Schnittstellen zwischen Teilprojekten und Gesamtprojekt und den Teilprojekten untereinander und kann an Bespielen aufzeigen, mit Hilfe welcher Kontrollmechanismen diese Schnittstellen überwacht werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt Massnahmen, die der periodischen Kontrolle des Projektstandes dienen und kann erläutern unter welchen Voraussetzungen im Projekt und bei welchen Anforderungen an die Qualität der Kontrollergebnisse diese geeignet sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Statusberichte der Teilprojekte konsolidieren. Abweichungen vom Gesamtplan feststellen und begründen. Informieren gemäss Kommunikationsplan.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die häufigsten Berichtsarten, welche für die Information und Kommunikation in einem Projekt eingesetzt werden und kann darlegen, welchem Zweck diese bezüglich des Verhaltens der Projektbeteiligten und der Zusammenarbeit im Projekt dienen.
+                </knowledge>
+                <knowledge>
+                    Kennt Arten von Abhängigkeiten zwischen Teilprojekten und zwischen den Teilprojekten und dem Gesamtprojekt, die für eine konsolidierte Ergebnisdarstellung relevant sind und kann darlegen, wie deren Berücksichtigung die Aussagekraft eines Statusberichts für das Gesamtprojekt beeinflusst.
+                </knowledge>
+                <knowledge>
+                    Kennt die Abhängigkeiten, welche sich in einer Projektorganisation zwischen den verschiedenen Projekten ergeben und kann aufzeigen, welche Koordinationstätigkeiten für eine funktionierende Organisation und den Erfolg der einzelnen Projekte notwendig sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Risiken verfolgen (Monitoring) und die Wirksamkeit getroffener Massnahmen überprüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kann das systematische Vorgehen im Risikomanagement beschreiben und den Beitrag der einzelnen Schritte zur Identifikation, Bemessung und Bewältigung von Projektrisiken aufzeigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projekt führen, Projektinformation sicherstellen, Kommunikation mit Stakeholdern pflegen und Projektmarketing betreiben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Darstellungsmöglichkeiten und Kenngrössen, die einen aussagekräftigen Nachweis hinsichtlich Projektstatus und Prognose liefern und kann an Beispielen erläutern, wie diese zu interpretieren sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien für die Beurteilung des Projekterfolgs und kann anhand von Bespielen erläutern, welchen Zusammenhang zwischen der Beurteilung und dem Projekterfolg besteht.
+                </knowledge>
+                <knowledge>
+                    Kennt die häufigsten Berichtsarten, welche für die Information und Kommunikation in einem Projekt eingesetzt werden und kann darlegen, welchem Zweck diese bezüglich des Verhaltens der Projektbeteiligten und der Zusammenarbeit im Projekt dienen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Abschlussbericht erstellen (Zeit, Kosten, Funktionalität, Teamwork, Ziel¬erreichung, Nutzen des Produktes/der Dienstleistung). Erfahrungen aus der Sicht des Projektteams dokumentieren (Lessons learned).
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Inhalt der wesentlichen Dokumente eines Projektabschlussberichtes und kann darlegen, welchen Nutzen diese für den Auftrageber, die Benutzer und das Projektmanagement haben.
+                </knowledge>
+                <knowledge>
+                    Kann die Rückführung im Projekt eingebundener Mitarbeiter zeit- und positionsgerecht vereinbaren.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, welche Bedeutung die Dokumentation von Erkenntnissen während der Ausführung eines Vorhabens auf die Nachvollziehbarkeit des Arbeitsergebnisses und die Abwicklung zukünftiger Vorhaben hat.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

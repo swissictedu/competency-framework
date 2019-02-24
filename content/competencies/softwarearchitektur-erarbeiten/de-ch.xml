@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>202</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=202%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Softwarearchitektur erarbeiten</title>
+    <capability>Erarbeitet die Software‐Architektur einer zu entwickelnden Applikation basierend auf funktionalen und nicht‐funktionalen Anforderungen.</capability>
+    <goals>
+        <goal>
+            Bestimmt aufgrund von funktionalen und nicht‐funktionalen Anforderungen für eine Applikation sowie Architekturvorgaben (Software‐, System‐ und Netzwerkarchitektur) eine geeignete Softwarearchitektur.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente und Merkmale einer Softwarearchitektur und kann ihre Ausprägungen erläutern und wie in Abhängigkeit davon die funktionalen und nicht‐funktionalen Eigenschaften einer Applikation beeinflusst werden.
+                </knowledge>
+                <knowledge>
+                    Kann für die Elemente und Merkmale einer Softwarearchitektur erläutern, wie diese die physische und organisatorische Projektstruktur beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente und Merkmale einer Systemarchitektur, welche für die Definition der Softwarearchitektur zu berücksichtigen sind, und kann erläutern, wie diese die Architektur einer Applikation beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente und Merkmale einer Netzwerkarchitektur, welche für die Definition der Softwarearchitektur zu berücksichtigen sind, und kann erläutern, wie diese die Architektur einer Applikation beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Zerlegt die Applikation in logische Schichten und teilt diese unter Berücksichtigung des gewählten Architekturmusters den entsprechenden Architekturschichten (Tier) zu.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kriterien, nach denen eine Applikation in logische Schichten aufgeteilt werden kann, und kann erläutern, wie diese die physische Verteilung (Tier) beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Paketdiagramms, welche einen Beitrag zur Beschreibung des Schichten‐Modells einer Softwarearchitektur leisten, und kann diese erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Paketdiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Verteilungsdiagramms, welche einen Beitrag zur Beschreibung einer Softwarearchitektur leisten und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Verteilungsdiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert unter Berücksichtigung der funktionalen und nicht‐funktionalen Anforderungen für die gewählte Schichtenarchitektur geeignete Interaktionstypen zwischen den Schichten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Komponentendiagramms, welchen einen Beitrag zur Beschreibung der Komponenten einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Komponentendiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Kommunikationsdiagramms, welche einen Beitrag zur Beschreibung eines Ablaufes eines Anwendungsfalles des Analysemodelles einer Applikation leisten, und kann diese erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Kommunikationsdiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert die Vorgaben für die Entwicklung der Applikation, welche die Einhaltung und Implementierung der spezifizierten Applikationsarchitektur sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Vorgaben einer Applikationsarchitektur, welche einzuhalten sind, und kann erläutern, wie diese eine konsistente Entwicklung und Implementierung der Applikation sicherstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einsatzbereiche von Softwareframeworks und den dazugehörigen Funktionsumfang und kann erläutern, wie die Implementierung einer Applikation dadurch beeinflusst wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus den Erkenntnissen bei der Erarbeitung der Softwarearchitektur für eine Applikation Anforderungen und Wünsche an die Architekturentwicklung im Unternehmen ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den grundlegenden Prozess einer Architekturentwicklung und weiss, wie Anforderungen und Änderungsvorschläge an die betriebliche Architekturentwicklung in diese Prozesse einfliessen müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Informationen, welche bei der Einreichung von Anforderungen und Änderungsvorschlägen an die betriebliche Architekturentwicklung mitgeliefert werden müssen, und kann erläutern, wie diese die Entscheidungsträger unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert die Konsequenzen sich verändernder Architekturvorgaben im Unternehmen für eine Applikation und leitet daraus die notwendigen Entwicklungsmassnahmen ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kriterien, nach denen die Auswirkungen von neuen Architekturvorgaben (Software‐, System‐ und Netzwerkarchitektur) auf die Applikationsarchitektur abgeklärt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

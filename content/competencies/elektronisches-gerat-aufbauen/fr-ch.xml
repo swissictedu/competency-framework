@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>108</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=108%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assembler un appareil électronique</title>
+    <capability>Assembler, tester, mettre en oeuvre et documenter un appareil électronique.</capability>
+    <goals>
+        <goal>
+            Interpréter le mandat, le plan de construction et les descriptions de fonctions qui sont nécessaires pour la construction et l’entretien d´un appareil électromécanique.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les symboles des éléments électroniques, électromécaniques et peut préciser les fonctions qu´ils remplissent.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les composants électriques et mécaniques, projeter et documenter les procédures de l´assemblage.
+            <knowledge-list>
+                <knowledge>
+                    Connaît le principe des désignations spécifiques aux composants et peut en déduire leurs caractéristiques et leurs domaines d´application. (Par ex. codes couleurs, marquages des condensateurs, etc.)
+                </knowledge>
+                <knowledge>
+                    Sait reconnaître les éléments avec polarisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser la construction mécanique et le câblage électrique conformément au plan de construction.
+            <knowledge-list>
+                <knowledge>
+                    Nommer les éléments qui entre en jeu pour la soudure et peut expliquer leur fonctionnalité. (Fer à souder, soudure à l´étain, circuit imprimé.)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier le fonctionnement de l´appareil électromécanique avec des moyens appropriés et, au besoin, corriger les erreurs.
+            <knowledge-list>
+                <knowledge>
+                    Peut déterminer des points de mesure sur l´appareil à l´aide du schéma de connexions.
+                </knowledge>
+                <knowledge>
+                    Peut entreprendre des mesures élémentaires à l´aide, par exemple, d´un multimètre.
+                </knowledge>
+                <knowledge>
+                    Peut exécuter un test approprié des fonctions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer le mode d´emploi de l´appareil.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure et l´organisation d´un mode d´emploi simple et peut expliquer pourquoi le mode d´emploi est indispensable.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>125</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=125%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettre en service des périphériques</title>
+    <capability>Installer, configurer, assurer la maintenance et dépanner des périphériques locaux tels qu’imprimantes, scanners, copieurs, fax et caméras numériques.</capability>
+    <goals>
+        <goal>
+            Installer et configurer des imprimantes, des scanners, des copieurs, des fax et des caméras numériques. Etablir et mettre à jour les documentations techniques.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les unités périphériques habituelles pour la mise en œuvre dans des environs de place de travail monoposte (PC) et peut préciser, quels processus techniques (fonctions, principes des fonctions, résultats des fonctions) conduisent au résultat du travail visé pour ces appareils.
+                </knowledge>
+                <knowledge>
+                    Connaît les principales procédures lors de l´installation d’unités périphériques (vérifier la livraison complète, les prescriptions du fabricant, consulter les guides d´installation etc.) et peut préciser, comment, par l´observation de ces procédures une mise en service sans problème peut être garantie.
+                </knowledge>
+                <knowledge>
+                    Peut décrire, quelle utilité pour l´exploitation et la maintenance d´une unité périphérique est atteinte lorsque les informations sur la configuration, les réglages et l’inventaire sont saisis et reproduits dans une documentation technique.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir des échéances pour la maintenance des périphériques et établir leurs planifications.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les dispositions essentielles qu´un plan d´entretien doit comprendre et peut préciser, comment un entretien préventif peut ainsi être garanti et comment la disponibilité des unités périphériques est ainsi optimisée.
+                </knowledge>
+                <knowledge>
+                    Connaît les critères les plus importants (durée de fonctionnement, intensité d´utilisation, conditions d´environnement etc.) qu’il faut prendre en considération lors de la détermination des plans d´entretien et peut décrire, comment ces critères influencent l´intervalle et les frais d´entretien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre l’entretien d’appareils périphériques et mettre à jour le protocole d´entretien.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les informations essentielles dans les protocoles d´entretien et de réparation, peut préciser, comment leur prise en considération peut garantir la disponibilité des appareils et une exploitation économique.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser systématiquement les erreurs. Réparer les erreurs telles qu’alimentation défectueuse, qualité insuffisante, faux réglages de configuration, etc.
+            <knowledge-list>
+                <knowledge>
+                    Connaît une méthode qui permet de cerner systématiquement les situations de pannes, et peut préciser au moyen d´une panne type, comment celle-ci peut ainsi être découverte efficacement.
+                </knowledge>
+                <knowledge>
+                    Connaît l´importance de la prise en considération des documentations du fabricant lors de l’élimination des états défectueux et peut décrire, comment on prévient ainsi les cas de responsabilité et comment une réparation rapide de la panne peut être atteinte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eliminer les appareils et matériaux usagés ou irréparable (rubans, toner, etc..) respectant l´environnement.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les dispositions les plus importantes lors de l´élimination des déchets de composants matériel ainsi que des matériaux de consommation et peut décrire, quels effets le législateur veut obtenir avec ces dispositions pour la protection de l´environnement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

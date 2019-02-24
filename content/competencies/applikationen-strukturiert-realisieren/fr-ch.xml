@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>135</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=135%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer des applications partagées procédurales</title>
+    <capability>Développer des applications structurées multi-utilisateurs, en relation avec une base de données.</capability>
+    <goals>
+        <goal>
+            Analyser les besoins de l´utilisateur, en fonction de la structure et du contenu de la base de données.
+            <knowledge-list>
+                <knowledge>
+                     Connaît les conséquences sur une base de données qui ressortent des demandes de l'utilisateur et peut préciser quels compléments/adaptationscelles-ci exigent dans une base de données. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les exigences de charge, de production, de sécurité et de disponibilité sur la base de critères de performance.
+            <knowledge-list>
+                <knowledge>
+                     Connaît les conséquences qui doivent être clarifiées lors de l'interprétation des spécifications de performance et peut préciser, quand celles-ci exigentl'intervention de spécialistes systèmes. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer des transactions multi-utilisateurs.
+            <knowledge-list>
+                <knowledge>
+                     Connaît les conséquences sur l'intégrité et la protection des données qui apparaissent lors d'un engagement multi-utilisateurs et peut préciser, quelles mesures principales (application, base de données) agissent contre celles-ci.
+                </knowledge>
+                <knowledge>
+                     Connaît les composantes d'une transaction et peut décrire pourquoi le principe de transaction est impératif dans des environnements multi-utilisateurs.
+                </knowledge>
+                <knowledge>
+                     Connaît les composantes d'une transaction et peut préciser par un exemple, comment ces composantes jouent ensemble.
+                </knowledge>
+                <knowledge>
+                     Connaît les règles concernant la création de transactions et peut décrire quelles contributions apporte l'observation de ces règles concernant une multi-application sûre, efficace et fonctionnelle.
+                </knowledge>
+                <knowledge>
+                     Connaît les fonctions fondamentales d'un moniteur de transaction et peut préciser comme ainsi des actions contradictoires peuvent être inhibées ou comment en cas d'incident la situation de départ est restaurée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter des interfaces utilisateurs.
+            <knowledge-list>
+                <knowledge>
+                     Connaît les effets d'un développement d'application orienté transaction sur la spécification des interfaces utilisateurs et le lien à la base de données, et peut décrire comment ceux-ci garantissent le fonctionnement d'une application dans un environnement multi-utilisateurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir des jeux d´essais pour les tests.
+            <knowledge-list>
+                <knowledge>
+                     Connaît la principale structure d'un scripte de tests et peut décrire quelles informations contiennent les différents chapitres pour la mise en œuvre des tests d'une application.
+                </knowledge>
+                <knowledge>
+                     Connaît les principales différences entre les procédures de tests fonctionnelles et non-fonctionnelles et peut décrire au moyen de leurs avantages et inconvénients comment les deux procédures de test se complètent en ce qui concerne un essai global.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester l’application et établir le protocole des tests.</goal>
+        <goal>
+            Documenter l’application.
+            <knowledge-list>
+                <knowledge>
+                     Connaît la structure des documentations d'application et peut énoncer leurs contributions pour la maintenance et la reproductibilité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

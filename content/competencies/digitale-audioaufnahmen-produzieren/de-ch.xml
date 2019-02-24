@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>267</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=267%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Digitale Audioaufnahmen produzieren</title>
+    <capability>Bereitet eine Audioaufnahme vor, erstellt und bearbeitet Rohdaten und bereitet diese für die Weiterverarbeitung oder für das erforderliche Zielmedium auf. Beschafft unter Berücksichtigung urheberrechtlicher Aspekte zusätzliche Audiodateien (z.B. Musik, Geräusche).</capability>
+    <goals>
+        <goal>
+            Bereitet eine Audioaufnahme technisch und konzeptionell vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Charakteristik der Akustik von verschiedenen Räumen und deren Auswirkung auf die Audioaufnahme (z.B. Hall).
+                </knowledge>
+                <knowledge>
+                    Kennt die Audiogrundlagen (z.B. Audiopegel, Dezibel, Bitrate, Samplingrate, Frequenzen).
+                </knowledge>
+                <knowledge>
+                    Kennt die Charakteristik und die Einsatzgebiete verschiedener Mikrofontypen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung und die Funktionen von Sprache, Geräuschen und Musik innerhalb einer Multimediaproduktion.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant den Ablauf einer einfachen Audioproduktion.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die einzelnen Phasen einer Audioproduktion.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten und Grenzen der Audiobearbeitung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organisiert und reserviert die benötige Infrastruktur und richtet die Räumlichkeit für eine Audioaufnahme ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die zur Produktion benötigte Ausrüstung.
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigsten Verbindungen und Steckertypen im Audiobereich und ihre Verwendung.
+                </knowledge>
+                <knowledge>
+                    Kennt einfache Methoden zur Einschätzung/Analyse der Raumakustik.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt Rohdaten mit einem Audioaufnahmegerät gemäss Konzept.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktionen und Einstellungen der zu verwendenden Aufnahmegeräte.
+                </knowledge>
+                <knowledge>
+                    Kennt die optimale Positionierung und Einstellungen der zu verwendenden Mikrofone.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert die Aufnahmen vor Ort und nimmt allfällige Anpassungen vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Parameter zur Überprüfung der Aufnahmen (z.B. Audiopegel, Aus- und Übersteuerung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Anpassungen zur Optimierung von Aufnahmen (z.B. Distanz des Mikrofons, Anpassung des Aufnahmepegels).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transferiert Audiorohdaten von einem Speichermedium auf die vorgegebene Dateiablage und legt sie korrekt strukturiert ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Unterschied zwischen unkomprimierten und komprimierten Audioformaten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten zur Übertragung grosser Datenmengen über das Internet (z.B. Wetransfer, Clouddienste).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt Audiokorrekturen, Klangoptimierungen und Lautstärkeangleichungen um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Programme zur Bearbeitung von Rohdaten und zur weiteren Verarbeitung von Audiodaten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen zu Methoden/PlugIns für Audiokorrekturen und Klangoptimierungen (z.B. DeEsser, Denoiser, Equalizer, Kompressor, Normalisieren).
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Methoden/PlugIns von Audioeffekten (z.B. Hall, Delay).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bereitet die Daten für die Weiterverarbeitung (Film) oder für das erforderliche Zielformat auf.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Audioformate und ihre Eigenschaften.
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigen Codecs/Kompressionsverfahren und ihre Vor- und Nachteile.
+                </knowledge>
+                <knowledge>
+                    Kennt die technischen und qualitativen Anforderungen (Format, Samplingrate, Bitrate) an das Produkt, welches zur Weiterverarbeitung verwendet wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beschafft zusätzliches Audiomaterial (z.B. Musik, Geräusche) unter der Berücksichtigung der urheberrechtlichen Aspekte.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundlagen zum Urheberrecht in der Schweiz.
+                </knowledge>
+                <knowledge>
+                    Kennt die beiden Lizenzierungsmodelle Creative Commons und Royalty Free.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

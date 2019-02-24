@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>663</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=663%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Systemprozesse sicherstellen</title>
+    <capability>Stellt die Definition und Implementierung der relevanten Prozesse für das Managen von operativen Services und die Überwachung der Leistungserbringung durch interne und externe Leistungserbringer unter Berücksichtigung der Einhaltung des Service Level Agreements (SLA) sicher.</capability>
+    <goals>
+        <goal>
+            Definiert und implementiert ein SLA-Monitoring und –Reporting System, um jederzeit über Verstösse von internen oder externen Leistungserbringern informiert zu sein und im Bedarfsfall entsprechende Massnahmen einleiten zu können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Prinzipien des Service Managements nach ISO 20000 und ITIL®.
+                </knowledge>
+                <knowledge>
+                    Kennt die Prinzipien, nach welchen ein SLA-Monitoring und –Reporting System aufgebaut und implementiert wird.
+                </knowledge>
+                <knowledge>
+                    Kennt den Inhalt und den Aufbau eines Service Level Agreements (SLA) und dessen Bedeutung im Rahmen des ICT-Service-Managements.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehen bei Verstössen von internen oder externen Leistungserbringern (Bonus, Malusse, Sanktionen, Ersatzvornahme, u.ä.).
+                </knowledge>
+                <knowledge>
+                    Kennt die Verbindungen und Abhängigkeiten zu den Prozessen Change, Release und Deployment, Incident und Problem Management.
+                </knowledge>
+                <knowledge>
+                    Kennt Prinzipien zur kontinuierlichen Verbesserung der Services und Prozessen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und implementiert die Prozesse für das Change, Release und Deployment Management, um Changes wirtschaftlich, termingerecht und mit minimalen Auswirkungen auf den Service wirkungsvoll durchführen und die damit verbundenen Risiken richtig einschätzen zu können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufgaben und Ziele der Prozesse Change, Release und Deployment Management für deren Design und Implementierung.
+                </knowledge>
+                <knowledge>
+                    Kennt Prinzipien, nach welchen Change, Releases und Deployment geplant, gesteuert und überwacht werden.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen für die Erhebung von potenziellen Auswirkungen und Risiken  eines Changes und den Umgang damit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und implementiert den Incident Management Prozess, um die schnellstmögliche Wiederherstellung von Services mit minimalen Auswirkungen auf das Business und die Kunden gewährleisten zu können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Aufgaben und Ziel des Incident Management Prozess für dessen Design und Implementierung.
+                </knowledge>
+                <knowledge>
+                    Kennt das Prinzip, wie das Wissen zur Behebung der Störung als Vorgehensplan in einem Incident Modell abgelegt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied und  die Verbindungen/Abhängigkeiten zum Problem Management.
+                </knowledge>
+                <knowledge>
+                    Kennt die Prinzipien, nach welchen eine optimale Supportstruktur (1st, 2nd und 3rd Level) aufgebaut wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und implementiert den Problem Management Prozess, um sicherzustellen, dass im Bedarfsfall eine detaillierte Ursachenforschung für eine bereits eingetretene oder potentielle Störung gemacht und eine definitive Lösung gefunden und umgesetzt wird.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufgaben und Ziele des Problem Management  Prozesses für dessen Design und deren Implementierung.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensmodelle zur detaillierten Ursachenforschung (z.B. Ursachen-Wirkungs-Diagramm).
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen proaktivem und reaktivem Problem Management und dessen Anwendung im Rahmen des ICT-Service-Managements.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied und die Verbindung/Abhängigkeit zum Incident Management.
+                </knowledge>
+                <knowledge>
+                    Kennt die Verbindung zu den Prozessen Change, Release und Deployment Management.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

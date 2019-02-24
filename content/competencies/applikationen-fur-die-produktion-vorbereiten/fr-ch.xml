@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>154</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=154%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Organiser la mise en exploitation d’applications.</title>
+    <capability>Consulter les conditions cadres des applications (créées ou acquises) et identifier les activités nécessaires pour la mise en place. Planifier, déterminer, entamer les travaux préparatoires et entreprendre la mise en exploitation.</capability>
+    <goals>
+        <goal>
+            Consulter les conditions cadres des applications pour la mise en place (interfaces, migration des données, conversion des données, concept de tests, remise, risques, planification des cas d’urgence, retour en arrière, droits d’accès, sécurité des informations, etc.). Identifier les activités nécessaires pour la mise en place.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les caractéristiques qui déterminent la complexité des programmes et des composants du système et peut préciser, comment ceux-ci influencent l´intégration d´une application dans un environnement productif.
+                </knowledge>
+                <knowledge>
+                    Connaît les spécifications et caractéristiques techniques d´une application (interfaces, librairies,) qu’il faut prendre en considération lors de la préparation de la transmission dans la production, et peut décrire, quelle importance prennent ces spécifications et caractéristiques en regard d’une intégration réussie.
+                </knowledge>
+                <knowledge>
+                    Connaît les concepts et mesures organisationnels (autorisations d´accès, planification des cas d´urgence, Fallback, sécurité des informations) qui doivent être disponibles lors de l´intégration d´une application dans la production et peut décrire, quelles conséquences peuvent ainsi être prévenues lors de l´intégration et l’exploitation d´une application.
+                </knowledge>
+                <knowledge>
+                    Connaît des techniques et des processus de contrôle pour la migration et/ou la conversion des lots des données et peut préciser par des exemples, comment le transfert, sans fautes, d´un lot de données peut être ainsi obtenu.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier les travaux préparatoires nécessaires pour la mise en place et les déterminer en collaboration avec les partenaires (utilisateurs, production, formation, développement logiciels, livreurs, administration).
+            <knowledge-list>
+                <knowledge>
+                    Connaît les concepts, les mesures et les étapes à prendre en considération lors de la mise en place d´une application et peut préciser, quelles contributions ceux-ci apportent à un transfert réussi dans la production.
+                </knowledge>
+                <knowledge>
+                    Connaît les critères visant la définition des besoins en formation et qui sont importants lors de la migration sur une nouvelle application et/ou sur une nouvelle version.
+                </knowledge>
+                <knowledge>
+                    Connaît les méthodes et les techniques qui permettent une définition systématique des exigences et des spécifications, d’une prestation de service ou d’un produit, dans un groupe et peut décrire, à quels aspects, lors de l´utilisation, il faut prêter une attention toute particulière.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre et exécuter les travaux préparatoires nécessaires y compris les tests et la migration.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les conditions générales essentielles à prendre en considération lors de l´exécution d´un essai de remise et peut décrire, comment ceux-ci contribuent à un résultat fiable des tests pour le mandataire.
+                </knowledge>
+                <knowledge>
+                    Connaît les aspects fondamentaux qu´il faut examiner lors de la vérification du caractère fonctionnel, de l´intégrité et de la performance d´une application et peut décrire, quelles conditions de ces aspects doivent être créées pour un essai effectif.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Introduire et accompagner la mise en exploitation opérationnelle et établir le procès verbal de la remise.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les aspects qui doivent être pris en considération lors du transfert d´une application dans l´exploitation opérationnelle et peut énoncer la contribution des étapes nécessaires pour la qualité de la remise.
+                </knowledge>
+                <knowledge>
+                    Connaît la constitution d´un avis de réception et peut décrire pour les éléments les plus importants, quelle importance ceux-ci ont pour l´assurance qualité et le fonctionnement sans problème d´un système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

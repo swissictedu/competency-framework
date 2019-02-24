@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>103</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=103%26clang=de</reference>
+            <level>1</level>
+            <lessons>80</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Strukturiert programmieren nach Vorgabe</title>
+    <capability>Aufgrund einer Vorgabe ein Programm nach strukturiertem Ansatz erstellen, testen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Definierten Verarbeitungsprozess in Form einer Ablaufstruktur (Jackson, Nassi Shneidermann etc.) abbilden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kontrollstrukturen der strukturierten Programmierung (Sequenz, Auswahl, Wiederholung) und kann an Beispielen erläutern, welche Sachverhalte im Ablauf eines Algorithmus diesen Kontrollstrukturen entsprechen.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Notation für die Abbildung einer Programmlogik (Jackson, Nassi Shneidermann, PAP, usw.) und kann aufzeigen, wie darin die wichtigsten Kontrollstrukturen und der Ablauf eines Programms abgebildet werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Daten bestimmen und ihre Datentypen festlegen, die für die definierte Verarbeitung (Eingabe, Ausgabe) erforderlich sind.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Datentypen (Integer, Floating Point, Character/String) und kann aufzeigen, welche Arten von Daten/Informationen diesen Datentypen zugeordnet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Regeln (implizite und explizite), die bei der Konversion von Datentypen angewendet werden und kann aufzeigen, welche Auswirkungen diese hinsichtlich Genauigkeit und Aussage haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ablaufstruktur und Daten mit einer Programmiersprache in ein Programm umsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den grundlegenden Aufbau eines Programms (Positionierung von Deklaration und Verarbeitung usw.) und kann diesen Aufbau an einem Programm beispielhaft erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Befehle einer Programmiersprache (Kontrollstrukturen, Operatoren) und kann aufzeigen, welche Verarbeitungsanweisungen damit realisiert werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Den Quellcode verständlich ausarbeiten (Variablennamen, Struktur, Kommentare), um die Nachvollziehbarkeit des Programms sicher zu stellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Gliederungsmöglichkeiten (z.B. einrücken von geschachtelten Kontrollstrukturen) und kann erläutern, welchen Beitrag diese zur Lesbarkeit von Programmen leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Regeln für einen verständlichen Quellcode (sprechende Variablenbezeichnungen, geeignete Kommentare) und kann erläutern, welchen Beitrag diese Angaben zur Lesbarkeit von Programmen leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Benutzerschnittstelle für die Eingabe und Ausgabe der Daten erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Regeln, die bei der Datenein- und -ausgabe auf dem Bildschirm einzuhalten sind (Bezeichnung der Informationen, Format für Dateneingabe usw.) und kann erläutern, welche Probleme sich ergeben, wenn diese Regeln nicht eingehalten werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testfälle (Eingabewerte, erwartete Ergebnisse) definieren, um die fehlerfreie Verarbeitung des Programms sicher zu stellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Verfahren (z.B. Äquivalenzklassenbildung), die bei der Definition von Testfällen und Testdaten angewendet werden können und kann aufzeigen, inwieweit damit eine vollständige und korrekte Verarbeitung der Informationen in einem Programm nachgewiesen werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

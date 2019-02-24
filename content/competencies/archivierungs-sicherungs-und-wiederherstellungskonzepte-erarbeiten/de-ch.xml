@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>181</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=181%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Archivierungs-, Sicherungs- und Wiederherstellungskonzepte erarbeiten</title>
+    <capability>Erarbeitet und setzt Archivierungs‐, Sicherungs‐ und Wiederherstellungskonzepte für Applikationen und Datenbestände um und berücksichtigt dabei gesetzliche, wirtschaftliche und betriebliche Anforderungen.</capability>
+    <goals>
+        <goal>
+            Klassiert zusammen mit dem Informationseigentümer die inventarisierten Applikationen und Daten hinsichtlich ihrer Anforderungen an die Datenhaltung und dokumentiert die Ergebnisse.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien zur Klassierung von Applikationen und Datenbeständen hinsichtlich Verfügbarkeit, Sicherheit und Aufbewahrung (Datenhaltungskonzept) und kann erläutern, wie diese zu einer verbindlichen Vorgabe für die Archivierung, Sicherung und Wiederherstellung beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien zur Klassierung von Applikationen und Datenbeständen nach Volumen, Periodizität sowie Zugriffssicherheit und kann erläutern, welche Arten von betrieblichen Anforderungen damit konkretisiert werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Unterzieht die klassierten Daten in Bezug auf die aktuelle Datenhaltung einer Risikoanalyse und leitet daraus den Handlungsbedarf für ein Archivierungs‐, Sicherungsund Wiederherstellungskonzept ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt mögliche Risiken hinsichtlich einer sicheren und vollständigen Archivierung von Daten und kann aufzeigen, auf welche Ursachen diese zurückgeführt werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die Risiken, die mit einem Datenverlust einhergehen können, z.B. anhand einer Data‐Loss‐Prevention‐Risikoanalyse.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert Sicherungs‐ und Archivierungslösungen hinsichtlich der Erfüllung der Anforderungen und der Beherrschung der Risiken und leitet eine Empfehlung an den Auftraggeber ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene konzeptionelle Lösungsansätze zur Archivierung und Sicherung und kann aufzeigen, zur Erfüllung welcher Anforderungen des Unternehmens diese beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Prinzipien, nach welchen ein hierarchisches Speichermanagement in einem Speicherungs‐ und Archivierungssystem die Daten aufbewahrt und organisiert und kann erläutern, welche Vorteile sich hinsichtlich der Wirtschaftlichkeit der Datenhaltung und der Verfügbarkeit der Daten daraus ergeben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Arbeitet basierend auf dem Lösungsentscheid des Auftraggebers ein konkretes Konzept ur Archivierung, Sicherung und Wiederherstellung von Applikationen und Datenbeständen aus und lässt dieses vom Auftraggeber abnehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die konzeptionellen Punkte, die ein Sicherungs‐ und Archivierungskonzepts definieren (z.B. Periodizität, Sicherungsart, Verfügbarkeit, Lagerung der Sicherung).
+                </knowledge>
+                <knowledge>
+                    Kennt gängige Technologien der Datensicherung und kann erläutern, für welche Einsatzgebiete bzw. welche damit verbundenen Anforderungen sich diese eignen.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, wie Datensicherungstechnologien und die Auslegung der konzeptionellen Punkte, die ein Sicherungs‐ und Archivierungskonzept definieren, die Energieeffizienz und die nachhaltige Ressourcennutzung beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Wiederherstellung von Daten und Applikationen und kann erläutern, welche konzeptionellen Punkte bei einem Wiederherstellungskonzept zu beachten sind, um diesen Rechnung zu tragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert die Aufgaben, Verantwortungen und Kompetenzen der Beteiligten, um eine organisatorisch reibungslose Umsetzung des definierten Archivierung‐, Sicherungsund Wiederherstellungskonzepts gewährleisten zu können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die organisatorischen Bedingungen zur Implementierung von zuverlässigen Sicherungs‐ und Archivierungsprozessen und kann davon abgeleitet die notwendigen Rollen und Kompetenzen für das gewählte Sicherungs‐ und Archivierungskonzept benennen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und automatisiert die Prozeduren zur Archivierung, Sicherung und Wiederherstellung von Informationsbeständen, führt die Tests zur Überprüfung der korrekten Abwicklung dieser Prozeduren durch und implementiert sie.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktionen, welche Lösungen zur Archivierung‐, Sicherung‐ und Wiederherstellung von Informationen zur Verfügung stehen, und kann erläutern, wie diese die Automatisierung der entsprechenden Prozeduren unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, welche Konfigurationsmöglichkeiten für Funktionen von Lösungen zur Archivierung‐, Sicherung‐ und Wiederherstellung von Informationen zur Verfügung stellen und wie diese die Unterstützung der entsprechenden Prozeduren unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kennt Testverfahren, die sich für Steuerungsprozeduren beim Betrieb von ICT‐Systemen speziell eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert abgestimmt auf die Vorgaben für den Lebenszyklus von Sicherungs‐ und Archivierungssystemen und deren Medien ein Konzept für die sachgerechte Entsorgung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die rechtlichen Vorgaben, die bei der Entsorgung von Sicherungs‐ und Archivierungssystemen und deren Medien angewendet werden müssen, und kann aufzeigen, welche datenschutzbezogenen und ökologischen Zielsetzungen der Gesetzgeber damit verfolgt.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen hinsichtlich der Datensicherheit, die bei der Entsorgung von Speichermedien zu berücksichtigen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert Kontrollpunkte und regelmässige Tests der Archivierungs‐ und Sicherungsprozesse sowie der dazu gehörigen Katastrophenplanung und überführt diese in die Betriebsdokumentation.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die notwendigen Testverfahren und Kontrollen zur Sicherstellung der ordnungsgemässen Funktion der Sicherung und Archivierung sowie der dazu gehörigen Prozesse in der Katastrophenplanung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an Testprotokolle, die für Sicherstellung der erfolgreichen Tests in Bezug auf Sicherung, Archivierung und Wiederherstellung durchgeführt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

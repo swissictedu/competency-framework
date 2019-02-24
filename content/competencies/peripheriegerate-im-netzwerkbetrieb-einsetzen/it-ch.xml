@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>126</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=126%26clang=it</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Installare le periferiche in rete</title>
+    <capability>Integrare le periferiche di rete e i rispettivi servizi in una rete.</capability>
+    <goals>
+        <goal>
+            Pianificare l'integrazione di periferiche di rete (con collegamento di rete diretto) per l'utilizzo.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Verfahren für die Integration von Peripheriegeräten in ein Netzwerk (LAN, WLAN).
+                </knowledge>
+                <knowledge>
+                    Kennt das Prinzip der Abwicklung von Druckaufträgen über Warteschlangen (Spool) in Netzwerken.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorteile der gemeinsamen Nutzung von Netzwerkressourcen (z.B. Wirtschaftlichkeit)
+                </knowledge>
+                <knowledge>
+                    Kennt Nutzungskriterien und organisatorische Rahmenbedingungen (z.B. Berechtigungskonzept) für den Einsatz von Peripheriegeräten im Netzwerk.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installare, configurare e testare le periferiche direttamente sulla rete e protocollare il tutto nella documentazione di rete.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die notwendigen Konfigurationseinstellungen auf dem Peripheriegerät und dem Client um die Nutzung zu ermöglichen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten um die Peripheriegeräte (Firmware, Treiber) zu aktualisieren.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Testverfahren um das Peripheriegerät auf korrekte Funktionsweise zu überprüfen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung einer nachgeführten Netzwerkdokumentation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installare, configurare e testare le periferiche come anche i rispettivi servizi in un servizio di rete e protocollare il tutto nella documentazione di rete.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die notwendigen Konfigurationseinstellungen für den Dienst um das Peripheriegerät auf dem Client zu nutzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten von Scripts für die automatisierte Einbindung und Nutzungsberechtigung von Peripheriegeräten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Capire e spiegare una periferica di rete nella sua funzionalità.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktionsweise verschiedener Peripheriegeräte (z.B. Drucker, Scanner, NAS, Webcam)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Redigere una guida utente per le periferiche di rete.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Elemente einer Benutzeranleitung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>664</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=664%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Acquérir et surveiller des prestations de service TIC</title>
+    <capability>Piloter le processus avec des fournisseurs externes afin de pouvoir garantir le respect de l’accord du niveau de service avec les clients malgré  des prestations TIC en partie fournies de l’extérieur.</capability>
+    <goals>
+        <goal>
+            Identifier les composants d’une prestation, les limiter mutuellement et saisir les besoins et attentes qui doivent être remplis de la part des fournisseurs externes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la définition du terme prestations de service TIC en relation avec les activités de l’entreprise et leur signification lors du choix de prestataires de service externes.
+                </knowledge>
+                <knowledge>
+                    Connaître des catégories de prestations de service TIC ainsi que leurs limites mutuelles (par ex. développement, intégration de système).
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et instruments pour la saisie des besoins et exigences (par ex. groupe de focalisation, entretien centré sur le problème).
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement systématique lors de la saisie des besoins et exigences (collection, analyse, spécification, validation).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fixer dans un cahier des charges les composants d’une prestation ainsi que les besoins et attentes y relatifs, et initier un appel d’offres obligeant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes de base qui doivent être observés pour un appel d’offres loyal et couronné de succès (par ex. traitement équivalent, objectivité).
+                </knowledge>
+                <knowledge>
+                    Connaître les règles et dispositions procédurales dans le domaine du droit public lors d’un projet d’acquisition (par ex. montant du mandat, procédure ouverte/sélective).
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes de la procédure lors du déroulement conforme au projet ainsi que les conventions entre le mandant et les prestataires, depuis l’appel d’offres jusqu’à la publication de la décision (par ex. questions de la part des prestataires et le comportement y relatif afin de garantir un traitement équivalent).
+                </knowledge>
+                <knowledge>
+                    Connaître la construction et le contenu d’un appel d’offres (par ex. dossier des prestations, cahier des charges, preuve de la prestation demandée, délais).
+                </knowledge>
+                <knowledge>
+                    Connaître les parties d’un dossier de prestations TIC (par ex. prestations de service TIC, prestations en conseils, prestations en gestion de projet) ainsi que leurs éléments de définition (par ex. position des prestations, spécifications, exigences).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir un instrument d’évaluation, sur la base des exigences du cahier des charges, qui garantisse une évaluation objective et contrôlable des offres reçues.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments de base d’un système d’évaluation (par ex. objet à évaluer, critères d’évaluation, classe de qualité) ainsi que les exigences de leur élaboration afin de garantir l’objectivité et la reproductibilité d’une évaluation.
+                </knowledge>
+                <knowledge>
+                    Connaître la signification et la contribution apportée par un dossier de prestations systématiquement organisé pour un système d’évaluation objectif et reproductible.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et instrument d’évaluation pour garantir une évaluation systématique et reproductible (par ex. analyse des valeurs utiles, matrice des préférences).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer les offres reçues à l’aide de l’instrument d’évaluation et présenter les résultats au mandant sous la forme d’une recommandation pour la décision.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes du déroulement pour garantir des résultats d’évaluation consensuels et objectifs (par ex. introduction du système d’évaluation, analyse des résultats d’évaluation, processus de consensus).
+                </knowledge>
+                <knowledge>
+                    Connaître le comportement et les dispositions des personnes évaluatrices ainsi que leurs influences sur l’objectivité et la comparaison des résultats (par ex. préjugés, sympathie ou antipathie, implication personnelle, volonté de changer).
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments structurels d’une recommandation reproductible et fortement expressive (présentation, résumé de la gestion) ainsi que leur traitement à l’attention des décideurs (par ex. situation de départ, objectifs, déroulement de l’évaluation, résultats de l’évaluation, recommandation).
+                </knowledge>
+                <knowledge>
+                    Connaître les types d’objections sur les recommandations/offres (par ex. objection apparente, objection objective) ainsi que la stratégie du traitement des objections afin de réagir de manière adéquate (par ex. méthode du reframing, méthode de la division).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Piloter le processus de traitement du contrat selon les directives d’entreprise et garantir que l’offre correspond aux prestations TIC demandées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la signification d’une convention contractuelle entre le mandataire et le mandant en regard de la fourniture quantitative et qualitative de prestations de service (par ex. transparence, capacité d’évaluation, sécurité).
+                </knowledge>
+                <knowledge>
+                    Connaître les relations entre les documents contractuels importants pour la convention de prestations de service TIC (par ex. exigences des niveaux de service, niveaux de services, accord des niveaux de service) ainsi que leur répartition contractuelle et dans le temps.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de définition des exigences des niveaux de service (division en groupes de prestations, prestations attribuées selon les groupes, qualité des groupes de prestations) ainsi que leur contribution pour une convention claire entre le mandataire et le mandant.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir avec le fournisseur, en accord avec les exigences sur les prestations, la surveillance de la fourniture des prestations, leur communication et son processus d’escalade.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des données d’un rapport sur la fourniture de prestations (par ex. niveaux de service atteints, comparaison avec le niveau de service convenu, informations utilisées) ainsi que leur signification pour la surveillance de la fourniture de prestations.
+                </knowledge>
+                <knowledge>
+                    Connaître les conditions préalables et les mesures pour une communication optimale entre le destinataire et le fournisseur des prestations durant la phase de fourniture (par ex. capacité de réaction, confiance, fiabilité, principe des sanctions).
+                </knowledge>
+                <knowledge>
+                    Connaître la construction et le déroulement organisationnel de mesures afin de garantir le processus d’escalade lors de déviations des niveaux de service convenus (par ex. établir un gestionnaire du niveau de service, responsabilité pour l’identification de la déviation).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Surveiller, à l’aide des chiffres significatifs convenu ainsi que des instruments pour la surveillance des prestations, la livraison des prestations du fournisseur, et définir ainsi que convenir avec celui‐ci des éventuelles améliorations.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les exigences des indicateurs de performance pour la surveillance de la fourniture des prestations (par ex. correspondance avec le niveau de service, informations disponibles, qualité des informations disponibles).
+                </knowledge>
+                <knowledge>
+                    Connaître les principes d’une surveillance efficace de la fourniture des prestations (par ex. transparence, objectivité, reproductibilité) ainsi que les mesures y relatives à prendre.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

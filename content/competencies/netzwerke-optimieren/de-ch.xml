@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>471</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=471%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Netzwerke optimieren</title>
+    <capability>Analysiert Netzwerke im Betrieb, optimiert und entwickelt deren Leistung und Einsatz weiter durch geeignete Massnahmen, veränderte Einsatzmöglichkeiten sowie unter Berücksichtigung neuer Technologien.</capability>
+    <goals>
+        <goal>
+            Bestimmt im Hinblick auf die Charakteristik einer spezifischen Datenübertragung die Anforderungen an die Netzwerkarchitektur.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die spezifischen Parameter, die zur Definition und Überprüfung der QoS (Quality of Service) in IP‐basierten Netzen verwendet werden: Bandbreite (Durchsatz), Latenz, Jitter und Paketverlustrate.
+                </knowledge>
+                <knowledge>
+                    Kennt die Technologien, die in IP‐basierenden Netzwerken zur Erreichung von QoS verwendet werden (DiffServ, RSVP etc.).
+                </knowledge>
+                <knowledge>
+                    Kann aufgrund der Qualitätsanforderungen einer Anwendung an die Datenübertragung die benötigten QoS‐Parameter bestimmen.
+                </knowledge>
+                <knowledge>
+                    Kennt die notwendigen technischen Voraussetzungen, um QoS in einem IP‐basierenden Netzwerk umzusetzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert anhand der Dokumentation des bestehenden Netzwerkes neuralgische Stellen in Bezug auf Leistungsfähigkeit und Energieeffizienz.
+            <knowledge-list>
+                <knowledge>
+                    Kann aus einer Netzwerkdokumentation die neuralgischen Stellen der Netzwerkinfrastruktur ableiten und diese adressatengerecht beschreiben.
+                </knowledge>
+                <knowledge>
+                    Versteht es, Netzwerkdokumentationen unterschiedlicher Hersteller zu lesen und zu interpretieren, um eine zweckmässige Analyse durchzuführen.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie potenzielle Engpässe und Schwachstellen im Netzwerk zu erkennen sind, und kann deren Auswirkung insbesondere hinsichtlich steigender Leistungsanforderung beurteilen.
+                </knowledge>
+                <knowledge>
+                    Weiss, in welcher Art und Weise Energieverbrauchs‐ und Effizienzfaktoren in einem Netzwerk ermittelt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Misst mittels geeigneter Analysewerkzeuge die aktuelle Leistung des Firmennetzwerks und bereitet die Resultate aussagekräftig auf.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische Hilfsmittel, mit deren Hilfe die Aufzeichnung und Auswertung von Zustandsinformationen in einem lokalen Netzwerk (LAN) vereinfacht wird, z.B. SNMP V.x, RMON, Netflow, sFlow, MRTG, RRD, etc., und kann diese implementieren.
+                </knowledge>
+                <knowledge>
+                    Kann mittels geeigneter Analyse‐ und Überwachungswerkzeuge benötigte Zustandsinformationen zielführend erheben, z.B. mittels Monitoring‐Software wie cacti, ntop, openNMS, Zabbix, etc. und LAN‐Analysatoren wie Wireshark, MS Network Monitor etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Empfiehlt aufgrund der Analyse‐Erkenntnisse geeignete technische und organisatorische Massnahmen zur Sicherstellung der Leistungsvorgaben und zur Optimierung des Ressourceneinsatzes.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie aufgrund gemessener Leistungsdaten ein Ist‐/Soll‐Abgleich hinsichtlich der definierten QoS‐Vorgaben (Service Level Agreement) vorgenommen wird.
+                </knowledge>
+                <knowledge>
+                    Kennt verbreitete Möglichkeiten, um die QoS und die Verfügbarkeit in einem lokalen Netzwerk (LAN) sicherzustellen resp. zu erhöhen, z.B. Segmentierung des Netzwerks mittels VLANs, Einführung eines Bandbreitenmanagements mit Hilfe von Priorisierung und Begrenzung bestimmter Datenflüsse, Einsatz von Spanning Tree, etc.
+                </knowledge>
+                <knowledge>
+                    Kann anhand der Produktbeschreibung oder Betriebsanleitung einer Netzwerkkomponente erläutern, ob ein bestimmtes Produkt über die notwendigen Eigenschaften oder Merkmale verfügt, welche die Verfügbarkeit oder Leistungsfähigkeit des Netzwerks erhöhen, z.B. IEEE 802.1D/p/Q/v/w/s, 802.1ax, Cut Through Switching, Jumbo Frames, DiffServ, etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Baut das lokale Netzwerk um ein dediziertes Speichernetz aus, um das lokale Netzwerk entsprechend zu erweitern resp. zu entlasten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Auswirkungen hinsichtlich der Belastung des lokalen Netzwerks (LAN), wenn die Zugriffe auf Massenspeicher über das lokale Netzwerk abgewickelt werden (Storage Area Network).
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Möglichkeiten, Massenspeicher zur Verfügung zu stellen: DAS, NAS und SAN sowie die unterschiedlichen eingesetzten Speichertechnologien, wie SATA und SAS, resp. Speicherorganisationen, wie Stripes, Spiegel oder RAID10/50, und weiss, welchen Einfluss die jeweilige Technologie auf die Belastung des LAN aufweisen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Komponenten, die Übertragungsprotokolle und das Funktionsprinzip von Speichernetzwerken, z.B. HBAs, RAID, FC‐Switches, Fibre Channel (FC), FC‐AL, iSCSI, AoE, etc.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einsatzmöglichkeiten von Speichernetzwerken im Zusammenhang mit Diensten wie Datenbanken, Virtualisierungen oder Dateidiensten.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die Faktoren Kosten, Leistung und Verfügbarkeit die optimale Technologie (FC, iSCSI) und Topologie (Ring, Stern, Masche) beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Klärt ab, ob neue technologische Entwicklungen zur Optimierung und Entwicklung des eigenen Netzwerkes einen Beitrag leisten können. und bereitet die notwendigen Schritte einer allfälligen Implementation vor.
+            <knowledge-list>
+                <knowledge>
+                    Kann zielgerichtet qualitative Informationen über technologische Entwicklungen im Bereich Netzwerktechnik recherchieren.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Vorgehensweise, um aus Informationsquellen, z.B. Datenblättern, Produktbeschreibungen, Zeitschriftenartikeln, Testberichten etc., relevante Informationen für das eigene Netzwerk zu erhalten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Leistungsparameter neuer Geräte und kann diese in einer Energiebilanz ausdrücken (Green ICT).
+                </knowledge>
+                <knowledge>
+                    Weiss, wie neue Technologien fachgerecht in ein bestehendes Netzwerk zu integrieren sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

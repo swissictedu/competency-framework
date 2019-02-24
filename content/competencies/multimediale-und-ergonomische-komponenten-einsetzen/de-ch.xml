@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>195</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=195%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Multimediale und ergonomische Komponenten einsetzen</title>
+    <capability>Erstellen von benutzerfreundlichen, attraktiven und erfolgreichen Webpages durch den gezielten Einsatz gestalterischer Elemente, wie Text, Fotografie, Grafik, Audio, Computeranimation und Video.</capability>
+    <goals>
+        <goal>
+            Texte mediengerecht (attraktiv, effizient lesbar und gut merkbar) formulieren und unter Aspekten der Bildschirm-Typografie erstellen.</goal>
+        <goal>
+            Webpages mit visuellen und auditiven Elementen unter Berücksichtigung neuer Sehgewohnheiten und wahrnehmungspsychologischen Erkenntnissen gestalten. Dabei zielgruppenorientierte Wirkungen und/oder Assoziation integrieren.</goal>
+        <goal>
+            Text, Bild, Ton und Grafik zu einem interaktiven Produkt verknüpfen.</goal>
+        <goal>
+            Mit User Centered Design Methoden ergonomische und benutzerfreundliche Webpages erstellen.</goal>
+        <goal>
+            Erstellen von Design-Richtlinien.</goal>
+    </goals>
+</competency>

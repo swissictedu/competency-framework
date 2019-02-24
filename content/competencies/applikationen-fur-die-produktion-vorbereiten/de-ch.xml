@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>154</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=154%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Applikationen für die Produktion vorbereiten</title>
+    <capability>Rahmenbedingungen von Applikationen (Eigenentwicklung oder Zukauf) konsultieren und erforderliche Einführungs-Aktivitäten identifizieren. Vorbereitungsarbeiten planen, abstimmen, veranlassen und Übergabe an die Produktion einleiten.</capability>
+    <goals>
+        <goal>
+            Rahmenbedingungen für die Einführung von Applikation konsultieren (Schnittstellen, Datenmigration / -konversion, Testkonzept, Abnahme, Risiken, Notfallplanung, Fallback, Zugriffsberechtigungen, Informationssicherheit, usw.). Für die Einführung erforderliche Aktivitäten identifizieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Merkmale, welche die Komplexität von Programmen und Systemkomponenten bestimmen und kann aufzeigen, wie diese die Integration einer Applikation in eine produktive Umgebung beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Spezifikationen und Merkmale einer Applikation (Schnittstellen, Librarys, die bei der Vorbereitung der Übergabe in die Produktion zu berücksichtigen sind) und kann erläutern, welche Bedeutung diese Spezifikationen und Merkmale hinsichtlich einer erfolgreichen Integration zukommt.
+                </knowledge>
+                <knowledge>
+                    Kennt organisatorische Konzepte und Vorkehrungen (Zugriffsberechtigungen, Notfallplanung, Fallback, Informationssicherheit), die bei der Integration einer Applikation in die Produktion vorhanden sein müssen und kann erläutern, welchen Konsequenzen bei der Integration und dem Betrieb einer Applikation damit vorgebeugt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken und Kontrollprozesse zur Migration und/oder Konversion von Datenbeständen und kann an Beispielen aufzeigen, wie damit eine fehlerfreie Überführung eines Datenbestandes erzielt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Einführung und erforderliche Vorbereitungsarbeiten planen und mit den Beteiligten (Benutzer, Produktion/Operating, Training, Softwareentwicklung, Lieferant, Administration) abstimmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Konzepte, Vorkehrungen und Schritte, die bei der Einführung einer Applikation zu berücksichtigen sind und kann aufzeigen, welchen Beitrag diese für eine erfolgreiche Übergabe in die Produktion leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien zur Abklärung des Schulungsbedarfs, die bei der Migration auf eine neue Applikation bzw. auf einen neuen Release von Bedeutung sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken, welche eine systematische Definition von Anforderungen und Spezifikationen an eine Dienstleistung oder ein Produkt in einem Team erlauben und kann erläutern, welchen Gesichtspunkten bei der Anwendung spezielle Beachtung geschenkt werden muss.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erforderliche Vorbereitungsarbeiten inkl. Tests und Migration durchführen und/oder veranlassen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Rahmenbedingungen, die bei der Durchführung eines Abnahmetests zu berücksichtigen sind und kann erläutern, wie diese zu einem zuverlässigen Testergebnis für den Auftraggeber beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Aspekte, welche bei der Überprüfung der Funktionalität, Integrität und Performance einer Applikation zu prüfen sind und kann erläutern, welche Voraussetzungen für einen effektiven Test dieser Aspekte geschaffen werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Abnahme und Übergabe in den operativen Betrieb einleiten, begleiten und Abnahmeprotokoll erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aspekte, die bei der Übergabe einer Applikation in den operativen Betrieb (Produktion) beachtet werden müssen und kann den Beitrag der erforderlichen Schritte zur Qualität der Abnahme darlegen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau eines Abnahmeprotokolls und kann für die wichtigsten Elemente erläutern, welche Bedeutung diese für die Qualitätssicherung und den reibungslosen Betrieb eines Systems haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

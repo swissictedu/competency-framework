@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>206</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=206%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Service Levels entwickeln und vereinbaren</title>
+    <capability>Service Levels unter Berücksichtigung der Servicestrategie und Kundenvorgaben (allgemeine Geschäftsbedingungen AGB, Rahmenverträgen, etc.) entwickeln, Messverfahren definieren, Kosten mit verschiedenen Kostenmodellen berechnen und die Vereinbarung mit dem Leistungsbezüger aushandeln.</capability>
+    <goals>
+        <goal>
+            Service mit seinem Leistungsumfang zusammen mit dem Leistungsbezüger beschreiben, die quantitativen und qualitativen Kriterien (Service Levels) festlegen und einen strukturierten SLA-Entwurf erarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Zielsetzungen, die mit Dienstleistungsvereinbarungen/Service Levels angestrebt werden und kann darlegen, welcher Zusammenhang zwischen dem Erreichen dieser Zielsetzungen und einer erfolgreichen Geschäftsbeziehung zwischen Leistungsbezüger und Leistungserbringer besteht.
+                </knowledge>
+                <knowledge>
+                    Kennt Struktur und Inhalt standardisierter Dienstleistungsangebote/Services für den operativen ICT-Betrieb und kann erläutern, wie die einzelnen Elemente zu einer eindeutigen Definition dieser Services und damit zu einer guten Geschäftsbeziehung zwischen Leistungsbezüger und Leistungserbringer beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt qualitative und quantitative Merkmale, welche die Service Levels im operativen ICT-Umfeld bestimmen und kann darlegen, warum Vereinbarungen (Agreements) bezüglich dieser Merkmale aus Sicht des Leistungsempfängers und des Leistungserbringers von Bedeutung sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Metriken/Messgrössen identifizieren, Messverfahren und Werkzeuge (Scorecard System, SLM Tools, etc.) für die Überwachung definieren und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das systematische Vorgehen bei der Ableitung einer Metrik (Kundenanforderung - Messgrösse - Masseinheit) zur Messung des Erfüllungsgrades einer Kundenanforderung kann an einem Beispiel aus dem Alltag das Vorgehen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Funktionen von Tools zur Unterstützung des Service Level Managements und kann beispielhaft darlegen, wie diese im operativen Betrieb verwendet werden und die Qualität der Ergebnisse sicherstellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kostenberechnung für den Service unter Verwendung verschiedener Kostenmodelle und unter Berücksichtigung der finanziellen Möglichkeiten (Budget) des Leistungsbezügers vornehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Einfluss von Service Levels und weiterer vertraglicher Bestimmungen auf die Kosten von Leistungen im operativen ICT-Betrieb und kann diese Zusammenhänge anhand von Beispielen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            SLA mit relevanten Vertragsdokumenten, wie den AGB’s und einem vorgegebenen Rahmenvertrag (IT Sicherheit, Datenschutz, juristische, unternehmensspezifische Aspekte etc.) abstimmen, ergänzen und fertig stellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Struktur und Inhalt eines vollständigen Service Level Agreements und kann für die einzelnen Elemente aufzeigen, welche vertraglichen Vereinbarungen mit diesen Bestimmungen zwischen Leistungsbezüger und Leistungserbringer geregelt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            SLA dem Leistungsbezüger präsentieren, Differenzen bereinigen und den SLA zur Unterschriftsreife bringen.
+            <knowledge-list>
+                <knowledge>
+                    Kann Methoden und Techniken zur Herbeiführung einer Entscheidung in einem Gremium beschreiben und an Beispielen erläutern, in welchen Situationen diese zur Anwendung kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

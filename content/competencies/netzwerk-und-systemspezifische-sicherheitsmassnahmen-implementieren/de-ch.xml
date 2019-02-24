@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>486</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=486%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Netzwerk- und systemspezifische Sicherheitsmassnahmen implementieren</title>
+    <capability>Beurteilt Sicherheitsbedrohungen für vernetzte ICT-Infrastrukturen und Daten sowie die Wirksamkeit bisher getroffener Sicherheitsvorkehrungen und initialisiert wenn nötig netzwerk- und systemspezifische Massnahmen.</capability>
+    <goals>
+        <goal>
+            Untersucht für eine vernetzte ICT-Infrastruktur und deren Daten die Relevanz aktueller Sicherheitsbedrohungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt aktuelle Bedrohungen und Angriffsmöglichkeiten auf Systeme und Netzwerke (z.B.: DDOS, Man-in-the-Middle, Smurf, Replay, Spoofing, Rechteerweiterung, Phishing, Pharming etc.) und kann erläutern, unter welchen Gegebenheiten diese in Bezug auf die System- und Netzwerkinfrastruktur eine Gefährdung darstellen können.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Angriffsarten in Anwendungen wie Cross-Site Scripting, SQL-, XML, oder andere Injektionen, Dateianhänge, Session Hacking, Dateiüberläufe oder die Manipulation von Headerinformationen und kann erläutern, unter welchen Gegebenheiten diese in Bezug auf die System- und Netzwerkinfrastruktur eine Gefährdung darstellen können.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Formen des Social Engineering (Shoulder Surfing, Tailgating, Impersonation, Whaling, Vishing) und ihr Gefährdungspotential in Bezug auf die System- und Netzwerkinfrastruktur.
+                </knowledge>
+                <knowledge>
+                    Kennt die ständig zu aktualisierende Gefahrenlage von Schadsoftware, kann wichtige Arten unterscheiden (z.B.: Spam, Adware, Spyware, Viren, Trojaner, Rootkits, Botnets etc.) und kann erläutern, unter welchen Gegebenheiten diese Bedrohungen in Bezug auf die System- und Netzwerkinfrastruktur eine Gefährdung darstellen können.
+                </knowledge>
+                <knowledge>
+                    Kennt die möglichen Bedrohungen der drahtlosen Sicherheit durch unerlaubte Accesspoints, Stör- oder Frequenzstörungen, War driving, Hijacking von Bluetooth und W-LAN oder das Abhören des Datenverkehrs und kann erläutern, unter welchen Gegebenheiten diese in Bezug auf die System- und Netzwerkinfrastruktur eine Gefährdung darstellen können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft die vorhandenen Sicherheitsvorkehrungen hinsichtlich ihrer Wirksamkeit gegenüber der aktuellen Bedrohungslage.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Mittel zur Überprüfung der Wirksamkeit vorhandener Sicherheitsmassnahmen (z.B. AV-Tests, Security Scans, Penetration Testing etc.) sowie die Bedingungen einer erfolgreichen Überprüfung.
+                </knowledge>
+                <knowledge>
+                    Kennt das Einsatzgebiet und die unterschiedliche Ausrichtung von Firewalls, NAT, VPN, VLAN-Switches, Proxyservern und UTM-Appliance und kann deren Wirksamkeit erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erhöht die Sicherheit von wichtigen Systemen durch die Auswahl und Implementierung geeigneter systemspezifischer technischer Massnahmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt geeignete Massnahmen zur Systemhärtung (Hardware, Betriebssystem, Anwendungen) wie das Schliessen nicht benötigter Ports, die Deaktivierung nicht benötigter Dienste, starke Passwörter, Kontodeaktivierung, Abschalten oder Deinstallation nicht benötigter Anwendungen oder das Entfernen nicht mehr benötigter Daten und kann deren Einfluss auf die festgestellte Sicherheitslage erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Messmethoden zur Überwachung von Systemen und ihrer Auslastung und weiss, wie diese Messprotokolle auszuwerten sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erhöht die Sicherheit des Firmennetzwerks durch die Auswahl und Implementierung geeigneter netzwerkspezifischer technischer Sicherheitsmassnahmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt aktuelle unterschiedliche Netzwerkdesigns zur Verbesserung der Sicherheit wie Subnettierung, DMZ, VLANs, NAC, Routing, Remote Access, Virtualisierung und kann deren Einfluss auf die festgestellte Sicherheitslage erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einsatzmöglichkeiten und Grenzen von IDS- und IPS-Systemen zur Verbesserung der Netzwerksicherheit sowie den Einsatzzweck von Honeynets.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Administrationsgrundlagen zur Erhöhung der Netzwerksicherheit wie rollenbasiertes Management, Firewall-Regeln, Port-Sicherheit, Zugangskontrolllisten, 802.1x, Ereignisüberwachung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen zum sicheren Betrieb von drahtlosen Netzwerken wie WPA/WPA2, Mac Filter, SSID, TKIP und AES, Aufstellung und Ausrichtung der Antenne, 802.11i sowie deren Einfluss auf die Sicherheit des Netzwerks.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt gezielt unterschiedliche Mittel der Authentifizierung, Identifizierung und für Zugangskontrollen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt grundlegende Mittel zur Authentifikation (Radius, Tacacs, Kerberos, LDAP, CHAP/PAP, EAP) und kann deren Bedeutung für die Sicherheitslage des Netzwerks erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Konzepte zur Implementation von Authentifikation (ACLs, Least Privilege, MAC, DAC, RBAC etc.) und deren Einfluss auf die Implementierung von Rechtesystemen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Identifikation wie biometrische Verfahren, proof of possession, One Time Token und kann deren Einfluss auf Implementation von Identifikationsverfahren erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methoden zur Implementation von Sicherheitskontrollen wie Policy Enforcement, Passwortkomplexität, Ablaufdaten von Konten und Passwörtern, gruppenbasierte Rechteverwaltung oder organisatorische Methoden wie verordnete Ferien, Job Rotation oder Nachtsperren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gewährleistet die Vertraulichkeit und Verbindlichkeit der Datenübermittlung durch Einsatz angemessener kryptografischer Verfahren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt grundlegende kryptografische Konzepte (asymmetrisch, symmetrisch, Non- Repudiation, Bedeutung der Hash-Werte, Steganografie, digitale Signaturen) und deren Auswirkung auf die Handhabung von Datentransport und –speicherung.
+                </knowledge>
+                <knowledge>
+                    Kennt angemessene kryptografische Hilfsmittel wie AES, DES, 3DES, RSA, RC4, NTLM, Blowfish, PGP, WPA/WPA2 sowie Mittel zur Transportverschlüsselung (SSL, TLS, IPSec, SSH, HTTPS) und deren Auswirkung auf die Handhabung von Datentransport und –speicherung.
+                </knowledge>
+                <knowledge>
+                    Kennt das Konzept der PKI-Infrastruktur und dessen Einfluss auf die Gestaltung der Netzwerksicherheit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert eingetretene Sicherheitsverletzungen, reagiert mit angemessenen Massnahmen um weitere Verletzungen zu verhindern und behebt entstandene Lücken.
+            <knowledge-list>
+                <knowledge>
+                    Kennt angemessene Sicherheitsstrategien zur Erkennung von Sicherheitsverletzungen wie kontrollbasiertes Risikomanagement, proaktiven Unterhalt, Security Incident Management, Routine Audits für Systeme und Netzwerkkomponenten und Überprüfung einmal vergebener Rechte und Privilegien.
+                </knowledge>
+                <knowledge>
+                    Kennt Verfahren zur Feststellung von eingetretenen Schäden wie Erstantwort-Tätigkeiten (First Responder), Erstellen eines Abbildes, Sichern von Protokollen, Videoaufnahmen oder die sichere Beweisaufnahme.
+                </knowledge>
+                <knowledge>
+                    Kennt die Risikostufe kritischer Systeme und Netzwerkkomponenten und weiss wie diese im Schadensfall wiederherzustellen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verbessert das Bewusstsein für system- und netzwerkspezifische Sicherheitsmassnahmen im Betrieb durch geeignete Aus- und Weiterbildung der Mitarbeitenden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorschriften des Unternehmens für Sicherheitsbelange.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen zur Sensibilisierung von Mitarbeitenden auf sicherheitsrelevante Themen im Bereich von System- und Netzwerksicherheit wie Passwortregelungen, Umgang mit Daten und Informationen, physikalische Sicherheit etc.
+                </knowledge>
+                <knowledge>
+                    Kennt die Prinzipien zur Ausbildung von Mitarbeitenden in system- und netzwerkspezifischen Sicherheitsthemen wie Schulung, Kontrollen oder Audits.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

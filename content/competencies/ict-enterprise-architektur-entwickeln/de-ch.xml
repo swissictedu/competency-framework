@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>641</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=641%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Enterprise-Architektur entwickeln</title>
+    <capability>Entwickelt unter Berücksichtigung der ICT-Strategie, der spezifischen Geschäftsanforderungen sowie technologischen Trends die ICT Enterprise-Architektur (EA) für seinen Leistungsbereich und steuert deren Umsetzung und Überwachung.</capability>
+    <goals>
+        <goal>
+            Definiert unter Berücksichtigung der ICT-Strategie die Ziele,  Phasen und  Zyklen des Architekturentwicklungs-Managements (ADM) als Elemente der EA-Vision.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen EA-Frameworks (Bsp: Zachman, TOGAF) und kann aufzeigen, wie sich damit die ICT-Strategie Ziele in Bezug auf die EA realisieren lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt die verbreiteten EA-Muster (Bsp: EAI, SOA, etc.) zur Entwicklung von EA und kann aufzeigen, wie diese die EA strukturell und funktional beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Ziele, Schritte und Inputs/Outputs der EA-Entwicklungs-Phasen (Bsp: TOGAF: Architekturvision, Business Architektur, etc.) und kann aufzeigen, wie diese die Geschäftsziele und –Strategien unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Legt aufgrund der Architekturvision das Anforderungsmanagement der Architekturentwicklung fest.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte des Anforderungsmanagements der EA-Entwicklung und kann aufzeigen, wie diese den Wirkungsbereich der EA-Entwicklung beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Kriterien, welche bei der Interpretation von neuen Technologien relevant sind und kann aufzeigen, wie deren Berücksichtigung bei der Auswahl neuer Technologien eine nachhaltige EA-Entwicklung sicherstellt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt und analysiert den Ist-Zustand (Baseline) der Business-,  der Information System-  und der Technologie Architektur und definiert abgestimmt darauf eine detaillierte Roadmap zur Erreichung der Soll-EA (Target).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte und Techniken, mit welchen die bestehende Business- und Informations- (Data- und Applikations-) Architektur zu beschreiben sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte und Techniken, mit welchen die zukünftigen Business- und Informations- (Data- und Applikations-) Architektur zu definieren sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte, mit welchen die Differenz (Gap) zwischen EA-Baseline (IST) und Zielarchitektur (SOLL) zu beschreiben ist.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte und Techniken, um vorhandene Applikations-Komponenten der EA zu beschreiben und kann aufzeigen, wie sich diese mit Zielen der Ziel-EA realisieren lassen (Roadmap).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert basierend auf der vorhandenen EA die notwendigen Entwicklungsschritte (Building Blocks) zur Erreichung der Zielarchitektur und definiert die dafür notwendigen Migrationsstrategien.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte (Bsp: Design by Contract) basierend auf der vorhandenen EA die notwendigen Entwicklungsschritte (Building Blocks) zu definieren und kann aufzeigen, wie sich diese in die vorhandene Architektur integrieren lassen (Migration).
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte (Bsp: Review) bzw. die Resultate (Bsp: Artefakte, Dokumentation) aus den Entwicklungsschritten (Building Blocks) und kann beurteilen und aufzeigen, wie Änderungen sich auf die definierte EA auswirken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant und kontrolliert die Entwicklung oder die Migration der Building Blocks unter Berücksichtigung der verschiedenen im Einsatz stehenden Management-Frameworks und finalisiert die EA-Vision.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte zur Planung und Kontrolle der Entwicklungsschritte (Bsp: Review, Sign-Off) und kann beurteilen, welche notwendigen Massnahmen zur Erreichung der gestellten Ziele in Bezug der EA zu treffen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die Auswirkungen allfälliger Änderungen im Ablauf der EA-Entwicklung und kann aufzeigen, wie sich diese auf die Entwicklung der Zielarchitektur auswirken
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formuliert die Implementationsvorgaben für die Projekte und bestimmt die notwendigen Steuer- und Kontrollmechanismen zur Erreichung der gewünschten Ziel-EA.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte zur Formulierung der Implementationsvorgaben für die Realisierung der Entwicklungsschritte (Building Blocks) und kann aufzeigen wie diese zu einer klaren Vereinbarung beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte zur Steuerung und Kontrolle notwendigen Techniken (Bsp: Sign-Offs) und kann beurteilen und aufzeigen, unter welchen Voraussetzungen diese einen substantiellen Beitrag an die Steuerung und Kontrolle der EA-Entwicklung leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sichert und pflegt die Baseline der EA zum jeweiligen Entwicklungszeitpunkt mit Hilfe der Kontroll-Frameworks durch die Einführung eines Management Change Prozesses für die EA.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte zur Sicherung und Pflege (Bsp: Änderungsmonitoring, Review) der EA-Dokumentation und kann aufzeigen, unter welchen Voraussetzungen diese einen substantiellen Beitrag an die Dokumentation der EA-Entwicklung leisten können.
+                </knowledge>
+                <knowledge>
+                    Kann die Funktion der EA in Bezug auf die Gewährleistung der ICT Governance einordnen und aufzeigen, welche Bedeutung die Pflege und Entwicklung dieser EA in Bezug auf die Gewährleistung der ICT Governance hat.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

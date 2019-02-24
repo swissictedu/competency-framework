@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>304</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=304%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettere in funzione un PC</title>
+    <capability>Mettere in funzione un personal computer (PC) singolo, installare il sistema operativo ed una suite di programmi per la burotica, collegare il PC ad internet e testare il sistema.</capability>
+    <goals>
+        <goal>
+            Collegare i componenti di una postazione di lavoro PC (PC, schermo, tastiera/mouse, stampante, collegamenti di rete) secondo specifiche.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i principi dell'elaborazione delle informazioni in un microcalcolatore e sa spiegare quali compiti sono assegnati ai componenti hardware (processore, memoria di lavoro, memoria di massa, sistemi di bus) e come funziona il flusso delle in- formazione attraverso i singoli componenti hardware (input, elaborazione, output, memorizzazione e comunicazione).
+                </knowledge>
+                <knowledge>
+                    Conosce le principali caratteristiche di prestazione e specifiche dei componenti hardware di un PC e sa spiegare quali sono le configurazioni hardware necessarie per i differenti campi di utilizzo.
+                </knowledge>
+                <knowledge>
+                    Conosce le interfacce di periferica e i sistemi bus standard di un PC e sa indicare in funzione delle loro caratteristiche gli utilizzi per i quali essi sono previsti.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installare il sistema operativo utilizzando le impostazioni standard.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le principali funzioni di un sistema operativo di un PC e sa spiegare sulla base di casi pratici attuali come queste funzioni controllano e gestiscono l'elaborazione d'informazioni.
+                </knowledge>
+                <knowledge>
+                    Conosce i più importanti parametri di configurazione di un sistema operativo di PC e sa spiegare, con l'aiuto di esempi, come essi permettono d'assicurare una compatibilità ottimale tra l'hardware e il sistema operativo.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Durante l'installazione, osservare le disposizioni delle licenze software ed effettuare le necessarie registrazioni e attivazioni.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le responsabilità giuridiche che si contraggono quando si accettano le condizioni di utilizzo di licenza di un fornitore durante l'installazione di un software e sa spiegare le conseguenze quando esse vengono trascurate.
+                </knowledge>
+                <knowledge>
+                    Conosce le principali procedure per la registrazione e attivazione di componenti informatici.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installare una suite di programmi per la burotica utilizzando le impostazioni standard.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i più importanti parametri utilizzati nell'installazione standard di una suite di burotica (aggiunta di funzioni, indicazione del percorso) e sa spiegare quali conseguenze hanno nell'utilizzo dei programmi e nel funzionamento della singola postazione PC (memorizzazione di dati, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Configurare e testare l'accesso ad internet secondo specifiche. Prendere i necessari provvedimenti per un utilizzo sicuro di Internet del computer e della rete.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i principali metodi che permettono di stabilire un collegamento di rete di un client e sa spiegare come essi garantiscono la comunicazione.
+                </knowledge>
+                <knowledge>
+                    Conosce le principali impostazioni di sicurezza (protezione antivirus, firewall personale, aggiornamenti) per proteggere una singola postazione di lavoro PC dagli attuali pericoli.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Attivare le impostazioni per la riduzione del consumo d'energia.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le possibilità di configurazione per il risparmio d'energia di un PC e sa spiegare le loro conseguenze per la soddisfazione dell'utente, l'ambiente e la durata di vita degli apparecchi.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testare la postazione di lavoro PC, circoscrivere sistematicamente i difetti e gli errori di configurazione ed eliminarli.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le più importanti categorie di messaggi d'errore (hardware, sistema operativo, software, etc.) e sa spiegare i più importanti indizi che permettono di stabilire un collegamento tra i messaggi d'errore e la categoria di cui essi fanno parte.
+                </knowledge>
+                <knowledge>
+                    Conosce un metodo (per es. esclusione di sistemi parziali intatti) che permette di circoscrivere sistematicamente di situazioni difettose e sa dimostrare, attraverso degli esempi, come un tipico caso di errore può essere efficientemente scoperto con l'aiuto di questo metodo.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Allestire la postazione di lavoro PC secondo i principi dell'ergonomia.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le più importanti direttive concernenti l'ergonomia delle postazioni di lavoro informatiche e sa spiegare come esse contribuiscono al benessere dell'utente ed evitano dei danni alla salute.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fornire la postazione di lavoro PC sulla base di un protocollo di accettazione.
+            <knowledge-list>
+                <knowledge>
+                    Conosce l'importanza di una consegna ordinata della postazione di lavoro informatica (protocollo d'accettazione) all'utente e sa illustrarla attraverso i vantaggi concreti che ne traggono le persone coinvolte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

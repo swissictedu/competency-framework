@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>314</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=314%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Wirtschaftlichkeit von ICT-Investitionen berechnen</title>
+    <capability>Unterstützt die Fachabteilungen bei der Berechnung der Wirtschaftlichkeit von ICTVorhaben mit Hilfe von Methoden der Investitionsrechnung.</capability>
+    <goals>
+        <goal>
+            Wählt unter Berücksichtigung der Eigenschaften des ICT‐Vorhabens und der Anforderungen an die Berechnung der Wirtschaftlichkeit die passende Methode der Investitionsrechnung aus.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Definition von Investition in vermögens‐ und zahlungsorientierter Ausprägung.
+                </knowledge>
+                <knowledge>
+                    Kennt statische und dynamische Methoden zum Nachweis der Wirtschaftlichkeit von Investitionen unterscheiden und deren zweckmässigen Einsatz. Statische Verfahren: Kosten‐ und Erfolgsrechnung Gewinnvergleichsrechnung Renditerechnung (ROI Return on Investment) Payback‐Methode Dynamische Verfahren: Kapitalwertmethode (NPV Net‐Present‐Value) Payback‐Methode
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien zur Gliederung und Gruppierung von Investitionen und deren unternehmerischen Kontext.
+                </knowledge>
+                <knowledge>
+                    Kennt die Auswirkungen von Investitionen auf die Liquidität des Unternehmens.
+                </knowledge>
+                <knowledge>
+                    Kennt den Einfluss von verschiedenen Modellen (Kauf, Leasing) der Investitionen und von Finanzierungsformen (Eigen‐, Fremdfinanzierung, Leverage‐Effekt) auf Bilanz und Erfolgsrechnung des Unternehmens.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Investitionstypen und deren Unterscheidungsmerkmale (Gründung, Ersatz, Erweiterung etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nimmt mit der Fachabteilung die notwendigen Informationen auf, welche eine zuverlässige Schätzung des Ertrags, der mit dieser ICT‐Investition erzielt werden kann, erlauben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen zur Nutzung und Ergänzung bestehender Quellen, um den Nutzen zu quantifizieren und daraus Erträge, die sich aus der ICT‐Investition ergeben werden, zu erheben und zu konsolidieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nimmt mit der Fachabteilung die notwendigen Informationen auf, welche eine zuverlässige Schätzung der zukünftigen Kosten(‐einsparungen), die aus dieser ICTInvestition hervorgehen werden, erlauben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehen zur Nutzung und Ergänzung bestehender Quellen, um den Aufwand zu quantifizieren und daraus Kosten und Einsparungen, die sich aus der ICT‐Investition ergeben werden, zu erheben und zu konsolidieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Legt unter Berücksichtigung der betrieblichen Vorgaben die Parameter für die Investitionsvarianten fest, für welche eine Investitionsrechnung durchgeführt werden muss.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die bestimmenden Parameter der verschiedenen Verfahren der Investitionsrechnung und kann erläutern, wie sich diese auf die Berechnung auswirken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt mit Hilfe der ausgewählten Methode der Investitionsberechnung Wirtschaftlichkeitsberechnungen für die Investitionsvarianten durch.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Investitionsprozess und die Ergebnisse der einzelnen Prozessschritte sowie deren Bedeutung für die Entscheidungsschritte.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung der Investitionsrechnung als Zukunftsrechnung und der damit verbundenen Problemstellung bei Investitionsentscheidungen bezüglich Unsicherheit der Zukunft, Kapitalknappheit und Quantifizierbarkeit der relevanten Daten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Auswirkungen von Investitionen auf die Betriebskosten während der Nutzungsdauer und auf allfällige Deinvestitionen nach Ablauf der Nutzung.
+                </knowledge>
+                <knowledge>
+                    Kennt das Kriterium des Nettonutzens und berücksichtigt diesen in der Analyse des Investitionsvorhabens und der damit verbundenen Investitionssumme.
+                </knowledge>
+                <knowledge>
+                    Kennt und erklärt typische Variablen in Investitionsrechnungsmethoden und weiss, wie diese zu beschaffen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Interpretiert und vergleicht die Ergebnisse der Wirtschaftlichkeitsberechnungen und arbeitet die Erkenntnisse in Entscheidungsgrundlagen ein, die sie argumentativ präsentiert.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Anforderungen von Investitionen als Strategiebeitrag und kann Investitionsentscheide im Kontext der Unternehmensführung interpretieren.
+                </knowledge>
+                <knowledge>
+                    Kennt wichtige Kennzahlen, deren Aussage für das Management und den entsprechenden Berechnungsweg.
+                </knowledge>
+                <knowledge>
+                    Kennt die risikospezifischen Beurteilungskriterien von Investitionen die in der Analyse des Investitionsvorhabens und in der Bewertung der Ergebnisse der Investitionsrechnung berücksichtigt werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Begleitet die Realisierung von ICT‐Investitionen und beurteilt die stichtagsbezogenen Vergleiche während und nach der Investition zwischen Ergebnissen und Investitionskosten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden der Kosten‐ und Ergebnisfortschrittskontrolle (z.B. Earned Value Methode).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

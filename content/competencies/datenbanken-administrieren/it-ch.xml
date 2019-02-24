@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>128</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=128%26clang=it</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Amministrare una banca dati</title>
+    <capability>Trasporre un modello entità-relazione (ER) in una struttura di banche dati. Modificare la banca dati secondo nuove specifiche aziendali (per esempio inserire, modificare e cancellare tabelle/relazioni). Assegnazione degli accessi/autorizzazioni necessari. Utilizzare i tools specifici di un sistema di banche dati.</capability>
+    <goals>
+        <goal>
+            Trasporre un modello ER dato in una struttura di banche dati (definire le tabelle/relazioni, chiavi, indici, condizioni di integrità).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente der Notation eines ERM und kann anhand von Beispielen erläutern, welche Art von Datenelementen und -beziehungen damit abgebildet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Struktur eines Datenbankschemas und kann aufzeigen, welche Aussagen die Elemente hinsichtlich der physischen Implemetierung der Datenbank machen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementare la struttura di banche dati in una banca dati reale.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Aktionen und ihre Abfolgen, welche zum physischen Aufsetzen einer Datenbank in einem Datenbanksystem notwendig sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Inserire, modificare e cancellare tabelle/relazioni, chiavi e indici. Assegnare i diritti nella banca dati creata.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente der Datenbanksprache zur Definition und Einrichtung von Tabellen und Relationen.
+                </knowledge>
+                <knowledge>
+                    Kennt Datenbankkommandos zur Administration von Rechten und kann deren Auswirkungen beispielhaft erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analizzare le richieste di clienti per analisi/estratti e crearli attraverso delle procedure.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten zur Präzisierung von Auswertungsanforderungen und kann deren Wichtigkeit zur Ermittlung eindeutiger Resultate erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt SQL-Sprachelemente für die Extrahierung von Informationen aus einer Datenbank und kann aufzeigen, welche Arten von Selektionen sich damit erzielen lassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Proporre e testare delle modifiche alle procedure di sicurezza, salvataggio, riavviamento e ripristino.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Sinn und Zweck von Security-, Backup-, Restart- und Recovery-Prozeduren in einem Datenbanksystem und kann deren Beitrag für die Sicherstellung des operativen Betriebs erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eseguire delle operazioni di miglioramento delle prestazioni.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktionsweise von Tuning- und Performance-Massnahmen und kann deren Wirkung hinsichtlich der Optimierung eines Datenbanksystems erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Redigere dei piani di migrazione in caso di aggiornamenti a nuove Release o di trasferimento in un altro sistema di banche dati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aspekte, die bei der Migration einer Datenbank hinsichtlich Datensicherheit beachtet werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt Standardvorgehen für die Migration einer Datenbank und kann aufzeigen, wie dieses zur Datensicherheit beiträgt und jederzeit erlaubt, den Ausgangszustand wieder herzustellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documentare le modifiche alla banca dati in un Logjournal.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Struktur eines Logjournals für den Betrieb eines Datenbanksystems aufzeigen und den Nutzen der enthaltenen Informationen für die Pflege und Weiterentwicklung dieses Datenbanksystems erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

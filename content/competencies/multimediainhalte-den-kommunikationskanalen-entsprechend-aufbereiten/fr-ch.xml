@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>415</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=415%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Adapter les contenus multimédia aux canaux de communication</title>
+    <capability>Préparer du matériel d’information pour le média cible prévu, et effectuer la publication</capability>
+    <goals>
+        <goal>
+            Analyser le problème et décider sur la base, des ressources disponibles (budget, savoir‐faire, infrastructure), des partenaires internes et externes, de quelle manière sera réalisée la publication.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques techniques et les problèmes de divers médias tels que la combinaison des couleurs de qualité, les résolutions possibles, le débit maximum de données, etc.
+                </knowledge>
+                <knowledge>
+                    Connaître l´instrument d’entretien pour l’instruction des fournisseurs
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier, avec les outils standards de l´industrie et des entreprises, une publication conforme au public cible et aux moyens mis en oeuvre.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des instruments (par ex. la segmentation Sinus Milieus) pour traiter du comportement, des besoins, des tendances et du contexte social des groupes cibles concernés.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités, sur la base du groupe cible identifié, pour définir les moyens et les canaux de communication appropriés.
+                </knowledge>
+                <knowledge>
+                    Connaître, du point de vue technique, créatif, communicatif et organisationnel, les forces, les faiblesses et les limites du support cible visé.
+                </knowledge>
+                <knowledge>
+                    Connaître le spectre de compatibilité des fichiers multimédias produits par rapport au moyen ciblé et des dispositifs finaux concernés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Créer, en collaboration avec les partenaires internes et externes, les publications pour les canaux médiatiques concernés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la procédure pour créer, à partir de données brutes, les données de base indépendantes des médias.
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs clés et les étapes de travail pour créer, à partir des données de base, des données d’exportation spécifiques aux médias visés.
+                </knowledge>
+                <knowledge>
+                    Connaître fondamentalement les caractéristiques des formats de données concernés (résolution, espace colorimétrique, métadonnées).
+                </knowledge>
+                <knowledge>
+                    Connaître les diverses procédures de compression des données.
+                </knowledge>
+                <knowledge>
+                    Connaître les normes, des programmes et des systèmes afin de partager et publier efficacement et en toute sécurité les données.
+                </knowledge>
+                <knowledge>
+                    Connaître des systèmes afin de parvenir, y compris en équipe (même au‐delà de leur entreprise) à un résultat homogène.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester (facilité d´utilisation, fonctionnalité et qualité) les publications réalisées selon les médias de destination et les optimiser si nécessaire.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des moyens pour éviter les redondances et réduire la quantité de données produites à la taille requise.
+                </knowledge>
+                <knowledge>
+                    Connaître diverses mesures d´assurance qualité, (fonction et le non‐fonctionnement, facilité d´utilisation, technologie).
+                </knowledge>
+                <knowledge>
+                    Connaître les responsabilités internes à l’entreprise et la version actuelle du processus de publication.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documenter la publication réalisée pour d´autres productions, adaptations, et l´archivage.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la forme habituelle de la documentation pour l´exportation de données etdécider quelles données clés sont significatives.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités (statistiques d´accès, la satisfaction, les taux de réponses) pour un examen de succès ultérieur.
+                </knowledge>
+                <knowledge>
+                    Connaître de systèmes de classement et préparer les données pour l´archivage.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

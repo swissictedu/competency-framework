@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>121</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=121%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Elaborer des tâches de pilotage.</title>
+    <capability>Identifier et analyser une tâche de pilotage selon un mandat et développer sous forme de boucle ouverte ou fermée.</capability>
+    <goals>
+        <goal>
+            Analyser un processus de pilotage, déterminer les éléments de commande nécessaires et documenter sous forme d´une esquisse de principe la fonction de pilotage.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure des capteurs et acteurs les plus fréquents ainsi que leurs principes de fonctionnement.
+                </knowledge>
+                <knowledge>
+                    Connaître des critères de sélection de capteurs et d´acteurs, ainsi que les situations possibles de mise en œuvre.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de la représentation schématique de pilotage et régulation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Projeter le circuit de commande sur la base de l´esquisse de principe ou réaliser par simulation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les types, les structures et les comportements des boucles de régulation ouvertes et fermées, ainsi que leurs différentes caractéristiques.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes fondamentaux de la commande de processus.
+                </knowledge>
+                <knowledge>
+                    Connaître la possibilité de description de tâches de pilotage au moyen de diagrammes d´état.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir les éléments appropriés de pilotage y compris les capteurs et acteurs, puis assembler en un système.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux composants nécessaires à la réalisation de commandes simples.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour simuler ou réaliser des pilotages simples.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les cas tests selon les exigences, tester les fonctions du système, détecter les erreurs et, le cas échéant, les corriger.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la méthode pour définir systématiquement des cas de tests à partir des exigences, ainsi que pour respecter les conditions limites.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

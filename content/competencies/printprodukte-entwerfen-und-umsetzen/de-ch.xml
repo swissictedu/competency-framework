@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>272</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=272%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Printprodukte entwerfen und umsetzen</title>
+    <capability>Entwirft produktionsfähige Printprodukte und setzt sie unter Berücksichtigung der grundlegenden technischen und gestalterischen Aspekte um.</capability>
+    <goals>
+        <goal>
+            Entwickelt auf der Basis eines Auftrags verschiedene Gestaltungsentwürfe für Printmedien unter Berücksichtigung aller relevanten Aspekte.
+            <knowledge-list>
+                <knowledge>
+                    Kennt unterschiedliche Kreativitätstechniken sowie Stilmittel und Regeln, die bei Gestaltungsentwürfen angewandt/berücksichtigt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt den Umgang mit einem Corporate-Design-Manual und kann Gestaltungsentwürfe gemäss Vorgabe erstellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt grafische Elemente in einem vektorbasierten Illustrationsprogramm.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die geeigneten Werkzeuge, um Vektorgrafiken/-pfade (Logos,  Piktogramme, Diagramme, Situationspläne, typografische Elemente) für Printmedien bzw. eine Plotterausgabe zu erstellen und zu bearbeiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionen des Bild-Nachzeichnerwerkzeugs, um Pixeldaten zu vektorisieren/nachzuzeichnen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterschiede zwischen Pixel- und Vektordaten sowie die Vor- und Nachteile in Bezug zur Auflösung, Skalierbarkeit und Datenmenge.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt ein Layout gemäss Kundenwunsch und/oder Corporate Design-Vorgaben um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau, die Basiselemente und Gestaltungsrichtlinien eines Corporate Design-Manuals und kann diese selbst definieren und anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt das Einsatzgebiet und den Zweck von Sonderfarben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt, nutzt und verwaltet die Musterseiten sowie die Absatz- und Zeichenformate.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Musterseiten-Funktionen des Layoutprogramms (z.B. Einfügen von Signeten, automatischen Seitenzahlen, Hilfslinien) und kann ein- und mehrseitige Dokumente erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionen zur Textformatierung (Schrifteinstellungen, Absatz-, Zeichenformate, verknüpfte und verschachtelte Formate, Tabellen) und kann diese definieren, anwenden und anpassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fügt verschiedene Elemente (Bilder, Texte, Hintergründe, Logos, Icons, Tabellen) fachgerecht und auf optisch ansprechende Weise in das Layout ein und nimmt allfällige Anpassungen vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Grund- und Spracheinstellungen sowie grundlegende Raster- und Hilfslinieneinstellungen, um sie für das Layout einzusetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt Funktionen zur Qualitätskontrolle des Dokumentes und kann diese anwenden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formatiert Texte unter Einhaltung der Leserfreundlichkeit und einer korrekten Hierarchie sowie der gängigen Satzregeln.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Funktionen, um in einem Layoutprogramm Dokumente mit Satzspiegel, Spalten, Spaltenabstand, Grundlinienraster und Anschnitt zu erstellen und nachträglich zu verändern.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Regeln der Mikro- und Makrotypografie und kann sie korrekt einsetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigen Einsatzgebiete und Regeln der unterschiedlichen Satzarten und die Grundregeln für optimale Satzbreiten, Buchstaben-, Wort- und Zeilenabstände.
+                </knowledge>
+                <knowledge>
+                    Kennt die Regeln, um Texte mittels Schriftwahl, Schriftanordnung, Schriftauszeichnung und angemessener Schriftgrösse zu strukturieren und damit eine gute Lesbarkeit zu gewährleisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt Farbkontraste, -harmonien und -kombinationen für Gestaltungsaufträge und kann diese fachgerecht im Programm anlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Farbkontraste und kann diese situationsgerecht erstellen und einsetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt Wege, um Farbkombinationen und Farbharmonien zu erstellen und anzuwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Farben als Gestaltungsmittel und berücksichtigt Aspekte der Farbphysiologie und Farbpsychologie bei deren Wahl.
+                </knowledge>
+                <knowledge>
+                    Kennt die Farbstandards der grafischen Industrie und die Arbeitsschritte, um Farbprofile zu installieren und anzuwenden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nimmt in einem pixelbasierten Bildbearbeitungsprogramm einfache Korrekturen und Montagen vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Standards der Bildauflösung und kann diese beurteilen und die Bildgrösse ändern/korrekt einstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Verwendungszweck von Bilddaten, um bei Bedarf den Kontrast und die Helligkeit sowie die Gradationseinstellungen und Bildschärfe zu optimieren.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionen, um einfache Farbkorrekturen an Bildern vorzunehmen, Bildinhalte zu maskieren und freizustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Werkzeuge, um an Bilddaten einfache Retuschen vorzunehmen und einfache Bildkombinationen zu erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Kriterien der Bildsprache (z.B. Motiv, Bildaufbau, Schwarzweiss/Farbe, Format, Schärfeverlauf) und kann diese zielgruppengerecht umsetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die nötigen Funktionen und technischen Bildeigenschaften, um Bilder für verschiedene Ausgabemedien zu optimieren und im geeigneten Dateiformat zu speichern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft vor dem Export das Dateiformat, die Auflösung der Bilder und deren Farbraum gemäss Auftrag.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Wege, um die Daten vor der Übergabe auf ihre Vollständigkeit zu prüfen.
+                </knowledge>
+                <knowledge>
+                    Kennt wichtige PDF-Einstellungen (z.B. Anforderungen der Druckdienstleister) und kann diese praxisgerecht anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktion «Verpacken eines Layouts», um Bilder, Grafiken, Schriften und das Dokument zu sammeln.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bereitet ein Layout mit Schnitt- und Passermarken für den Druck vor und exportiert die Daten in das dem Auftrag entsprechende Format.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Zweck von Passer- und Schnittmarken und kann die Funktion nutzen, um das Layout entsprechend aufzubauen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

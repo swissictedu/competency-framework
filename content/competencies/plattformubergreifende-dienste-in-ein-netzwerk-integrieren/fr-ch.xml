@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>300</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=300%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Intégrer des services réseau mutli-plateformes.</title>
+    <capability>Configurer, mettre en service, tester et mettre à disposition des services indépendants des plates-formes pour un environnement systèmes hétérogènes.</capability>
+    <goals>
+        <goal>
+            Déterminer, à partir des prescriptions, les services nécessaires, en déduire les exigences de sécurité et de protection, et élaborer un concept pour l´intégration des services.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités d’engagement et de configuration des systèmes d’exploitation prescrits et leurs services.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Configurer, organiser les clients et serveurs conformément aux prescriptions et vérifier le caractère fonctionnel exigé.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les déroulements usuels pour le démarrage des services d’un serveur (par ex. installer, configurer, démarrer, tester).
+                </knowledge>
+                <knowledge>
+                    Connaître des concepts spécifiques aux systèmes d’exploitation pour la configuration de logiciels (par ex. fichiers de configuration, registres, configuration système et/ou spécifiques à l´utilisateur).
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités des systèmes d´exploitation pour la garantie et la protection de l´accès à des ressources réseau (authentification, autorisation).
+                </knowledge>
+                <knowledge>
+                    Connaître différents concepts, commandes système et programmes d’aide, pour l´administration des droits et des utilisateurs (par ex. User-ID, droits d´accès, membre d´un groupe, droits standard, héritage, répertoire racine).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organiser les liaisons réseau, mettre en service et expérimenter les services. Vérifier les mesures définies de sécurité et de protection.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités de configuration d´un serveur DHCP (par ex. l’attribution d’une adresse IP, d’un masque de sous-réseau et, les indications concernant le serveur DNS ainsi que les passerelles standards).
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités de configuration d´un serveur DNS.
+                </knowledge>
+                <knowledge>
+                    Connaître les réglages nécessaires d´un poste client (protocoles TCP/IP) dans un environnement serveurs DHCP/DNS
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments et les fonctions des protocoles TCP/IP (par ex. les adresses MAC et IP, les classes d’adresses IP, les adresses privées, les masques de sous-réseau, le routage le protocole de résolution d´adresse ARP, les numéros de ports importants).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organiser, installer les applications et les outils et vérifier le caractère fonctionnel exigé, et intégrer les ressources communes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités techniques pour pouvoir utiliser des ressources de manière commune par un groupe (par ex. Groupware).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Le cas échéant, cerner et verbaliser systématiquement les erreurs, prendre les mesures de dépannage.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes pour pouvoir cerner systématiquement les erreurs (par ex. exclusion d’un système intact).
+                </knowledge>
+                <knowledge>
+                    Connaître des outils pour l´analyse des erreurs respectivement de leur élimination.
+                </knowledge>
+                <knowledge>
+                    Connaître l’organisation et les caractéristiques principales d’un protocole de tests.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser la documentation pour l’administration du réseau, les rôles et droits d’accès, les applications et les services intégrés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’organisation et le contenu d’une documentation réseau et système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

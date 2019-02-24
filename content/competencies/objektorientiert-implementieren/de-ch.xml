@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>226</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=226%26clang=de</reference>
+            <level>2</level>
+            <lessons>80</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Objektorientiert implementieren</title>
+    <capability>Ein objektorientiertes Design (OOD) implementieren, testen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Ein objektorientiertes Design (OOD) nachvollziehen und durch technische Klassen ergänzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Paradigma des objektorientierten Ansatzes und kann an Beispielen erläutern, welche prinzipiellen Unterschiede gegenüber dem funktionalen Ansatz bestehen.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, wie durch Klassen und deren Attribute und Methoden die reale Welt im (vorgegebenen) Design abgebildet wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Beziehungstypen (Assoziation, Aggregation, Komposition) zwischen Klassen und das Konzept der Vererbung und kann aufzeigen, wie diese umgesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung der technischen Klassen und kann an Beispielen erläutern, wie diese zusammen mit den fachlichen Klassen das objektorientierte Design vervollständigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dynamische und statische Strukturen zwischen Objekten resp. Klassen mittels Unified Modeling Language, UML (Klassen-/Sequenzdiagramme) darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Notation des Klassen- und Objektdiagramms und kann aufzeigen, wie sich diese unterscheiden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Notation von Sequenz- und Kollaborationsdiagramm und kann aufzeigen, wie sich damit Abläufe darstellen lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Notation von Schnittstellen und Paketen und kann aufzeigen, wie sich diese auf die Implementation (Typisierung, Programmierung im Team usw.) auswirken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Objektorientiertes Design implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kann erläutern, wie Klassenmodelle mit einer objektorientierten Programmiersprache umgesetzt werden können.
+                </knowledge>
+                <knowledge>
+                    Kann an einem Codebeispiel den Effekt von Polymorphie aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, wie durch die Nutzung von Schnittstellen der Code unabhängig erstellt und getestet werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Funktionen eines CASE Tools und kann erläutern, mit welchen Funktionen die Implementation unterstützt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Klassen systematisch prüfen (Unit Test).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Schritte, die bei einem Unit Test durchlaufen werden müssen und kann aufzeigen, welchen Beitrag diese zu einem qualitativ guten Ergebnis leisten.
+                </knowledge>
+                <knowledge>
+                    Kann zu einer Klasse Testfälle und Grenzwerte festlegen und diese in einer Testklasse implementieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Klassen- und Systemdokumentation vervollständigen.
+            <knowledge-list>
+                <knowledge>
+                    Kann den Programmcode vollständig und korrekt dokumentieren, um daraus die API Spezifikation abzuleiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Struktur einer Systemdokumentation und kann ihre Bedeutung für Wartung und Nachvollziehbarkeit darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

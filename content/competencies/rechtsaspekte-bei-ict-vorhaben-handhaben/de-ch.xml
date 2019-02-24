@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>654</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=654%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Rechtsaspekte bei ICT-Vorhaben handhaben</title>
+    <capability>Berücksichtigt die im ICT-Umfeld relevanten Rechtsgrundlagen und –Aspekte und stellt durch entsprechende Vorgaben und Massnahmen sicher, dass die rechtlichen Vorgaben eingehalten, die eigenen Leistungen sowie die Errungenschaften geschützt und die vereinbarten Leistungen erbracht und  sinnvoll genutzt werden können.</capability>
+    <goals>
+        <goal>
+            Analysiert Situationen oder Ereignisse und schätzt die relevante Bedeutung des Gesellschaftsrechts in Bezug auf Geschäftsbeziehungen (z.B. Unternehmensform von Leistungserbringern) ein. Definiert Vorgaben zur Sicherung der Rechtssicherheit (z.B. Haftungsaspekte) und stellt die Einhaltung dieser sicher.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Einordnung des Gesellschaftsrechts als Teil des Privatrechts im gesamten Rechtssystem (Privat- und Öffentliches Recht).
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung des Gesellschaftsrechts in Bezug auf die Entstehung, Beendigung, Organisation und Finanzierung eines Unternehmens.
+                </knowledge>
+                <knowledge>
+                    Kennt das Gesellschaftsrecht zur Regelung des kaufmännischen Geschäftsverkehrs als Teilbereich des Handelsrechts in Abhängigkeit von der Gesellschaftsform.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt aufgrund der Merkmale des Vertragsobjekts und dessen Anforderungen die richtige Vertragsart und führt mit den Vertragsparteien die inhaltliche Vertragsgestaltung durch. Überwacht die Einhaltung der im Vertrag definierten Leistungen und Ergebnisse für seine Organisationseinheit.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vertragsentstehung in Form der Vertragsfähigkeit und gegenseitig übereinstimmende Willensäusserung.
+                </knowledge>
+                <knowledge>
+                    Kennt Anfechtbarkeit (wesentlicher Irrtum, absichtliche Täuschung, Furchterregung und Drohung, Übervorteilung) und Nichtigkeit (objektive Unmöglichkeit, Widerrechtlichkeit, Verstoss gegen gute Sitten) von Verträgen oder Vertragsobjekten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vertragsformen (formloser Vertrag, einfache Schriftlichkeit, qualifizierte Schriftlichkeit, öffentliche Beurkundung, Eintrag in öffentliche Register und öffentliche Beurkundung) sowie mit der Vertragsform und -leistung verbundenen Verjährungsfristen zur Sicherung der Rechtskonformität.
+                </knowledge>
+                <knowledge>
+                    Kennt Vertragsarten (Auftrag, Dienstleistungsvertrag, Gesellschaftsvertrag, Kaufvertrag, Softwareüberlassungsvertrag/Lizenzen, Werkvertrag, Arbeitsvertrag).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt die für seinen Organisationsbereich relevanten Aspekte des Immaterialgüterrechts und grenzt diese zu den benachbarten Rechtsgebieten (z.B. Markengesetz) ab. Erkennt die Verletzung von Interessen des Immaterialgüterrechts (Eigene oder Dritte) und setzt die Einhaltung der Schutzrechte sicher.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die ICT-relevanten Teilbereiche des Immaterialgüterrechts wie Patentrecht, Recht der Topographie (Halbleitererzeugnisse), Recht der Marken und Unternehmenskennzeichen (Marke, Ausstattung, Firma), das Designrecht (Muster und Modelle), das Urheberrecht (Schutz technischer Geistesschöpfungen, z.B. Computerprogramme URG 2Ⅲ).
+                </knowledge>
+                <knowledge>
+                    Kennt die im Zusammenhang mit ICT-Geschäftstätigkeit relevanten spezifischen nationalen Gesetze und Verordnungen sowie internationale Übereinkommen im Immaterialgüterrecht.
+                </knowledge>
+                <knowledge>
+                    Kennt rechtswidriges Handlungen im Immaterialgüterrecht (Patentrechtsverletzung, Markenrechtsverletzung, Urheberrechtsverletzung) sowie gesetzliche Sanktionen wie zivilrechtliche Rechtsmittel (z.B. Unterlassungsklage, Schadenersatzklage) und strafrechtliche Sanktionen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Sicherung der Schutzrechte im Urheberrecht bezogen auf die nicht Übertragbarkeit von Urheberpersönlichkeitsrechte (Anerkennung der Urheberschaft, Erstveröffentlichung) und Urhebervermögensrechte (Herstellung von Kopien, Werkänderungen, Dekompilation, Vermietungsrecht).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erkennt Situationen welche eine Gefährdung oder Verletzung des Datenschutzgesetzes darstellen. Schafft für sein Wirkungsfeld eine erhöhte Sensibilisierung hinsichtlich des Datenschutzgesetzes und zeigt Konsequenzen (rechtliche und organisatorische) bei der Verletzung des Datenschutzgesetzes auf.
+            <knowledge-list>
+                <knowledge>
+                    Grundsatz des DSG zum Schutz der Persönlichkeit und der Grundrechte von natürlichen und juristischen Personen, welche über die Daten bearbeitet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Unterscheidungsmerkmale von Datenschutz (Schutz der Daten vor Veränderung) und Datensicherheit (Schutz der Daten vor Verlust).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Gewährleistung des vertrauenswürdigen Umgangs mit Personendaten und Einhaltung des geltenden Rechts (z.B. interne Regelungen/Weisungen).
+                </knowledge>
+                <knowledge>
+                    Kennt Mittel zur Information und Sensibilisierung der Mitarbeitenden hinsichtlich des Datenschutzes (z.B. Intranet, eLearning, InfoFlyer, Schulung).
+                </knowledge>
+                <knowledge>
+                    Kennt die rechtlichen und organisatorischen Konsequenzen für das Unternehmen oder den Mitarbeitenden bei Datenschutz-Verletzungen (z.B. Schadenersatz-Forderungen, Arbeitsplatz-Verlust).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

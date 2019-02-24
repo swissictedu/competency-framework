@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>152</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=152%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Intégrer des contenus multimédias dans des applications Web.</title>
+    <capability>Créer des éléments multimédia pour des pages Web selon données ou préparer, optimiser des contenus multimédia existants et intégrer dans des pages Web existantes.</capability>
+    <goals>
+        <goal>
+            Analyser le mandat/la donnée pour un élément multimédia à établir, examiner les conditions de l´implémentation dans une page Web (navigateur, plate-forme, langage de script, prescriptions de sécurité) et choisir l’outil approprié pour la réalisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités pour l’évaluation des logiciels qui entrent en jeu lors d’un accès Web et pouvoir énoncer par des exemples l´influence mutuelle des logiciels (outils, langages script et/ou de programmation, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les dispositions juridiques des droits d´auteur et pouvoir énoncer, quels aspects doivent être pris en considération lors de l´utilisation de composantes étrangères dans un accès Web.
+                </knowledge>
+                <knowledge>
+                    Connaître les formats de fichier usuels pour les contenus multimédia et pouvoir  préciser pour quel genre de contenus, respectivement pour quel genre d´applications ceux-ci conviennent.
+                </knowledge>
+                <knowledge>
+                    Connaître les fonctions de base des outils avec lesquelles des éléments multimédia peuvent être générés et traités.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer des contenus multimédias spécifiques au Web avec des outils appropriés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des techniques et des outils pour la préparation, l´adaptation et l´optimisation de contenus multimédia spécifiques Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir et tester les procédures pour la préparation, l’optimisation et l’intégration des contenus images, graphiques, documents sonores, contenus vidéo.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des techniques pour l’intégration de contenus multimédia (streaming, contenus externes, scripts).
+                </knowledge>
+                <knowledge>
+                    Connaître des commandes pour l´automatisation des procédures qui servent à la conversion et l´intégration automatiques de contenus multimédia.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester les contenus multimédia intégrés sur diverses plates-formes stationnaires ou mobiles, et avec différents navigateurs, le cas échéant, adapter et mettre à disposition.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités pour découvrir les caractéristiques de navigateurs et leurs supports aux contenus multimédia.
+                </knowledge>
+                <knowledge>
+                    Connaître le concept du Plug-in des navigateurs et peut en conséquence choisir ou élaborer des composants.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de reproduire des contenus multimédia sur des plateformes stationnaires et mobiles.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

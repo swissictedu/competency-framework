@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>622</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=622%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Prozess- und Aufbauorganisation bestimmen</title>
+    <capability>Bestimmt eine den ICT-Prozessen entsprechende Prozess- und Aufbauorganisation und stattet diese mit geeigneten Mitarbeitenden und Hilfsmitteln in ausreichendem Umfang aus.</capability>
+    <goals>
+        <goal>
+            Bestimmt aufgrund der zu erbringenden Leistungen und den ICT-Prozessen die ICT-Aufbauorganisation.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Zusammenhang zwischen der Organisationsstruktur einer Unternehmung und ihrer Prozesse und ihrer Strategie (z.B.  Prinzip «Structure follows Process follows Strategy». in «Strategy and Structure: Chapters in the History of the Industrial Enterprise», Alfred D. Chandler Jr., MIT Press, Cambridge, 1969).
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Formen der Aufbauorganisation (z.B. Matrixorganisation, Projektorganisation oder Prozessorganisation).
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgaben von Best-Practice-Modellen (z.B. ITIL, COBIT, ETOM) hinsichtlich der Strukturierung von ICT-Organisationen in Einheiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert die Rollen der Prozess- und Linienverantwortlichen und beschreibt deren Aufgaben, Verantwortungen und Kompetenzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Definitionselemente von Führungsrollen und Ihre Aufgaben, Verantwortungen, Kompetenzen (z.B. nach Mintzberg1)).
+                </knowledge>
+                <knowledge>
+                    Kennt die Definition der Rollen des Prozessmanagements (z.B Prozessowner, Prozessmanager, Prozessengineer) und Ihre Aufgaben, Verantwortungen, Kompetenzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Definition der Rollen des Servicemanagements (z.B. Serviceowner, Servicemanager, Serviceengineer) und Ihre Aufgaben, Verantwortungen, Kompetenzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert den Umfang der zu erbringenden ICT-Leistungen und leitet daraus das Mengengerüst ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden der Bedarfsplanung, deren Prinzipien und Vorgehensweisen (z.B. deterministische Planung, stochastische Planung, heuristische Planung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Methoden und Instrumente der Kapazitätsplanung sowie ihre Einsatz-möglichkeiten (z.B. Netzplan, lineare Optimierung).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert die Anzahl Mitarbeitende und die notwendigen Hilfsmittel, um die Leistungen entsprechend dem Mengengerüst erbringen zu können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden zur Ermittlung des Personalbedarfs (z.B. Kennzahlenmethode,  Arbeitszeitmethode).
+                </knowledge>
+                <knowledge>
+                    Kennt die Lieferobjekte der Personalplanung und die Definitionselemente, welche diese beinhalten (z.B. Stellenplan, Stellenbesetzungsplan, Stellenbeschreibung).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt die Regeln und die nötigen Gremien für die Zusammenarbeit von Prozess- und Linienverantwortlichen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Einsatz und Anwendung von Abstimmungsmodellen für die organisationsübergreifende Koordination (z.B. divisionale und funktionale Organisationsformen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

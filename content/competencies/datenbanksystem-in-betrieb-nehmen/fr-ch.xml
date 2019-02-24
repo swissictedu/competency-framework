@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>141</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=141%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Installer des systèmes de bases de données</title>
+    <capability>Installare e configurare un sistema di banche dati, eseguire il caricamento, assicurare la funzionalità ed eseguire il trasferimento nell'ambiente produttivo.</capability>
+    <goals>
+        <goal>
+            Installer un système de gestion de base de données d’après des directives  (par ex. nombre d´utilisateurs, besoin en mémoire, volume de transaction, exigences de disponibilité etc.) et organiser respectivement préparer pour l´exploitation productive.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les types de bases de données (hiérarchiques, relationnelles, orientées objets, partagées) et l´organisation physique des données pour ces caractéristiques typiques.
+                </knowledge>
+                <knowledge>
+                    Connaître les paramètres importants visant la configuration d´un système de gestion de base de données et leurs significations pour la fonctionnalité et la  performance.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour la mise en œuvre d’un système de base de données selon directives.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organiser la base de données et les tables selon directives, charger des données test et vérifier le caractère fonctionnel exigé. Préparer, documenter et exécuter des chargements antérieurs ou des migrations de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les actions fondamentales et leurs successions qui sont nécessaires pour placer une base de données dans un système de gestion de base de données.
+                </knowledge>
+                <knowledge>
+                    Connaître le processus de normalisation visant le transfert des modèles logiques dans les modèles de base de données.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance des fonctions et des composantes du Data Dictionary (catalogue des métadonnées) dans un système de base de données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Préparer un système de gestion de base de données pour l´exploitation opérationnelle, mettre à disposition et expérimenter les procédures de Security (scripts), de Backup, de Restart et de Recovery. Exécuter le test système (Volume, Stress et Crash).
+            <knowledge-list>
+                <knowledge>
+                    Connaître le sens et l’utilité des procédures de Security, Backup, Restart, Recovery dans un système de gestion de base de données et leurs contributions pour la garantie de l´exploitation opérationnelle.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales étapes qui doivent être déroulées lors d’un test.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes spécifiques de tests pour des systèmes de gestion de base de données pour la vérification de la performance et de la disponibilité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier et interprèter, au moyen du rapport standard, la performance et la disponibilité. Entreprendre les mesures d’optimisation nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les mesures possibles d’optimisation pour améliorer la performance et la disponibilité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organiser les autorisations de base pour la mise en œuvre productive et mettre à la disposition des utilisateurs finaux les rapports standards sous forme de Views, Store Procedure et de Scripts.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement pour la mise en service et l’autorisation d’exploitation d’une base de données.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités pour la distribution des droits d’accès.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour la représentation de la logique Business dans les procédures sauvegardées.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour mettre à disposition dans des Views les interrogations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier et mettre en œuvre le transfert dans l´environnement opérationnel, et réaliser le protocole de remise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le contenu et l’organisation d’une documentation (par ex. pour l’installation, les licences, l’exploitation, la maintenance)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

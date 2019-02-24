@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>307</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=307%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Réaliser des pages Web interactives</title>
+    <capability>Réaliser et tester des pages Web interactives avec un langage de programmation côté serveur, conformément aux données du problème.</capability>
+    <goals>
+        <goal>
+            Développer le caractère fonctionnel des pages Web interactives conformément aux données du problème.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères, selon lesquels une donnée peut être transférée dans un développement qui peut être mis en œuvre.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments et protocoles d’une application Web, ainsi que ses tâches dans un modèle client/serveur.
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures les plus importantes pour garantir la sécurité des pages Web interactives, et peut décrire, comment l´usage abusif peut ainsi être prévenu.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer une maquette pour la saisie et la présentation des données compte tenu des aspects ergonomiques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le principe de la formation de groupes d’informations.
+                </knowledge>
+                <knowledge>
+                    Connaître les règles les plus importantes de l´organisation d´un formulaire Web pour l´entrée et la sortie de données en ce qui concerne le déroulement et la désignation des informations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir les éléments de formulaire appropriés pour la réalisation des données du problème, et garantir la validation des données entrées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments de formulaire en HTML et leurs possibilités de mise en œuvre.
+                </knowledge>
+                <knowledge>
+                    Connaître les méthodes de transfert des données formulaires et leur exploitation dans une application Web.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités de validation, côté client et serveur, des données entrées via des formulaires et leurs contributions pour éviter les entrées erronées, ainsi que le blocage des risques de sécurité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmer l’application de manière modulaire et conformément aux directives de codification.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments de base d’un langage de scripts côté client et quelles fonctions peuvent ainsi être réalisées (fenêtre Popup, validation de formulaire, liens automatiques etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de base d’un langage de programmation côté serveur.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de structuration de code source dans des modules et leur mise en œuvre en tenant compte des directives de codification.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et en mettre œuvre des cas de tests appropriés pour des pages Web interactives et documenter dans le procès-verbal de tests.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure d’une spécification de tests dans une application Web.
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes telles que spécification des tests, exécution et évaluation, qui doivent se dérouler dans un test.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>234</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=234%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Risken beim Betrieb von IT Systemen bewirtschaften</title>
+    <capability>Risiken beim Betrieb von IT Systemen systematisch erheben und Massnahmen ableiten, die den sicheren und zuverlässigen Betrieb unterstützen. Risiken bewirtschaften und Wirksamkeit der getroffenen Massnahmen überprüfen.</capability>
+    <goals>
+        <goal>
+            Gefahrenpotenziale systematisch erheben und identifizieren, die einen sicheren und zuverlässigen Betrieb der IT Systeme beeinträchtigen. Daraus Risikokatalog erarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Perspektiven zur Ableitung von Risiken bzw. Gefahrenpotenzialen für den Betrieb eines Systems (betroffene Geschäftsprozesse, beteiligte Applikationen und deren Plattform; Benutzer etc.) und kann erläutern, welche Ursachen für Risiken im Betrieb sich aus diesen Perspektiven ableiten lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Verfahren zur systematischen Erhebung und Charakterisierung von Gefahrenquellen und kann darlegen, wie die einzelnen Schritte zu einer vollständigen Analyse des Gefährdungspotentials beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Relevante Informationen, Geschäftsprozesse, beteiligte Applikationen und deren Plattform(en) risikogerecht strukturieren und klassieren. Risikokatalog erweitern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Struktur und die Elemente eines Risikokatalogs und kann erläutern, welchen Beitrag die einzelnen Elemente zur Bewertung oder Erhaltung der Betriebssicherheit eines Systems beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Risiken gemäss Risikokatalog analysieren und methodisch bewerten. Zusammenhänge zwischen Gefahr, Auslöser, Eintrittswahrscheinlichkeit, Auswirkung (Schaden) und Risiko darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Verfahren zur Analyse und methodischen Bewertung von beeinflussenden Komponenten (Eintretenswahrscheinlichkeit, Schadenpotential) eines Risikos und kann beispielhaft aufzeigen, wie deren Zusammenhänge die Eintretenswahrscheinlichkeit eines Schadenereignisses beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Massnahmen zur angemessenen Behandlung von Risiken identifizieren und einleiten. Laufende Bewirtschaftung der Risiken sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die organisatorischen Bestimmungen, welche ein vollständiges Notfallkonzept beinhaltet und kann für die einzelnen Bestimmungen erläutern, wie diese im Notfall sicherstellen, dass folgerichtig und bezüglich der Abwendung der Gefahr respektive Minderung des Schadensausmasses wirksam gehandelt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wirksamkeit der Massnahmen des Risikomanagements mit einem institutionalisierten Prozess überprüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kann die wichtigsten Voraussetzungen und Massnahmen in der Mitarbeiterführung beschreiben, die dazu führen, dass Mitarbeitende bereit sind, Verantwortung zu übernehmen.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, welche Gesichtspunkte bei der Anpassung von Prozessen/Abläufen in einer Organisation beachtet werden müssen und kann anhand von möglichen Vorkehrungen darlegen, welchen negativen Folgen man damit vorbeugt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

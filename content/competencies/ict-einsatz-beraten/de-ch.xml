@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>623</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=623%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Einsatz beraten</title>
+    <capability>Berät das Business beim Einsatz von neu verfügbaren ICT-Technologien und deren Unterstützung für die Geschäftsprozessen.</capability>
+    <goals>
+        <goal>
+            Identifiziert und analysiert neu verfügbare Technologien und Innovationen hinsichtlich Ihres Nutzens für das Unternehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Einsatz der Methoden der Analyse von schwachen Signalen und Szenariotechnik in Bezug auf die Identifikation und Analyse von ICT-Technologien (z.B. nach Adrian W. Müller; Günter Müller-Stewens: „Strategic Foresight : Trend- und Zukunftsforschung in Unternehmen“  und Falko E. P. Wilms: „Szenariotechnik: vom Umgang mit der Zukunft“).
+                </knowledge>
+                <knowledge>
+                    Kennt den Zusammenhang zwischen dem ICT-Technologiemanagement und dem Innovationsmanagement in Unternehmen. (z.B. nach Christian Stummer, Markus Günther, Anna Maria Köck: „Grundzüge des Innovations– und Technologiemanagements“).
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehen, Aufgaben und Methoden des Technologiemanagements (z.B. Früherkennung, Bewertung, Definition von Einsatzstrategien).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Zeigt dem Business die Potenziale neuer Technologien hinsichtlich der Innovation von Produkten und Prozessen auf.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung von ICT-Technologien in Bezug auf verschiedene Arten von Innovationen in Unternehmen, wie technische Innovation, Service-Innovation, Prozess-Innovation, Geschäftsmodell-Innovation (z.B. nach Jürgen Gausemeier, Peter Ebbesmeyer, Ferdinand Kallmeyer: „Produktinnovation – Strategische Planung und Entwicklung der Produkte von morgen“  oder Alexander Osterwalder, Yves Pigneur: „Business Modell Generation“).
+                </knowledge>
+                <knowledge>
+                    Kennt Zielsetzungen der unterschiedlichen Arten von Innovation und den Beitrag, den ICT-Technologien dazu leisten können, wie z.B. Verbesserung der Produkt-Funktionalität, Vereinfachung der Produktnutzung, Erhöhung der Kundenbindung, Senkung des Ressourcenbedarfs durch Automatisierung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert für eine konkretes Automatisierungs-, Innovations- oder Verbesserungsvorhaben des Business die Anforderungen hinsichtlich des Einsatzes von ICT Leistungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden zur Erhebung und Bewertung von funktionalen und nicht-funktionalen Anforderungen (z.B. nach Klaus Pohl: „Requirements Engineering.: Grundlagen, Prinzipien, Techniken“).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Berät aufgrund der Anforderungen das Business in der Nutzung der ICT-Leistungen und erstellt ein auf das Business abgestimmtes ICT-Lösungskonzept.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Konzepte des strategischen ICT-Managements (z.B. nach: Dirk Buchta, Marcus Eul, Helmut Schulte-Croonenberg:„Strategisches IT-Management: Wert steigern, Leistung steuern, Kosten senken").
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden für die Gestaltung der Systemintegration (z.B. nach Gregor Engels. Quasar Enterprise: „Anwendungslandschaften serviceorientiert gestalten“).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt unter Berücksichtigung des Lösungskonzeptes einen unternehmensweit abgestimmten Umsetzungsplan des Automatisierungs-, Innovations- oder Verbesserungsvorhaben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Konzepte der Unternehmensarchitektur (z.B. nach Klaus D. Niemann: „Von der Unternehmensarchitektur zur IT-Governance : Bausteine für ein wirksames IT-Management“).
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente des ICT-Projektportfolio-Managements. (z.B. nach Bruno Jenny: „Projektmanagement: das Wissen für den Profi“) .
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

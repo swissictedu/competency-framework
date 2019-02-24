@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>441</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=441%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Virtualisierungslösungen konzipieren und realisieren</title>
+    <capability>Beurteilt die Eignung von Virtualisierungslösungen hinsichtlich der betrieblichen Anforderungen, leitet daraus eine Empfehlung ab und realisiert die gewählte Lösung.</capability>
+    <goals>
+        <goal>
+            Beurteilt abgestimmt auf die Zielsetzungen des Unternehmens die Eignung von Virtualisierungslösungen für spezifische Einsatzbereiche im Unternehmen (Anwendungen, Desktop, Server) und leitet daraus eine Empfehlung ab, welche Lösung realisiert werden soll.
+            <knowledge-list>
+                <knowledge>
+                    Kennt unterschiedliche Modelle zur Virtualisierung, wie Partitionierung, Aggregation oder Emulation, und kann deren jeweilige Vor‐ und Nachteile für eine zu wählende Lösung im Unternehmen benennen.
+                </knowledge>
+                <knowledge>
+                    Kennt die unterschiedlichen Ebenen, auf denen eine Virtualisierung erfolgen kann: Anwendungen, Middleware, Infrastruktur und Netzwerke sowie einzelne Virtualisierungselemente wie Server, Speicher, Desktops oder Software und kann die jeweilige Vor‐ und Nachteile für eine zu wählende Virtualisierungslösung im Unternehmen benennen.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Arten, auf welche die einzelnen Elemente virtualisiert werden können (z.B. Voll‐, Teil‐ oder Paravirtualisierung, RAM‐Pooling, Virtual Memory, Netzwerkvirtualisierung) und kann den Einfluss einer entsprechenden Auswahl erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Auswirkungen der verschiedenen Virtualisierungsansätze auf die betrieblichen Prozesse, kennt die Anforderungen an Prozesse in Bezug auf Virtualisierungsprojekte.
+                </knowledge>
+                <knowledge>
+                    Kann die betrieblichen Anforderungen an eine neue Umgebung und bestehende Vorgaben (Geschäftsprozesse, Sicherheitsvorgaben, vorhandene Infrastruktur und Ressourcen) zusammenstellen und weiss, wie daraus ein Kriterienkatalog zu erarbeiten ist.
+                </knowledge>
+                <knowledge>
+                    Kann die in Frage kommenden Virtualisierungsansätze mit dem Geschäftsumfeld, den bestehenden Rahmenbedingungen sowie betrieblichen Vorgaben in Zusammenhang setzen und die Konsequenzen bewerten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Liefert die Informationen zu Investitions‐ und Betriebsaufwand für die Wirtschaftlichkeitsberechnung einer Virtualisierungslösung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Auswirkungen der Virtualisierung in Bezug auf Infrastruktur und Ressourcen wie Hardware, Lizenzen, Raumbedarf sowie Personal.
+                </knowledge>
+                <knowledge>
+                    Kennt die Auswirkungen unterschiedlicher Virtualisierungsmodelle in Bezug auf die schonende Nutzung nicht erneuerbarer Ressourcen, den Stromverbrauch der benötigten Komponenten sowie mögliche sekundäre Energieeinsparungen, z.B. Kühlung, und weiss um die Wichtigkeit der Energieeffizienz.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie aussagekräftige Kennzahlen zur Beurteilung der Effizienz der Virtualisierungslösung ermittelt werden.
+                </knowledge>
+                <knowledge>
+                    Kann Massnahmen zur Erfassung der Verbrauchsdaten und Kennzahlen festlegen und weiss, wie diese zu implementieren sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt unter Berücksichtigung der technischen Rahmenbedingungen und Anforderungen des entsprechenden Anwendungsbereichs ein technisches Konzept für die Integration der ausgewählten Virtualisierungslösung.
+            <knowledge-list>
+                <knowledge>
+                    Versteht die Grundlagen der Systemintegration und weiss, wie beim Erstellen eines Konzeptes alle betroffenen Bereiche mit einzubeziehen sind.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die Sicherheitsvorgaben zu implementieren sind, und kennt Massnahmen, die sicherstellen, dass diese Vorgaben eingehalten werden.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie das Konzept zur Integration der gewählten Virtualisierungslösung umzusetzen ist.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgaben zur Umsetzung energieeffizienter Lösungen und weiss, wie diese konkret umgesetzt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spezifiziert die technischen und organisatorischen Abläufe für den Betrieb der Virtualisierungslösung und dokumentiert diese in Form eines Betriebskonzepts.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Anforderungen einer Virtualisierungslösung an die Infrastruktur, wie Raumbedarf, Kühlung, Anschlüsse, Energiebedarf etc.
+                </knowledge>
+                <knowledge>
+                    Kennt die Auswirkungen der Virtualisierung auf bestehende betriebliche Prozesse und weiss, wo diese anzupassen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installiert und konfiguriert eine Virtualisierungslösung basierend auf den Vorgaben des technischen Konzepts sowie des Betriebskonzepts.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die technischen Anforderungen an eine termingerechte Installation und Konfiguration einer konkreten Lösung, um gegenseitige Abhängigkeiten nicht zu gefährden sowie eine termingerechte Abnahme der Gesamtlösung zu ermöglichen.
+                </knowledge>
+                <knowledge>
+                    Kennt die hard‐ und softwaremässigen Voraussetzungen an die zu betreibende Umgebung und weiss, wie diese durch eine geeignete Konfiguration zu erfüllen sind, damit Stabilität, Interoperabilität und Kompatibilität gewährleistet werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die benötigten Verwaltungswerkzeuge, um die Virtualisierungslösung zu betreiben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Stellt basierend auf der realisierten Virtualisierungslösung geforderte Dienste über ein Netzwerk bzw. in einer Cloud bedarfsgerecht bereit.
+            <knowledge-list>
+                <knowledge>
+                    Versteht die Architektur des Cloud‐Angebotes mit den drei Schichten Infrastruktur (Infrastructure as a Service), Plattform (Platform as a Service) und Anwendung (Software as a Service) und kann erläutern, wie diese Dienste die Sicherstellung einer Virtualisierungslösung unterstützen bzw. ermöglichen.
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten Unterschiede zwischen der Nutzung einer Public Cloud, einer Community Cloud und einer Private Cloud sowie deren hybrider Formen und kann die daraus folgenden Konsequenzen für den Einsatz einer zu wählenden Lösung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die technischen Risiken bei der Verwendung einer Public Cloud wie auch einer Private Cloud und kann deren Einfluss auf eine zu wählende Lösung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Voraussetzungen für die Erstellung eines Service Level Agreements (SLA) für virtuell zur Verfügung gestellte Dienste (Cloud Services) sowie die Grundlagen der Verrechnung der angebotenen Leistung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

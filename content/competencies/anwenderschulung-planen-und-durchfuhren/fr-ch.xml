@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>139</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=139%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Préparer des supports de cours et former les utilisateurs.</title>
+    <capability>Planifier des mesures de formation pour des utilisateurs informatiques, préparer les moyens nécessaires, organiser et mettre en œuvre la formation d´utilisateurs.</capability>
+    <goals>
+        <goal>
+            Analyser le mandat pour la formation d’utilisateurs, et au besoin, vérifier au moyen d’entrevues et/ou de listes de contrôle, les objectifs à atteindre en matière de formation.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les catégories d’informations qui sont pertinentes pour la définition des contenus pour les unités d’enseignement et peut décrire par des exemples, comment ces informations doivent être prises en considération lors de la planification d´une unité d’enseignement.
+                </knowledge>
+                <knowledge>
+                    Connaît les catégories d’informations qui sont pertinentes à l´organisation des unités d’enseignement et peut décrire par des exemples, comment il faut prendre en considération ces informations lors de l´établissement d´une offre de formation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un plan de formation qui précise la structure temporelle et de fond de la formation en tenant compte des contenus de formation, du savoir des participants et des conditions générales organisationnelles et financières.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les formes d´instruction, l´enseignement frontal et des tâches individuelles d´apprentissage et il peut préciser, à quel moment durant l´instruction et avec quels objectifs ces diverses formes sont appliquées.
+                </knowledge>
+                <knowledge>
+                    Connaît les règles les plus importantes qui doivent être prises en considération pour les formes d´instruction, l´enseignement frontal et les tâches individuelles d´apprentissage et il peut décrire, quelles contributions cela apporte au succès de l’apprentissage.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Partant du plan de formation, organiser le déroulement détaillé, les moyens et les outils d’aide, pour chaque séquence de formation sous la forme d’un script de tournage.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des aides et moyens répandus visant le soutien de l´instruction et peut énoncer, comment ceux-ci contribuent à un enseignement efficace.
+                </knowledge>
+                <knowledge>
+                    Connaît les règles les plus importantes pour l´application des aides et moyens les plus répandus dans l´instruction et peut décrire, quels effets sont ainsi obtenus.
+                </knowledge>
+                <knowledge>
+                    Connaît les éléments les plus importants d´un scripte d´instruction et peut préciser, quelles contributions ceux-ci apportent à une instruction sans problèmes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Communiquer la formation d´utilisateurs, administrer les inscriptions et les participants.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les informations les plus importantes pour l’annonce d’une offre de cours et peut décrire, comment ceux-ci contribuent à une offre transparente et agréable.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer ou obtenir au moyen du scripte les documents de formation appropriés aux destinataires.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les critères les plus importants pour l´évaluation de la compatibilité et de la qualité des documents de formation, l’importance pour le succès d’apprentissage et leur application sur le lieu de travail.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre la formation des utilisateurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales conditions personnelles requises pour le comportement envers d´autres personnes (la décence, l´engagement, la présence, la tolérance, etc.) et peut expliquer, par l’exemple, la contribution de celles-ci pour permettre la réussite de la formation.
+                </knowledge>
+                <knowledge>
+                    Connaît les principales règles de mise en œuvre de la formation (quantité de matière, le rythme, la répétition, les pauses, l’assistance, etc.) et peut expliquer la contribution de ces règles à la réussite de la transmission de la matière.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Examiner, à l´aide d´un questionnaire, la réalisation des objectifs et la satisfaction des participants, documenter les remarques et critiques négatives visant l´amélioration, et prendre en considération lors d’une prochaine formation d’utilisateurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les dimensions les plus importantes lors de l’évaluation des offres de formation et peut préciser des questions de façon exemplaire qui contribuent à une évaluation fiable dans ces dimensions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

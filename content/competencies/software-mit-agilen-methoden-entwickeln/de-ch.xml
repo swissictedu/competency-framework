@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>426</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=426%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Software mit agilen Methoden entwickeln</title>
+    <capability>Agile Methoden zur Softwareentwicklung in Release-Zyklen anwenden.</capability>
+    <goals>
+        <goal>
+            Vorgegebene Funktionalität im Rahmen eines Softwareprojekts mit einer agilen Methode umsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine agile Methode zur Softwareentwicklung
+                </knowledge>
+                <knowledge>
+                    Kennt Inhalt und Aufbau einer User-Story
+                </knowledge>
+                <knowledge>
+                    Kennt Werte und Prinzipien von agilen Methoden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Abgrenzung von agilen und linearen Methoden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Funktionalitäten schrittweise mit Praktiken der agilen Entwicklung  in vorgegebenen Release-Zyklen realisieren, testen und den Software-Release in Kurzform präsentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Ablauf und die Bestandteile eines Releasezyklus.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau und Inhalt einer Releasepräsentation.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung von lauffähigen Softwarereleases.
+                </knowledge>
+                <knowledge>
+                    Kennt Praktiken (best practices) der agilen Softwareentwicklung wie z.B. einfaches Design, Metapher, Refactoring, Testdriven Design, Continuous Integration, Pair Programming, Coding Standards.
+                </knowledge>
+                <knowledge>
+                    Kennt auf die agile Entwicklung zugeschnittene Tools für Unit-Tests, System-Build und -integration, Akzeptanztest, usw.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestehende Entwurfsmuster und/oder geprüfte Softwarekomponenten zur Lösung von Problemen gezielt einsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung und den Aufbau relevanter Entwurfsmuster.
+                </knowledge>
+                <knowledge>
+                    Erkennt den Nutzen der Wiederverwendung bestehender Softwarekomponenten.
+                </knowledge>
+                <knowledge>
+                    Kenn ein Vorgehen zur Evaluation von Softwarekomponenten um Problemstellungen zu lösen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Ergebnisse und das Arbeitsvorgehen eines Release-Zyklus reflektieren und daraus Erkenntnisse für das weitere Vorgehen ableiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Vorgehen um die Ergebnisse eines Releasezyklus zu reflektieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten um das eigene Arbeitsvorgehen im Releasezyklus zu reflektieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten um das weitere Vorgehen aufgrund der Reflektion zu optimieren  (SCRUM, ceremony, product backlog issues).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Projektdokumente und den Programmquelltext in einem gemeinsamen Versionsverwaltungssystem bereitstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorteile und Nutzen eines gemeinsam genutzten Versionsverwaltungssystems.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionalitäten und die Bedienung eines Versionsverwaltungssystems, sowie die Möglichkeiten unterschiedliche Objekte einzupflegen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterschiede zwischen Versionsverwaltungssystemen mit exklusivem und parallelem Zugriff.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmquelltext nach Konventionen intuitiv verständlich formulieren und bei Bedarf überarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Konzepte, Regeln und Verfahren von Clean Code.
+                </knowledge>
+                <knowledge>
+                    Kennt die Wichtigkeit des Refactoring zur Verbesserung der intuitiven Lesbarkeit von Programmquelltext.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

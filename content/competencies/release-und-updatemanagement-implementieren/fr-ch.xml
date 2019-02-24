@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>452</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=452%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter la gestion des versions et des mises à jour</title>
+    <capability>A partir des exigences et consignes d’exploitation, définir le management des versions et des mises à jour et prendre les mesures nécessaires à sa mise en place.</capability>
+    <goals>
+        <goal>
+            Regrouper les composants d’un système formant des ensembles logiques et fonctionnels en unités de mise en production (release).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les facteurs sur la base desquels les composants d’un système formant des ensembles logiques et fonctionnels sont regroupés en unités de mise en production.
+                </knowledge>
+                <knowledge>
+                    Pouvoir décrire une unité de mise en production (release) et ses interdépendances sur le plan des applications, de la programmation et de la technique de système.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer l’utilisation des différents types de version: version principale, version secondaire et version d’urgence.
+                </knowledge>
+                <knowledge>
+                    Connaître les directives permettant de distinguer les composants de versions et les mises à jour.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer la nécessité d’une nouvelle version sur la base des exigences techniques, opérationnelles et organisationnelles.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment évaluer les aspects fonctionnels d’une version et les harmoniser avec les exigences internes.
+                </knowledge>
+                <knowledge>
+                    Pouvoir identifier l’unité de mise en production déterminante, les composants concernés et leur intégration fonctionnelle sur la base des exigences techniques, opérationnelles ou organisationnelles.
+                </knowledge>
+                <knowledge>
+                    Savoir quels sont les groupes d’intérêts à consulter pour la définition et la planification d’une version.
+                </knowledge>
+                <knowledge>
+                    Savoir coordonner la planification fonctionnelle et le calendrier d’une version avec les exigences techniques, opérationnelles et organisationnelles.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rédiger la description et actualiser le niveau de la version planifiée et la faire valider.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir décrire les informations que doivent contenir les descriptions de versions et de mises à jour en fonction de leur composition et des changements qu’elles implémentent.
+                </knowledge>
+                <knowledge>
+                    Connaître les paramètres qui conditionnent la numérotation des versions et des mises à jour.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer pourquoi et comment les descriptions de version sont utilisées pour préparer la validation d’une version.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer quelles sont les instances responsables de la validation d’une version et quelle est leur place dans le processus de validation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Garantir par des tests adéquats que la version future remplit toutes les exigences définies. Superviser le développement de la version.
+            <knowledge-list>
+                <knowledge>
+                    Savoir quelles sont les instances responsables de la réalisation technique d’une version et connaître leur influence sur la réalisation.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer comment est réglementée la livraison d’une version du développement (p. ex. équipe d’ingénierie) au test (p. ex. service de test de systèmes).
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer comment une unité de mise en production ainsi que la description et la nature d’une version conditionnent le type et la portée des tests.
+                </knowledge>
+                <knowledge>
+                    Connaître les utilisations possibles d’outils techniques d’automatisation de tests.
+                </knowledge>
+                <knowledge>
+                    Connaître la fonction et les utilisations possibles des exigences, des spécifications, des descriptions et des rapports de test.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier le déploiement de la version en y intégrant pour les cas d’urgence un processus de restauration des fonctionnalités précédentes. Superviser l’introduction de la nouvelle version.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différentes phases d’introduction d’une version et leur fonction spécifique.
+                </knowledge>
+                <knowledge>
+                    Savoir quelles sont les instances qui introduisent une version sur le plan technique et organisationnel. Connaître des outils permettant de vérifier les résultats de l’introduction d’une version.
+                </knowledge>
+                <knowledge>
+                    Savoir comment les scénarios de retour à la version antérieure (fallback) sont développés et connaître les situations dans lesquelles ces scénarios interviennent.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre à jour la documentation système et applications et actualiser la base de données de configuration.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les composants de la documentation utilisateur et système concernés par le déploiement d’une unité de mise en production donnée et pouvoir en expliquer la signification.
+                </knowledge>
+                <knowledge>
+                    Savoir comment la documentation utilisateur et système est mise à jour et actualisée sur la base des modifications de version (version des documents, validation des documents, assurance qualité, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître le rôle d’une base de données de configuration. Pouvoir expliquer comment les unités de mise en production sont reproduites dans la base de données de configuration de l’entreprise et comment elle doit être adaptée lors de l’introduction d’une version.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir un système de gestion des mises à jour effectuées en dehors du cycle des versions pour procéder à des actualisations urgentes de sécurité.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir expliquer les critères selon lesquels un composant modifié est déployé sous la forme d’une mise à jour (mise à jour de sécurité) ou dans le cadre d’une version.
+                </knowledge>
+                <knowledge>
+                    Connaître des outils techniques d’automatisation de la gestion des versions ou des programmes et services de déploiement de mises à jour.
+                </knowledge>
+                <knowledge>
+                    Savoir quelles sont les exigences sur le plan des applications, de la programmation et de la technique de systèmes qui influent sur le processus de gestion des mises à jour.
+                </knowledge>
+                <knowledge>
+                    Savoir quels outils (descriptions de patch, tests, groupes de test bêta, etc.) permettent de minimiser les dysfonctionnements de l’activité dus à des mises à jour.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir un processus de développement et de déploiement de mises à jour d’urgence destinées à adapter des applications en dehors du cycle de versions.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment définir les critères d’une version d’urgence et comment coordonner le déploiement de versions d’urgence avec les responsables de l’exploitation.
+                </knowledge>
+                <knowledge>
+                    Savoir quels sont les facteurs (urgence, portée, etc.) qui influencent le processus de déploiement d’une version d’urgence.
+                </knowledge>
+                <knowledge>
+                    Savoir quelles sont les mesures de précaution à prendre dans le cadre du déploiement d’une version d’urgence (scénario de secours, sauvegarde des données, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

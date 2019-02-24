@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>152</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=152%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Multimedia-Inhalte in Webauftritt integrieren</title>
+    <capability>Multimedia-Elemente für Webauftritte nach Vorgabe erstellen und bestehende Multimedia-Inhalte aufbereiten, optimieren und in einen bestehenden Webauftritt integrieren.</capability>
+    <goals>
+        <goal>
+            Auftrag/Vorgabe für ein zu erstellendes Multimedia-Element analysieren, Voraussetzungen der Einbindung in einen Webauftritt untersuchen (Browser, Plattformen, Scriptsprachen, Sicherheitsvorschriften) und geeignetes Tool für die Realisierung auswählen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten zur Evaluation eingesetzter Software bei einem Webauftritt und kann das Zusammenspiel der Software (Tools und Script-/Programmiersprachen, usw.) an Beispielen darlegen.
+                </knowledge>
+                <knowledge>
+                    Kennt die rechtlichen Bestimmungen des Urheberrechts und kann darlegen, welche Aspekte bei der Verwendung fremder Komponenten in einem Web-Auftritt zu beachten sind.
+                </knowledge>
+                <knowledge>
+                    Kennt gängige Dateiformate für Multimedia-Inhalte und kann aufzeigen für welche Art von Inhalten bzw. welche Art von Anwendungen sich diese eignen.
+                </knowledge>
+                <knowledge>
+                    Kennt Grundfunktionen von Tools, mit denen Multimedia-Elemente generiert und bearbeitet werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Webspezifische Multimedia-Inhalte mit geeigneten Werkzeugen erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Techniken und Werkzeuge (Tools) zur Aufbereitung, Adaptierung und Optimierung von webspezifischen Multimedia-Inhalten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prozeduren zur Aufbereitung, Optimierung und Integration von Bildern, Grafiken, Animationen, Tondokumenten oder Video-Inhalten erstellen und testen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Techniken zur Integration von Multimedia-Inhalten (Streaming, externe Inhalte, Scripts).
+                </knowledge>
+                <knowledge>
+                    Kennt Befehle für die Automatisierung von Prozeduren, welche der automatischen Konvertierung und Integration von Multimedia-Inhalten dienen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Integrierte Multimedia-Inhalte auf unterschiedlichen stationären und mobilen Plattformen und mit verschiedenen Browsern testen, allenfalls adaptieren und freigeben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten die Eigenschaften von Browsern sowie deren Unterstützung von Multimedia-Inhalten zu eruieren.
+                </knowledge>
+                <knowledge>
+                    Kennt das Plug-In Konzept der Browser und kann dementsprechend Komponenten auswählen oder erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, Multimedia-Inhalte auf stationären und mobilen Plattformen abzubilden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

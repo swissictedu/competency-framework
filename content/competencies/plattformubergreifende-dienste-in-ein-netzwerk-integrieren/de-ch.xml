@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>300</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=300%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Plattformübergreifende Dienste in ein Netzwerk integrieren</title>
+    <capability>Plattformübergreifende Dienste nach Vorgabe für eine heterogene Systemumgebung konfigurieren, in Betrieb nehmen, testen und freigeben.</capability>
+    <goals>
+        <goal>
+            Aus den Vorgaben  die erforderlichen Dienste ermitteln, Schutz- und Sicherheitsanforderungen ableiten und ein Konzept für die Integration der Dienste ausarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Einsatz- und Konfigurationsmöglichkeiten der vorgegebenen Betriebssysteme und Dienste.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Clients und Server gemäss Vorgaben konfigurieren, einrichten und geforderte Funktionalität überprüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die übliche (best practice) Vorgehensweise bei der Inbetriebnahme von Serverdiensten (zB. installieren, konfigurieren, starten, testen).
+                </knowledge>
+                <knowledge>
+                    Kennt betriebssystemspezifische Konzepte zur Konfiguration von Software (zB. Konfigurationsdateien, Registry, systemweite / benutzerspezifische Konfiguration).
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten von Betriebssystemen zur Gewährleistung und Absicherung des Zugriffs auf Netzwerk-Ressourcen (Authentifizierung, Autorisierung).
+                </knowledge>
+                <knowledge>
+                    Kennt die unterschiedlichen Konzepte, Systembefehle und Hilfsprogramme für die Benutzer- und Rechteverwaltung (zB. User-ID, Zugriffsrechte, Gruppenmitgliedschaft, Standardrechte, Vererbung, Homeverzeichnis).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Netzwerkverbindungen einrichten, Dienste in Betrieb nehmen und testen. Definierte Schutz- und Sicherheitsmassnahmen überprüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Konfigurationsmöglichkeiten eines DHCP Servers (zB. Zuweisung einer IP Adresse, einer Subnet-Maske, Angaben zu DNS-Servern, Standard-Gateways).
+                </knowledge>
+                <knowledge>
+                    Kennt die Konfigurationsmöglichkeiten eines DNS-Servers .
+                </knowledge>
+                <knowledge>
+                    Kennt die notwendigen Einstellungen bei einem Client in einer DHCP-/DNS-Serverumgebung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente und Funktionen des TCP/IP-Protokolls (zB. MAC- und IP-Adressen, IP-Adressklassen, private Adressen, Netzmasken, Routing, Adress Resolution Protocol (ARP), wichtige Portnummern).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anwendungen und Tools installieren, einrichten und geforderte Funktionalität überprüfen und gemeinsame Ressourcen einbinden
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische Möglichkeiten um Ressourcen im Netzwerk durch Gruppen gemeinsam zu nutzen (zB. Groupware).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Allfällige Fehler systematisch eingrenzen, protokollieren und Massnahmen zur Fehlerbehebung einleiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden zur systematischen Fehlereingrenzung (zB. Ausschlussverfahren intakter Systeme).
+                </knowledge>
+                <knowledge>
+                    Kennt Werkzeuge zur Fehleranalyse und –behebung.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau und die wesentlichen Merkmale eines Testprotokolls.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dokumentation für die Administration des Netzes, der Rollen und Rechte und der eingerichteten Dienste und Anwendungen erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufbau und Inhalt einer Netzwerk- und Systemdokumentation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

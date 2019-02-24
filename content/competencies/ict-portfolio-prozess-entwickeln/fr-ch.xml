@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>611</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=611%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer un processus de portfolio TIC</title>
+    <capability>Définir le processus du portfolio de projet et implémenter celui‐ci dans une unité d’organisation. Fixer l’organisation de construction appropriée et détermine à cet effet les méthodes et outils nécessaires.</capability>
+    <goals>
+        <goal>
+            Définir, en collaboration avec les principaux groupes d’interlocuteurs, la fixation des objectifs, les directives et les conditions cadres pour la gestion du portfolio de projet.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’imbrication théorique des bases de Markowitz (sélection du portfolio) relatives aux risques, au rendement et aux liquidités.
+                </knowledge>
+                <knowledge>
+                    Connaître la construction et le contenu de la gestion d’un portfolio de projet TIC et sa signification pour la conduite de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les tâches et objectifs de la gestion d’un portfolio de projet TIC (par ex. l’alignement de la stratégie).
+                </knowledge>
+                <knowledge>
+                    Connaître l’imbrication fonctionnelle de la gestion d’un portfolio de projet TIC dans la conduite et le pilotage d’une organisation TIC (par ex. Steering‐Committee PPM).
+                </knowledge>
+                <knowledge>
+                    Connaître les relations et les limites entre la gestion d’un portfolio de projet et la gestion de projet (par ex. conduite de projet).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déduire des objectifs fixés, des directives et des conditions cadres, les exigences de la gestion du portfolio de projet et les convenir avec les groupes d’interlocuteurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les catégories des exigences pour la conception de la gestion d’un portfolio de projet (par ex. organisationnelles, fonctionnelles).
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs relatifs aux TIC et à l’entreprise en regard d’exigences adéquates (degré du détail, environnement, diversification).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer les processus du portfolio de projet  en tenant compte des exigences de la gestion du portfolio de projet et choisir les méthodes et outils qui assurent un soutien optimal du processus.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux processus de la gestion d’un portfolio de projet et les prestations que ceux‐ci apportent aux TIC et à l’entreprise (par ex. évaluation, priorisation, contrôles et rapports, conduite de projet).
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes de base des principaux processus et leur contribution pour la garantie des prestations.
+                </knowledge>
+                <knowledge>
+                    Connaître les relations et les interfaces de la gestion d’un portfolio de projet TIC envers d’autres processus d’entreprise tels que la budgétisation et la planification.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences des méthodes et outils pour l’automatisation et le soutien des processus principaux, respectivement leurs étapes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fixer les positions responsables en tenant compte de l’organisation de la construction TIC et déterminer leurs responsabilités et compétences. Garantir ainsi un déroulement transparent et conforme aux objectifs fixés de la gestion du portfolio de projet.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les tâches entières ou partielles qui se produisent dans le cadre du processus principal de la gestion d’un portfolio de projet TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître les devoirs, compétences et responsabilités dans les rôles d’une organisation de construction TIC, ainsi que leur signification pour la gestion d’un portfolio de projet TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Introduire dans l’organisation la gestion du portfolio de projet en accord avec la planification financière, le processus budgétisé de l’entreprise ainsi que les intérêts des groupes d’interlocuteurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les phases de la réalisation d’un projet (en particulier les étapes d’introduction) et le comportement y relatif envers la résistance et les défis.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier périodiquement le processus du portfolio de projet  en regard de la validité des objectifs fixés, les directives et les conditions cadres ainsi que du déroulement opérationnel de la gestion du portfolio de projet et en déduite les mesures d’amélioration.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les facteurs qui sont responsables pour l’efficience et la qualité des processus de portfolio TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître les influences de l’environnement et les conséquences qu’elles ont sur les processus d’un portfolio de projet TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

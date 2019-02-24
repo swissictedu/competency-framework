@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>613</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=613%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Portfolio-Controlling definieren</title>
+    <capability>Entwickelt in der Rolle des Portfolio-Controllers geeignete Controlling-Instrumente für die Projektportfolioebene. Stellt die Korrektheit der Kennzahlen sicher und erstattet den Stakeholdern adäquat Bericht.</capability>
+    <goals>
+        <goal>
+            Definiert mit den Stakeholdern der ICT die Kennzahlen, welche eine zuverlässige Kontrolle des Beitrags des Projektportfoliomanagements zur Erreichung der strategischen Ziele und dem damit verbundenen Ressourcenaufwand sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundsätze des Projekt-Portfolio-Controllings gemäss aktuell gültigen Standards (z.B. IPMA, PMI).
+                </knowledge>
+                <knowledge>
+                    Kennt die strategischen und organisatorischen Zusammenhänge bezüglich Aussagekraft von Kennzahlen und ihrer Bedeutung hinsichtlich der Projekt-Portfolio-Steuerung (z.B. Rentabilität, Liquidität, Termin, Qualität, Risiko, Ressourcen, Zufriedenheit, Strategie-Bezug).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erarbeitet die Controlling-Instrumente im Einklang mit den Stakeholdern und unter Berücksichtigung der definierten Methoden und Tools, sowie der verfügbaren Informationen aus den Projekten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktions- und Wirkungsweise der Controlling-Instrumente (z.B. Management von Ressourcen, Kosten, Terminen, Qualität) im Projekt-Portfolio-Management hinsichtlich der definierten Methoden und Tools.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft stichprobenweise die Plausibilität von Messwerten, identifiziert bei Unregelmässigkeiten deren Ursachen und leitet geeignete Massnahmen zur Sicherstellung einer korrekten Datenbasis ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Faktoren (z.B. Fehlerfassungen, Manipulation, Desinteresse), welche die Korrektheit von Messwerten und deren Datenbasis beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt Prozesse (z.B. KVP, PDCA-Zyklus) zur kontinuierlichen Plausibilisierung (z.B. Vorperiodenvergleich, Soll/Ist-Vergleich, Benchmark zu anderen Projekten) von Messwerten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert und beurteilt das Projekt-Portfolio auf Basis der festgelegten Kennzahlen. Entwickelt Massnahmen zur Steuerung des Projekt-Portfolios unter Berücksichtigung der strategischen Vorgaben und Rahmenbedingungen und setzt diese um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden der Kennzahlen-Analyse hinsichtlich Ursache und Wirkung (z.B. BSC, EVA, Kennzahlen-Bäume, Tableau de Bord).
+                </knowledge>
+                <knowledge>
+                    Kennt Massnahmen zur Portfolio-Steuerung (auf Basis der Erkenntnisse aus den Kennzahlen-Analyse).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verfasst aufgrund der Analyseergebnisse und der Massnahmen Stakeholder-gerechte Berichte, welche das Mass der Zielerreichung des ProjektportfolioManagements darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kommunikation (z.B. Periodizität, Form, Mittel, Präsentation), Aufbau und Inhalt (z.B. Zielabweichung, Periodenvergleiche, Impacts, Handlungsempfehlungen), Stakeholder-adäquater Berichterstattung zur Lenkung des Projekt-Portfolios (Objektivierung von Aussagen, Feedbackregeln).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

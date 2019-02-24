@@ -21,7 +21,7 @@
 
     <xsd:group name="competency-definition">
         <xsd:sequence>
-            <xsd:element ref="description" minOccurs="1" />
+            <xsd:element ref="description" minOccurs="1" maxOccurs="unbounded" />
         </xsd:sequence>
     </xsd:group>
 
@@ -56,7 +56,7 @@
     <xsd:element name="goals">
         <xsd:complexType>
             <xsd:sequence>
-                <xsd:element ref="goal" maxOccurs="10" />
+                <xsd:element ref="goal" maxOccurs="20" />
             </xsd:sequence>
         </xsd:complexType>
     </xsd:element>
@@ -64,7 +64,7 @@
     <xsd:element name="goal">
         <xsd:complexType mixed="true">
             <xsd:sequence>
-                <xsd:element ref="knowledge-list" />
+                <xsd:element ref="knowledge-list" minOccurs="0" />
             </xsd:sequence>
         </xsd:complexType>
     </xsd:element>
@@ -72,7 +72,7 @@
     <xsd:element name="knowledge-list">
         <xsd:complexType>
             <xsd:sequence>
-                <xsd:element name="knowledge" type="xsd:token" maxOccurs="10" />
+                <xsd:element name="knowledge" type="xsd:token" maxOccurs="20" />
             </xsd:sequence>
         </xsd:complexType>
     </xsd:element>
@@ -96,7 +96,7 @@
 
     <xsd:simpleType name="sentence">
         <xsd:restriction base="xsd:token">
-            <xsd:minLength value="10" />
+            <xsd:minLength value="5" />
             <xsd:maxLength value="1000" />
         </xsd:restriction>
     </xsd:simpleType>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>223</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=223%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Réaliser des applications multi-utilisateurs orientées objets.</title>
+    <capability>Développer une application multi-utilisateurs, entreprendre les adaptations nécessaires de la base de données, implémenter, tester et documenter l’application.</capability>
+    <goals>
+        <goal>
+            Estimer si une base de données remplit les exigences de l’aptitude multi-utilisateurs, et, le cas échéant, documenter les adaptations.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les exigences du système de gestion de bases de données en regard de l’aptitude multi-utilisateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître les aspects de la modélisation des données qui permettent l’aptitude multi-utilisateurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer l’application et garantir la capacité multi-utilisateurs au moyen de transactions.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales différences entre le modèle d´objet commercial et un modèle de données relationnelles.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux concepts et variantes architecturales (client/serveur, multi-tiers, Middleware, Framework, bibliothèque des classes).
+                </knowledge>
+                <knowledge>
+                    Connaître la mise en œuvre d’une représentation relationnelle objet d’un modèle objet commercial, ainsi que ses spécifications au moyen d’UML (diagramme des classes, diagramme séquentiel).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter les interfaces utilisateurs, les adaptations de la base de données et les transactions.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments spécifiques pour la mise en œuvre d’interfaces compatibles multi-utilisateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités d’implémentation d’une gestion des droits multi-utilisateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités  permettant de garantir les transactions dans un SGBD.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités d’implémentation de transactions dans une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales techniques pour l’implémentation d’une couche persistante.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les spécifications de tests pour les aspects fonctionnels et non-fonctionnels de l’aptitude multi-utilisateurs, tester l’application et verbaliser les tests.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux aspects qui doivent être pris en compte lors de la spécification des tests pour une application multi-utilisateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître un procédé pour tester des exigences non-fonctionnelles.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documenter les transactions en veillant aux possibilités de maintenance et de reproductibilité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités de documentation de transaction entre SGBD et dans l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

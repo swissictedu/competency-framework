@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>326</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=326%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer et implémenter orienté objets.</title>
+    <capability>Transférer, implémenter, tester et documenter une analyse orientée objets (AOO) dans un design orienté objets (DOO).</capability>
+    <goals>
+        <goal>
+            Formuler les cas de mise en œuvre sur la base de l’analyse commerciale et en déduire les classes spécialisées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments d´un Use Case Model et comment les exemples du quotidien peuvent ainsi être illustrées.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes du déroulement pour le repérage des classes, ainsi que  l´importance d´un processus de conception itératif.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères, selon lesquels des objets réels ou du monde imaginaire  peuvent être mis en relation les uns avec les autres.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un design orienté objets et le représenter au moyen d’UML  (Unified Modeling Language).
+            <knowledge-list>
+                <knowledge>
+                    Connaître des architectures permettant de compléter les classes spécialisées pour une application fonctionnelle.
+                </knowledge>
+                <knowledge>
+                    Connaître les diagrammes UML appropriés et quelles faits peuvent en être illustrés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter le design orienté objets.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités qui permettent de mettre en œuvre une architecture à l’aide d’un langage de programmation orienté objets.
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages du déroulement itératif pour l’implémentation d’un design.
+                </knowledge>
+                <knowledge>
+                    Connaître des échantillons de développement et leur utilité lors de la concrétisation et implémentation d’un design.
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages fondamentaux du Framework avec quelles fonction celui-ci soutient un design orienté objets.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier la concrétisation des exigences spécialisées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des déroulements permettant de déterminer et élaborer des cas de tests sur la base des documents d’analyse (Uses Cases, diagrammes d’activités, diagrammes de classes).
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes de base qui doivent être exécutées lors du test d’un système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documenter de manière reproductible l’architecture de l’application.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des critères pour le choix de diagrammes UML appropriés en faveur d’une documentation reproductible d’une architecture d’applications.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>146</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=146%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Relier une entreprise à Internet.</title>
+    <capability>Développer, projeter et réaliser un raccordement d´une entreprise à Internet en prenant en considération les aspects de sécurité, de disponibilité et de performance.</capability>
+    <goals>
+        <goal>
+            Déterminer la liaison Internet selon les directives du client (sécurité, performance, disponibilité et maintenance).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les exigences (largeur de bande, disponibilité, ampleur du support, sécurité etc.) en matière de lien Internet
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures de surveillance et de sécurité lors de l’exploitation d’un réseau Internet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Classer les exigences selon priorité et signification pour l´entreprise, créer un cahier des charges pour l´évaluation d´un fournisseur de services (Provider).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités technologiques d´accès Internet ainsi que leur fournisseur (Provider).
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes de classification des directives des clients.
+                </knowledge>
+                <knowledge>
+                    Connaître l’organisation et le contenu d’un cahier des charges.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement d’un processus d’évaluation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Représenter les résultats de l´évaluation sur la base du cahier des charges et des aspects économiques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères principaux pour l’évaluation d’une offre.
+                </knowledge>
+                <knowledge>
+                    Connaître les types de représentation pour l’évaluation d’une offre.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser ou adapter le schéma et le plan du réseau.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les règles pour l’élaboration d’un concept de dénomination et de numérotation.
+                </knowledge>
+                <knowledge>
+                    Connaître la fonctionnalité d’un Firewall, DMZ, Proxy et DNS.
+                </knowledge>
+                <knowledge>
+                    Connaître les types courants de représentation et symboles pour des schémas et plan de réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les composants matériels et logiciels nécessaires, élaborer une demande d´acquisition.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’organisation et le contenu d’une demande d’acquisition issue de l’évaluation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier et réaliser la mise en exploitation avec les composants de la connexion Internet. Organiser et exécuter la remise de l´installation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement pour la planification et la mise en service de l’accès Internet.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour la remise du système dans l’exploitation opérationnelle.
+                </knowledge>
+                <knowledge>
+                    Connaître l’organisation et le contenu d’un procès-verbal de remise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

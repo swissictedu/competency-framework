@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>476</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=476%26clang=de</reference>
+            <level>5</level>
+            <lessons>60</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Logisches Design einer Applikation entwickeln</title>
+    <capability>Entwickelt ausgehend von der Analyse die Artefakte des objektorientierten Designs für die Applikation.</capability>
+    <goals>
+        <goal>
+            Identifiziert und definiert ausgehend vom Analysemodell, den nicht‐funktionalen Anforderungen und der gewählten Architektur die zu entwickelnden Komponenten und entwirft auf Basis dieser Vorgaben das Schichten‐Modell der Applikation.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Komponentendiagramms, welchen einen Beitrag zur Beschreibung des Schichten‐Modells einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Komponentendiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Paketdiagramms, welchen einen Beitrag zur Beschreibung des Schichten‐Modells einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Paketdiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert und definiert ausgehend vom Schichten‐Modell, den nicht‐funktionalen Anforderungen sowie den Architekturvorgaben die physischen Komponenten der Applikation und bestimmt deren Verteilung auf die Systeminfrastruktur.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Verteilungsdiagramms, welchen einen Beitrag zur Beschreibung einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Verteilungsdiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwirft unter Berücksichtigung des Analysemodells und der zu entwickelnden Komponenten ein fachliches Subsystem‐ und Komponentenmodell.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Komponentendiagramms, welchen einen Beitrag zur Beschreibung der Komponenten einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Komponentendiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwirft unter Berücksichtigung des Analysemodells die Klassenmodelle der zu entwickelnden Komponenten und setzt dabei Design Pattern, Best Practices etc. lösungsorientiert ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Klassendiagramms, welchen einen Beitrag zur Beschreibung der Komponenten einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Klassendiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Kompositionsstrukturdiagramms, welchen einen Beitrag zur Beschreibung einer Komponenten einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Kompositionsstrukturdiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Design Patterns (Entwurfsmuster), welchen einen Beitrag zur Entwicklung einer Komponente und der Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Design Patterns und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwirft unter Berücksichtigung des Analysemodells die Zustandsmodelle, welche das Verhalten von einzelnen Objekten und Interaktionen innerhalb/zwischen den zu entwickelnden Komponenten definieren, und setzt dabei Design Pattern, Best Practices etc. lösungsorientiert ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Zustandsdiagramms, welchen einen Beitrag zur Beschreibung von Zustandsmodellen einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Zustandsdiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt für die zu bauenden Komponenten geeignete ablauforientierte Unit Tests, welche automatisiert ausgeführt werden können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente von automatisierten Unit Tests, welchen einen Beitrag zur Überprüfbarkeit des entwickelten Programmcodes einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines automatisierten Unit Tests und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wählt die geeigneten Elemente zum Aufbau der User Interfaces nach den Benutzervorstellungen aus und gestaltet diese nach den Style‐ und Usability Vorgaben der Zielplattform.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Bildschirmprototypen, welchen einen Beitrag zur Beschreibung des User Interfaces für die gewählte Zielplattform einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Bildschirmprototyps und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

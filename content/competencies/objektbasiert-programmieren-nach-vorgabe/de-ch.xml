@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>404</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=404%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Objektbasiert programmieren nach Vorgabe</title>
+    <capability>Vorgabe interpretieren, objektbasiert mit einer Programmiersprache implementieren, dokumentieren und testen.</capability>
+    <goals>
+        <goal>
+            Aufgrund einer Vorgabe den Ablauf darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Darstellungsmöglichkeiten für Programmabläufe Verarbeitungen (z.B. Zustandsdiagramm) und weiss, welche Sachverhalte sich damit abbilden lassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eine Benutzerschnittstelle entwerfen und implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Regeln für den Aufbau einer Benutzerschnittstelle.
+                </knowledge>
+                <knowledge>
+                    Kennt Lösungsansätze für die Verarbeitung und Validierung von Benutzerinteraktionen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erforderliche Daten bestimmen und Datentypen festlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Einsatz und die korrekte Anwendung der wichtigsten Datentypen Ganzzahl, Gleitkommazahl, Zeichen, Zeichenketten und Boolean.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmvorgabe unter Nutzung vorhandener Komponenten mit deren Eigenschaften und Methoden, sowie Operatoren und Kontrollstrukturen implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den grundsätzlichen Aufbau einer Komponente (Eigenschaften, Methoden und Ereignisse) und wie sich diese für die Verarbeitung einsetzen lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt den grundlegenden Aufbau eines Programms und den Einfluss auf den Arbeitsspeicher.
+                </knowledge>
+                <knowledge>
+                    Kennt verfügbare Komponenten einer Programmiersprache mit ihren Eigenschaften, Methoden und Ereignissen sowie Operatoren, und Kontrollstrukturen .
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beim Programmieren vorgegebene Standards und Richtlinien einhalten, das Programm inline dokumentieren und dabei auf Wartbarkeit und Nachvollziehbarkeit achten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Regeln für einen verständlichen Quellcode (sprechende Komponenten- und Variablenbezeichnungen, optische Strukturierung, sinnvolle Kommentare).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programm auf Einhaltung der Funktionalität testen, Fehler erkennen und beheben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Testfalls (zu testende Funktion oder Verarbeitung, Eingabedaten, erwartete Ergebnisse)
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung des Testens für die Sicherung der Programmqualität.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

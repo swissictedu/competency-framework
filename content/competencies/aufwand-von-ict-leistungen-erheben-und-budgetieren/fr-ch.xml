@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>207</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=207%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Analyser et budgétiser des prestations TIC</title>
+    <capability>Examiner le coût des lots de travaux (pack), services et autres prestations de services TIC, à l’aide de méthodes appropriées et établir, dans le cadre des prescriptions de l’entreprise, un budget des dépenses.</capability>
+    <goals>
+        <goal>
+            Analyser et structurer les ressources humaines et techniques nécessaires pour les lots de travaux ou des services définis.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes de décomposition de lots de travaux en étapes de travail (p. ex. structuration) et pouvoir leur attribuer les ressources humaines et techniques nécessaires.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes d’estimation des coûts (méthode analogique, cercle d’experts, etc.) et leurs utilisations possibles en fonction de la situation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Calculer les coûts des ressources humaines et techniques, établir une planification des coûts et analyser la précision des résultats.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les interdépendances entre ressources humaines et techniques ainsi que l’impact d’une harmonisation optimale entre ressources humaines et techniques, d’une part, et coûts, de l’autre.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de structuration adéquate des positions de coûts dans une planification des coûts.
+                </knowledge>
+                <knowledge>
+                    Connaître la différence entre investissements, coûts de réalisation de projet et charges d’exploitation.
+                </knowledge>
+                <knowledge>
+                    Connaître des modèles simples de calcul des coûts de lots de travaux.
+                </knowledge>
+                <knowledge>
+                    Appuyer ses calculs sur des sources d’information adéquates et pouvoir évaluer la précision des résultats.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier le cadre financier de la réalisation de services et de lots de travaux sur la base de contrats de clients définis, analyser les économies potentielles et leurs conséquences pour la fourniture des prestations, adapter la planification des coûts en conséquence.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des modèles de calcul fournissant les consignes quantitatives et qualitatives de fourniture de prestations à partir de la rémunération convenue.
+                </knowledge>
+                <knowledge>
+                    Connaître les règles de la création de valeur et savoir quelles sont les exigences de planification des coûts qui en découlent pour la planification du travail en lots de travaux.
+                </knowledge>
+                <knowledge>
+                    Connaître les interactions entre planification des coûts et budget.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir sur la base de la planification des coûts un budget de projet et un budget d’exploitation et les adapter au processus de budgétisation de l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le processus de budgétisation et les incidences fondamentales des coûts de projets, des charges d’exploitation et des recettes sur la liquidité de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître le contexte de la budgétisation de l’ensemble de l’entreprise et ses conséquences sur la budgétisation du domaine de responsabilités de sa propre activité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Comparer les coûts effectifs et le budget sur la base du contrôle des dépenses du projet et des rapports financiers. En déduire des tendances pour l’avenir et proposer des mesures adéquates de réaction aux écarts.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’incidence des engagements pris (commandes, lots de travaux octroyés à l’interne/externe) sur le contrôle des coûts.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de mettre en place un suivi pertinent des coûts.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes de comparaison entre coûts engagés et résultats du travail.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de représentation des écarts entre planification des coûts et budget, d’analyse de la situation et des tendances et d’estimation des développements futurs.
+                </knowledge>
+                <knowledge>
+                    Connaître l’utilisation du triangle magique et du carré diabolique, qui permettent d’élaborer des propositions de correction à partir de la situation analysée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

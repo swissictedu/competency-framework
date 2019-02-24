@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>424</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=424%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Marketing-Aktivitäten mediengerecht entwickeln und umsetzen</title>
+    <capability>Analysiert das Marketing‐Umfeld einer Firma und plant respektive entwickelt die Marketing‐Aktivitäten mittels der Möglichkeiten der verschiedenen Kommunikationskanäle und Medien und setzt diese um.</capability>
+    <goals>
+        <goal>
+            Analysiert das Marketing‐Umfeld einer Firma und nutzt dabei gegebenenfalls bestehende Ressourcen, wie z.B. Marketingabteilungen, Leitdokumente, frühere Projekte etc.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Faktoren, um eine Markt‐ und Umfeldanalyse einer Firma zu erstellen, wie z.B. Marketing‐ und Kommunikationsziele, Marktumwelt, Marketingstrategie, Marketing Mix, Zielgruppen, Abgrenzung zur Konkurrenz, Corporate Identity etc.
+                </knowledge>
+                <knowledge>
+                    Kennt die internen und externen Verantwortlichkeiten und Schnittstellen für Marketingaktivitäten innerhalb eines Unternehmens.
+                </knowledge>
+                <knowledge>
+                    Kennt Instrumente, um externe Einflussfaktoren, wie z.B. Konkurrenz, Politik, Gesetzgebungen, Presse etc., zu ermitteln und allfällige Konsequenzen für die eigene Aktivität abzuwägen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nimmt einen Marketingauftrag für ein Produkt oder eine Dienstleistung entgegen und erarbeitet daraus die Zielsetzungen, unter Berücksichtigung der gegebenen Rahmenbedingungen und der Medienkanäle.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Faktoren, um ein Produkt oder eine Dienstleistung zu charakterisieren, wie z.B. Profil, Kernbotschaft, Positionierung, Werbestrategie, Distributionspolitik, Preispolitik etc.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten und die notwendigen Arbeitsschritte, um die strategischen Ziele eines Produkts oder einer Dienstleistung zu formulieren.
+                </knowledge>
+                <knowledge>
+                    Kennt, falls nicht bereits vorhanden, die notwendigen Arbeitsschritte und die wichtigsten Faktoren, um die finanziellen Ziele eines Produkts oder einer Dienstleistung zu formulieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Erhebungsmethoden und Instrumente, respektive Quellen, um das Mediennutzungsverhalten der Zielgruppe ermitteln zu können.
+                </knowledge>
+                <knowledge>
+                    Kennt die Zielsetzung nach SMART, um die Ziele messbar und präzise formulieren zu können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant und entwickelt eine Umsetzungsstrategie (oder gegebenenfalls mehrere Varianten) für die entsprechende Marketingaktivität.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Instrumente und Methoden, um den Prozess vom Ist‐Zustand zum Soll‐Zustand zu definieren für die Entwicklung einer geeigneten Marketingstrategie.
+                </knowledge>
+                <knowledge>
+                    Kennt die Inhalte und die Differenzierung zwischen Wettbewerbs‐, Portfolio‐, Positionierungs‐ und Innovationsstrategien, um eine einzelne Strategie oder eine Kombination mehrerer Strategien für die eigene Marketingstrategie zu nutzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Chancen und Risiken verschiedener Distributions‐ und Medienkanäle, in Bezug zur definierten Marketingstrategie.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeit sowie die Wirkung der Nutzung verschiedener Medien‐ und Kommunikationskanäle (Medienmix).
+                </knowledge>
+                <knowledge>
+                    Kennt die Chancen und Risiken viraler Marketinginstrumente, wie z.B. die Verbreitung in Blogs und Social Media Plattformen.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Planungsinstrumente wie z.B: GANTT‐Diagramm oder Netzplan.
+                </knowledge>
+                <knowledge>
+                    Kennt das Instrument der SWOT‐Analyse, um die Unterschiede mehrerer Strategievarianten aufzuzeigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt die Marketingaktivität um (Marketing‐Mix).
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und die Inhalte des Marketing‐Mix und wendet dieses auf die definierte Marketingstrategie an.
+                </knowledge>
+                <knowledge>
+                    Kennt Instrumente und Methoden, um laufende Marketingaktivitäten zu überwachen, speziell in fremdgesteuerten Gebieten (z.B. virales Marketing, Blogs, Social Media etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wertet die ausgeführte Marketingaktivität aus und dokumentiert die Erkenntnisse.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Hilfsmittel (z.B. Statistiktools), um nachträglich den Erfolg, bzw. die Rücklaufquote zu messen.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene qualitative (z.B. Kundeninterviews) und quantitative (z.B. Wettbewerb) Erhebungsmethoden, um die Marketingziele zu überprüfen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

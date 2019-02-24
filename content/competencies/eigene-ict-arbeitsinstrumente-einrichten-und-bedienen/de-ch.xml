@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>286</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=286%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Eigene ICT-Arbeitsinstrumente einrichten und bedienen</title>
+    <capability>Richtet die eigenen Arbeitsinstrumente selbstständig ein und bedient sie korrekt und si-cherheitsbewusst.</capability>
+    <goals>
+        <goal>
+            Verbindet verschiedene Benutzerendgeräte (Peripheriegeräte).
+            <knowledge-list>
+                <knowledge>
+                    Kennt kabel- und kabellose Verbindungen und ihre Eigenschaften (z.B. Übertragungsraten, Geschwindigkeiten).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Schnittstellen von Benutzerendgeräten.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Verfahren zum Prüfen der Verbindung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nimmt Benutzerendgeräte in Betrieb.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen für die Inbetriebnahme (z.B. Vollständigkeit, Lieferumfang).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Schnittstellen von Benutzerendgeräten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prüft den aktuellen Stand der Benutzerendgeräte und aktualisiert sie bei Bedarf (Update).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung von Software-Aktualisierung (Updates).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Möglichkeiten von Updateverfahren (z.B. automatisch, manuell).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Klärt die Sicherheitsrelevanz von Geschäftsdaten ab und definiert bei Bedarf erfor-derliche Massnahmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die gesetzlichen Datenschutzrichtlinien.
+                </knowledge>
+                <knowledge>
+                    Kennt Beispiele von Situationen, in denen Datenschutzrichtlinien angewendet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt mögliche Folgen, wenn Datenschutzrichtlinien nicht eingehalten werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installiert und konfiguriert Anwendungssoftware.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Vorgehensweisen, um Anwendungssoftware korrekt zu installieren und zu konfigurieren.
+                </knowledge>
+                <knowledge>
+                    Kennt mögliche Lizenzmodelle.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zum Einrichten von kollaborativen Plattformen und Cloud-Diensten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sichert selbständig eigene und projektrelevante Daten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Vorgehensweisen für das korrekte Sichern von eigenen oder projektre-levanten Daten (z.B. Versionierung).
+                </knowledge>
+                <knowledge>
+                    Kennt die möglichen Speichermedien und deren Vor- und Nachteile.
+                </knowledge>
+                <knowledge>
+                    Kennt die Risiken und Folgen eines Datenverlusts.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

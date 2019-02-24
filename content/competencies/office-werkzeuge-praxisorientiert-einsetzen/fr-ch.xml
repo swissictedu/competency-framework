@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>260</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=260%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettre en pratique des outils bureautiques</title>
+    <capability>Préparer des informations et faits avec des outils de traitement de textes, tableurs, et de présentation de manière ciblée sur le profil du destinataire et présentés de manière (inter-)active.</capability>
+    <goals>
+        <goal>
+            Analyser la matière d'informations (textes, données, graphiques, tables) en regard de la quantité et des contenus, puis choisir les outils appropriés pour la préparation et la création (traitement de textes, tableurs, présentation).
+            <knowledge-list>
+                <knowledge>
+                    Connaître des techniques de travail simples pour l'acquisition d'informations ainsi que la saisie des exigences concernant la documentation et la présentation pour les utilisateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités fondamentales qu'offrent les programmes d'applications répandus dans les domaines du traitement de textes, des tableurs et des présentations, et pour quels types de tâches ceux-ci se prêtent.
+                </knowledge>
+                <knowledge>
+                    Connaître les concepts de la sauvegarde de données (lieux de sauvegarde, noms des fichiers) des outils usuels en bureautique, ainsi que le support de ceux-ci pour une gestion efficace des fichiers.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre les directives fondamentales de la création concernant la typographie (types de polices, tailles des caractères), organisation des pages (pages de garde, en-têtes et pieds de page, numérotation des pages) ainsi que des directives propres à l'entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les plus importantes règles fondamentales de la typographie pour la création de documents parlants et conviviaux, ainsi que les effets de la diversité des caractères (police de caractères, corps de caractère, style de caractères) et sur la lisibilité des textes.
+                </knowledge>
+                <knowledge>
+                    Connaître les plus importantes règles fondamentales pour le layout et l'organisation des pages, ainsi que les fonctions y relatives des programmes de traitement de textes avec lesquelles les divers réglages de l'orientation des pages, bordures de pages et du pilotage des pages (première page, pages paires/impaires) peuvent être entrepris.
+                </knowledge>
+                <knowledge>
+                    Connaître les concepts de modèles de formats et de documents des programmes les plus répandus ainsi que leur mise en œuvre pour une création et structure efficace et uniformisée des documents.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Structurer des documents avec divers contenus d'éléments (texte, données, graphique, tables) ainsi que des fonctions de formatages et d'organisations, puis les préparer conformément au public cible.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments de création tels que paragraphes, tabulateurs, tables, colonnes et divisions, ainsi que leurs possibilités de mise en œuvre pour la structuration et l'organisation d'un document.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités pour la représentation et le placement des images, graphiques dans un document, ainsi que leurs effets.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Améliorer la lisibilité, les aperçus de nombreux documents par la mise en œuvre d'en-têtes, de pieds de pages, de références, de dossiers, et de renvois.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités comment les champs automatiques des éléments comme page de garde, entêtes, pieds de pages peuvent être efficacement mis en œuvre avec des sauts de pages, des sauts de paragraphes. 
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments pour la désignation et l'explication des termes, des textes, des objets (par ex. notes de bas de page, notes finale, références, mention des sources).
+                </knowledge>
+                <knowledge>
+                    Connaître la mise en œuvre de répertoires et leurs possibilités d'amélioration des aperçus, de l'orientation du texte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Structurer des données et des informations dans une feuille de tableur et exploiter avec des méthodes, des fonctions et des formules de calcul appropriés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les règles qui doivent être observées lors de la construction d'une table, afin que les calculs de valeurs ou grandeurs, la création de diagrammes puissent être garantis.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités telles que trier, filtrer et grouper, avec l'aide desquelles l'évaluation et l'exploitation de données peuvent être clairement représentés.
+                </knowledge>
+                <knowledge>
+                    Connaître des fonctions statistiques et mathématiques avec lesquelles des grandeurs telles que somme, nombre, valeur moyenne, minimum, maximum peuvent être générées, et des tables de valeurs peuvent être analysées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Améliorer la force d'expression de données et d'informations ainsi que leurs relations avec des éléments graphiques (diagrammes, légendes).
+            <knowledge-list>
+                <knowledge>
+                    Connaître des éléments (par ex. formatage de types de caractères et cellules, formatage obligatoire), avec lesquels la signification des informations et valeurs importantes peuvent être améliorés.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux types de diagrammes pour la visualisation des valeurs numériques et de leur force d'expression pour la représentation d'informations.
+                </knowledge>
+                <knowledge>
+                    Connaître des éléments pour compléter des diagrammes (par ex. les légendes, lignes ou séparations significatives), afin d'améliorer leur compréhension.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer des logiciels, médias et moyens d'aide appropriés et les mettre en œuvre afin de pouvoir exécuter des présentations conformes au public cible.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les règles de base de la technique de présentation et leurs influences sur l'efficacité d'une présentation.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales règles de base pour l'élaboration d'une présentation avec un logiciel approprié concernant la taille des caractères, contraste, le rapport image/texte, nombre de feuilles, animations, etc. 
+                </knowledge>
+                <knowledge>
+                    Connaître l'élaboration et les possibilités de matériels d'accompagnement ou de support (cahier, résumé, vidéos) pour une présentation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Présenter efficacement les résultats d'un mandat devant un public cible sélectionné.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la construction conceptuelle d'une présentation avec les éléments introduction, partie principale, questions, conclusions.
+                </knowledge>
+                <knowledge>
+                    Connaître les conditions cadres (locaux, installations techniques) et pouvoir mettre en œuvre les appareils nécessaires pour une présentation (projecteur de données, tableau à épingler, tableau blanc, feuilles volantes, vidéo, et médias futurs).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>477</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=477%26clang=de</reference>
+            <level>5</level>
+            <lessons>60</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Physisches Design einer Applikation implementieren</title>
+    <capability>Entwickelt und implementiert das physische Design, um funktionale und nicht‐funktionale Anforderungen einer Applikation in geeigneter Form umzusetzen.</capability>
+    <goals>
+        <goal>
+            Definiert aufgrund der funktionalen und nicht‐funktionalen Anforderungen einer Applikation das zu implementierende Verarbeitungsmodell (z.B. Batch, online, realtime).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Verarbeitungsmodelle einer Applikation (z.B. Batch, online, realtime) und kann deren Beitrag zur Erfüllung von funktionalen und nicht‐funktionalen Anforderungen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Techniken und Regeln zur Entwicklung der Verarbeitungsmodelle und weiss, welchen Beitrag diese zu einer fachgerechten Implementierung des Verarbeitungsmodells beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Realisiert mittels der notwendigen Synchronisationsmechanismen die koordinierte und sichere Abwicklung von parallelen Verarbeitungen (Multi‐Threads).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Synchronisationsmechanismen zur Umsetzung von parallel ablaufenden Verarbeitungen (Threads/Prozessen), und kann deren Beitrag zu einer sicheren und koordinierten Verarbeitung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken und Regeln der Implementierung von Synchronisationsmechanismen und weiss, welchen Beitrag diese zu einer fachgerechten Implementierung von Threads und Prozessen beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Realisiert mittels Webservices synchrone und asynchrone Interaktionen innerhalb einer Service‐orientierten Architektur.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Techniken und Mechanismen zur Entwicklung einer Service‐orientierten Architektur und kann deren Beitrag für das Unternehmen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken und Regeln der Implementierung von Services in einer Serviceorientierten Architektur und weiss, welchen Beitrag diese zu einer fachgerechten Implementierung von Services leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und implementiert geeignete Konzepte, um Objekte über Zeitzonen hinweg konsistent halten zu können (datumsrelevante Funktionen der Zeitzone werden entsprechend behandelt).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Mechanismen, um datumsrelevante Inhalte über verschiedene Zeitzonen konsistent zu halten, und kann deren Beitrag für die Applikation erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken und Regeln der Implementierung, um datumsrelevante Inhalte zu verwalten, und weiss, welchen Beitrag diese zu einer fachgerechten Implementierung innerhalb von mehreren Zeitzonen leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und implementiert geeignete Konzepte, um Objektinformationen, Anwendungsdialoge, Menu, Hilfe etc. mehrsprachig zu gestalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Mechanismen um Objektinformationen, Anwendungsdialoge, Menu, Hilfe, in mehreren Sprachen abzubilden, und kann deren Beitrag für die Applikation erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken und Regeln der Implementierung, um sprachabhängige Informationen darzustellen, und weiss, welchen Beitrag diese zu einer fachgerechten Implementierung innerhalb der Applikation leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und implementiert geeignete Konzepte, um Applikationen mandantenfähig zu gestalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Mechanismen, um eine Applikation mandantenfähig zu gestalten, und kann deren Beitrag für die Applikation erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken und Regeln der Implementierung, um Informationen in einer Applikation mandantenfähig zu strukturieren, und weiss, welchen Beitrag diese zu einer fachgerechten Implementierung innerhalb der Applikation leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und implementiert geeignete Konzepte zur Gewährleistung der Zugriffskontrolle und des Zugriffschutzes einer Applikation.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Mechanismen, um die Zugriffskontrolle und den Zugriffsschutz einer Applikation gestalten zu können und kann deren Beitrag für die Applikation erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken und Regeln der Implementierung, um für Informationen in einer Applikation die Zugriffkontrolle und den Zugriffsschutz sicherzustellen, und weiss, welchen Beitrag diese zu einer fachgerechten Implementierung innerhalb der Applikation leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und implementiert geeignete Konzepte, um fachliche Abläufe transaktionssicher zu gestalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Mechanismen, um fachliche Abläufe einer Applikation transaktionssicher zu gestalten, und kann deren Beitrag für die Applikation erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken und Regeln der Implementierung, um fachliche Abläufe transaktionssicher zu gestalten, und weiss, welchen Beitrag diese zu einer fachgerechten Implementierung innerhalb der Applikation leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert und implementiert geeignete Konzepte, um Veränderungen von Objekten nachvollziehbar zu machen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Mechanismen, um die Veränderung von Objekten nachvollziehbar zu machen, und kann deren Beitrag für die Applikation erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken und Regeln der Implementierung, um Veränderungen an Objekten nachvollziehbar zu gestalten, und weiss, welchen Beitrag diese zu einer fachgerechten Implementierung innerhalb der Applikation leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

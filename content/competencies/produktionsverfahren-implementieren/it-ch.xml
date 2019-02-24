@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>178</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=178%26clang=it</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implanter les procédures d’exploitation</title>
+    <capability>Implementare le esigenze della clientela per utilità o servizi nella produzione; garantire la produzione mediante opportuni provvedimenti, processi e metodi organizzativi e tecnici.</capability>
+    <goals>
+        <goal>
+            Definire, in collaborazione con il cliente, le necessità qualitative, quantitative e temporali per utilità o servizi e documentarle.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Merkmale und Eigenschaften von Dienstleistungen, die einen Dienst/Service auszeichnen und kann darlegen, warum diese für die Implementierung in Form eines Produktionsverfahrens sprechen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken, welche eine systematische Definition von Anforderungen und Spezifikationen an eine Dienstleistung oder ein Produkt in einem Team erlauben und kann erläutern, welchen Gesichtspunkten bei der Anwendung spezielle Beachtung geschenkt werden muss.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Valutare fattibilità, conseguenze e interdipendenze delle necessità, in riferimento all’ambiente operativo ed all’impiego di risorse e persone. Se necessario, formulare proposte e condurre ad una decisione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Auswirkungen, welche sich aus der Komplexität von Anforderungen (Niveau und Differenziertheit der Anforderung) an Dienstleistungen hinsichtlich Machbarkeit ergeben und kann diese Zusammenhänge für Produktionsverfahren an Beispielen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sulla base delle proposte autorizzate, eseguire i necessari adattamenti / ampliamenti dei processi esistenti e delle job description oppure implementare nuovi processi e nuove job description.
+            <knowledge-list>
+                <knowledge>
+                    Kann aufzeigen, welche Gesichtspunkte bei der Anpassung von Prozessen/Abläufen in einer Organisation beachtet werden müssen und kann anhand von möglichen Vorkehrungen darlegen, welchen negativen Folgen man damit vorbeugt.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau einer vollständigen Arbeitsanweisung und kann für die einzelnen Elemente erläutern, wie diese eine sichere und vollständige Ausführung gewährleisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adattare la pianificazione dell’impiego delle risorse materiali e il piano operativo delle persone e, se necessario, adattare compiti, competenze e responsabilità.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Faktoren, die für eine effiziente Auslastung von Systemen und Sachmitteln relevant sind und kann darlegen, wie diese Faktoren bei der Implementierung neuer oder geänderter Produktionsverfahren bei der Belegungsplanung zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Eigenschaften von Produktionsverfahren, die beim Einsatz von Personen für den Betrieb zu berücksichtigen sind und kann anhand von Beispielen erläutern, welche Vorkehrungen diese in der Einsatzplanung erfordern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung von Aufgaben, Kompetenzen und Verantwortungen im Zusammenhang mit der Abwicklung von Produktionsverfahren und kann erläutern, welche Folgen fehlende Vorgaben dieser Art auf die geordnete Abwicklung und die Ergebnisse von Produktionsverfahren haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire i procedimenti d’assicurazione della qualità per l’ambiente operativo. Nella contabilità dei costi, rilevare le spese per le utilità o i servizi e rappresentarli in modo comprensibile ai clienti.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Verfahrensprinzipien für die Abwicklung der Produktion und kann beispielhaft erläutern, wie diese den operativen Betrieb unterstützen und damit die Qualität der Ergebnisse sicherstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Faktoren, die für die Bemessung der Kosten von Produktionsverfahren relevant sind und kann aufzeigen, wie diese die Kostenberechnung beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

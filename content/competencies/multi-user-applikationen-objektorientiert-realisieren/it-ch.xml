@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>223</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=223%26clang=it</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Realizzare un’applicazione orientata oggetti multiutente</title>
+    <capability>Progettare delle applicazioni multiutente orientate oggetti, effettuare le necessarie modifiche alla banca dati ed implementare, testare e documentare l’applicazione.</capability>
+    <goals>
+        <goal>
+            Analizzare in modo orientato oggetti le esigenze dell’utente ed ottimizzare le esigenze al mantenimento dei dati con la struttura e il contenuto della banca dati relazionale.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die nicht-funktionalen Anforderungen (Last-, Durchsatz-, Verfügbarkeits- und Sicherheitsanforderungen) und kann deren Bedeutung für die Realisierung einer Applikation erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt wichtige Architekturvarianten und -konzepte (Client/Server, Multi-Tier, Middleware, Framework, Klassenbibliothek) und kann erläutern welche Rolle diese bei der Umsetzung der nicht-funktionalen Anforderungen spielen.
+                </knowledge>
+                <knowledge>
+                    Kann für die nicht-funktionalen Anforderungen (Last-, Durchsatz-, Verfügbarkeits- und Sicherheitsanforderungen) aufzeigen, welche Regeln bei der Erhebung und Dokumentation dieser Anforderungen eingehalten werden müssen, damit klare Vorgaben für die Applikationsentwicklung vorliegen
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Stabilire le esigenze di carico, efficienza, disponibilità e sicurezza secondo le specifiche delle prestazioni.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die prinzipiellen Unterschiede zwischen Geschäftsobjektmodell und relationalem Datenmodell (Objektidentität, Beziehungen, Vererbung) und kann diese an Beispielen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten zur Umsetzung eines Geschäftsobjektmodells in ein relationales Datenmodell und kann aufzeigen, wie damit die prinzipiellen Unterschiede zwischen diesen Modellen überbrückt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sviluppare transazioni con capacità multiutente.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die prinzipiellen Unterschiede zwischen Browser- und Windows-basierten User Interfaces und kann an Beispielen aufzeigen, welche Konsequenzen hinsichtlich der Umsetzung zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt ergonomische Grundsätze für User Interfaces und kann aufzeigen, wie diese beim Einsatz von Browser- und Windows-basierten User Interfaces umzusetzen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken zur Abbildung von Use Cases in Browser- und Windows-basierte User Interfaces und kann deren Umsetzung an Beispielen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Verfahren zur Gestaltung von User Interfaces (Hi-Fi/Lo-Fi Prototyping, Workshop) in Zusammenarbeit mit Benutzern und kann erläutern, wie damit die Funktionalität und die Ergonomie validiert und sichergestellt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementare le interfacce utente, le modifiche alla banca dati e le transazioni.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die prinzipiellen Unterschiede zwischen Container- und Middleware-basierten Datenbankzugriffen und kann darlegen, welche Konsequenzen sich daraus hinsichtlich der Realisierung ergeben.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente von UML-Diagrammen (Klassenspezifikationen und/oder Zustandsdiagramme), die für die Formulierung von Datenbank-Zugriffsoperationen relevant sind und kann deren Umsetzung an Beispielen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Merkmale von dynamischen UML-Diagrammen (Sequenz-, Kollaborationsdiagramm) für die Ableitung von Transaktionsgrenzen und kann aufzeigen, wie damit die Datenintegrität effizient gewährleistet werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire un quaderno di test e casi di test per esigenze funzionali e non funzionali.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen, wie aus Use Cases Testfälle abgeleitet werden und kann erläutern, wie damit funktionale und nicht-funktionale Anforderungen systematisch überprüft werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testare l’applicazione e redigere un protocollo di test.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Vorkehrungen bei der Definition einer Architektur, die hinsichtlich Testbarkeit einer Applikation getroffen werden können und kann erläutern, welche Arten von Tests mit diesen Vorkehrungen ermöglicht werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documentare l’applicazione, tenendo conto della manutenzione e della riproducibilità.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Definition des Begriff Design Pattern (Entwurfsmuster) und kann deren Bedeutung zur Beschreibung einer Architektur erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Elemente der Beschreibung eines Design Pattern (typische Problemsituation, Lösungsansatz, Beschreibung mittels UML, Vor- und Nachteile, verwandte Muster) und kann diese Elemente anhand eines konkreten Design Pattern aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kennt die UML-Notation für die Dokumentation eines Design Pattern in einer Architektur und kann den Einsatz anhand eines konkreten Beispiels aufzeigen
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

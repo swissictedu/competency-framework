@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>624</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=624%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Veränderungen umsetzen</title>
+    <capability>Versteht Kultur, Dynamik und Lebenszyklus seiner Organisationseinheit und leitet in dieser bedarfs- und zeitgerechte Änderungen ein. Stabilisiert seine Organisationseinheit nach einer Veränderung indem er diese durch einen geplanten umfassenden Wandel begleitet.</capability>
+    <goals>
+        <goal>
+            Analysiert den Lebenszyklus-Status seiner Organisationseinheit.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Analysetechniken und -methoden (z.B. systematische Zerlegung, Strukturierung, Untersuchung und Bewertung von Objekten/Subjekten/Sachverhalten).
+                </knowledge>
+                <knowledge>
+                    Kennt die Lebenszyklus von Organisationen, (z.B. Beschreibung der Phasen von Wachstum, Entwicklung und Sättigung).
+                </knowledge>
+                <knowledge>
+                    Kennt interne und externe Auslöser von organisatorischem Wandel (z.B. Schwächen in der Organisation, Zusammenlegung, Verlagerung von Bereichen, Veränderungen im Umfeld).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt aufgrund des Lebenszyklus-Status und/ oder anstehender Veränderungsvorhaben in seiner Organisationseinheit sowie branchenspezifischen Trendanalysen hinsichtlich Arbeitsmarkt und –verhalten eine SWOT-Analyse zur Veränderungsbereitschaft und Veränderungsfähigkeit seiner Organisationseinheit.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Grundlagen des Veränderungsmanagements (z.B. Modell des Veränderungsprozesses nach Kurt Lewin1) mit den Phasen: Unfreezing – Moving – Refreezing).
+                </knowledge>
+                <knowledge>
+                    Kennt die Bestandteile der Ist-Analyse zur Qualität und Effizienz der Organisation (z.B. zu Strukturen, Prozesse, Systeme, Ressourcen, Markt-und Wettbewerbssituation) mittels Kundenbefragung, Organisationsdiagnose, Benchmarking, Stakeholder-Analyse).
+                </knowledge>
+                <knowledge>
+                    Kennt die Kennzeichen der Veränderungsbereitschaft von Organisationen (z.B. nach K. Lewin).
+                </knowledge>
+                <knowledge>
+                    Kennt Struktur und Aufbau einer SWOT-Analyse (nach Modell Henry Mintzberg1)) als Instrument der strategischen Planung (mit z.B. Darstellung der Umwelt- und Unternehmensanalyse in Form einer Matrix).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt auf der Grundlage dieser SWOT-Analyse sowie den unternehmensinternen und –externen Rahmenbedingungen Zukunftsszenarien für seine Organisationseinheit.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorgehensweise zur Entwicklung von Zukunftsszenarien mit Hilfe eines einfachen Phasen-Modells (z.B. Trichtermodell).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Analyse von Kräften, welche in einem Veränderungsprozess wirken (z.B. Kraftfeldanalyse nach Kurt Lewin1)).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert ein Veränderungsprojekt, welches die sachlogischen und psychologischen Aspekte der menschlichen Dimension berücksichtigt und antizipiert diese so, dass die Veränderung erfolgreich gemeistert werden kann.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen zur Planung eines Veränderungsprozesses in drei Phasen (z.B. nach K. Lewin: „Wandel initiieren, Übergangsprozess gestalten, neuen Zustand institutionalisieren“).
+                </knowledge>
+                <knowledge>
+                    Kennt Dimensionen der organisatorischen Veränderung (z.B. Eisberg-Modell nach Mintzberg1)).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schafft auf der Grundlage des geplanten Veränderungsprojektes das Bedürfnis nach Veränderung bei allen Beteiligten und vereinbart einen Lösungsweg.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Eigenheiten des Change Management, (z.B. 8 Stufen-Modells nach John P. Kotter: „Das Pinguin-Prinzip. Wie Veränderung zu Erfolg führt“).
+                </knowledge>
+                <knowledge>
+                    Kennt Definitionen der Kompetenzbereiche („Soft Skills“) (z.B. Sozialkompetenz, Methodenkompetenz, Selbstkompetenz, Handlungskompetenz).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Minimiert mögliche Widerstände bei der Einbindung der Betroffenen in die Veränderungsprozesse durch Kommunikationsmethoden und –Instrumente, die zur Klärung der Problemlage und zur Entwicklung von Akzeptanz beitragen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Grundlagen der Kommunikationspsychologie nach Friedemann Schultz von Thun oder Paul Watzlawik1).
+                </knowledge>
+                <knowledge>
+                    Kennt einfache Kommunikationsmodelle wie Sender-Empfänger-Modell oder Kommunikationsquadrat (nach z.B. Schultz von Thun1)).
+                </knowledge>
+                <knowledge>
+                    Kennt die Definition von Führungsstile und deren Dimensionen nach Kurt Lewin1)  (z.B. Autoritär – hierarchisch, Demokratisch – kooperativ, „Laisser-faire“).
+                </knowledge>
+                <knowledge>
+                    Kennt die Formen sozialer Interaktion und von sozialem Handeln (Interaktionsprozesse) (z.B. nach Georg Herbert Mead1)).
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente der situationsgerechten Kommunikation (z.B. Leitung und Strukturierung von Gesprächen, Gesprächsführung, non-verbale Kommunikation).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Formen der verbalen Kommunikation und Gesprächsformen wie Dialog, Chat, Diskussion, Debatte, Konversation, Beratungsgespräch (Mediation).
+                </knowledge>
+                <knowledge>
+                    Kennt den Ablauf eines Gesprächs mit Anfangsphase, Gesprächsmitte, Beendigungsphase, Gesprächssteuerung.
+                </knowledge>
+                <knowledge>
+                    Kennt spezifische Gesprächsformen wie Kritikgespräch, Mitarbeitergespräch, Verkaufsgespräch und Beurteilungsgespräche.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen der Problem- und Konfliktbewältigung wie Differenzierung von Problem (Sachebene) und Konflikt (z.B. Streitereien, Zusammenstösse, Gegensätze und Meinungsverschiedenheiten zwischen Menschen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Befähigt durch ein Coaching die Beteiligten in der Phase der Reorganisation die Veränderung mitzutragen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Beispiele von Coaching - Modellen und – Formen (z.B. Individuelles/ Einzelcoaching, Team-Coaching, systematischer teamorientierter Erfahrungsaustausch, kollegiale Beratung).
+                </knowledge>
+                <knowledge>
+                    Kennt den Einsatz von Methoden zur Selbsteinschätzung (z.B. Assessments).
+                </knowledge>
+                <knowledge>
+                    Kennt die Rollen in einem Change Prozess (z.B. nach K. Lewin, McKinsey)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Festigt mit geeigneten motivationalen Methoden und Instrumenten neue Gewohnheiten und Routinen in der veränderten Organisationseinheit, um ein verbindliches Arbeits- und Leistungsverhalten der Mitarbeitenden und der veränderten Organisationseinheit sicherzustellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden zur Vereinbarung von Commitment (z.B. lang- und kurzfristigen Zielvereinbarungen, Teambildungsmassnahmen).
+                </knowledge>
+                <knowledge>
+                    Kennt die Definition der transaktionalen und transformationellen Führung (z.B. Führungsverhalten und Austauschverhältnis zwischen Führungskraft und Mitarbeiter).
+                </knowledge>
+                <knowledge>
+                    Kennt den Einsatz von extrinsischer und intrinsischer Motivation (z.B. Anerkennung der Veränderungsleistung, Lob, Institutionalisierung der Veränderung, Incentives).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Begleitet die Veränderung und die neu entstandene produktive Energie der veränderten Organisationseinheit durch gezieltes Monitoring mit geeigneten Instrumenten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Einsatz von Methoden des Monitoring (z.B. systematische After-Action Review AAR).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>285</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=285%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Jahresabschluss analysieren und Wirtschaftlichkeitsrechnung durchführen</title>
+    <capability>Analysiert die Bilanz und Erfolgsrechnung des Betriebes und beurteilt die Auswirkungen von typischen Geschäftsfällen. Führt projekt- oder produktbezogen eine einfache Wirtschaftlichkeitsrechnung durch</capability>
+    <goals>
+        <goal>
+            Analysiert die Bilanz und Erfolgsrechnung in Bezug auf die wichtigsten Grössen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Unterschied zwischen Vermögen (Aktiven) und Schulden (Passiven).
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen Umlauf- und Anlagevermögen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen Fremd- und Eigenkapital.
+                </knowledge>
+                <knowledge>
+                    Kennt das Eigenkapital als Differenz-Konto.
+                </knowledge>
+                <knowledge>
+                    Kennt die Begriffe Reingewinn/-verlust als wichtigste Grösse der Rentabilität und kennt die richtige Interpretation des Saldos der Erfolgsrechnung.
+                </knowledge>
+                <knowledge>
+                    Kennt einfache Analyseinstrumente für Bilanz und Erfolgsrechnung (Liquiditätsgrad 2, Anlagedeckungsgrad 2, Eigenkapitalrentabilität, Anlageintensität, Reingewinnmarge, Bruttogewinnmarge).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert die Auswirkungen von typischen Geschäftsfällen auf Bilanz und Erfolgsrechnung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Begriffe Kapitalbeschaffung, Kapitalrückzahlung, Aktivtausch und Passivtausch und kennt die korrekte Zuordnung von Geschäftsfällen zu diesen vier Vorgängen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Veränderungen der Bilanzsumme und des Erfolges, welche durch einzelne einfache Geschäftsfälle ausgelöst werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Auswirkungen von Zunahme oder Abnahme der Forderungen respektive Verbindlichkeiten aus Lieferungen und Leistungen als Geschäftsfälle auf Bilanz und Erfolgsrechnung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einsatzmöglichkeiten einer einfachen Buchhaltungssoftware.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt eine einfache Wirtschaftlichkeitsrechnung (Berechnung Nutzschwelle, Make-or-Buy-Entscheid) in Bezug auf ein Projekt oder Produkt durch.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die einzelnen Schritte der Wirtschaftlichkeitsberechnung (Deckungsbeitrag, Nutzschwelle) in Projekten oder Produkten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen für Make-or-Buy-Entscheide (variable Kosten, fixe Kosten, Opportunitätskosten).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

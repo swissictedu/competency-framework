@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>265</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=265%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Produire des photographies numériques</title>
+    <capability>Préparer la production photographique du point de vue conceptuel et procéder à l'installation de production. Elaborer les données photographiques brutes et les traiter en fonction du format cible requis.</capability>
+    <goals>
+        <goal>
+            Elaborer un concept pour une production photographique numérique simple.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différentes phases de production de photographies.
+                </knowledge>
+                <knowledge>
+                    Connaître des instruments pour établir le calendrier de production.
+                </knowledge>
+                <knowledge>
+                    Connaître les différents symboles des concepts d'éclairage.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organiser l'infrastructure et les matériels d'enregistrement nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le matériel nécessaire à la production et pouvoir en établir une liste.
+                </knowledge>
+                <knowledge>
+                    Connaître la marche à suivre pour effectuer des réservations. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer un lieu d'enregistrement selon le concept avec tous les appareils et matériels nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différentes caractéristiques de l'éclairage (p. ex. type de lumière, exposition, température de couleur).
+                </knowledge>
+                <knowledge>
+                    Connaître différents modeleurs de lumière (p. ex. réflecteurs, diffuseurs, softbox).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer des données brutes avec un appareil photo selon le concept.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les systèmes de couleur pertinents (RGB, CMYK).
+                </knowledge>
+                <knowledge>
+                    Connaître le mode de fonctionnement d'un appareil photo.
+                </knowledge>
+                <knowledge>
+                    Savoir utiliser un appareil photo.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les photographies sur place.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères déterminants pour évaluer une photographie.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transférer les données photographiques brutes du support d'information sur le stockage de fichiers prédéfini et les stocker de manière correcte et structurée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les interfaces courantes pour le transfert de photographies.
+                </knowledge>
+                <knowledge>
+                    Connaître différents modes de transfert (p. ex. tethering).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Effectuer les corrections de couleurs et de teintes sur les photographies numériques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des programmes de traitement des photographies (p. ex. Lightroom, RAW Converter, Capture One).
+                </knowledge>
+                <knowledge>
+                    Connaître différentes techniques pour corriger les couleurs des photographies.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes techniques pour définir les teintes des photographies.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Conditionner les photographies finales selon le format cible exigé.
+            <knowledge-list>
+                <knowledge>
+                    Connaître différents formats d'image et leurs caractéristiques.
+                </knowledge>
+                <knowledge>
+                    Connaître la différence entre fichiers compressés et non compressés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

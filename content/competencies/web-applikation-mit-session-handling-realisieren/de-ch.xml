@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>133</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=133%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Web-Applikation mit Session-Handling realisieren</title>
+    <capability>Web-Applikation gemäss Vorgabe mit einer Programmiersprache realisieren und testen.</capability>
+    <goals>
+        <goal>
+            Vorgabe analysieren, Funktionalität entwerfen und Realisierungskonzept festlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Lösungsansätze, um basierend auf der Vorgabe Funktionalitäten auf Client- und Serverseite abzugrenzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Realisierungskonzepts für Web-Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorteile der Trennung von Präsentation und Programmlogik und deren Umsetzung in einer Web-Applikation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spezifische Funktionalität einer Web-Applikation mit Session-Handling, Authentifizierung und Formularüberprüfungen realisieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Formularelemente und Funktionen zur Überprüfung von Benutzereingaben und wie diese gemäss Vorgabe eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt gängige Techniken zur Realisierung einer Sitzungsverfolgung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Sicherheitsrisiken und Lösungsansätze zum Schutz einer Web-Applikation.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten einfache Datenbestände zu verwalten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Web-Applikation mit einer einer Programmiersprache unter Berücksichtigung sicherheitsrelevanter Anforderungen programmieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten zur Gewährleistung der  Authentifizierung und Autorisierung in Web-Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt mögliche Programmiersprachen für Web-Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt Lösungsansätze zur Umsetzung geeigneter Architekturen für Web-Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten zur Strukturierung von Quellcode und die Umsetzung unter Berücksichtigung von Codierungs-Richtlinien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Web-Applikation gemäss Testplan auf Funktionalität und Sicherheit überprüfen, Testergebnisse festhalten und allenfalls erforderliche Korrekturen vornehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Testverfahren und deren Beitrag zur Gewährleistung der Qualität von Web-Applikation.
+                </knowledge>
+                <knowledge>
+                    Kennt Testverfahren um die Lösungsansätze gegen Cross-Site-Scripting, Skrip-Injection und Session-Hijacking zu prüfen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

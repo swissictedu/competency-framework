@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>494</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=494%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Projektteam führen</title>
+    <capability>Führt unter Berücksichtigung der spezifischen Situationen, welche in einem Projekt auftreten, ein Projektteam in fachlicher und sozialer Hinsicht und setzt dabei Führungsinstrumente und Führungsmethoden gezielt ein.</capability>
+    <goals>
+        <goal>
+            Unterzieht das eigene persönliche Verhalten im Hinblick auf eine effektive und effiziente Teamführung einer Reflektion.
+            <knowledge-list>
+                <knowledge>
+                    Verfügt über sein Selbstbild und verschiedene Fremdbilder und kennt einige Theorien dazu.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Aspekte des Selbstmanagements.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung der Vorbildfunktion in der Mitarbeiterführung.
+                </knowledge>
+                <knowledge>
+                    Weiss über den Einfluss des eigenen Menschenbildes auf das eigene Führungsverhalten Bescheid.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt in typischen Projektsituationen (z.B. Auftragserteilung, Konfliktbewältigung) grundlegende Erkenntnisse aus der Führungstheorie um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Führungsfunktionen Planen, Entscheiden, Umsetzen, Kontrollieren.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Führungsstile und weiss, wie diese Kenntnisse in der Führung umgesetzt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gestaltet das Führungsverhalten angepasst an die Projektmitarbeitenden, die Teamkonstellation und die Situation.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Schwierigkeiten der Führung im Projekt im Speziellen (Unterschied Linie – Projekt).
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterschiede zwischen Team und Gruppe und weiss, welche Merkmale ein Team ausmachen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wählt die Projektmitarbeitenden nach den gestellten Anforderungen unter Berücksichtigung ihrer Fähigkeiten und ihrer Persönlichkeit aus.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bestimmungsfaktoren des Gruppenerfolgs und kann Teams entsprechend zusammenstellen (z.B. Wir‐Gefühl usw.).
+                </knowledge>
+                <knowledge>
+                    Kennt die soziodynamische Rangstruktur und weitere Modelle und berücksichtigt sie in der Zusammenstellung und Führung des Projektteams.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie Projektteams ausgewogen zusammengestellt werden (z.B. nach Persönlichkeit, Fachwissen usw.).
+                </knowledge>
+                <knowledge>
+                    Weiss, welche Voraussetzungen Teammitglieder mitbringen müssen (z.B. positive Einstellung zur Teamarbeit, Kritikfähigkeit usw.).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Auswahlkriterien (z.B. Methodenkompetenz, Leistungsbereitschaft usw.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt den Teambildungsprozess.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Rollenkonzepte im Team und weiss mit ihnen umzugehen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Phasen des Teambildungsprozesses und führt das Team entsprechend.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formuliert unter Berücksichtigung der Projektzielsetzung und der Zusammensetzung des Projektteams die Ziele der Zusammenarbeit klar und verständlich.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Regeln der einfachen und verständlichen Kommunikation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert abgestimmt auf die Projektziele sowie die Rolle und die Funktion der Projektmitarbeitenden deren Ziele und vereinbart diese mit ihnen. Beurteilt zusammen mit den Projektmitarbeitenden die Zielerreichung und leitet Massnahmen ein, wenn diese nicht erreicht wurden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Regeln der Delegation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schafft Rahmenbedingungen, in welchen die Projektteilnehmenden motiviert arbeiten können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundlagen der Motivation und grundlegende Motivationstheorien (z.B. Herzberg, Maslow).
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung und die Regeln des Feedbackgebens und ‐nehmens.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten, Projektteilnehmende nach ihren Fähigkeiten zu fordern und fördern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Störfaktoren in der Teamarbeit (z.B. schlechte Rahmenbedingungen, Müssiggang, Machtstreben usw.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erkennt Konflikte und deren Ursachen und beugt diesen vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Konfliktursachen und Konfliktsymptome und die Handlungsmöglichkeiten.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten und Massnahmen, um Konflikten vorzubeugen.
+                </knowledge>
+                <knowledge>
+                    Kennt den typischen Ablauf eines Konflikts.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, mit Konflikten umzugehen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gestaltet und moderiert Projektsitzungen effektiv und effizient.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundsätze des Sitzungsmanagements.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Moderationstechniken (z.B. Präsentationstechniken, Kreativitätstechniken, Entscheidungstechniken, Analysetechniken) und deren Einsatzmöglichkeiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>184</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=184%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter la sécurité réseau.</title>
+    <capability>Implémenter un accès sûr dans un réseau existant et surveiller le trafic réseau à l’aide d’un NIDS.</capability>
+    <goals>
+        <goal>
+            Examiner fondamentalement un réseau existant en regard des lacunes de sécurité à l’aide de la documentation réseau et des moyens techniques appropriés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les informations nécessaires pour un Asset Management/inventaire et pouvoir les mettre en œuvre pour la vérification d’une documentation en regard de l’actualité. Connaître les éléments fondamentaux d’une documentation réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître  divers composants réseau et leurs réglages de sécurité.
+                </knowledge>
+                <knowledge>
+                    Connaître les bases techniques d’un accès distant.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités d’accès contrôlés et sécurisés d’un WAN.
+                </knowledge>
+                <knowledge>
+                    Connaître des moyens d’aides techniques pour l’analyse (par ex. Portscanner, Sniffer) du trafic dans un réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un concept pour un accès réseau externe, définir les directives d’utilisations dans le WAN, et fixer les technologies pour l’accès externe dans le LAN.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des procédures standards pour le renforcement des composants réseau (par ex. routeur, Firewall, Proxy).
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures techniques pour un accès distant sécurisé (par ex. des protocoles, des standards, des technologies).
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures techniques pour un trafic sécurisé des données LAN/WAN (par ex. des protocoles, des technologies, des directives).
+                </knowledge>
+                <knowledge>
+                    Connaître des mesures organisationnelles pour la définition des directives d’utilisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Configuration de la sécurité système (par ex. accès distant, Firewall, Proxy) selon le concept élaboré.
+            <knowledge-list>
+                <knowledge>
+                    Connaître divers systèmes de sécurité et d’accès, ainsi que leurs possibilités de configuration (par ex. accès distant, Firewall, Proxy).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer, configurer et installer dans le réseau le NIDS selon les directives.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités techniques et les fonctionnalités d’un NIDS.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester l’efficacité des modifications/adaptations en regard de la sécurité et de la fonctionnalité à l’aide des informations disponibles du système ainsi que du NIDS. Au besoin, mettre à jour la documentation système.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères et contenus des fichiers log issus des composants réseau ainsi que du NIDS. Décrire les réglages de sécurité et les configurations réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures pour déceler des informations importantes concernant la sécurité à partir des fichiers log.
+                </knowledge>
+                <knowledge>
+                    Connaître les qualités actuelles ainsi que le déroulement pour les mettre en relation avec les connaissances acquises.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Surveiller la sécurité réseau implémentée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités d’utilisation des informations du NIDS dans l’exploitation opérationnelle.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

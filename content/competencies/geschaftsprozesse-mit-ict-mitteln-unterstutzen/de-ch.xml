@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>168</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=168%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Geschäftsprozesse mit ICT-Mitteln unterstützen</title>
+    <capability>Geschäftsprozesse eines Unternehmensbereichs analysieren und abgestimmt auf die Anforderungen und Ziele mit ICT‐Mitteln unterstützen.</capability>
+    <goals>
+        <goal>
+            Charakterisiert mit den Ansprechpartnern des entsprechenden Geschäftsbereichs die Wertschöpfung eines Geschäftsprozesses in Form von Input‐ und Outputleistungen und den zugehörigen Merkmalen, Eigenschaften und Zielen und hält diese fest.
+            <knowledge-list>
+                <knowledge>
+                    Kennt prinzipielle Unterschiede zwischen einer prozessorientierten und einer funktionsorientierten Organisation und kann Chancen und Risiken für die beiden Organisationsformen ableiten.
+                </knowledge>
+                <knowledge>
+                    Kennt betriebswirtschaftliche Kriterien zur Einstufung der Bedeutung der Prozesse in einem Unternehmen und kann aufzeigen, warum deren Berücksichtigung für die Definition der potenziellen Unterstützung durch ICT‐Mittel wichtig ist.
+                </knowledge>
+                <knowledge>
+                    Kennt die Notationselemente von Techniken zur Darstellung von Geschäftsprozessen und kann erläutern, welche Sachverhalte in der Abwicklung von Prozessen damit aufgezeigt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken zur Abgrenzung von Geschäftsprozessen (z.B. Zerlegungsmatrix, Aufgabenkettendiagramm, Aktivitäten Diagramm).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Zerlegt einen Geschäftsprozess in seine Teilprozesse und Aufgaben, bestimmt die Folgebeziehungen der Aufgaben und ihre Zuordnungen zu Aufgabenträgern sowie den Hilfsmitteleinsatz (ICT‐Systeme, Checklisten, Formulare etc.) und stellt die Ergebnisse mit einer standardisierten Notation dar.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Merkmale der unterschiedlichen Arten von Prozessen (Kernprozess, Supportprozess, Führungsprozess) und kann aufzeigen, welche Aufgaben in einem Unternehmen diesen Arten von Prozessen zugeordnet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Möglichkeiten zur Geschäftsprozessoptimierung und kann erläutern, bei welchen Ausgangssituationen diese zur Anwendung kommen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden, um Prozesse in einzelne Schritte zu zerlegen und diese auf Stärken und Schwächen zu analysieren.
+                </knowledge>
+                <knowledge>
+                    Kennt verbreitete aufbau‐ und ablauforganisatorische Massnahmen (inkl. technische und applikatorische Massnahmen) zur Optimierung von Geschäftsprozessen und zur Definition von Schnittstellen und kann erläutern, bei welchen Arten von Problemursachen diese zur Optimierung von Geschäftsprozessen beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert den dokumentierten Geschäftsprozess zusammen mit Ansprechpartnern, vergleicht mit Standardprozessen und leitet daraus Anforderungen sowie Verbesserungspotenziale ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen, um Daten‐ und Informationsflüsse in Prozessen zu eruieren, zu analysieren und in Bezug auf Realisierbarkeit (technisch, Datenschutz, ‐sicherheit, rechtliche Aspekte) zu beurteilen und auszugestalten.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen, um Prozesskunden und ihre Bedürfnisse zu identifizieren, und die Darstellungsmöglichkeiten um aufzuzeigen, wie diesen durch Prozess‐optimierung begegnet werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Strukturiert und priorisiert erfasste Anforderungen und bereinigt diese unter Berücksichtigung von Anforderungskonflikten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Erhebungstechniken und deren situationsgerechten Einsatz.
+                </knowledge>
+                <knowledge>
+                    Kennt Kreativitätstechniken, um Lösungsansätze mit Teams zu entwickeln.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung von Vernehmlassungsprozessen mit Anspruchsgruppen zu Arbeitsergebnissen und die wichtigsten Faktoren einer erfolgreichen Durchführung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt, unter Berücksichtigung der Möglichkeiten der ICT, die Lösungsansätze zur Erfüllung der Anforderungen und zur Realisierung der Verbesserungspotenziale für den Geschäftsprozess.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Regeln der Zielformulierung und die Definition von Kennzahlen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterschiede zwischen revolutionärer und evolutionärer Prozessverbesserung und die Rahmenbedingungen, bei welchen diese zur Anwendung kommen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Automatisierungspotenziale, welche ICT‐Instrumente zur Unterstützung der Prozessabwicklung hergeben, die Kriterien zur Beurteilung der Wirkung eines Einsatzes dieser Instrumente und das Vorgehen zur Erschliessung der Optimierungspotenziale.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Leistungsindikatoren (Kenngrössen), welche zur Messung und Bewertung von Prozessen angewendet werden, und kann aufzeigen, in welchem Zusammenhang diese zur Wertschöpfung des Prozesses stehen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Modelliert und dokumentiert den Soll‐Prozess mit den definierten Lösungsansätzen zur Erfüllung der Anforderungen und zur Realisierung der Verbesserungspotenziale.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Prozessdokumentationsmethoden und weiss, wie diese eine strukturierte Beschreibung und systematische Zerlegung von Prozessen unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Darstellungstechniken für Prozesse und Kriterien zur Auswahl dieser Techniken für die Anwendung im Arbeitsalltag.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Merkmale eines Prozesses, welche für die Prozessgestaltung und die anspruchsgruppengerechte Erbringung des Outputs relevant sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert die Datenspeicher für die einzelnen Aufgaben eines Teilprozesses sowie den Leistungsaustausch zwischen den Aufgaben eines Teilprozesses und beschreibt diese tabellarisch.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen, um die Datensicht auf Prozesse zu analysieren und weiss, wie sich Input‐ und Output Daten systematisch ableiten lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau eines Datenflussplans und kann erläutern, wie dieser zur Ergänzung einer Prozessdarstellung eingesetzt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

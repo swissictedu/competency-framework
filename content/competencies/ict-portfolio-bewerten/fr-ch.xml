@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>612</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=612%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Evaluer un portfolio TIC</title>
+    <capability>Evaluer et prioriser les projets requis avec les méthodes et outils appropriés selon les grandeurs définies de la cible, et élaborer les bases décisionnelles pour le groupe de pilotage. Surveiller constamment l’état actuel du projet ainsi que piloter et intervenir à temps lors de déviations.</capability>
+    <goals>
+        <goal>
+            Collecter, saisir les directives et les informations pour la mise en place d’un système d’évaluation pour les projets requis et classer leur importance en collaboration avec le groupe d’interlocuteurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les catégories de projets qui doivent être distingués lors de la vérification des demandes de projets.
+                </knowledge>
+                <knowledge>
+                    Connaître les dimensions d’évaluation pour une demande de projet dans le cadre de la gestion du portfolio de projets et pouvoir les appliquer sur un portfolio.
+                </knowledge>
+                <knowledge>
+                    Connaître les directives de l’entreprise qui contiennent des informations importantes pour la construction du système d’évaluation (stratégie TIC, directives de l’architecture, conditions cadres déterminantes, les lignes directrices du trust, la largeur de bande de la
+rentabilité pour les investissements, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer un système d’évaluation, sur la base des informations et directives choisies, lequel garantit à l’entreprise un classement objectif et reproductible de l’importance et de la capacité de mise en œuvre des projets.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les bases et les exigences d’un système d’évaluation (par ex. les paramètres).
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et des outils pour un système d’évaluation efficace et les appliquer lors du choix.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Justifier vis‐à‐vis des principaux groupes d’interlocuteurs l’aptitude du système d’évaluation en tenant compte des informations et directives, et aboutir la décision pour la mise en service de ce système d’évaluation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des mesures et le déroulement pour la préparation des décisions (par ex. lobbing, inclure le groupe d’intérêt).
+                </knowledge>
+                <knowledge>
+                    Connaître des éléments structurels de présentations pour l’aboutissement de décisions (par ex. situation de départ, fixation des objectifs).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Classer l’importance et la capacité de mise en œuvre des projets requis pour l’entreprise sur la base des informations mises à disposition en respectant le processus d’évaluation à l’aide du système d’évaluation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’importance de la force d’expression des informations sur un projet pour une évaluation fiable au moyen d’un système d’évaluation orienté critères (par ex. degré de différenciation).
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs internes d’influence (par ex. intérêts et relations personnels) qui peuvent mener à des appréciations subjectives malgré une évaluation au moyen d’un système d’évaluation orienté critères.
+                </knowledge>
+                <knowledge>
+                    Connaître les influences externes avec des conséquences sur la fiabilité du système d’évaluation (par ex. influences de l’économie publique, techniques et de régulation).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer et justifier le portfolio des projets à réaliser en tenant compte des résultats de l’évaluation pour les projets requis ainsi que des conditions cadres de la planification des ressources et financières.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des mesures et le déroulement pour la préparation des décisions (par ex. lobbing, inclure le groupe d’intérêt).
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques structurelles d’un portfolio qui représentent les contenus des bases décisionnelles (par ex. ressources, coûts, dépendances, relation à la stratégie).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, en accord avec les principaux groupes d’interlocuteurs, les informations sur l’état de projets en cours ainsi que la périodicité avec laquelle ceux‐ci doivent être identifiés, afin de garantir un contrôle du portfolio de projet de manière objective et nettement significative.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités de représentations et les chiffres significatifs qui fournissent une preuve déterminante en regard de l’état et les prévisions du projet (par ex. analyse des étapes événementielles).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Exiger les informations sur l’état actuel des projets en cours de la part des chefs de projets responsables et vérifier le respect des délais fixés, les exigences et les conditions cadres dans la gestion du portfolio de projet.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’importance d’une livraison complète et à temps des informations sur l’état en tant que base pour l’indemnisation du rapport et le pilotage.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères de vérification pour l’évaluation de la qualité des informations sur l’état du projet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Intervenir, lors de déviations notables des objectifs fixés, auprès du chef de projet responsable et introduire à temps – si besoin est – les mesures appropriées pour garantir l’objectif visé du projet concerné.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions de pilotage lors de la surveillance du projet et de sa conduite (détecter le besoin d’actions, décider, attribuer, contrôler).
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures élémentaires de pilotage de projet (par ex. intervention en cas de crise, interruption du projet) et les conséquences sur le déroulement, les résultats et l’environnement du projet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>417</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=417%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>CI/CD mediengerecht gestalterisch umsetzen</title>
+    <capability>Entwickelt kreative Leitideen, Werbekonstanten und Kommunikationskonzepte für ein Corporate Design (CD) auf der Grundlage einer Corporate Identity (CI), wendet diese an und definiert Richtlinien für verschiedene Medienkanäle.</capability>
+    <goals>
+        <goal>
+            Versteht und interpretiert die Hauptaussagen einer vorhandenen CI, um daraus bisher nicht definierte Elemente mit derselben Wirkung zu entwickeln.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung und den Zusammenhang von Unternehmenspersönlichkeit, Erscheinungsbild, Verhalten und Kommunikation.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktion von CI und CD.
+                </knowledge>
+                <knowledge>
+                    Kennt Handlungs‐ und Kommunikationsziele des Unternehmens.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus Marketingzielsetzungen und dem CD die Zielgruppen, die Markenarchitektur, die Positionierung und das Marktumfeld ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Methoden der Zielgruppen‐ und Konkurrenzanalyse.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen der Markenarchitektur, des Markenportfolios und des Brandings.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen des Marktumfelds, der Marktposition und der Markttrends.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zum Hervorheben der Stärken und Qualitäten (Positionierung).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt Kriterien für die Designentwicklung der neuen Elemente.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Komponenten des CD und der CI.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung und die Inhalte eines Designbriefings.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt ein mediengerechtes CD‐Rahmenkonzept für die entsprechenden Kanäle.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten und die Bedeutung der Gestaltung primärer Erkennungsmerkmale, wie z.B. Umsetzung in Bildsprache, Farbkonzept, Symbolik.
+                </knowledge>
+                <knowledge>
+                    Kennt die gestalterischen Eigenschaften und Zusammenhänge der verschiedenen Branding‐Ebenen (Dachmarke, Einzelmarke, Produktmarke).
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Stufen des Grafikdesignprozesses.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methoden der Problemlösung im Grafikdesign.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Kreativitätstechniken (Brainstorming, morphologischer Kasten) und deren Anwendungsmöglichkeiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt ein CD mediengerecht für Print, Web und Geschäftsausstattung um und beachtet dabei die Rahmenbedingungen des jeweiligen Mediums.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Eigenschaften der Zielmedien, ihre Möglichkeiten und Grenzen in Bezug auf die gestalterische Umsetzung des CD.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert Richtlinien und erweitert ein CD‐Handbuch für die neu hinzugekommenen Anforderungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die notwendigen Komponenten und den logischen Aufbau eines CI/CD‐Handbuchs und dessen Gültigkeitsbereich für interne und externe Partner.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

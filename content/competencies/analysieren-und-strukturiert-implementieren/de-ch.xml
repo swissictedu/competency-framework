@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>118</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=118%26clang=de</reference>
+            <level>2</level>
+            <lessons>80</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Analysieren und strukturiert implementieren</title>
+    <capability>Aufgabenstellung analysieren, strukturiert implementieren, testen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Eine Aufgabenstellung analysieren, in zu realisierenden Funktionen bzw. Prozeduren zerlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Methode zur Abgrenzung und Zerlegung einer Aufgabenstellung in Funktionen/Prozeduren (Top Down) und kann die Ergebnisse mit geeigneten Techniken darstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen flüchtigen (transient) und nichtflüchtigen (persistent) Datenspeichern und kann erläutern, für welche Arten von Daten diese verwendet werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Datenstrukturen und Algorithmen bestimmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Datenstrukturen (Records, Mehrdimensionale Arrays, Fifo, Stack, usw.) und kann an Beispielen aufzeigen, welche Algorithmen bei der Bearbeitung von bestimmten Datenstrukturen eingesetzt werden (z.B. Sort Algorithmus).
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen statischen und dynamischen Datenstrukturen und kann aufzeigen, bei welchen Anforderungen welche Datenstrukturen einzusetzen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Algorithmen zur Suche von Informationen in Datenstrukturen und Dateien und kann an Beispielen aufzeigen, wie damit die gezielte Recherche, Bereitstellung und Bearbeitung von Informationen effizient bewältigt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die zu realisierenden Funktionen in Form von Ablaufstrukturen (Jackson, Nassi-Shneiderman etc.) grafisch darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von formalen Standards für eine Programmvorgabe und kann aufzeigen, welchen Beitrag diese zu einem einheitlichen Vorgehen bei der Programmierung und zur Wartbarkeit der Programme leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Methode (z.B. Jackson) zur Entwicklung und Darstellung von Programmstrukturen und kann darlegen, welche Ziele mit dem Einsatz der Methode verfolgt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Den Entwurf mit einer prozeduralen Programmiersprache gemäss Codekonventionen umsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Syntax und Semantik einer prozeduralen Programmiersprache und kann an Beispielen erläutern, mit welchen Befehlen bzw. Library Funktionen definierte Algorithmen effizient abgearbeitet werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt Codekonventionen (Programmstandards) und kann an Beispielen aufzeigen. Welchen Beitrag die Einhaltung solcher Konventionen für die Lesbarkeit und Wartbarkeit der Programme leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Für die Testfälle die notwendigen Testdaten definieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Prinzipien, die bei der Definition von Testdaten und Testfällen berücksichtigt werden müssen und kann aufzeigen, wie damit eine vollständige und korrekte Verarbeitung der Informationen in einem Programm (White Box Test, Black Box Test) überprüft werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung von Grenzwerten beim Testen und kann an Beispielen aufzeigen, wie damit die Korrektheit von Bedingungen in Programmen nachgewiesen werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Tests durchführen, die Ergebnisse in einem Testprotokoll festhalten und die Fehler eliminieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau eines Testprotokolls und kann an Beispielen aufzeigen, welche Ziele mit dem Testprotokoll verfolgt werden (Was, wann, von wem, wie intensiv und mit welchem Ergebnis getestet).
+                </knowledge>
+                <knowledge>
+                    Kann die Wichtigkeit der Dokumentation von Entwicklungsentscheidungen in Bezug auf die Wartbarkeit und Nachvollziehbarkeit von Programmen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

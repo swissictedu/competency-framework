@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>495</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=495%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Nutzen und Integrierbarkeit von ICT-Technologien bewerten</title>
+    <capability>Analysiert die Integrationsfähigkeit und den Nutzen einer neu einzuführenden Technologie für ein bestehendes System und leitet daraus eine Empfehlung hinsichtlich des Einsatzes dieser Technologie zuhanden der Entscheidungsträger ab.</capability>
+    <goals>
+        <goal>
+            Klärt ab, ob die Möglichkeiten, welche eine neu einzuführende Technologie bietet resp. die Anpassungen, welche sich daraus für das betrachtete System ergeben, relevant sind.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden, um die Systemgrenze des zu betrachtenden Systems zu bestimmen.
+                </knowledge>
+                <knowledge>
+                    Kennt im Überblick die aktuellen ICT‐Trends und das Konzept des Lebenszyklus von Technologien (z.B. Gartner Hype Cycle).
+                </knowledge>
+                <knowledge>
+                    Kennt Begriff, Einsatzgebiet und Verbreitung verschiedener Hardware Technologien (z.B. Mobile Computing, Cloud Computing, Virtualisierung, Systemarchitekturen).
+                </knowledge>
+                <knowledge>
+                    Kennt Begriff, Einsatzgebiet und Verbreitung von Middleware (z.B. DB, Transaktionsmonitoren, Integrationsplattformen).
+                </knowledge>
+                <knowledge>
+                    Kennt Begriff, Einsatzgebiet und Verbreitung von Standardsoftware (z.B. ERP, CRM, SCM, CAD, DMS, Groupware).
+                </knowledge>
+                <knowledge>
+                    Kennt Begriff, Einsatzgebiet und Verbreitung von Entwicklungsmethoden und ‐Umgebungen (z.B. Java, .NET, XML, SAP‐ABAB, Eclipse, RUP, Scrum).
+                </knowledge>
+                <knowledge>
+                    Kennt Begriff, Einsatzgebiet und Verbreitung verschiedener Sourcingkonzepte (z.B. RZ Outsourcing, Prozess Outsourcing, ASP, SaaS).
+                </knowledge>
+                <knowledge>
+                    Kennt Begriff, Einsatzgebiet und Verbreitung von Social Media (z.B. XING, Facebook).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert, in welchen technischen und funktionalen Bereichen des betrachteten Systems die Technologie eine Implikation hat und charakterisiert diese Implikation auf das System.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technologische Betriebskonzepte und deren Zusammenhänge mit der einzuführenden Technologie.
+                </knowledge>
+                <knowledge>
+                    Kennt die ICT‐Systemlandschaft des eigenen Unternehmens, um die betroffenen Systeme zu identifizieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert und bewertet die identifizierten Implikationen in Bezug auf die Integrierbarkeit in das bestehende System.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Techniken zur objektiven Bewertung der Integrierbarkeit (Impact Analyse).
+                </knowledge>
+                <knowledge>
+                    Kennt die unternehmenskritischen Geschäftsprozesse.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden des Risikomanagements.
+                </knowledge>
+                <knowledge>
+                    Kennt die im Unternehmen eingesetzten und strategischen Entwicklungs‐ und Programmiersprachen der Softwareentwicklung wie Java, .NET, XML, SAP‐ABAB, Eclipse.
+                </knowledge>
+                <knowledge>
+                    Kennt die organisatorischen und technologischen Herausforderungen beim Einsatz von Mobile Computing und der mobilen standortunabhängigen Kommunikation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus den Ergebnissen der Analyse den Handlungsbedarf für die Integration der neuen Technologie in das neue System ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die ICT‐Strategie des Unternehmens und die Zielsetzungen der von neuen Technologien betroffenen Prozesse der Stakeholder
+                </knowledge>
+                <knowledge>
+                    Kennt die technischen Anforderungen der neu einzuführenden Technologie.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden, um Analyseergebnisse für Entscheidungsträger aufzubereiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eruiert und bewertet den funktionalen und nicht‐funktionalen Nutzen resp. die funktionalen und nicht‐funktionalen Möglichkeiten, welche die Integration der neuen Technologie hinsichtlich des bestehenden Systems ergeben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Quellen zur Beurteilung des Reifegrads und der Position im Lebenszyklus von Technologien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet, ob sich die Integration der neuen Technologie in das bestehende System unter Berücksichtigung seines Stands im Lebenszyklus, des erwarteten Nutzens sowie des Integrations‐ und Umsetzungsaufwands lohnt, und leitet daraus eine Empfehlung an die Entscheidungsträger ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente zur Begründung und Absicherung einer Empfehlung und weiss, wie diese zweckmässig aufbereitet werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

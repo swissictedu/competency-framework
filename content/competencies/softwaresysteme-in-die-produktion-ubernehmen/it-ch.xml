@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>186</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=186%26clang=it</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Prendre en charge l’exploitation d’applications</title>
+    <capability>Pianificare e predisporre provvedimenti tecnici e organizzativi per l’introduzione di software, rispettivamente di release (risorse, migrazione, interfacce, integrazione); consegna all’ambiente operativo.</capability>
+    <goals>
+        <goal>
+            Analizzare specifiche organizzative e tecniche del software da ricevere, ambito produttivo e ambiente di utenti a cui è destinato; elaborare un piano d’introduzione (risultati, scadenze, responsabilità, impiego e costi, risorse).
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le specifiche tecniche ed organizzative di un software, che sono importanti per la pianificazione della sua introduzione; saper mostrare come queste specifiche devono essere considerate al momento dell’accettazione del software nell’ambito operativo dell’azienda.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire e predisporre i dati di test, migrazione dei dati, migrazione dei client e preparare il test di collaudo; stabilire il periodo di tempo per il test di collaudo e la consegna all’ambiente operativo.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i procedimenti per la preparazione dei dati di test e saper spiegare per quali tipi di casi di test o di oggetti da collaudare si adattano.
+                </knowledge>
+                <knowledge>
+                    Conoscere gli aspetti più importanti che devono essere considerati durante la migrazione verso un nuovo software, rispettivamente verso una nuova release; saper spiegare quali conseguenze negative si possono con ciò prevenire.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Pianificare, preparare e controllare provvedimenti formativi.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i criteri per definire i fabbisogni di formazione, che sono importanti durante la migrazione verso un nuovo software o verso una nuova release.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installare il software su un sistema di collaudo, mettere a punto l’ambiente di test, realizzare e protocollare il test di collaudo.
+            <knowledge-list>
+                <knowledge>
+                    Saper spiegare perché il test ed il collaudo del software devono essere eseguiti in un ambiente di test e non nella situazione reale.
+                </knowledge>
+                <knowledge>
+                    Conoscere la struttura e il contenuto di un protocollo di test e saperne spiegare l’importanza per la salvaguardia della qualità.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            In base alle direttive, pianificare e realizzare i punti di controllo e le misure di sicurezza e di protezione dei dati.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere l’importanza dei punti di controllo (check-point), dei provvedimenti di sicurezza e di protezione dei dati per l’introduzione di un nuovo software nella produzione; saper spiegare la loro importanza per la sicurezza dell’azienda.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Preparare le procedure di ripristino in caso d’errore e documentarle.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i presupposti che garantiscono, in caso d’errore durante una migrazione del software, il ristabilimento della situazione iniziale.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Completare la documentazione operativa e quella per la manutenzione.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere i tipi di documentazione che sono importanti per la manutenzione e l’operatività del software; saper mostrare, con esempi pratici, come essi possono essere utilizzati in caso di errore.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organizzare la migrazione in base al piano d’introduzione e di collaudo, realizzarla e controllarla. Consegnare il software all’ambiente operativo e preparare il protocollo di consegna.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere il procedimento per il collaudo e la consegna del software all’ambiente operativo.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

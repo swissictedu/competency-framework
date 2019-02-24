@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>264</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=264%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Digitale Medienproduktionen vorbereiten</title>
+    <capability>Entwickelt ein Konzept für eine einfache digitale Produktion, archiviert Daten und kontrolliert und wartet die Arbeitsgeräte.</capability>
+    <goals>
+        <goal>
+            Prüft, ob die auftragsrelevanten Informationen vollständig und klar verständlich sind.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Instrumente zur Überprüfung (z.B. Checklisten) von Informationen auf ihre Vollständigkeit.
+                </knowledge>
+                <knowledge>
+                    Kennt projektrelevante Fachbegriffe und verwendet diese korrekt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt ein Konzept (z.B. Moodboard, Materialliste) für eine einfache digitale Produktion.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundlagen der visuellen Sprache (z.B. Farbenlehre).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Quellen zur Konzepterstellung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wendet einfache Kreativitätstechniken an.
+            <knowledge-list>
+                <knowledge>
+                    Kennt unterschiedliche Kreativitätstechniken.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Verwendungszwecke unterschiedlicher Kreativitätstechniken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Geht mit Geräten und Materialien sorgfältig um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Geräte/Materialien und ihre vorgesehenen Verwendungszwecke.
+                </knowledge>
+                <knowledge>
+                    Kennt die Verhaltensweisen beim sorgfältigen Umgang mit Geräten/Materialien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kontrolliert und wartet Geräte und Materialien fachgerecht.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Quellen für technische Dokumentationen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Aspekte zur fachgerechten Wartung von Geräten/Materialien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transferiert digitale Daten von einem Speichermedium auf die vorgegebene Dateiablage und legt sie korrekt strukturiert ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die gängigen Schnittstellen zur Übertragung von Daten.
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigen Speichermedien zur Datenablage.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wählt aufgrund der spezifischen Anforderungen verschiedener Plattformen das geeignete Zielformat aus.
+            <knowledge-list>
+                <knowledge>
+                    Kennt gängige Plattformen und deren Anforderungen, um digitale Medieninhalte zu platzieren.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Dateiformate und deren Verwendungszwecke.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beschriftet und archiviert Daten gemäss Vorgaben vollständig und strukturiert.
+            <knowledge-list>
+                <knowledge>
+                    Kennt unterschiedliche Namenskonventionen (z.B. SEO).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Archivierungsstrukturen (z.B. Nummerisch).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>318</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=318%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Analysieren und objektbasiert programmieren mit Komponenten</title>
+    <capability>Eine Aufgabe analysieren  mit einer Entwicklungsumgebung mit integriertem GUI-Designer implementieren, dokumentieren und testen.</capability>
+    <goals>
+        <goal>
+            Problemstellung analysieren, Benutzerschnittstelle entwerfen und Abläufe darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Methode für die Analyse einer Problemstellung (z.B. Use Case) und kann diese auf einfache Aufgaben anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Methode für die Darstellung von Programmabläufen (z.B. Struktogramm, Aktivitätdiagramm) und kann damit einfache Sachverhalte darstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Strukturelemente Iteration und Selektion und kann deren sinngerechte Anwendung aufzeigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Grafische Benutzerschnittstelle gestalten und mit GUI-Designer realisieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt allgemeine Regeln der SW-Ergonomie (z.B. DIN EN ISO 9241-110) und kann aufzeigen, wie diese für die Gestaltung einer Oberfläche anzuwenden sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Komponenten einer graphischen Oberfläche und kann diese korrekt einsetzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmentwurf mit einer auf Komponenten basierenden Programmierumgebung mit Einsatz von Ablaufstrukturelementen, eigenen Prozeduren und Funktionen implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Komponenten-basierte Programmierumgebung (z.B. .NET, Java/Swing) und deren typische Einsatzgebiete.
+                </knowledge>
+                <knowledge>
+                    Kennt die unterschiedlichen Möglichkeiten für Selektion (einfach/mehrfach) und Iteration (vor-/nachprüfend) und kann diese mit einer Programmiersprache umsetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt Prozeduren und Funktionen und kann deren Aufbau (inkl. Parameterlisten) und Einsatz erklären.
+                </knowledge>
+                <knowledge>
+                    Kennt den Mechanismus der Ereignisverarbeitung eines objektbasierten Systems und kann Ereignisse in Verarbeitungsroutinen auswerten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beim Programmieren vorgegebene Codekonventionen einhalten, den Programmcode kommentieren und dabei auf Wartbarkeit und Nachvollziehbarkeit achten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung von Kommentaren bei Prozeduren und Funktionen und deren Beitrag zu besser wartbarem Programmcode.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ausgehend von der Aufgabenstellung Testfälle erstellen, das Programm testen und Fehler beheben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Verfahren für den statischen Test (z.B. Codereview) von Programmcode und kann die Bedeutung für die Qualität der Software aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Verfahren (z.B. Grenzwertanalyse) zur Definition von Testfällen, um die Zuverlässigkeit von Algorithmen nachzuweisen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

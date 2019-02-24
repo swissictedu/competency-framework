@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>330</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=330%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>IP-Telefoniesystem in Betrieb nehmen</title>
+    <capability>IP-Telefoniesystem gemäss den erhobenen Anforderungen installieren, konfigurieren und in Betrieb nehmen.</capability>
+    <goals>
+        <goal>
+            Anforderungen (Sicherheit, Lastprofil, Datenvolumen, Verfügbarkeit der notwendigen Dienste, Schnittstellen, Endgeräte) an ein IP-Telefonie-system aufnehmen und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien (inkl. Quality of Service), welche bei der Dimensionierung eines IP-Telefoniesystems angewendet werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestehende Netz-Infrastruktur und Verbindung zur Aussenwelt mit den Anforderungen vergleichen und bei Bedarf notwendige Anpassungen vorschlagen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische Spezifikationen von Server- und Netzwerksystemen für IP-Telefonie.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche VoIP-Konzepte und Modelle, deren Vor- und Nachteile.
+                </knowledge>
+                <knowledge>
+                    Kennt verwendete Protokolle (z.B. SIP- und RTP-Protokoll inkl. Codecs und Protokolle wie H.323, STUN, NAT, aLaw, uLaw).
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Dienste der klassischen Telefonie (analog, ISDN) sowie deren Anbindung mittels Gateway.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten der Anbindung des IP-Telefoniesystems mittels IP an das Weitverkehrsnetz.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erforderliche Einstellungen gemäss Sicherheits- und Betriebskonzept realisieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt spezifische Sicherheitsmassnahmen für ein IP-Telefonie-system.
+                </knowledge>
+                <knowledge>
+                    Kennt Massnahmen zur Sicherstellung der Verfügbarkeit von IP-Telefoniesystemen (z.B. Redundanz, USV).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Endgeräte und Software installieren, konfigurieren und notwendige Dienste einrichten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeit der Anbindung an bestehende ERP- und/oder Groupwaresysteme.
+                </knowledge>
+                <knowledge>
+                    Kennt die  Möglichkeit der Anbindung mittels Gateway an die klassische Telefonie
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Arten von VoIP-Clients und deren Vor- und Nachteile.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Telefonie-Funktionalitäten implementieren und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt grundlegende Telefoniefunktionaliäten (Call-Routing, Ringruf, Anrufbeantwortung, Weiterleitung, MOH, Blacklist usw.).
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten Dienste und Funktionen für Nummern/Benut¬zer zu definieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            IP-Telefoniesystem testen (Funktionstest, Lasttest, Sicherheit, Crashtest inkl. Stromausfalltest).
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Verfahren um das IP-Telefoniesystem nachvollziehbar zu testen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

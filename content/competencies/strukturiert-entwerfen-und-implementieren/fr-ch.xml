@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>225</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=225%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer et implémenter structurellement</title>
+    <capability>Développer, implémenter, tester et documenter des parties d´une application à l´aide de techniques par diagrammes en se basant sur une analyse structurelle.</capability>
+    <goals>
+        <goal>
+            Analyser le module et représenter son algorithme (structogramme, pseudo-code, etc.)
+            <knowledge-list>
+                <knowledge>
+                    Connaît les éléments constituant les données du programme ainsi que les relations mutuelles de ceux-ci et peut, à l´aide d´exemples, représenter les déroulements réels que l´on peut en déduire.
+                </knowledge>
+                <knowledge>
+                    Connaît une structure d´une table de décision et peut décrire les relations que l´on peut représenter entre les conditions et les actions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les interfaces entre modules et documenter avec une méthode structurelle (fonctions et paramètres E/S).
+            <knowledge-list>
+                <knowledge>
+                    Connaît une structure de base pour l´illustration logique d´un programme (Jackson, Nassi, PAP, etc.) et peut préciser les principes de base auxquels il faut veiller lors de sa représentation, ainsi que déduire les fonctions nécessaires à partir des données du programme.
+                </knowledge>
+                <knowledge>
+                    Connaît les déroulements représentés dans un structogramme ainsi que d´autres données qui doivent être pris en considération et peut montrer comment l´aperçu d´un programme est amélioré ainsi que comment l´efficacité de la programmation est augmentée.
+                </knowledge>
+                <knowledge>
+                    Connaît des techniques de représentation des relations entre modules et peut ainsi décrire comment représenter la chronologie des appels et la transmission des paramètres.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les données qui vont être exploitées dans le module.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les informations qui contiennent un Data Dictionary et peut décrire dans quel but peuvent servir ces informations lors de l´élaboration d´un programme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Optimiser le diagramme avec des mesures appropriées (cohésion, couplage).
+            <knowledge-list>
+                <knowledge>
+                    Connaît une procédure méthodique pour la vérification et l´optimisation d´une construction structurée, peut montrer à l´aide d´exemples que l´investissement dans la réalisation est optimisé et comment la couverture exhaustive des exigences fonctionnelles peut être garantie.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmer des parties spécifiques de l´application.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principaux appels sur des composants logiciels (accès aux données, etc.) et peut montrer comment ceux-ci doivent être implémentés dans un programme.
+                </knowledge>
+                <knowledge>
+                    Connaît des techniques pour insérer des composants dans un programme et peut décrire comment ces techniques contribuent au bon déroulement du programme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester le code programme en regard de la fonctionnalité correcte.
+            <knowledge-list>
+                <knowledge>
+                    Connaît une méthode pour vérifier le code programme (inspection du code, pointage, etc.) et peut montrer selon quels principes elle doit se dérouler afin de garantir une découverte systématique des erreurs dans le code programme.
+                </knowledge>
+                <knowledge>
+                    Connaît les étapes principales qui doivent se dérouler lors des tests et peut montrer quelles contributions elles apportent à l´obtention d´un bon résultat.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documenter des parties de l´application en prenant en considération la maintenance et la reproductibilité.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure d´une documentation d´application et peut énoncer sa contribution à l´exploitation opérationnelle, à la maintenance et à la reproductibilité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

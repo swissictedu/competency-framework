@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>418</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=418%26clang=de</reference>
+            <level>5</level>
+            <lessons>50</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Botschaften medien- und zielgruppengerecht vermitteln</title>
+    <capability>Vermittelt medien‐ und zielgruppengerecht (Text‐)Botschaften mittels Bild, Ton, Film und Animationen, indem die Kernaussagen für das jeweilige Zielmedium übersetzt werden.</capability>
+    <goals>
+        <goal>
+            Analysiert und klärt Botschaften unter Einbezug des übergeordneten Kommunikationskontextes.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden, um aus einer (Text‐)Botschaft die Kernaussagen abzuleiten und festzuhalten (Transkription).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwirft ein Präsentationskonzept und zeigt dabei die Vermittlungsdramaturgie auf.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Stufen des Grafikdesignprozesses.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung und Möglichkeiten der assoziativen Wahrnehmung (Informationsaufnahme und Informationsverarbeitung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung von kreativen und innovativen Gestaltungsansätzen und kennt Methoden, um iese selbst zu fördern und zu entwickeln.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen der Dramaturgie und des Storytellings.
+                </knowledge>
+                <knowledge>
+                    Kennt den Entwicklungsvorgang und die inhaltlichen Komponenten des Abstracts, des Exposés, des Drehbuchs und des Storyboards.
+                </knowledge>
+                <knowledge>
+                    Kennt die organisatorischen Planungshilfsmittel, wie z.B. Drehplan, Requisiten‐ und Equipmentlisten etc., um den ökonomischen Anforderungen gerecht werden zu können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt ein Präsentationskonzept mit Bildern, Filmen (z.B. Clips), Tonbeiträge und Animationen um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die technische Funktionsweise und die Handhabung des Equipments zur Produktion des Mediencontents.
+                </knowledge>
+                <knowledge>
+                    Kennt die gestalterischen Kompositionsmöglichkeiten, wie z.B. Bildkomposition, Perspektiven, Einstellungsgrössen etc., und deren kommunikative Wirkung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Applikationen und beherrscht die praktische Anwendung für die Post‐Produktion.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Integriert die erstellten Mittel in die Präsentation.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Exportmöglichkeiten in Dateiformate und Zielmedien.
+                </knowledge>
+                <knowledge>
+                    Kennt die Implementationstechniken in bestehende Contentcontainer (Präsentation, Webseite, Printmagazine etc.) und weiss, was beim jeweiligen Zielmedium beachtet werden muss.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionsweise des DVD Authorings.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

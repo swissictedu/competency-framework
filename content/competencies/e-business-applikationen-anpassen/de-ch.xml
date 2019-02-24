@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>150</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=150%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>E-Business-Applikationen anpassen</title>
+    <capability>E-Business-Applikationen gemäss Vorgabe und unter Beachtung der Sicherheitsvorschriften und technischer Rahmenbedingungen anpassen.</capability>
+    <goals>
+        <goal>
+            Aufbau der Applikation, Transaktionskonzept, Applikationsumgebung und Rahmenbedingungen (Sicherheit, Performance, Verfügbarkeit, Transaktionsvolumen, usw.) erfassen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt mögliche Architekturen von Web-Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt wesentliche Elemente zur Gewährleistung der Sicherheit bei Web-Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien, welche die Performance und Verfügbarkeit einer Web-Applikationen beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vorgabe analysieren, clientseitigen, serverseitigen und datenbankseiti-gen Änderungsbedarf formulieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Schritte zur Formulierung eines Änderungsantrages (Request for Change - RfC).
+                </knowledge>
+                <knowledge>
+                    Kennt ein Vorgehen um die Auswirkungen von Änderungen auf die verschiedenen Komponenten einer Web-Applikation abzuschätzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Auswirkungen der Änderungen auf Sicherheit und Schutzwürdigkeit der Informationen bei allen beteiligten Komponenten wie Client, Webser-ver, Applikationsserver und Datenbankserver überprüfen und doku-mentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bestimmungen des Datenschutzes  und der Informationssicherheit und deren Bedeutung für Web-Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden der Datenverschlüsselung und der Gewährleistung der Authentizität (HTTPS, Zertifikate).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Änderungen inklusive Implementierung und Test (funktional und nicht-funktional) gemäss einem vordefinierten Änderungsprozess planen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Vorgehensmodell zur Planung von Änderungen einer Web-Applikation.
+                </knowledge>
+                <knowledge>
+                    Kennt das Test- und Abnahmeverfahren im Rahmen eines Änderungsprozesses.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen bei der Einführung geänderter Applikationen im Rahmen eines Änderungsprozesses.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Änderungen realisieren, testen und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein methodisches Vorgehen zur schrittweisen Anpassung von Applikationskomponenten inklusive der Verwaltung der Versionen.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Verfahren zur Migration und Einführung der geänderten Applikation.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Durchführung von Tests- und zur Abnahme der Änderungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

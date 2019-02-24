@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>120</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=120%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter les interfaces graphiques d’applications</title>
+    <capability>Développer et implémenter des interfaces graphiques d’utilisateurs pour une  application en tenant comptes des exigences ergonomiques et des standards.</capability>
+    <goals>
+        <goal>
+            Appliquer des standards et des exigences ergonomiques pour une interface graphique utilisateur.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les règles pour l´organisation d´une interface graphique utilisateur (GUI) et pouvoir préciser quelles exigences ergonomiques sont ainsi observées.
+                </knowledge>
+                <knowledge>
+                    Connaître des composants et conventions pour l’organisation d’interfaces utilisateurs (par ex. représentation des menus).
+                </knowledge>
+                <knowledge>
+                    Connaître les usages des Style Guides.
+                </knowledge>
+                <knowledge>
+                    Connaître plusieurs possibilités d’intégration de fonctions d’aide ciblée dans une interface graphique.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre des échantillons de développement appropriés pour la distinction entre la logique de présentation et d’application.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères de séparation entre les logiques de présentation et d’application.
+                </knowledge>
+                <knowledge>
+                    Connaître l’échantillon de développement MVC et son principe fonctionnel.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter l’interface utilisateur.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le concept d’implémentation des composants de visualisation d’un environnement de programmation et leur mise en œuvre.
+                </knowledge>
+                <knowledge>
+                    Connaître le concept du traitement des événements.
+                </knowledge>
+                <knowledge>
+                    Connaître la mise en œuvre des MVC dans une interface graphique utilisateur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Examiner la fonctionnalité et l’ergonomie d’interfaces utilisateurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes fondamentales qui doivent se dérouler lors d’un test.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères pour tester les aspects ergonomiques d’une interface graphique utilisateur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

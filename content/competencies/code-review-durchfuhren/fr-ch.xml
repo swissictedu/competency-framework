@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>459</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=459%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Procéder à une revue du code</title>
+    <capability>Vérifier la qualité technique du code d’une application et mettre en oeuvre des mesures pour l’amélioration de celle‐ci.</capability>
+    <goals>
+        <goal>
+            Définir les critères et normes techniques que doit satisfaire le code source ou, autrement dit, dont la revue de code doit prouver le respect sur la base des consignes de développement de l’entreprise et des exigences spécifiques envers le logiciel à développer.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les objectifs de qualité applicative vérifiés au moyen des revues de code. Pouvoir citer des résultats concrets dans un code source et expliquer leurs conséquences en ce qui concerne la réalisation des objectifs.
+                </knowledge>
+                <knowledge>
+                    Connaître les points faibles courants du code source (code smells) et pouvoir expliquer leurs conséquences en ce qui concerne sa réutilisation, son traitement ou son exécution.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères courants d’évaluation et les normes techniques de création de code source. Pouvoir expliquer les objectifs de qualité applicative auxquels ils correspondent et les points faibles qu’ils permettent de déceler ou d’éviter.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères découlant du framework utilisé pour l’application ou, autrement dit, des règles qui y sont définies. Pouvoir indiquer comment ils garantissent l’utilisation correcte du framework.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sélectionner les méthodes de vérification ou les outils qui garantissent un contrôle fiable et efficace de la satisfaction des critères ou, autrement dit, du respect des normes techniques par le code source.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des mesures de vérification qui prouvent la qualité du code. Pouvoir expliquer à quels critères et normes elles se réfèrent et comment elles vérifient la satisfaction de ces critères et normes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Procéder à une vérification du code de programme à l’aide des méthodes de vérification et outils sélectionnés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure des langages de programmation du code source à vérifier et pouvoir indiquer comment en tenir compte dans les spécifications de test afin d’obtenir des résultats fiables concernant la qualité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser et évaluer au moyen des métriques de qualité logicielle si le code source satisfait les critères ou, autrement dit, respecte les normes techniques.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir indiquer les métriques de qualité adaptées aux critères et normes courants et expliquer quelles sont les preuves de satisfaction des critères vérifiés et de respect des normes qu’elles fournissent.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prioriser les résultats des revues de code et en déduire des recommandations qui figureront dans le rapport de qualité destiné au responsable de projet ou au mandant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères de priorisation des résultats de vérification de qualité d’un code source. Pouvoir expliquer sur la base de la structure d’un code source et des interdépendances qui y figurent pourquoi ces critères doivent être pris en compte dans le développement de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments d’information que doit contenir le rapport d’analyse, d’expertise, de vérification, etc. d’un fait destiné à un mandant ainsi que les exigences qu’il doit remplir. Pouvoir expliquer comment ces exigences influencent la traçabilité et permettent une prise de décision rationnelle.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rédiger un mandat contraignant d’adaptation du code source en fonction des résultats priorisés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments que doit obligatoirement contenir un mandat complet destiné à une personne ou à une équipe et les critères qu’il doit satisfaire. Pouvoir expliquer comment ils contribuent au bon déroulement du mandat ou, autrement dit, à la réalisation des objectifs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

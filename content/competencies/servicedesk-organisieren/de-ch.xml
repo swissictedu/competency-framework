@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>454</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=454%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Servicedesk organisieren</title>
+    <capability>Plant die Aufbau‐ und Ablauforganisation zur Störungsbehebung und für Service Requests abgestimmt auf die Servicevereinbarungen mit dem Kunden und setzt diese um.</capability>
+    <goals>
+        <goal>
+            Entwickelt aufgrund der Servicevereinbarungen einen Störungsbehebungsprozess inklusive geeigneter Eskalationsprozeduren.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie ein standardisierter Störungsbehebungsprozess aussieht und wie dieser den Firmenanforderungen angepasst wird.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die aufgrund der Servicevereinbarungen notwendigen Eskalationsverfahren im Störungsbehebungsprozess abgebildet werden.
+                </knowledge>
+                <knowledge>
+                    Kann erklären, welche Kriterien bei der Kategorisierung von Störungen bezüglich Dringlichkeit und Auswirkung zur Anwendung kommen und wie eine Klassifizierungstabelle am Servicedesk umgesetzt wird.
+                </knowledge>
+                <knowledge>
+                    Kann identifizieren, wann der Störungsbehebungsprozess aufgrund veränderter Rahmenbedingungen, neuer Anforderungen, neuer Servicevereinbarungen oder der kontinuierlichen Prozessüberwachung angepasst werden muss.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt aufgrund der Servicevereinbarungen einen Prozess zur Bearbeitung und Weiterleitung von Service Requests.
+            <knowledge-list>
+                <knowledge>
+                    Kann erläutern, welche Einflussfaktoren den Servicedesk‐Prozess beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Unterschiede unter den verschiedenen Leistungserbringungsprozessen und dem Störungsbehebungsprozess.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt die Aufbauorganisation zur Abwicklung der Prozesse zur Störungsbehebung und zur Behandlung der Service Requests.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie ein Servicedesk aufgrund der Anforderungen aus den Servicevereinbarungen mit den Kunden organisiert werden muss.
+                </knowledge>
+                <knowledge>
+                    Weiss, welche Kommunikationsmittel im Servicedesk zur Abdeckung der Anforderungen auf welche Weise eingesetzt werden können.
+                </knowledge>
+                <knowledge>
+                    Ist in der Lage, aufgrund der Anforderungen der Servicevereinbarungen die Notwendigkeit der zeitlichen Verfügbarkeiten von Servicedesk, Serviceorganisation und Störungsbehebungsorganisation zu ermitteln.
+                </knowledge>
+                <knowledge>
+                    Weiss, mit welchen Mitteln die Anforderungen an die Abwicklung von Service Requests und für die Störungsbehebung in eine angepasste Serviceorganisation umgesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die Schnittstellen zur betrieblichen Organisation (Betriebszentrum, Sicherheitsdienst etc.) und Zulieferern (z.B. Lieferanten, externe Vertragspartner etc.) definiert, geplant und umgesetzt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluiert, implementiert und pflegt die technischen Hilfsmittel für die Unterstützung der Prozesse zur Störungsbehebung und zur Behandlung der Service Requests.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten der technischen Hilfsmittel für die Unterstützung von Servicedesk und Störungsbehebungsabläufen.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie aufgrund technischer Möglichkeiten der Hilfsmittel zur Unterstützung der Servicedesk‐bezogenen Prozesse passende Produkte ausgewählt oder entwickelt werden.
+                </knowledge>
+                <knowledge>
+                    Kann bezogen auf die Servicedesk‐Prozesse erläutern, wie diese technischen Hilfsmittel im Betrieb eingesetzt und gepflegt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt den Personalbedarf und die Kompetenzen der Mitarbeitenden für die Abwicklung der Prozesse zur Störungsbehandlung und zur Behandlung der Service Requests.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, welche fachlichen Anforderungen an die Servicedesk‐Mitarbeitenden gestellt werden müssen und wie diese in einer Stellenbeschreibung dokumentiert werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung der aufgrund der Anforderungen erforderlichen Weiterbildungsmassnahmen und weiss, wie diese zu organisieren sind.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die quantitativen Anforderungen (Mengengerüst) des operativen Betriebes an den Servicedesk den personellen Ressourcenbedarf beeinflussen, und weiss, wie darauf basierend die personellen Ressourcen zu planen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt unter Berücksichtigung der betrieblichen Anforderungen, der Mitarbeiterverfügbarkeiten und des prognostizierten Arbeitsvolumens einen Einsatzplan für die Serviceorganisation.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie die betrieblichen Anforderungen bezüglich des Einsatzes der Mitarbeitenden der Serviceorganisation ermittelt werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methodik, um aufgrund von Auslastungsdaten und der betrieblichen Rahmenbedingungen das kommende Arbeitsvolumen möglichst anforderungsgerecht zu prognostizieren.
+                </knowledge>
+                <knowledge>
+                    Kennt die Mittel für die Einsatzplanung von Mitarbeitenden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wählt geeignete Leistungsüberwachungsmerkmale aus, organisiert die Datensammlung und ‐aufbereitung. Erstellt und Leistungsreports und kommunizieren diese stufengerecht.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, welche Faktoren geeignete Leistungsüberwachungsmerkmale (KPI) bestimmen und wie diese auf betriebliche, organisatorische sowie sich aus den Servicevereinbarungen ergebende Anforderungen abgestimmt werden.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die Erfassung der notwendigen Überwachungsdaten organisiert werden muss.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur periodischen Auswertungen und Interpretation der Überwachungsdaten für die Leistungsüberwachungsmerkmale.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die Resultate zielgruppengerecht dargestellt und präsentiert werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

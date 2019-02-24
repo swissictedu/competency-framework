@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>404</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=404%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Programmare basato a oggetti secondo specifiche</title>
+    <capability>Interpretare le direttive, implementare basato a oggetti con un linguaggio di programmazione, documentare e testare. </capability>
+    <goals>
+        <goal>
+            Rappresentare l'esecuzione sulla base delle direttive.
+            <knowledge-list>
+                <knowledge>
+                    Conosce delle possibilità di rappresentazione di elaborazioni di esecuzioni di programma (per es. diagrammi di stato) e sa quali situazioni esse permettono di riprodurre. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sviluppare e implementare un'interfaccia utente.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le più importanti regole per la creazione di un'interfaccia utente.
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità di soluzione per il trattamento e la validazione delle interazioni dell'utente.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire i dati necessari e fissare il loro tipo.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i principali tipi di dati e il loro corretto impiego (numero intero, numeri a virgola mobile, carattere, stringa e boolean).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementare le specifiche di programma utilizzando i componenti a disposizione con le rispettive proprietà e metodi, così come gli operatori e le strutture di controllo.
+            <knowledge-list>
+                <knowledge>
+                    Conosce la struttura fondamentale di un componente (proprietà, metodi e eventi) e come vengono utilizzati nell'elaborazione di un evento.
+                </knowledge>
+                <knowledge>
+                    Conosce la struttura fondamentale di un programma e la sua influenza sulla memoria di lavoro. 
+                </knowledge>
+                <knowledge>
+                    Conosce i componenti disponibili di un linguaggio di programmazione con le loro proprietà, i loro metodi ed i loro eventi, così come gli operatori e le strutture di controllo. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rispettare nella programmazione gli standard e le direttive, commentare il codice sorgente del programma, in modo da garantire la manutenzione e la riproducibilità del programma.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le più importanti regole da rispettare affinché il codice sorgente sia comprensibile (nomi di variabile e di componenti espliciti, strutturazione visuale, commenti appropriati). 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testare il programma per rapporto alla funzionalità, trovare e correggere gli errori.
+            <knowledge-list>
+                <knowledge>
+                    Conosce gli elementi dei casi di test (funzionalità o elaborazione da testare, dati da inserire, risultati attesi).
+                </knowledge>
+                <knowledge>
+                    Conosce l'importanza dei test per garantire la qualità del programma.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

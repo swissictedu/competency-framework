@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>283</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=283%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Etablir et vérifier des offres conformément au droit</title>
+    <capability>Etablir une offre en tenant compte des bases légales et des aspects juridiques applicables en l'espèce. Vérifier la conformité des propres prestations et productions avec les contenus contractuels et les droits de propriété.</capability>
+    <goals>
+        <goal>
+            Rédiger une offre conforme à l'objet du contrat concerné dans la forme juridiquement correcte.
+            <knowledge-list>
+                <knowledge>
+                    Connaître différents types de contrats (contrat de vente, mandat, contrat d'entreprise, contrat de travail).
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques et les dispositions légales de divers objets de contrat.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Clarifier les conditions juridiques valables pour l'établissement d'une offre.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les conditions de formation du contrat (manifestation réciproque et concordance de volonté, capacité contractuelle, forme, contenu).
+                </knowledge>
+                <knowledge>
+                    Connaître différents types d'offres (avec engagement, sans engagement, avec délai, sans délai).
+                </knowledge>
+                <knowledge>
+                    Connaître les différentes formes de contrats (liberté de forme, forme écrite simple, forme écrite qualifiée, attestation authentique, inscription aux registres publics et forme authentique) ainsi que les délais de prescription liés à la forme et à la prestation du contrat.
+                </knowledge>
+                <knowledge>
+                    Connaître les motifs d'annulation (erreur essentielle, dol, crainte fondée et menace, lésion) et de nullité (chose impossible, illicite ou contraire aux mœurs) des contrats ou des objets du contrat.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les aspects pertinents du droit de la propriété intellectuelle applicables aux prestations et aux productions fournies. Vérifier l'offre quant à une éventuelle violation du droit de la propriété intellectuelle et au respect des droits de propriété.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les parties pertinentes du droit de la propriété intellectuelle telles que droit des brevets, droit des marques et signes distinctifs (marque, raison de commerce), droit des designs (dessins et modèles) et le droit de la propriété intellectuelle (protection des œuvres à contenu technique, p. ex. programmes d'ordinateurs, images).
+                </knowledge>
+                <knowledge>
+                    Connaître les critères de délimitation entre les différents domaines juridiques du droit de la propriété intellectuelle.
+                </knowledge>
+                <knowledge>
+                    Connaître les lois et ordonnances spécifiques nationales ainsi que les conventions internationales relevant du droit de la propriété intellectuelle.
+                </knowledge>
+                <knowledge>
+                    Connaître les infractions au droit de la propriété intellectuelle (violation du droit des brevets, violation du droit des marques, violation du droit de la propriété intellectuelle) ainsi que les sanctions légales telles que des actions civiles (p. ex. action en cessation, action en dommages-intérêts) et les sanctions pénales.
+                </knowledge>
+                <knowledge>
+                    Connaître les dispositions relatives à la protection des droits de propriété relevant du droit d'auteur en ce qui concerne l'intransférabilité des droits moraux (reconnaissance de la qualité d'auteur, première publication) et les droits patrimoniaux (production de copies, modification de l'œuvre).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier l'offre quant à une violation ou à un risque de violation de la loi sur la protection des données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le principe de la loi sur la protection des données relatif à la protection de la personnalité et des droits fondamentaux des personnes physiques ou morales qui font l'objet d'un traitement des données.
+                </knowledge>
+                <knowledge>
+                    Connaître les conséquences juridiques et organisationnelles pour l'entreprise et les collaborateurs en cas de violation de la législation sur la protection des données (p. ex. prétention en dommages-intérêts, licenciement).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

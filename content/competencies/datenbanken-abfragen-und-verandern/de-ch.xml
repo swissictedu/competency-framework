@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>290</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=290%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Datenbanken abfragen und verändern</title>
+    <capability>Interpretiert und implementiert ein vorgegebenes, logisches Datenbankschema in ein relationales Datenbank Management System (RDBMS) mit Testdaten. Selektiert und manipuliert dessen Datenbestände, schützt diese mit Rollen und Berechtigungen, überprüft die Vorgaben und protokolliert deren Ergebnisse.</capability>
+    <goals>
+        <goal>
+            Interpretiert ein vorgegebenes Datenbankschema anhand dessen Bestandteilen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Zweck eines Datenbankschemas.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen einem konzeptuellen und einem logischen Datenbankschema.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Bestandteile eines konzeptionellen Datenbankschemas (Entität, Attribut und Beziehung) und deren Darstellung.
+                </knowledge>
+                <knowledge>
+                    Kennt die unterschiedlichen Kardinalitäten und deren Aussage bezüglich der Beziehungen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Bestandteile eines logischen Datenbankschemas (Tabellen, Attribute, Beziehungen, Primär- und Fremdschlüssel) und deren Darstellung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementiert ein vorgegebenes, logisches Datenbankschema in ein relationales Datenbank Management System (RDBMS) mit einer Datenbanksoftware oder mit Structured Query Language-Befehlen (SQL).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die eigene Entwicklungsumgebung und Werkzeuge (Tools), um SQL-Skripte zu erstellen und mögliche Codierungsfehler zu beheben.
+                </knowledge>
+                <knowledge>
+                    Kennt den wesentlichen Aufbau (Syntax) und die Bedeutung (Semantik) von SQL-Befehlen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Bestandteile eines relationalen Datenbank Management Systems (RDBMS).
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten SQL-Befehle oder eine Datenbanksoftware, um eine Datenbank in einem RDBMS gemäss Vorgaben einzurichten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Importiert Testdaten in ein RDBMS.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Varianten, wie Testdaten in eine Datenbank geladen werden, sowie deren Vor- und Nachteile.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Importiert und exportiert eine komplette Datenbank anhand vorgegebener SQL-Skripte.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Varianten, wie eine Datenbank mit vorgegebenen SQL-Skripten in ein RDBMS importiert (geladen) werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt Varianten, wie eine Datenbank aus einem RDBMS als SQL-Skript(e) exportiert werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Selektiert und manipuliert die Datenbestände eines RDBMS mit SQL-Befehlen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten SQL-Befehle und deren Aufbau zur Selektion und Auswertung von Datenbeständen (über eine oder mehrere Tabellen).
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten SQL-Befehle und deren Aufbau zur Manipulation von Datenbeständen.
+                </knowledge>
+                <knowledge>
+                    Kennt häufige Fehlerquellen bei der Programmierung mit SQL und Vorgehensweisen zur selbständigen Fehlerbehebung.
+                </knowledge>
+                <knowledge>
+                    Kennt weiterführende Quellen, um sich selbstständig über SQL-Befehle (z.B. SQL-Referenz) und deren beispielhafte Anwendung zu informieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vergibt Rollen und Berechtigungen, um Vorgaben hinsichtlich Datensicherheit und Datenschutz zu gewährleisten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Grundlagen zur Datensicherheit und zum Datenschutz.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Kriterien, welche Daten in einem RDBMS geschützt und gesichert werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeit eines Datenbankprogrammes oder dessen entsprechende SQL-Befehle, um Rollen und Berechtigungen in einem RDBMS umzusetzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft die Vorgaben und protokolliert deren Ergebnisse.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehensweisen und Werkzeuge (z.B. Testprotokoll, Abnahmetest), um die Erfolgskontrolle zu dokumentieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Testkriterien, um die Vorgaben gezielt und effizient zu überprüfen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

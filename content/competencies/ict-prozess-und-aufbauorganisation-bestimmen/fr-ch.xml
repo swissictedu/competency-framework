@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>622</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=622%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Déterminer l’organisation de la construction et du processus TIC</title>
+    <capability>Déterminer une organisation de la construction et du processus relative au aux processus TIC et aménage celle‐ci avec des collaborateurs et moyens d’aide appropriés dans un environnement suffisant.</capability>
+    <goals>
+        <goal>
+            Déterminer l’organisation de la construction TIC sur la base des prestations à fournir et des processus TIC
+            <knowledge-list>
+                <knowledge>
+                    Connaître la relation entre la structure de l’organisation d’une entreprise et leurs processus ainsi que leurs stratégies (par ex. principe «Structure follows Process follows Strategy.» in «Strategy and Structure: Chapters in the History of the Industrial Enterprise», Alfred D. Chandler Jr., MIT Press, Cambridge, 1969).
+                </knowledge>
+                <knowledge>
+                    Connaître les formes fondamentales de l’organisation de la construction (par ex. organisation matricielle, organisation de projets ou organisation de processus).
+                </knowledge>
+                <knowledge>
+                    Connaître les directives des modèles de meilleures pratiques (par ex. ITIL, COBIT, ETOM) en regard de la structuration d’organisations TIC dans des unités.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir le rôle des responsables du processus et des lignes et décrire leurs tâches, responsabilités et compétences.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments de définition pour les rôles pilotes et leurs tâches, responsabilités, compétences (par ex. selon Mintzberg).
+                </knowledge>
+                <knowledge>
+                    Connaître la définition des rôles de la gestion de processus (par ex. utilisateurs, gestionnaires, ingénieurs de processus) et leurs tâches, responsabilités, compétences.
+                </knowledge>
+                <knowledge>
+                    Connaître la définition des rôles de la gestion des services (par ex. utilisateurs, gestionnaires, ingénieurs des services) et leurs tâches, responsabilités, compétences.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser l’importance des prestations TIC à fournir et en déduire la matrice quantitative.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes de la planification des besoins, leurs principes et déroulement (par ex. planification déterministe, planification stochastique, planification heuristique).
+                </knowledge>
+                <knowledge>
+                    Connaître les méthodes et instruments de la planification de capacité ainsi que leurs possibilités de mise en œuvre (par ex. plan de réseau, optimisation linéaire).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir le nombre de collaborateurs et les moyens d’aide nécessaires afin de pouvoir apporter les prestations relatives à la matrice quantitative.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes pour la génération du besoin en personnel (par ex. méthode des chiffres significatifs, méthode du temps de travail).
+                </knowledge>
+                <knowledge>
+                    Connaître les objets ressortant de la planification du personnel et les éléments de définition que ceux‐ci contiennent (par ex. plan des places, plan d’occupation des places, description des places).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les règles et les groupes nécessaires pour la collaboration des responsables lignes et processus.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la mise en œuvre et l’application de modèles d’accord pour une coordination globale de l’organisation (par ex. formes d’organisation divisée et fonctionnelle).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

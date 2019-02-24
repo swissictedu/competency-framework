@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>403</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=403%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Programmabläufe prozedural implementieren</title>
+    <capability>Aufgrund einer Vorgabe Programmabläufe prozedural erstellen, testen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Vorgegebenen Programmablauf in Form einer Ablaufstruktur abbilden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kontrollstrukturen Sequenz, Selektion und Iteration, deren Funktionsweise und Einsatz.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Notation um den Ablauf einer Programmlogik abzubilden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die erforderlichen Daten für Eingabe, Verarbeitung und Ausgabe bestimmen und ihre Datentypen festlegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Datentypen, ihren Speicherbedarf und Wertebereich.
+                </knowledge>
+                <knowledge>
+                    Kennt die Regeln (implizite und explizite), die bei der Konversion von Datentypen angewendet werden und die Auswirkungen hinsichtlich Genauigkeit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kontrollstrukturen für die Steuerung des Programmablaufs anwenden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Anweisungen, Kontrollstrukturen, Bedingungen und Operatoren einer Programmiersprache.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ablaufstruktur und Daten mit einer Programmiersprache in einen Programmablauf umsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den grundlegenden Aufbau eines Programms.
+                </knowledge>
+                <knowledge>
+                    Kennt den Sinn und Zweck von Variablen und Konstanten, sowie deren Unterschied.
+                </knowledge>
+                <knowledge>
+                    Kennt den Gültigkeitsbereich von Variablen und wie Variablen eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten einer Entwicklungsumgebung, sowie den Umgang mit Fehler- und Warnmeldungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vorgegebene funktionale Testfälle (Eingabewerte, erwartete Ergebnisse) anwenden um Fehler im  Programmablauf zu erkennen und zu beheben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Sinn und Zweck des Testens und die Absicht von einzelnen Testfällen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien für die Definition eines Testfalls und die gezielte Auswahl der Testdaten.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Vorgehen um Fehler im Programm zu lokalisieren und zu beheben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Einen Debugger einsetzen um die Programmausführung zu überwachen und Fehler zu erkennen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Zweck, die Funktionen und die Bedienung eines Debugger.
+                </knowledge>
+                <knowledge>
+                    Kennt den Nutzen von Breakpoints und der Überwachung von Variablen zur Kontrolle von Programmabläufen und Bedingungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

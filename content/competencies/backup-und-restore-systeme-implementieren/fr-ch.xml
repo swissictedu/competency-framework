@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>143</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=143%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implanter un système de sauvegarde et de restauration</title>
+    <capability>Etablir des concepts de protection des données, expérimenter et mettre à disposition en respectant les conditions cadres prescrites.</capability>
+    <goals>
+        <goal>
+            Etablir un concept de sécurité selon les conditions cadres et les directives techniques (par ex. volumes de données, délais de conservation, dispositions juridiques, intervalles de sécurité, sécurité de conservation, restauration,  disponibilité etc.)
+            <knowledge-list>
+                <knowledge>
+                    Connaître les conditions cadres d’exploitation et les dispositions juridiques à prendre en considération lors de l´application de systèmes de sécurité des données.
+                </knowledge>
+                <knowledge>
+                    Connaître les risques organisationnels, techniques et personnels qui peuvent influencer la sécurité des données.
+                </knowledge>
+                <knowledge>
+                    Connaître les procédures de sécurisation des données les plus courantes (par ex. restauration différentielle ou incrémentale) ainsi que leur mise en application.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères pour un engagement efficace et satisfaisant des systèmes de sauvegarde et de restauration.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités techniques actuelles pour sécuriser des données (par ex. SAN, iSCSI, NAS, systèmes Cloud).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier le concept élaboré du point de vue faisabilité et, si nécessaire, adapter le concept.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères techniques et de rentabilités qui doivent être observés pour la vérification de la faisabilité du concept de sauvegarde et de restauration.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer le besoin en appareils et moyens de protections en se fondant sur le concept.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement pour déterminer le besoin en mémoires.
+                </knowledge>
+                <knowledge>
+                    Connaître des caractéristiques d’appareils de sauvegarde et de moyens de mémorisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir les procédures de protection, expérimenter, intégrer dans la conduite des opérations productives et documenter.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les commandes qui sont nécessaires pour l´établissement des procédures de sécurité et de restauration.
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures pour tester des processus de sécurisation et de restauration.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour intégrer des processus de sécurisation et de restauration dans l’exploitation productive, ainsi que les documenter.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Exécuter et tester les processus de sécurité et de restauration.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des scénarios pour exécuter et vérifier des processus de sécurisation et de restauration.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre à jour les documents d´entretien et d´exploitation. Mettre à disposition les systèmes de sauvegarde et de restauration pour l´exploitation productive.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la nécessité de la mise à jour d’une documentation actuelle sur l’exploitation et la maintenance.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de la transmission d’une mise à disposition.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

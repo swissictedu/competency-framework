@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>621</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=621%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Prozesse gestalten</title>
+    <capability>Gestaltet die ICT-Prozesse seiner Organisationseinheit mit dem Ziel, die ICT-Leistungen effektiv und effizient zu erbringen. Entwickelt und verbessert die Effizienz der ICT-Prozesse kontinuierlich.</capability>
+    <goals>
+        <goal>
+            Definiert den Prozess, welchen die ICT gemeinsam mit dem Kunden im Rahmen der Erstellung- und Erbringung von ICT-Leistungen durchläuft.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Konzept des Customer Life Cycle (z.B. Lebensphasen von Erstkontakt bis zur Auflösung der Beziehung mit dem Kunden).
+                </knowledge>
+                <knowledge>
+                    Kennt die Definition der Phasen des Customer Life Cycle und ihre Abfolge in Bezug auf eine Leistung, die gegenüber den Kunden erbracht wird. (Anforderungen, Akquisition, Leistungserstellung, Service und Beendigung der Beziehung).
+                </knowledge>
+                <knowledge>
+                    Kennt das Verhalten von Kunden im Zusammenhang mit dem Customer Life Cycle (z.B. Behavioral Life Cycle Theory, Shefrin und Thaler, 1988 1)).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert die Kunden seiner Organisationseinheit und erhebt deren Bedürfnisse an ICT-Leistungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Konzept der Marktsegmentierung (z.B. nach den Dimensionen Region, Produkt und Technologie).
+                </knowledge>
+                <knowledge>
+                    Kennt die Techniken zur systematischen Sammlung von Anforderungen (z.B. Requirement Engineering und -Management).
+                </knowledge>
+                <knowledge>
+                    Kennt die Erhebungstechniken und deren Einsatzzweck, Nutzen, Eigenheiten (z.B standardisierter Fragebogen – Frage &amp; vorgegebene Antwortstrukuren oder qualitative Interviews – Ziel, Vorgehensschritte bei der Entwicklung, Dimensionenbildung, Erhebung/Durchführung, Auswertung…).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt die von der ICT-Organisationseinheit zu erbringenden Leistungen aus den strategischen Vorgaben und den Kundenbedürfnissen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Ablauf der Erfassung von ICT-Leistungen (z.B. Erhebung, Dokumentation und Verwaltung).
+                </knowledge>
+                <knowledge>
+                    Kennt den Zusammenhang zwischen der Organisationsstruktur einer Unternehmung und ihrer Prozesse und ihrer Strategie (z.B.  Prinzip «Structure follows Process follows Strategy». in «Strategy and Structure: Chapters in the History of the Industrial Enterprise», Alfred D. Chandler Jr., MIT Press, Cambridge, 1969).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt ausgehend von den zu erbringenden Leistungen die dazu notwendigen Leistungsprozesse und bildet diese in einer Prozesslandkarte ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Merkmale und der Ausprägung eines Leistungsprozesses (z.B. nach J. Becker: Prozessmanagement: A Guide for …1)).
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungsmöglichkeiten für Leistungs-, Führungs- und Unterstützungsprozesse mit ihren Wechselwirkungen und / oder zeitlichen Beziehungen. (z.B. Sequenzdiagramm).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus den Bedürfnissen der Kunden, den Qualitätsvorgaben, den regulatorischen Vorgaben und den zu erbringenden Leistungen die Anforderungen an die ICT-Prozesse ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Konzept des Prozess-Performance-Managements (z.B. KPI’s definieren und messen, Führungssystem definieren &amp; implementieren).
+                </knowledge>
+                <knowledge>
+                    Kennt das Konzept des Service Level Agreement (z.B. Leistungsumfang, Reaktionszeiten, Qualität, Lieferzeiten, etc.).
+                </knowledge>
+                <knowledge>
+                    Kennt Strukturen und Vorgaben zur Entwicklung von eigenen Qualitätsstandards, Qualitätsmessung (z.B. nach EFQM, ISO, TQM).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gestaltet flexible und kostenoptimierte ICT Prozesse aufgrund der Anforderungen an die ICT-Prozesse.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehen der Definition und Einführung von Prozessgestaltung 
+(z.B. nach J. Becker…1)).
+                </knowledge>
+                <knowledge>
+                    Kennt den Einsatz von Prozess-Darstellungsmethoden wie BPM Business Process Modeling und UML Unified Modeling Language.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen, um Kostentreiber zu identifizieren (z.B. mittels Prozesskostensätze).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt die zur Messung und Lenkung der Leistungserstellung geeigneten Messgrössen und erhebt diese.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen zur Messung von Prozessleistung (z.B. Erfolgswirksamkeit, Qualität, Wirkung auf die Kundenzufriedenheit).
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Definition von aussagekräftigen Kennzahlen (z.B. verarbeitete Mengen, benötigte Zeit, Einsatz von Ressourcen, Prozesskosten).
+                </knowledge>
+                <knowledge>
+                    Kennt Definition und Einführung von Messmodellen (z.B. BSC).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verbessert die ICT-Prozesse kontinuierlich, indem er Verbesserungsideen systematisch aufnimmt, mit geeigneten Methoden und/oder in Gremien bewertet und umsetzt.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden zur kontinuierlichen Verbesserung von Prozessen 
+(z.B. Ideenmanagement, Qualitätszirkel).
+                </knowledge>
+                <knowledge>
+                    Kennt das Konzept des Wissensmanagement (z.B. nach Nonaka und Takeuchi1))
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>482</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=482%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Tester et superviser le fonctionnement de composants d’infrastructure TIC</title>
+    <capability>Tester et surveiller les composants de l’infrastructure TIC (serveurs, mémoires, réseau), interpréter les résultats et prendre des mesures propres à garantir l’exploitation TIC conformément aux exigences.</capability>
+    <goals>
+        <goal>
+            Définir, sur la base des exigences en matière d’exploitation de composants d’infrastructure TIC (serveurs, mémoires, réseau) ou de systèmes, des objets à tester ou à surveiller ainsi que des critères permettant de contrôler de manière fiable la satisfaction de ces exigences.
+            <knowledge-list>
+                <knowledge>
+                    Savoir distinguer les aspects fonctionnels et non fonctionnels sur la base des exigences envers l’exploitation de composants d’infrastructure et de systèmes TIC.
+                </knowledge>
+                <knowledge>
+                    Pouvoir classer les composants d’infrastructure et systèmes existants en catégories d’exigences de performance et de disponibilité. Savoir quels sont les objets à tester et à surveiller pour apporter la preuve de la satisfaction de ces exigences.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, pour certains composants d’infrastructure ou systèmes, des méthodes de test ou de surveillance adéquates apportant une preuve irréfutable du respect des critères de test ou de surveillance.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la différence entre démarche proactive et démarche réactive de surveillance de composants et leurs domaines d’utilisation respectifs.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes de test et de surveillance permettant d’apporter la preuve de la satisfaction des critères de test ou de surveillance définis.
+                </knowledge>
+                <knowledge>
+                    Pouvoir justifier le choix des méthodes de test et de surveillance pour l’infrastructure TIC existante.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir, à partir de la méthode de test ou de surveillance choisie, un concept de test ou de surveillance pour les composants d’infrastructure ou systèmes.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir expliquer des mesures de surveillance qui permettent d’assurer le bon fonctionnement d’un système et d’éviter les arrêts et interruptions impromptus.
+                </knowledge>
+                <knowledge>
+                    Savoir expliquer et documenter des instruments de surveillance adéquats pour un composant d’infrastructure ainsi que les mesures à prendre en cas de dépassement de la valeur minimum ou maximum d’un paramètre.
+                </knowledge>
+                <knowledge>
+                    Connaître les conditions à satisfaire (nombre de cas de tests traités, consignes de configuration, preuve de stabilité, etc.) pour mettre un système en service pour la première fois. Savoir en décrire l’influence sur l’exploitation de systèmes et de composants.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques d’une exploitation pilote précédant la mise en service (exploitation partielle du système, mesures de résultat et intégration permanente des feed‐backs) ainsi que l’importance de la documentation des résultats de l’exploitation pilote pour la mise en service.
+                </knowledge>
+                <knowledge>
+                    Comprendre comment documenter la recherche et la résolution d’erreurs en cas de dysfonctionnement et, par conséquent, comment compléter en permanence la connaissance du système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer, à partir du concept de test, des processus de déroulement des tests et les cas de tests correspondants, puis mettre en oeuvre ces processus.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment élaborer des plans de test détaillés pour la (re)mise en service d’un composant et des prestations qu’il fournit. Connaître les consignes d´élaboration de ces plans y compris la définition de conséquences en cas d’événements inattendus.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments d’une description de cas de test et pouvoir expliquer comment ils contribuent à la concrétisation d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître la méthode permettant d’exécuter et de consigner les cas de tests aux différents niveaux (tests de composants, tests d’intégration et tests de système) conformément aux instructions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer, à partir du concept de surveillance, les processus de surveillance. Créer les conditions techniques et organisationnelles qui en garantissent la mise en oeuvre adéquate et efficace.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment définir des fenêtres de maintenance et des paramètres (indicateurs et valeurs limites) conformément à la catégorie d’exigences.
+                </knowledge>
+                <knowledge>
+                    Savoir comment élaborer des processus de surveillance en collaboration avec l’organisation en place et comment attribuer des responsabilités.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes d’automatisation des mesures de surveillance et savoir comment mettre en place des réactions aux dépassement de la valeur minimum ou maximum de paramètres, comme des alarmes ou d’autres automatismes (arrêt du système, déconnexion du réseau, etc.)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Préparer et présenter les résultats des tests et de la surveillance de manière claire et compréhensible.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes de consolidation permettant de présenter des résultats de test ou de surveillance (indicateurs, graphiques, tableaux, etc.).
+                </knowledge>
+                <knowledge>
+                    Savoir comment mesurer la disponibilité et l’indisponibilité de systèmes (analyse de procès‐verbaux, statistiques du centre d’assistance, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Interpréter les résultats, en déduire les actions nécessaires et proposer des mesures ciblées permettant de résoudre et d’éviter les dysfonctionnements.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes d’analyse de résultats de surveillance permettant de déterminer les dysfonctionnements, les tendances de disponibilité et le respect des consignes de sécurité.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes permettant de cerner systématiquement les causes de dysfonctionnements (méthode d’exclusion, tests individuels systématiques).Pouvoir expliquer les mesures qu’elles contiennent et comment elles contribuent à l’identification rapide et efficace des dysfonctionnements.
+                </knowledge>
+                <knowledge>
+                    Savoir identifier des tendances d’utilisation ou de charge dans le domaine des données de base et de mouvement. Savoir comment en déduire des mesures proactives garantissant que les capacités disponibles sont suffisantes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

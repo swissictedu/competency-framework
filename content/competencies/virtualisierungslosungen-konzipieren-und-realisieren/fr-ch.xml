@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>441</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=441%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Concevoir et réaliser des solutions de virtualisation</title>
+    <capability>Evaluer le degré d’adéquation des solutions de virtualisation en fonction des exigences de l’entreprise et, sur la base de cet examen, émettre une recommandation et réaliser la solution choisie.</capability>
+    <goals>
+        <goal>
+            Evaluer le degré d’adéquation des solutions de virtualisation pour des domaines d’utilisation spécifiques (applications, ordinateur de bureau, serveur) en fonction des objectifs de l’entreprise et, sur la base de cet examen, émettre une recommandation concernant la solution à réaliser.
+            <knowledge-list>
+                <knowledge>
+                    Connaître différents modèles de virtualisation (partitionnement, agrégation, émulation, etc.) et pouvoir en citer les avantages et inconvénients pour les solutions de virtualisation entrant en ligne de compte pour l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les différents niveaux auxquels une virtualisation peut être effectuée (applications, middleware, infrastructure et réseau) et les différents éléments de virtualisation (serveurs, mémoires, ordinateurs de bureau ou logiciels). Pouvoir citer leurs avantages et inconvénients pour les solutions de virtualisation entrant en ligne de compte pour l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les différents types de virtualisation entrant en ligne de compte pour les différents éléments (virtualisation complète, partielle ou paravirtualisation, RAM pooling, mémoire virtuelle, virtualisation de réseaux) et pouvoir expliquer quelles sont les conséquences de leur choix.
+                </knowledge>
+                <knowledge>
+                    Connaître les incidences des différentes démarches de virtualisation sur les processus métier. Connaître les exigences envers les processus dans le cadre de projets de virtualisation.
+                </knowledge>
+                <knowledge>
+                    Pouvoir réunir les exigences de l’exploitation envers un nouvel environnement ainsi que les consignes en vigueur (processus métier, consignes de sécurité, infrastructure et ressources existantes) et savoir comment élaborer un catalogue de critères sur cette base.
+                </knowledge>
+                <knowledge>
+                    Pouvoir mettre en relation les démarches de virtualisation entrant en ligne de compte avec l’environnement métier et les consignes de l’entreprise. Evaluer les conséquences.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fournir des informations sur l’investissement et les charges d´exploitation pour le calcul de rentabilité d’une solution de virtualisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les incidences de la virtualisation sur l’infrastructure et les ressources (matériels, licences, espace nécessaire et personnel).
+                </knowledge>
+                <knowledge>
+                    Connaître les effets de différents modèles de virtualisation sur la préservation des ressources non renouvelables, sur la consommation d’électricité des composants nécessaires ainsi que sur le potentiel d’économies d’énergie secondaires (refroidissement, etc.). Connaître l’importance de l’efficacité énergétique.
+                </knowledge>
+                <knowledge>
+                    Savoir comment définir des indicateurs significatifs pour évaluer l’efficience d’une solution de virtualisation.
+                </knowledge>
+                <knowledge>
+                    Savoir définir des mesures de saisie des données de consommation et savoir comment les implémenter.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer un concept technique d’intégration de la solution de virtualisation choisie sur la base des conditions et exigences techniques du domaine d’utilisation concerné.
+            <knowledge-list>
+                <knowledge>
+                    Comprendre les bases de l’intégration système et savoir comment englober tous les domaines concernés lors de l’élaboration d’un concept.
+                </knowledge>
+                <knowledge>
+                    Savoir comment appliquer les consignes de sécurité et connaître des mesures qui permettent d’en garantir le respect.
+                </knowledge>
+                <knowledge>
+                    Savoir comment mettre en oeuvre le concept d’intégration d’une solution de virtualisation choisie.
+                </knowledge>
+                <knowledge>
+                    Connaître les consignes de mise en oeuvre de solutions efficaces sur le plan énergétique et savoir comment les concrétiser.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les processus techniques et organisationnels pour l’exploitation de la solution de virtualisation et les documenter dans un concept d’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les exigences d’une solution de virtualisation en matière d’infrastructure (espace nécessaire, refroidissement, raccordement, consommation d’énergie, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les incidences de la virtualisation sur les processus métier et savoir où ceux‐ci doivent être adaptés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer et configurer une solution de virtualisation en fonction du concept technique et du concept d’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les exigences techniques à satisfaire pour respecter le calendrier d’installation et de configuration d’une solution concrète et, ainsi, assurer que les interdépendances ne soient pas compromises et que la solution globale puisse être réceptionnée dans les délais.
+                </knowledge>
+                <knowledge>
+                    Connaître les conditions que doit remplir l’environnement sur le plan des matériels et des logiciels et savoir comment les satisfaire par une configuration adéquate garantissant la stabilité, l’interopérabilité et la compatibilité.
+                </knowledge>
+                <knowledge>
+                    Connaître les outils d’administration nécessaires à l’exploitation de la solution de virtualisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre à disposition les services répondant aux besoins par l’intermédiaire d’un réseau ou dans un cloud conformément à la solution de virtualisation réalisée.
+            <knowledge-list>
+                <knowledge>
+                    Comprendre l’architecture de l’offre cloud et ses trois couches: infrastructure (Infrastructure as a Service), plateforme (Platform as a Service) et application (Software as a Service). Savoir expliquer comment ces services contribuent à garantir une solution de virtualisation.
+                </knowledge>
+                <knowledge>
+                    Connaître les différences déterminantes entre un public cloud, un community cloud, un private cloud et leurs formes hybrides. Savoir en expliquer les conséquences pour l’utilisation des solutions entrant en ligne de compte.
+                </knowledge>
+                <knowledge>
+                    Connaître les risques techniques inhérents à l’utilisation d’un public cloud et d’un private cloud et savoir en expliquer l’influence sur le choix d’une solution.
+                </knowledge>
+                <knowledge>
+                    Connaître les conditions à remplir pour rédiger un accord de niveau de service (Service Level Agreement SLA) pour les services virtuels (cloud services) ainsi que les bases de la facturation de la prestation proposée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

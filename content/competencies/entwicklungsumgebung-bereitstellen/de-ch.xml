@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>478</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=478%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Entwicklungsumgebung bereitstellen</title>
+    <capability>Plant und realisiert den Einsatz von Werkzeugen einer Entwicklungsumgebung über den gesamten Lebenszyklus einer Applikation.</capability>
+    <goals>
+        <goal>
+            Bestimmt unter Berücksichtigung der Merkmale der Applikation und der gewählten Softwarearchitektur die Werkzeuge einer Entwicklungsumgebung, welche in den verschiedenen Phasen des Lebenszyklus eingesetzt werden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Werkzeuge, welche in einer Entwicklungsumgebung (IDE) zur Verfügung stehen, und kann erläutern, in welche Phasen des Lebenszyklus einer Applikation diese zum Einsatz kommen und welchen Zweck sie dabei erfüllen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Merkmale von Applikationen und der Softwarearchitektur,welche den Einsatz der Werkzeuge beeinflussen, und kann die Zusammenhänge erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installiert und konfiguriert die Entwicklungsumgebung (IDE) nach den standardisierten Vorgaben des Unternehmens und des Herstellers auf einer Entwickler‐Workstation.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Konfigurationsmöglichkeiten einer IDE, um Codingstyles und Entwicklungsrichtlinien in IDE-Projekten sicherzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Mechanismen von IDEs, um deren Funktionsumfang zu erweitern, und weiss, was bei der Installation dieser Erweiterungen (Plugins, Addons etc.) berücksichtigt werden muss.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert die Struktur der Projekte in einer Entwicklungsumgebung, bestimmt welche Strukturelemente versionisiert werden, und implementiert diese Bestimmungen in dieser Entwicklungsumgebung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Merkmale einer modularen Projektstruktur und kann aufzeigen, wie deren Einhaltung die Entwicklungsarbeit strukturiert und erleichtert.
+                </knowledge>
+                <knowledge>
+                    Kennt Mechanismen, um IDE-Projekt-Abhängigkeiten und Abhängigkeiten zu externen Komponenten (z.B. 3rd Party Libraries) zu verwalten, und kann erläutern, wie deren Nutzung die Entwicklungsarbeit strukturiert und optimiert.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert Versionisierungs‐Richtlinien für die gleichzeitige Entwicklung von mehreren Versionen und Releases, um zu jedem Zeitpunkt auf einen definierten Stand zurückgehen zu können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Mechanismen von Source-Code-Management-Werkzeugen (SCM), welche die parallele Entwicklung auf mehreren Entwicklungszweigen unterstützen, und kann erläutern, wie diese sicherstellen, dass zu jedem Zeitpunkt ein definierter Stand nachvollzogen werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Prozesse, um die Entwicklung mit mehreren Entwickler/innen zu koordinieren, den Lebenszyklus der Applikation zu kommunizieren und zu erläutern, wie damit der Informationsfluss zwischen Entwicklung und Release-Management sichergestellt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert den Funktionsumfang und konfiguriert die Ausführung der Funktionen eines Continuous Integration Servers unter Berücksichtigung der spezifischen Anforderungen und Rahmenbedingungen eines Software‐Erstellungsprozesses.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Funktionen eines Continuous Integration Server (CIServer) und kann erläutern, wie diese den Entwicklungsprozess unterstützen und sicherstellen, dass der Stand der Entwicklung hinsichtlich Arbeitsfortschritt, Dokumentation und Qualität jederzeit aktuell zur Verfügung steht.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Konfigurationsmöglichkeiten für die Funktionen eines CIServers und kann erläutern, wie diese den Erstellungsprozess der Applikation und deren Komponenten beeinflussen und damit die angestrebte Unterstützung sicherstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Mechanismen von Werkzeugen, um die erzeugten Artefakte und deren abhängige Komponenten (3rd Party Libraries) in einem Repository zu verwalten und kann erläutern, wie diese die IDE-Projektstruktur und die Build-Scripte beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt Skripte um den Bau, das Paketieren, das Deployment und die Versionisierung der verwendeten Quellen (Programmcode sowie zugehörige Dokumentation) automatisiert erstellen zu können.
+            <knowledge-list>
+                <knowledge>
+                    Kann Skripte entwickeln, um den Bau, das Paketieren, das Deployment und die Versionisierung der verwendeten Quellen (Programmcode sowie zugehörige Dokumentation) automatisiert zu erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionen von Buildtools und kann erläutern, wie diese Erstellung der Artefakte in der Entwicklungsumgebung (IDE) und im CI-Server gewährleisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgaben von Zielsystemen für die Build-Prozesse (Generierung, Unit-Test, Packetieren, Deployment) und kann aufzeigen, wie diese bei der Automatisierung der Build-Prozesse zu berücksichtigen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

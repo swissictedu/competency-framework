@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>416</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=416%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Appliquer le droit des biens immatériels dans le cadre de la production et de la publication</title>
+    <capability>Détecter des problèmes qui peuvent découler de la violation du droit de propriétéintellectuelle, et développer des solutions juridiquement valables</capability>
+    <goals>
+        <goal>
+            Identifier les domaines à problèmes potentiels ainsi que les conséquences et les risques possibles au sein d´une organisation dans le domaine du droit de la propriété intellectuelle
+            <knowledge-list>
+                <knowledge>
+                    Connaître les risques et les coûts des conséquences du non-respect du droit d´auteur et autres droits de propriété intellectuelle.
+                </knowledge>
+                <knowledge>
+                    Connaître les bases du droit d´auteur, de la protection de dessin, du droit des brevets, du droit des marques et le droit à leur propre image.
+                </knowledge>
+                <knowledge>
+                    Connaître les lois en vigueur en Suisse et les différences avec l´UE et les USA.
+                </knowledge>
+                <knowledge>
+                    Connaître des modèles alternatifs de droits d´auteur, par exemple, Creative Commons.
+                </knowledge>
+                <knowledge>
+                    Connaître le système du délai de protection.
+                </knowledge>
+                <knowledge>
+                    Connaître les méthodes et les sources pour rechercher des droits sur les œuvres.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer des solutions en prenant en compte les objectifs de l’entreprise
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différents droits ainsi que leurs applications afin de protéger les propres œuvres tout en tenant compte des droits des tiers.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités d’implémentation et les conditions cadres à respecter pour chaque droit de protection.
+                </knowledge>
+                <knowledge>
+                    Connaître le contenu des éléments nécessaires à l´élaboration de normes à l´interne (standards médiatiques) par rapport aux droits de la propriété.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre des mesures, et établir des lignes directrices dans le traitement des droits d´auteur ainsi que d’autres droits de propriété intellectuelle et les implémenter en tant que norme de la maison
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités de distribuer des mandats créatifs à la lumière des droits d´auteur règlementés et autres droits de propriété intellectuelle.
+                </knowledge>
+                <knowledge>
+                    Connaître les pratiques de déclaration de la propriété intellectuelle et pour en contrôler la propagation (Restreindre ou promouvoir)
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures nécessaires pour déclarer des directives internes à l’entreprise ainsi que de mise en œuvre.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documenter les normes pour les organismes internes et externes, le cas échéant, par la formation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités d´une communication conviviale et de formation des utilisateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître des approches pédagogiques afin de promouvoir une sensibilisation et une prise de conscience des droits de protection.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Contrôler et optimiser les directives définies dans les affaires quotidiennes
+            <knowledge-list>
+                <knowledge>
+                    Connaître des instruments pour vérifier les directives internes et externes définies.
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes des actions nécessaires pour l’intervention et la transmission à la hiérarchie supérieure.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

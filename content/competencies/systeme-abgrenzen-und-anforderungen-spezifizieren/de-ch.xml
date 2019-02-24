@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>192</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=192%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Systeme abgrenzen und Anforderungen spezifizieren</title>
+    <capability>Analysiert die Einbindung eines Systems in ein übergeordnetes System sowie seine eigene Systemstruktur und spezifiziert die Anforderungen für die Entwicklung, die Beschaffung, den Betrieb oder den Unterhalt dieses Systems.</capability>
+    <goals>
+        <goal>
+            Ordnet ein System in seiner funktionalen Komplexität im übergeordneten System ein und beschreibt es.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundprinzipien des Systemdenkens, z.B. Systemdekomposition, Metadatenmodelle, Ordnung, Komponenten und Beziehungen.
+                </knowledge>
+                <knowledge>
+                    Kann die Zusammenhänge zwischen einem System und den Organisations‐, Personal‐ und Technikstrukturen des Unternehmens erläutern.
+                </knowledge>
+                <knowledge>
+                    Versteht die Interpretation eines übergeordneten Metadatenmodells.
+                </knowledge>
+                <knowledge>
+                    Weiss, welche Mittel eingesetzt werden können, um das System zu beschreiben (Prozessmodelle, Funktionsmodelle etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert und dokumentiert System‐ und Subsystemgrenzen. Erkennt und dokumentiert Schnittstellen zwischen den Systemen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Wechselwirkungen zwischen Systemumwelt und System.
+                </knowledge>
+                <knowledge>
+                    Kann ein spezifisches System innerhalb der übergeordneten Systemstrukturen einordnen und weiss, wie dessen Funktion in der Gesamtheit der Funktionen zu beurteilen ist.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die Systemgrenzen analysiert werden, und kennt die Mittel, um Systemgrenzen zu dokumentieren (z.B. Ereignislisten, Schnittstellenbeschreibungen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Löst ein beschriebenes System in Subsysteme, Teilsysteme und Elemente auf und beschreibt deren gegenseitige Interaktionen.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie ein spezifisches System in seine Subsysteme und Elemente zerlegt wird, und kann die Beziehungen zwischen Subsystemen und Elementen beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methoden zur Analyse (strukturierte Analyse, objektorientierte Analyse (OOA)) und Modellierung (UML, ERD, Kontextdiagramme, Prozessbeschreibungen) eines Systems.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie diese Mittel im Rahmen eines Entwicklungs‐ oder Evaluationsprojektes eingesetzt werden, um die betrieblichen Anforderungen bestmöglich abzudecken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert in Absprache mit den Verantwortlichen die geforderten Leistungen für das System.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Leistungen, die entlang der Lebensdauer (Lifecycle) eines Systems erbracht werden, und kann erläutern, welche qualitative, wirtschaftliche und ökologische Relevanz diese für das System haben.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken, um Informationen zu bestimmten Sachverhalten gezielt und effizient erheben zu können, z.B. Dokumentenstudium, Interviews, Umfragen, Workshops, Beobachtung, Prozessanalyse.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie die betrieblichen Anforderungen auf ein relevantes System heruntergebrochen werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus den geforderten Leistungen, den Bedürfnissen der Interessengruppen sowie den bestehenden Schwachstellen die Anforderungen an ein IT‐System ab, respektive an die Leistungen, die in Zusammenhang mit diesem System erbracht werden.
+            <knowledge-list>
+                <knowledge>
+                    Kann die relevanten Interessengruppen für ein System identifizieren (Systembenutzer, Stakeholder, Prozessowner, Umwelt, IT etc.).
+                </knowledge>
+                <knowledge>
+                    Kann betriebliche Anforderungen (funktionale, technische, organisatorische, ökologische und betriebswirtschaftliche) systematisch erheben.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, wie Anforderungen aus Geschäftsprozessen hergeleitet werden können.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie mittels Vergleichsmethoden, wie einer Soll‐/Ist‐Analyse oder einer Nutzwertanalyse, die Schwachstellen eines bestehenden Systems ermittelt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spezifiziert in Absprache mit den Beteiligten (Business, IT etc.) präzise objektive und konsensfähige Anforderungen an die für das System zu erbringenden Leistungen.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie in Absprache mit den beteiligten Interessengruppen präzise, objektive und konsensfähige Anforderungen an Entwicklung, Beschaffung, Betrieb oder Unterhalt eines IT‐System spezifiziert werden.
+                </knowledge>
+                <knowledge>
+                    Kann aufgrund der betrieblichen Anforderungen und der Ist‐Situation erläutern, wann ein System neu erstellt, ein Bestehendes ersetzt oder modifiziert werden sollte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gliedert die Anforderungen nach Leistungen, logischen Kategorien sowie hinsichtlich ihrer unterschiedlichen Bedeutung und dokumentiert diese in einem nach diesen Merkmalen strukturierten Anforderungskatalog.
+            <knowledge-list>
+                <knowledge>
+                    Kann eine Anforderung anhand bestimmter Spezifikationen beschreiben und messbar machen.
+                </knowledge>
+                <knowledge>
+                    Kann den Unterschied zwischen Muss‐ und Kann‐Zielen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegende Struktur eines Anforderungskatalogs (funktionale, nichtfunktionale, Business‐, Systemanforderungen etc.) sowie den Beitrag der einzelnen Elemente dieser Struktur zu einer klaren Ausgangslage für die zu beschaffende Lösung.
+                </knowledge>
+                <knowledge>
+                    Kann erläutern, weshalb bestimmten Spezifikationen unterschiedliche Gewichtungen zugeordnet werden.
+                </knowledge>
+                <knowledge>
+                    Weiss, welche Mittel (Vergleich mit den Zielen, Einstufung der Machbarkeit, Vergleich mit Best Practice ‐Konzepten etc.) verwendet werden, um die Priorität bzw. die Gewichtung der Anforderungen mittels Analysen zu definieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

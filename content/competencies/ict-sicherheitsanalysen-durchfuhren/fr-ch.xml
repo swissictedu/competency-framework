@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>661</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=661%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Exécuter des analyses de sécurité TIC</title>
+    <capability>Exécuter régulièrement les analyses des processus d’entreprises, soutenu par les systèmes TIC, afin de déterminer les points faibles et les risques. Planifier, à l’aide de des résultats, les mesures de minimisation des risques économiquement appropriées.</capability>
+    <goals>
+        <goal>
+            Enregistrer quels systèmes TIC supportent quels processus d’entreprise (tâches, fonctions).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les normes de la gestion de continuité opérationnelle (par ex. BS 25999, ISO 22399).
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement de la préparation, de l’exécution et de l’évaluation d’entretiens structurés.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques de représentation pour la définition de processus commerciaux par le biais de systèmes TIC (par ex. architecture des processus).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, en collaboration avec les responsables des processus d’entreprise, les exigences des systèmes TIC en regard de la disponibilité et de l’échéance.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les facteurs qu’il faut prendre en compte lors de la définition des exigences sur la durée de panne et la disponibilité des systèmes TIC (par ex. temps nécessaire au redémarrage, exigences de la reprise après sinistre).
+                </knowledge>
+                <knowledge>
+                    Connaître les effets de divers scénarios de pannes sur le respect de la disponibilité et la durée maximale de panne.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier des points faibles des systèmes TIC en relation avec la sécurité des tâches et fonctions que ceux‐ci supportent durant le déroulement des processus d’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes et des instruments que les fournisseurs et ONG mettent à disposition pour couvrir les points faibles et pouvoir les appliquer (par ex. scanner de vulnérabilité, base de connaissances).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir une analyse qui définit le potentiel de risques, respectivement des dangers, des points faibles sur les capacités commerciales et l’existence de l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes et techniques pour l’exécution d’analyses qui permettent de quantifier les potentiels de risques des points faibles de systèmes TIC en regard des processus commerciaux (par ex. selon ISO 27005).
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments d’un catalogue de risques et pouvoir expliquer dans quelles circonstances ceux‐ci se côtoient et contribuent à la définition finale d’un risque.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prendre des mesures, en accord avec l’analyse, pour l’élimination de points faibles dans les systèmes TIC et contribuer ainsi à la sécurisation des capacités commerciales et de la survie de l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les catégories de mesures pour garantir la disponibilité définie et pour assurer une durée de panne minimale (par ex. infrastructure, organisation, personnel, matériel et logiciel).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, en accord avec l’analyse, des mesures qui garantissent la continuité des capacités commerciales en cas de panne des systèmes TIC, respectivement de leur soutien par les processus commerciaux.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des catégories de mesures organisationnelles pour assurer des déroulements commerciaux sans interruption (par ex. les responsabilités).
+                </knowledge>
+                <knowledge>
+                    Connaître des catégories de mesures techniques pour assurer des déroulements commerciaux sans interruption (par ex. reprise après sinistre TIC).
+                </knowledge>
+                <knowledge>
+                    Connaître les conditions cadres et exigences qui doivent être pris en compte lors de l’établissement d’un plan de secours (par ex. les dépendances systèmes, les proportions, la couverture du processus).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir un concept pour la vérification régulière de l’efficacité des mesures prises et pour l’actualisation de l’analyse.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités de vérification de l’efficacité de concepts de secours (par ex. système de veille).
+                </knowledge>
+                <knowledge>
+                    Connaître des facteurs qui doivent être pris en compte lors de l’évaluation d’exercices de secours réguliers (par ex. répartition du travail, étapes du processus).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre les mesures visées en collaboration avec les responsables des processus d’entreprise sur la base de normes et de concepts de meilleure pratique.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des dispositions et directives qui doivent être respectées lors de la mise en œuvre de mesures pour la vérification de concepts de secours (par ex. catalogue de sécurité de base, InfoSurance).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

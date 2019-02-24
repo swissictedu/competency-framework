@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>493</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=493%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Standardsoftware betriebsspezifisch implementieren</title>
+    <capability>Implementiert unter Berücksichtigung der betrieblichen Anforderungen und der Parametrisierungsmöglichkeiten einer Standardsoftware ein System zur Unterstützung von Geschäftsprozessen.</capability>
+    <goals>
+        <goal>
+            Ordnet den Workflows und Aktivitäten des Geschäftsprozesses die in der Standardsoftware enthaltenen Funktionen und Informationen zu, welche zur automatisierten Abwicklung dieser Aktivität oder dieses Workflows beitragen.
+            <knowledge-list>
+                <knowledge>
+                    Versteht die Bedeutung von Standardsoftware als betriebswirtschaftlich‐organisatorische Anwendung und kennt die mit dem Einsatz verbundenen Vor‐ und Nachteile.
+                </knowledge>
+                <knowledge>
+                    Kennt den modularisierten Systemaufbau und die Kernfunktionen von betriebswirtschaftlichen Anwendungen und kann diese auf das eigene Unternehmen adaptieren. ERP Enterprise Resource Planning Unternehmensplanung, Controlling Finanz‐ und Rechnungswesen Logistik, Materialwirtschaft und Beschaffung Industrielle Produktionsplanung und ‐steuerung (PPS) Marketing und Vertrieb (CRM) CMS (KISS), DMS Wokflow Management Systems (WFMS)
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterscheidungsmerkmale und den Einsatz von Branchentemplates, die voreingestellten branchenneutralen anwendungsorientierten Systeme und die Branchenlösungen im Zusammenhang mit Standardsoftware (SASW).
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgehensweise, um anhand von funktionalen, prozessualen und ergonomischen Merkmalen der Standardsoftware eine Zuordnung an die Geschäftsprozesse durchzuführen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beurteilt für die einzelnen Workflows und Aktivitäten, inwieweit die zugeordneten Funktionen und Informationen der Standardsoftware und der dazugehörenden Parametrisierungsmöglichkeiten die geforderte Unterstützung gewährleisten.
+            <knowledge-list>
+                <knowledge>
+                    Kann den Umfang der vom Standardsoftware‐Lieferanten gebotenen Customizing‐ Features mit den geforderten Parametrisierungsmöglichkeiten vergleichen und beurteilen (Parameter, Tabellen, Modellierungswerkzeuge, grafische Benutzerreferenzmodelle).
+                </knowledge>
+                <knowledge>
+                    Kennt die Konsequenzen beim Verlassen der Parametrisierungsmöglichkeiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die technischen Möglichkeiten der Datenmigration und kann beurteilen, ob eine maschinelle oder manuelle Datenübernahme sinnvoll ist.
+                </knowledge>
+                <knowledge>
+                    Kennt die Einsatzmöglichkeiten typischer Entwicklungsgeneratoren zur Umsetzung der Softwaremodifikationen (z.B. Rapid‐Development‐Werkzeug (RAD‐Tool)).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Empfiehlt für Workflows und Aktivitäten, die nicht im geforderten Umfang unterstützt werden können, abgestimmt auf die Parametrisierungsstrategie, ob die Anforderung angepasst oder durch eine unternehmensspezifische Softwaremodifikation respektive durch eine organisatorische Anpassungen sichergestellt werden soll.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Auswirkungen von angepassten Anforderungen auf den Geschäftsprozess und die Organisation beurteilen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anpassbarkeit der Standardsoftware hinsichtlich Eingabe‐/Ausgabe‐Steuerung, Datenstruktur, Verarbeitung und Auswertung, bezogen auf die geforderten Anforderungen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vor‐ und Nachteile von möglichen Modifikationen der Standardsoftware oder dem Einsatz von Zusatzprogrammen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Risiken und übliche Massnahmen im Zusammenhang mit Anpassungen im Rahmen zukünftiger Release‐ und Versionenwechsel (Wiederverwendbarkeit) auf die weitere Verwendbarkeit und kann die Wartbarkeit (Wartungs‐ und Supportverträge) beurteilen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Zusammenhänge zwischen den von der Softwaremodifikation betroffenen Umsystemen und Schnittstellen (Anpassbarkeit).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt konzeptionelle Vorschläge für eine allfällig erforderliche, unternehmensspezifische Softwaremodifikation und bewertet diese hinsichtlich Machbarkeit, Aufwand, Komplexität, Risiko, Wiederverwendbarkeit und Wirtschaftlichkeit.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden, um die Auswirkungen von Programmmodifikationen auf die Programmstabilität und Ablaufsicherheit zu beurteilen und geeignete Massnahmen zu beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Vorgehensmodelle und Prinzipien sowie Methoden und Verfahren zur betriebsindividuellen Anpassung der Standardsoftware.
+                </knowledge>
+                <knowledge>
+                    Kennt die technologischen, organisatorischen oder prozessbezogenen Auswirkungen einer Modifikation und entwickelt unter Berücksichtigung dieser Auswirkungen konzeptionelle Vorschläge.
+                </knowledge>
+                <knowledge>
+                    Kennt die kritischen Erfolgsfaktoren (Critical Success Factors CSF) des Customizing und weiss, wie diese in der Ausgestaltung der Softwaremodifikation zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen der Parametrisierung, um die Einsatzfähigkeit und Verfügbarkeit der Standardsoftware sicherstellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Parametrisiert die Standardsoftware bzw. deren Funktionen/Informationen unter Berücksichtigung der Anforderungen an die Unterstützung des Workflows oder der Aktivitäten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen, um die nach Abschluss der Parametrisierung durchgeführte Datenkonversion (Datenübernahme) auf Vollständigkeit und Richtigkeit hin zu überprüfen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Kriterien und Anforderungen an den Datenschutz und die Datensicherheit, um die Einhaltung dieser Richtlinien während der Parametrisierungsphase zu sichern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prüft, ob die parametrisierte Lösung die Anforderungen an die Unterstützung des Workflows oder der Aktivitäten erfüllt und die korrekte Abwicklung sichergestellt ist.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Abnahme‐ und Prüfverfahren sowie die Funktions‐ und Performanceprüfung und deren Anwendung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

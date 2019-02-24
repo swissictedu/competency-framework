@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>121</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=121%26clang=it</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Elaborare funzioni di controllo</title>
+    <capability>Identificare i compiti di controllo partendo da un quaderno dei compiti, analizzarli e svilupparli sotto forma di controlli aperti o di anelli di regolazione.</capability>
+    <goals>
+        <goal>
+            Analizzare il processo da controllare, determinare gli elementi necessari per il controllo e documentare le funzioni di controllo in uno schema di principio.
+            <knowledge-list>
+                <knowledge>
+                    Conosce la struttura dei sensori e degli attuatori più utilizzati così come i loro principi di funzionamento.
+                </knowledge>
+                <knowledge>
+                    Conosce i criteri per la scelta dei sensori e degli attuatori e ne sa valutare l’adeguatezza per un dato utilizzo.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sulla base dello schema di principio, realizzare il sistema sottoforma di circuito o realizzarlo attraverso una simulazione.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i tipi, le strutture e i comportamenti degli anelli di regolazione aperti e chiusi e li sa distinguere.
+                </knowledge>
+                <knowledge>
+                    Conosce i principi fondamentali del controllo di processo e sa spiegare, per mezzo di esempi, come può essere rappresentato un processo.
+                </knowledge>
+                <knowledge>
+                    Può descrivere dei compiti di controllo per mezzo di diagrammi di stato e sa spiegare attraverso degli esempi come utilizzarli per rappresentare delle funzioni di controllo.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Scegliere gli elementi adatti per il controllo, inclusi gli attuatori ed i sensori ed assemblarli in un sistema.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i principali componenti necessari alla realizzazione di controlli semplici e sa mostrare come si possono simulare o realizzare.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire i casi di test secondo le esigenze, testare le funzioni del sistema e correggere gli errori identificati.
+            <knowledge-list>
+                <knowledge>
+                    Conosce il metodo di definizione di casi di test a partire da esigenze predefinite e sa indicare come essi permettono di garantire il buon funzionamento di un controllo.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Aggiornare lo schema sulla base dei risultati dei test e documentare il sistema.
+            <knowledge-list>
+                <knowledge>
+                    Sa redigere una descrizione tecnica di controllo ed un manuale d’uso strutturato ed adattato agli utenti.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

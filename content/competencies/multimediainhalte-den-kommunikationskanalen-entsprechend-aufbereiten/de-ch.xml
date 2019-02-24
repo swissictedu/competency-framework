@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>415</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=415%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Multimediainhalte den Kommunikationskanälen entsprechend aufbereiten</title>
+    <capability>Bereitet Informationsmaterial für das entsprechende Zielmedium auf und publiziert dieses</capability>
+    <goals>
+        <goal>
+            Analysiert die Aufgabenstellung und entscheidet anhand der verfügbaren Ressourcen (Budget, Know-how, Infrastruktur) und den internen und externen Partnern wie die Publikation realisiert wird.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische Eigenschaften und Problemstellungen der verschiedenen Medien wie z.B. Farbverbindlichkeit, mögliche Auflösung, maximaler Datendurchsatz etc.
+                </knowledge>
+                <knowledge>
+                    Kennt das Instrument des Briefings zur Instruktion von Lieferanten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant mit den branchen- und betriebsüblichen Instrumenten eine zielgruppen- und mediengerechte Publikation.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Instrumente (z.B. Sinus Milieus), um das Verhalten, die Bedürfnisse, die Trends und den soziale Rahmen der anzusprechenden Zielgruppen zu ermitteln.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten, um anhand der ermittelten Zielgruppe geeignete Zielmedien und ommunikationskanäle zu definieren.
+                </knowledge>
+                <knowledge>
+                    Kennt in technischer, gestalterischer, kommunikativer und organisatorischer Hinsicht die Stärken, Schwächen und Grenzen des jeweiligen Zielmediums.
+                </knowledge>
+                <knowledge>
+                    Kennt das Kompatibilitätsspektrum der produzierten Mediendaten im Hinblick auf das Zielmedium und der in Frage kommenden Endgeräte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt gemeinsam mit den einbezogenen internen und externen Partnern die Publikationen für die entsprechenden Medienkanäle.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen, um aus den vorhandenen Rohdaten medienneutrale Masterdaten zu erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Faktoren und Arbeitschritte, um aus Masterdaten zielmedienspezifische Exportdaten zu erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt fundiert die Eigenschaften der in Frage kommenden Datenformate (Auflösung, Farbraum, Metadaten).
+                </knowledge>
+                <knowledge>
+                    Kennt fundiert die verschiedenen Kompressionsverfahren.
+                </knowledge>
+                <knowledge>
+                    Kennt Standards, Programme und Systeme um effizient und sicher Daten auszutauschen und zu publizieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Systeme, um in Teams (auch betriebsübergreifend) ein homogenes Resultat zu erzielen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testet (Usability, Funktion und Qualität) die realisierten Publikationen dem Zielmedium entsprechend und optimiert diese bei Bedarf.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten, um Redundanzen zu vermeiden und die produzierte Datenmenge auf die notwendige Grösse zu reduzieren.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Qualitätssicherungsmassnahmen, (Funktion und Nonfunction, Usability, Technik).
+                </knowledge>
+                <knowledge>
+                    Kennt die betriebsinternen Verantwortlichkeiten und den geltenden Freigabe- und Publikationsprozess.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dokumentiert die realisierte Publikation für weitere Produktionen, Anpassungen und die Archivierung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die übliche Dokumentationsform für den Export von Mediendaten und entscheidet, welche Eckdaten von Bedeutung sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten (Zugriffsstatistiken, Zufriedenheit, Rücklaufquoten) für eine nachträgliche Erfolgskontrolle.
+                </knowledge>
+                <knowledge>
+                    Kennt Archivierungssysteme und bereitet die Daten für die Archivierung auf.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

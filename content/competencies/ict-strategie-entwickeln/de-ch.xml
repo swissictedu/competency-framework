@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>601</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=601%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Strategie entwickeln</title>
+    <capability>Entwickelt unter Berücksichtigung der Unternehmensstrategie und der Rahmenbedingungen der eigenen Organisationseinheit die ICT-Strategie und den dazugehörigen Masterplan.deutsch</capability>
+    <goals>
+        <goal>
+            Plant abgestimmt auf die organisatorischen Rahmenbedingungen den Entwicklungsprozess für die ICT-Strategie und wählt die in diesem Entwicklungsprozess einzusetzenden Modelle und Methoden aus.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Charakteristik aktueller Geschäftsmodelle (Value Proposition, Architektur der Wertschöpfung und Ertragsmodell) und kann den Beitrag der ICT (Informationsmanagement) erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensmodelle und ihre Merkmale für die  Strategieentwicklung sowie Faktoren zur Sicherstellung eines  effizienten und effektiven Strategieprozesses (bspw. Strategisches Management nach Prof. Dr. Michael E. Porter oder Prof. Dr. Günter Müller-Stewens).
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden strategischen Ansätze und ihre Bedeutung in Bezug auf Dienstleister im Unternehmen (bspw. Wettbewerbsstrategie nach Porter, Ressourcenorientierte Strategie).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert den IST-Zustand und den Reifegrad der ICT, identifiziert relevante Entwicklungen in der ICT und dokumentiert die Ergebnisse als Grundlage für die Strategieentwicklung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Ziel, Struktur, Lieferobjekte und Vorgehen bei der Erstellung einer SWOT-Analyse (bspw. nach Harvard Business School).
+                </knowledge>
+                <knowledge>
+                    Kennt strategisch relevante Untersuchungsbereiche für die Bestimmung des Ist-Zustand und des Reifegrads der ICT (bspw. Technology Readiness Level).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden, um die Performance der ICT-Dienstleistungen mit Dritten zu vergleichen (Benchmarking von ICT-Kosten per ICT-Funktion und ICT-Kostenarten).
+                </knowledge>
+                <knowledge>
+                    Kennt die Prinzipien des vernetzten Denkens und Handelns (bspw. nach Frederic Vester).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert die Erwartungen der Geschäftsleitung und anderer An-spruchsgruppen der ICT und dokumentiert die Ergebnisse als Grundlage für die Strategieentwicklung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt strategisch relevante Untersuchungsbereiche des Umfelds der ICT für die Erstellung einer effektiven ICT-Strategie (bsp. Wettbewerbsstrategie der Unternehmung, Produktstrategie).
+                </knowledge>
+                <knowledge>
+                    Kennt typische Anspruchsgruppen einer ICT Organisationseinheit und ihre Eigenschaften, welche über ihr Interesse, ihre Macht und damit den Einbezug in die Entwicklung der ICT Strategie bestimmen.
+                </knowledge>
+                <knowledge>
+                    Kennt Ziel, Struktur, Lieferobjekte und Vorgehen bei der Erstellung einer Stakeholder-Analyse.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sorgt für die Abnahme der dokumentierten Ergebnisse durch die Geschäftsleitung und stellt damit eine fundierte und verbindliche  Informationsbasis für den Strategieentwicklungsprozess sicher.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Faktoren und Vorgehensweisen, die für die erfolgreiche Abnahme der Zwischenergebnisse zu beachten sind (bsp. Macht und Interessen der Anspruchsgruppen, Phasen des Veränderungsprozesses nach Kurt Lewin).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwirft die ICT-Strategie auf Basis der gewählten Modelle und Methoden sowie den dokumentierten Grundlagen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufbau und Inhalt einer ICT Strategie (bsp. Erwartungshaltung Management, Auftrag an die ICT, Ziele der ICT mit einem Planungshorizont von 3-5 Jahren, Leistungen der ICT, Organisations-, Steuerungs- und Finanzierungsmodell).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert unter Berücksichtigung der organisatorischen, technischen und finanziellen Rahmenbedingungen den Masterplan für die Umsetzung der ICT-Strategie, welcher eine sachlogische und zeitlich konsistente Umsetzung dieser ICT-Strategie sicherstellt.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Aufgaben und Ziele eines Masterplanes für die Umsetzung der ICT Strategie (Ressourcenallokation, Auslösung von Investitionsvorhaben).
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau und Inhalt eines zeitlich und sachlogisch konsistenten Masterplanes (bspw. Aufgaben, Meilensteine).
+                </knowledge>
+                <knowledge>
+                    Kennt die Faktoren, welche für eine effiziente und effektive Umsetzung des Masterplanes zu berücksichtigen sind (bspw. Veränderungsmanagement, Projektmanagement, Ressourcenmanagement).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sorgt für die Verabschiedung und Inkraftsetzung des Berichtes zur ICT Strategie, der ICT Strategie und des Masterplanes durch die Geschäftsleitung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Faktoren, die für die erfolgreiche Abnahme der ICT Strategie und des Masterplanes verantwortlich sind (bspw. Leadership, Phasen des Veränderungsprozesses nach Kurt Lewin).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

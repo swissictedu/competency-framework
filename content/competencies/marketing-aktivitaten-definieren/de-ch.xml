@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>653</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=653%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Marketing-Aktivitäten definieren</title>
+    <capability>Setzt die Grundlagen des Marketings für die Definition von Marketing-Aktivitäten zur Förderung/Steigerung der Nachfrage und der Akzeptanz der Leistun-gen/Produkte seiner Organisationseinheit ein.</capability>
+    <goals>
+        <goal>
+            Schätzt aufgrund seiner Kenntnisse des Marketings ein, welche Bedeutung das Marketing für die eigene Organisationseinheit hat und kann daraus ableiten, welche Themen aus Marketing-Sicht angegangen werden müssen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Aufgaben und Ziele des Marketings.
+                </knowledge>
+                <knowledge>
+                    Kennt die Objekte des Marketings einer ICT-Organisationseinheit (Produkte und Dienstleistungen).
+                </knowledge>
+                <knowledge>
+                    Kennt die funktionale Einbettung des Marketings in die Führung und Steuerung einer ICT-Organisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt aufgrund einer Stakeholder-Analyse eine Stakeholder-Map für seinen Bereich und definiert pro Stakeholder die nötigen Marketing-Massnahmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Definition interne und externe Stakeholder (auch „Anspruchsgruppen“) aus Sicht des Marketings und deren Bedeutung.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Erstellung einer Stakeholder-Analyse im ICT-Bereich.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Erstellung einer Stakeholder-Map, welche die spezifischen Ansprüche der Stakeholder an ICT-Marketingleistungen aufzeigt.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Ableitung und Definition von Marketing-Massnahmen auf Basis der Stakeholder-Map.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert für die Dienstleistungen und Produkte der eigenen Organisationseinheit den Marketing-Mix unter Berücksichtigung der Zielgruppe, der Produkte-/Leistungseigenschaften sowie weiterer zentraler Informationen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Definition und Inhalt des Marketing-Mix (4Ps: Product, Price, Place, Promotion).
+                </knowledge>
+                <knowledge>
+                    Kennt die Aufgaben und Ziele des Marketing-Mix.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Definition des Marketing-Mix im ICT-Bereich unter Beachtung der Zielgruppe, Produkte-/Leistungseigenschaften und weiterer Informationen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt aufgrund ihm zur Verfügung stehender Markt-Daten eine Markt-Analyse für die eigene Organisationseinheit und leitet daraus Massnahmen bezüglich der Entwicklung, Positionierung und Vermarktung der eigenen Dienstleistungen und Produkte ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Definition und Inhalt einer Markt-Analyse im ICT-Bereich.
+                </knowledge>
+                <knowledge>
+                    Kennt die Aufgaben und Ziele einer Markt-Analyse im ICT-Bereich.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten zur Beschaffung von Informationen zur Erstellung einer Markt-Analyse für ICT-Leistungen.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Erstellung einer Markt-Analyse.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Ableitung und Definition von Massnahmen auf Basis der Markt-Analyse.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt ein Marketing-Kommunikationskonzept, um die Dienstleistungen und Produkte der eigenen Organisationseinheit erkennbar zu machen und sich Akzeptanz in der Unternehmung oder Bekanntheit im Markt zu verschaffen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Definition und Inhalte eines Marketing-Kommunikationskonzepts.
+                </knowledge>
+                <knowledge>
+                    Kennt die Aufgaben und Ziele eines Marketing-Kommunikationskonzepts.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehen zur Erstellung eines Marketing-Kommunikationskonzepts für eine ICT-Organisationseinheit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

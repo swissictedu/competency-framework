@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>166</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=166%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Grundschutz sicherstellen</title>
+    <capability>Stellt in ICT-Infrastrukturen die Gefährdungslage fest und definiert geeignete organisatorische, personelle, infrastrukturelle und technische Schutzmassnahmen, um diese zu minimieren.</capability>
+    <goals>
+        <goal>
+            Zerlegt ICT-Infrastrukturen in kohärente Teilbereiche und dokumentiert die darin enthaltenen Objekte und deren Abhängigkeiten untereinander adressatengerecht.
+            <knowledge-list>
+                <knowledge>
+                    Ist in der Lage zu erläutern, in welche einzelnen kohärenten Teilbereiche eine vorgegebene ICT-Infrastruktur zu zerlegen ist, wie z.B. Hardware, Software, (aktive/passive) Netzwerkkomponenten, respektive Applikationen und Daten.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten die Objekte einer ICT-Infrastruktur sowie ihre Abhängigkeiten zu erheben und zu analysieren (z.B. mittels einer IT-Strukturanalyse gemäss BSI)und kann erläutern, wie diese zu einer vollständigen und differenzierten Grundlage für die Festlegung des Schutzbedarfs beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten die ICT-Infrastruktur oder Teilbereiche daraus aussagekräftig zu dokumentieren und bei Bedarf den Sachverhalt grafisch darzustellen, beispielsweise durch Verkabelungspläne, Hard- oder Software-Inventarlisten, Netzwerkdiagramme, etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bestimmt mittels einer Risikoanalyse den Schutzbedarf der Objekte hinsichtlich Vertraulichkeit, Verfügbarkeit sowie Integrität, und hält die Ergebnisse in einer Schutzbedarfstabelle fest.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie der Schutzbedarf von Objekten innerhalb einer ICT-Infrastruktur methodisch zu bestimmen ist wie z.B. mittels einer Schutzbedarfsfeststellung gemäss BSI
+                </knowledge>
+                <knowledge>
+                    Kennt den methodischen Ansatz einer zielgerichteten Risikoanalyse im Hinblick auf die ICT-gestützten Geschäftsprozesse wie z.B. anhand der Risikoanalyse auf Basis von IT-Grundschutz (BSI-Standard 100-3)
+                </knowledge>
+                <knowledge>
+                    Kennt betriebliche und gesetzliche Vorschriften hinsichtlich von Datensicherheit und Datenschutz in ICT-gestützten Geschäftsprozessen und kann deren Einfluss auf die Speicherung und Verarbeitung von Informationen darlegen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten die Ergebnisse einer Schutzbedarfsanalyse in geeigneter Form zu dokumentieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert abgestimmt auf die Schutzbedarfstabelle organisatorische, personelle, infrastrukturelle und technische Schutzmassnahmen für die Objekte und schlägt diese den verantwortlichen Stellen zur Umsetzung vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die gängigsten Bedrohungen welche den Grundschutz von ICT-Infrastrukturen gefährden wie Defekte, Fehler/Irrtümer, Höhere Gewalt, organisatorische Mängel und vorsätzliche Handlungen und kann deren Einfluss auf den ICT-Grundschutz im Unternehmen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigsten Schutzmassnahmen zur Sicherstellung des IT-Grundschutzes wie z.B. Firewalls, AV-Scanner, Security-Patches, etc. und kann deren Beitrag zur ICT-Sicherheit auf Stufe Grundschutz erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten um Lösungsvorschläge/-varianten für übergeordnete Stellen aussagekräftig aufzubereiten und weiss eine solche Aufbereitung eine rasche Freigabe der empfohlenen Sicherheitsmassnahmen unterstützen können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant und implementiert die definierten Schutzmassnahmen und testet deren ordnungsgemässe Funktion und Wirksamkeit.
+            <knowledge-list>
+                <knowledge>
+                    Ist in der Lage Schutzmassnahmen in bestehenden ICT-Infrastrukturen und ICT-gestützten Geschäftsprozessen zu erläutern um speditiv und ohne Störung der normalen Geschäftstätigkeit deren Implementierung zu unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kann darlegen welche Kriterien jeweils überprüft werden müssen, damit die ord-nungsgemässe Funktion und Wirksamkeit einer Schutzmassnahme sichergestellt werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Hilfsmittel zur gezielten Überprüfung der ordnungsgemässen Funktion und Wirksamkeit einer Schutzmassnahme und kann deren Nutzen für den ICT-Grundschutz erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft periodisch die Wirksamkeit und Konsistenz der vorhandenen Schutzmassnahmen, begründet Abweichungen und leitet bei Bedarf Korrekturmassnahmen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Voraussetzungen welche notwendig sind um die periodische Überprüfung bestehender Sicherheitsmassnahmen sicherzustellen wie z.B. Verantwortlichkeiten, Weisungen, etc.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgehensweise und gängige Hilfsmittel wie die periodische Überprüfung bestehender Schutzmassnahmen systematisch und effizient durchgeführt werden kann wie z.B. mit Hilfe von Port-Scannern, Security-Scannern, SystemLog-Browsern, Einsatz von Ethical Hacking, Analyse von IT-Troubletickets etc.
+                </knowledge>
+                <knowledge>
+                    Erkennt aus den Resultaten einer Überprüfung der ICT-Sicherheitsinfrastruktur den Handlungsbedarf und kann die Notwendigkeit einer Anpassung zu erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Passt ein bestehendes IT-Sicherheitskonzept aufgrund von veränderten Rahmenbedingungen und sicherheitsrelevanter Ereignisse an, überprüft dieses auf Konsistenz und Vollständigkeit und realisiert diese Anpassungen.
+            <knowledge-list>
+                <knowledge>
+                    Erkennt aufgrund vorgenommener Anpassungen an der ICTSicherheitsinfrastruktur ob weiterer Handlungsbedarf besteht und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Weiss, wie vorgenommene Änderungen innerhalb der ICT-Sicherheitsinfrastruktur im vorhandenen ICT-Sicherheitskonzept nachzutragen sind, unter Berücksichtigung der Vollständigkeit und Konsistenz des bestehenden Dokuments.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

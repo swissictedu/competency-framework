@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>156</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=156%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer de nouveaux services, planifier leur introduction.</title>
+    <capability>Déduire les nouveaux services sur demande des clients, évaluer les produits et ressources, développer et planifier le service demandé et planifier l’introduction.</capability>
+    <goals>
+        <goal>
+            Rechercher les informations utiles, selon la demande du client, sur la  prestation demandée, évaluer les produits et ressources nécessaires, élaborer le concept de solutions techniques pour la réalisation de la prestation recherchée. Déterminer les besoins quantitatifs et qualitatifs, estimer les coûts d’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques des prestations d’une unité de services qui sont importantes pour la collaboration entre les fournisseurs et destinataires des prestations.
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages pour l’économie d’entreprise d’une spécification différenciée d’un service.
+                </knowledge>
+                <knowledge>
+                    Connaître un déroulement ayant fait ses preuves pour la définition des services.
+                </knowledge>
+                <knowledge>
+                    Connaître des aspects techniques, organisationnels et juridiques qui contribuent à la spécification de prestations entre fournisseurs et destinataires.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Présenter le concept devant les instances compétentes et aboutir à la décision pour la réalisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure et le contenu d’une présentation professionnelle.
+                </knowledge>
+                <knowledge>
+                    Connaître la structure et le contenu des documents nécessaires à un groupe de travail afin de leur permettre une décision.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer des objectifs de prestations et économiques pour la gestion des niveaux des services, en collaboration avec des spécialistes. Observer à cet effet, les exigences de sécurité, les risques et la procédure en cas de pannes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les règles qui doivent être observées pour une collaboration réussie  avec des spécialistes d’un autre domaine professionnel.
+                </knowledge>
+                <knowledge>
+                    Connaître les risques spécifiques et leurs caractéristiques, qui résident côté fournisseurs et destinataires, lors de la remise de la prestation
+                </knowledge>
+                <knowledge>
+                    Connaître une méthode pour représenter la procédure lors d’un cas de pannes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Proposer des critères de mesures pour la surveillance et la compensation des services.
+            <knowledge-list>
+                <knowledge>
+                    Connaître un processus de surveillance pour évaluer les prestations du service.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères pour la surveillance des coûts des prestations de service.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer et documenter le service, mettre en place l’environnement de test et planifier l’introduction.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des formes de documentation pour la description d’un service/d’une prestation.
+                </knowledge>
+                <knowledge>
+                    Connaître des procédés de contrôle et d´essai du caractère fonctionnel, de l´intégrité et de la rentabilité des services.
+                </knowledge>
+                <knowledge>
+                    Connaître les aspects qui doivent être pris en considération lors de la passation d’un nouveau service vers l’exploitation opérationnelle.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

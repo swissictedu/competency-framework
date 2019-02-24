@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>186</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=186%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Prendre en charge l’exploitation d’applications</title>
+    <capability>Planifier et élaborer les mesures techniques et organisationnelles pour l’introduction de logiciels ou de versions (ressources, migration, interfaces, intégration, mise en exploitation effective).</capability>
+    <goals>
+        <goal>
+            Analyser les spécifications organisationnelles et techniques du logiciel à installer, de l’environnement cible d’exploitation et de l’environnement des utilisateurs, puis élaborer une planification de l’installation (résultats, échéances, responsabilités, charges, ressources).
+            <knowledge-list>
+                <knowledge>
+                    Connaît les spécifications organisationnelles et techniques d’un logiciel déterminantes pour la planification de son introduction et peut présenter la manière dont celles-ci doivent être prises en compte lors de la prise en charge dans un environnement d’exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et générer les données de tests, préparer la migration des données, la migration des clients et les tests de réception, puis fixer une fenêtre temporelle pour les tests d’installation et la mise en exploitation effective.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la procédure de génération de données de test et peut expliquer à quels types de tests ou objets de contrôle elle est applicable.
+                </knowledge>
+                <knowledge>
+                    Connaît les principaux aspects qui doivent être pris en compte lors de la migration vers un nouveau logiciel ou vers une nouvelle version et peut présenter les conséquences négatives qu’ils permettent d’éviter.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier, préparer et superviser les mesures de formation.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les critères de détermination du besoin de formation essentiels dans le cadre d’une migration vers un nouveau logiciel ou vers une nouvelle version.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer le logiciel sur un système de réception, préparer l’environnement de tests puis exécuter les tests de réception et établir le procès-verbal de réception.
+            <knowledge-list>
+                <knowledge>
+                    Peut expliquer pourquoi les tests et réceptions de logiciels devraient dans l’idéal être effectués dans un environnement de test.
+                </knowledge>
+                <knowledge>
+                    Connaît la structure et le contenu d’un procès-verbal de test et peut expliquer son importance pour l’assurance qualité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier et réaliser les points de contrôle et les mesures de sécurisation et de protection des données selon les directives.
+            <knowledge-list>
+                <knowledge>
+                    Connaît l’importance des points de contrôle, des mesures de sécurisation et de protection des données lors de la mise en exploitation de nouveaux logiciels et peut expliquer leur rôle pour la sécurité de l’entreprise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Préparer et documenter les procédures de retour à l’état précédent en cas d’erreurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les conditions préalables à respecter lors d’une migration de logiciel pour le retour à l’état précédent en cas d’erreur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Compléter les documentations d’exploitation et de maintenance.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les types de documentation importants pour la maintenance et l’exploitation de logiciels et peut montrer à l’aide d’exemples comment les utiliser en cas d’erreur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organiser, exécuter et superviser les migrations selon la planification de l’installation et de la réception. Mettre le logiciel en exploitation effective et établir le procès-verbal de transfert.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les méthodes de réception et de mise en exploitation des logiciels.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

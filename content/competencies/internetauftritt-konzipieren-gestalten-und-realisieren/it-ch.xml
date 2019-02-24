@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>171</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=171%26clang=it</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Concevoir, réaliser et implanter des sites WEB</title>
+    <capability>Progettare un sito Internet, integrare elementi decorativi e aspetti di Corporate Identity in base alle esigenze della clientela, strutturare la navigazione e la presentazione dal punto di vista della “Use ability”, integrare le funzionalità richieste e realizzare la pubblicazione in Internet.</capability>
+    <goals>
+        <goal>
+            Analizzare i desideri della clientela per un sito Internet, accertarne le preferenze in merito agli elementi decorativi e scegliere gli elementi di Corporate Identity adatti per il sito Internet.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Erhebungstechniken für die Informationsbeschaffung und kann aufzeigen, für welche Art von Erhebungen sich diese eignen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung eines Corporate Identity (Logo, Schrift, Farben, Darstellung) für eine Unternehmung und kann Verwendungsmöglichkeiten und die damit verbundene Wirkung bei einem Internet-Auftritt aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kann die häufigsten Fehler bei der Gestaltung von Internetseiten anhand von Beispielen aufzeigen und die Wirkung, welche damit bei den Besuchern dieser Seite erzielt resp. nicht erzielt wird, erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analizzare e documentare le funzionalità richieste, l’ambiente tecnico e le piattaforme della clientela.
+            <knowledge-list>
+                <knowledge>
+                    Kennt gängige Software für den Betrieb eines Internetauftrittes und kann deren typische Einsatzbereiche und Plattformen nennen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Merkmale einer vollständigen Zielformulierung und kann aufzeigen, was diese zu einer verbindlichen Zielsetzung beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dedurre i requisiti di sicurezza e le informazioni da proteggere e stabilire provvedimenti adeguati per la realizzazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt gängige betriebliche Sicherheitsvorkehren und kann am Beispiel eines Internetauftrittes zeigen, welche Auswirkungen die Nichteinhaltung haben könnten.
+                </knowledge>
+                <knowledge>
+                    Kann Beispiele für schutzwürdige Informationen in einem Internetauftritt nennen und an diesen erläutern, was geschehen könnte, wenn die Informationen nicht geschützt sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analizzare e strutturare i contenuti per il sito progettato e, in base a ciò, sviluppare la mappa del sito.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Prinzipien, welche bei der Strukturierung und Gruppierung von Inhalten auf Websites beachtete werden müssen und kann aufzeigen, welche Wirkung damit beim Besucher erzielt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Realizzare prototipi con le varianti richieste, inclusa la navigazione e la progettazione delle schermate, nel rispetto della “Use ability”.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundprinzipien, die beim Aufbau einer Navigation beachtet werden müssen, und kann erläutern welche Wirkung, damit beim Besucher hinsichtlich Benutzerfreundlichkeit erzielt werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt Struktur- und Navigationsprinzipien bei Internetauftritten und kann darlegen, welchen Einfluss diese auf die Use Ability haben.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensweisen zur Entwicklung von Lösungsvarianten und kann erläutern, unter welchen Rahmenbedingungen diese zu einer breit abgestützten Überprüfung der Präsentationsmöglichkeiten im Internet beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Preparare il concetto del sito Internet nella sua forma definitiva, presentarlo al cliente e condurre alla decisione per la realizzazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von Kriterien, die für die Ausarbeitung eines Angebotes zu berücksichtigen sind und kann aufzeigen, welche Bedeutung diese bei der Kostenermittlung für die Realisierung eines Internetauftritts haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire i criteri di test, migrazione, accettazione e introduzione; documentarli e realizzare il sito Internet in base al concetto. Preparare la documentazione per la parte operativa e per la manutenzione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische Aspekte, die bei einer Migration und Integration einer Lösung zu berücksichti9gen sind und kann darlegen, welche Bedeutung diese Aspekte bei der Implementierung eines Internetauftritts haben.
+                </knowledge>
+                <knowledge>
+                    Kennt wichtige Elemente der Betriebs- und Wartungsdokumentation und kann ihre Bedeutung für einen gesicherten Betrieb erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Testverfahren, die sich für eine übergreifende Prüfung einer Web-Applikation mit Datenbank eignen und kann die Testschritte an Beispielen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Aspekte, die bei einer Migration und Integration einer Lösung zu berücksichtigen sind und kann darlegen, welche Bedeutung diese Aspekte bei der Implementierung eines Internetauftritts haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verificare le compatibilità con i browser e le applicazioni nella parte client, in base alle direttive del test.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische Kriterien, die beim Testen einer Client-seitigen Applikation speziell zu berücksichtigen sind, und kann darlegen, welche Probleme beim Betrieb einer Internetauftritts damit verhindert werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Pubblicare (upload ftp) il sito Internet su un server di test con gli appositi diritti d’accesso, verificarne le funzionalità in base al concetto di test ed eventualmente eseguire le correzioni necessarie.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Spezifikationen, welche dem Aufbau einer Testumgebung dienen und kann darlegen, welchen Beitrag eine Testumgebung für die Betriebssicherheit eines neuen Systems beiträgt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire criteri appropriati per motori di ricerca e per directory ed effettuare le iscrizioni necessarie.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien, welche bei der Definition von Informationen bzw. Schlüsselwörtern für Suchmaschinen und Directorys beachtet werden müssen und kann aufzeigen, wie damit die Verbreitung einer Website unterstützt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Avviare e controllare migrazione, accettazione e consegna nell’ambiente operativo.</goal>
+    </goals>
+</competency>

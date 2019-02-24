@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>423</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=423%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>CI/CD für erweiterte Anwendungsgebiete umsetzen</title>
+    <capability>Versteht ein Corporate Identity (CI) und leitet nicht definierte Elemente des Corporate Design (CD) entsprechend ab und ergänzt dieses für unterschiedliche Kommunikationskanäle.</capability>
+    <goals>
+        <goal>
+            Interpretiert die CI und analysiert und versteht die Positionierung, die Zielgruppen, die Konkurrenzabgrenzung, die Identität und die Firmenkultur.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Eckpunkte eines Firmenleitbilds.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden, um die essentielle Botschaft eines Firmenleitbilds und der Corporate Identity zu extrahieren.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen und den Entstehungsprozess des Brandings und der Identity.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Versteht die kreative Leitidee und das Kommunikationskonzept des bestehenden CD und wendet diese auf die gestellte Aufgabe an.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden wie Wertedestillation, Wertecluster, Moodboard etc., um die Positionierung und den Firmencharakter bzw. die zu vermittelnde Firmenkultur verständlich darzustellen und zu transportieren.
+                </knowledge>
+                <knowledge>
+                    Kennt die inhaltlichen Eckpunkte eines Kommunikationskonzepts.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Distributionsvarianten der neuen Informationsträger (Botschaftsträger).
+                </knowledge>
+                <knowledge>
+                    Kennt die Chancen und die Grenzen bzw. die Schwachstellen des viralen Marketings und der sozialen Medien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erarbeitet einen Entwurf für weitere Anwendungsmöglichkeiten des CD (unter Berücksichtigung des homogenen Gesamterscheinungsbilds).
+            <knowledge-list>
+                <knowledge>
+                    Kennt Erhebungstechniken, um die Mediennutzung der Zielgruppe zu ermitteln, und kann daraus die notwendigen Schlüsse ziehen.
+                </knowledge>
+                <knowledge>
+                    Kennt Visualisierungs‐ und Inszenierungsmöglichkeiten der erweiterten Anwendungsgebiete, um diese in Szene zu setzen.
+                </knowledge>
+                <knowledge>
+                    Kennt Argumentationstechniken für die fachgerechte Begründung der neuen Produkte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Stellt die Qualitätssicherung, das heisst die Kontrolle und Bewertung, sicher und führt gegebenenfalls Intervention und Korrekturen durch.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Testmethoden, um die emotionale Wirkung und den Grad des Wiedererkennungseffekts von neu gestalteten Komponenten zu ermitteln.
+                </knowledge>
+                <knowledge>
+                    Kennt die Hilfsmittel (z.B. Statistiktools), um nachträglich den Erfolg bzw. die Rücklaufquote zu messen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Kompetenzrahmen für eine eigene Intervention und die Anlaufstelle bei einer allfälligen Eskalation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dokumentiert die erweiterten Anwendungsgebiete und ergänzt gegebenenfalls das CD‐Handbuch.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die notwendigen Komponenten und den logische Aufbau eines CI/CD‐Handbuchs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

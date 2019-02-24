@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>215</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=215%26clang=it</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettre en œuvre une stratégie informatique</title>
+    <capability>Dalla missione dell’azienda e dalle strategie IT dedurre i fabbisogni e le condizioni quadro; trasferirle in una direttiva concettuale concreta per un’unità organizzativa IT. Elaborare delle varianti di realizzazione pronte per la decisione, presentarle e consegnare la variante scelta ai responsabili per la realizzazione.</capability>
+    <goals>
+        <goal>
+            Verificare chiarezza, rilevanza e realizzabilità della strategia IT, considerando inoltre le prestazioni di servizi e gli aspetti organizzativi delle unità organizzative interessate.Chiarire i punti oscuri con i responsabili della strategia IT e avviare gli adattamenti necessari.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Zielsetzungen und Inhalte einer Informatikstrategie.
+                </knowledge>
+                <knowledge>
+                    Kann das Grundschema einer Vorgehensweise für die strategieorientierte Informatikplanung darstellen und für die einzelnen Schritte den Beitrag zu Informatik-Dienstleistungen, die auf die Zielsetzungen der Unternehmung abgestimmt sind, aufzeigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identificare i settori (hardware, applicazioni, project management, ecc.) all’interno di un’unità organizzativa, per la quale, dal punto di vista strategico (missione dell’azienda, strategia IT, ecc.), vi è necessità d’intervento. Sviluppare l’impostazione concettuale della soluzione per i settori coinvolti di quest’unità organizzativa.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Aufgabengebiete einer IT Organisationseinheit und kann deren Beitrag zu den Zielsetzungen beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kann bei bekannten Analyse- und Designtechniken darlegen, mit welchen Methoden diese angewendet werden und wie sie ein Lösungskonzept darstellen können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Individuare provvedimenti per l’applicazione dell’impostazione concettuale della soluzione e sviluppare varianti di realizzazione (progetti IT o incarichi potenziali), che includano una pianificazione di massima.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Kreativitätstechniken und kann aufzeigen welchen Beitrag diese zur Bestimmung von Lösungsvarianten leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Valutare in modo adeguato le varianti di realizzazione, in base ai mezzi finanziari e alle risorse umane dell’unità organizzativa corrispondente, e controllarle con la strategia IT rielaborata. Elaborare, in forma di rapporto, una raccomandazione per il responsabile della decisione.
+            <knowledge-list>
+                <knowledge>
+                    Kann Techniken der Bewertung von Lösungskonzept-Alternativen nennen und kann deren Beitrag zu einer klaren Entscheidungsfindung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die inhaltlichen Bereiche eines Berichts zu einem Lösungsvorschlag für ein bestimmtes Vorhaben oder ein Problem und kann aufzeigen, welchen Beitrag diese zu einer plausiblen und nachvollziehbaren Empfehlung leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Presentare le varianti di realizzazione documentate con la raccomandazione al responsabile della decisione e condurre ad una decisione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Gliederung einer aussagekräftigen Präsentation und kann beschreiben, welchem Zweck diese bei der Darlegung eines Vorschlags vor einem Entscheidungsgremium dient.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Informare in modo aperto e condivisibile i collaborati e le funzioni responsabili dell’unità organizzativa sulle decisioni e sui loro effetti. Consegnare il progetto e/o il mandato scelto alle funzioni responsabili per l’applicazione.
+            <knowledge-list>
+                <knowledge>
+                    Kann Kommunikationsregeln aufzeigen, welche sich bei der Präsentation von Entscheidungen an Betroffene eignen und darlegen, wie diese zur Akzeptanz beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt Inhalt und Struktur eines Projektauftrags und kann aufzeigen, was diese zu einem klaren Auftrag beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

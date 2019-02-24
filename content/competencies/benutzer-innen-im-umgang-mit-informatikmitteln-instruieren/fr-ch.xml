@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>214</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=214%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Instruire les utilisateurs sur le comportement avec des moyens informatiques.</title>
+    <capability>Instruire et soutenir les utilisateurs dans le comportement avec des moyens informatiques.</capability>
+    <goals>
+        <goal>
+            Elaborer un document ou checklist de prise en main comprenant les règles, remarques et prescriptions dans un environnement informatique (accès au système, utilisation du système, sécurité, protection des données, etc.)
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différences de principe entre la mise au courant des utilisateurs et l´assistance aux utilisateurs en cas de problème.
+                </knowledge>
+                <knowledge>
+                    Connaître le comportement avec des moyens informatiques sur la place de travail (par ex. accès au système, utilisation du système et des programmes, la sécurité, la protection des données).
+                </knowledge>
+                <knowledge>
+                    Connaître les structures qui servent à l’orientation dans un mode d’emploi utilisateurs (par ex. organisation thématique, table des matières, FAQ).
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes qui permettent aux utilisateurs un apprentissage autodidacte du comportement avec des moyens informatiques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Améliorer la qualité du document de prise en main (clarté, compréhension, reproductibilité, etc.) au travers d’une réflexion personnelle et en collectant les retours.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des techniques d´interrogation (questions ouvertes, questions fermées) et quels types de réactions (évaluation générale de la qualité, indication d´améliorations potentielles) permettent d´obtenir ou comment on peut les utiliser dans un processus d´amélioration.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Expliquer aux utilisateurs les règles et remarques sur l’utilisation des moyens informatiques et les mettre en application par étapes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales règles à respecter lors de la mise au courant d´utilisateurs (par ex. rythme d´élocution, contact visuel, visualisation des éléments importants, définition des termes techniques, phrases simples, progression, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Expliquer aux utilisateurs les prescriptions et normes de sécurité dans le cadre d’un comportement responsable avec les informations dans un environnement de moyens informatiques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux domaines de la sécurité de l´information (protection des données) et de comportements répandus chez les utilisateurs (ouverture de pièces jointes de courriers reçus d´expéditeurs inconnus, divulgation de mots de passe, téléchargement de données de sources inconnues dans Internet, etc.) et des dangers les plus fréquents (virus, piratage).
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour motiver les utilisateurs à adopter un comportement adéquat en matière de sécurité (par ex. démonstration progressive des conséquences d´erreurs de comportement individuel, conséquences personnelles et pour l´entreprise).
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance de la fonction par l’exemple dans ce domaine.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier par des mesures appropriées le succès d’une instruction et collecter les préoccupations.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement permettant de contrôler les utilisateurs dans l´exercice de leurs activités (les inviter à reproduire eux-mêmes un autre exemple, les inviter à répéter une action, se faire expliquer les étapes, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

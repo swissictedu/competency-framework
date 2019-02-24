@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>181</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=181%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Elaborer des stratégies d’archivage, de sauvegarde et de restauration</title>
+    <capability>Elaborer et mettre en oeuvre des stratégies d’archivage, de sauvegarde et de restauration pour les applications et les bases de données compte tenu des exigences légales, économiques et opérationnelles.</capability>
+    <goals>
+        <goal>
+            Classer, en collaboration avec les propriétaires des informations, les applications et les données inventoriées en fonction de leurs exigences de conservation des données. Documenter les résultats.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères de classement des applications et ensembles de données selon leur disponibilité, leur degré de sécurité et leur conservation (concept de conservation des données). Pouvoir expliquer comment ils garantissent un accord contraignant en ce qui concerne l’archivage, la sauvegarde et la restauration.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères de classement d’applications et d’ensembles de données par volume, périodicité et sécurité d’accès et pouvoir expliquer quels genres d’exigences internes ils satisfont.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Procéder à une analyse de risques de la conservation actuelle des données classées et en déduire des mesures à réaliser dans le cadre d’une stratégie d’archivage, de sauvegarde et de restauration.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les risques concernant la sécurité et l’exhaustivité de l’archivage de données et pouvoir en indiquer les origines.
+                </knowledge>
+                <knowledge>
+                    Connaître les risques inhérents à une perte de données, p. ex. sur la base d´une analyse de risque DLP (data loss prevention).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les solutions de sauvegarde et d’archivage sous l’angle de la satisfaction des exigences et de la maîtrise des risques. En déduire une recommandation à l’intention du mandant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître différentes méthodes d’archivage et de sauvegarde et pouvoir indiquer quelles exigences de l’entreprise elles satisfont.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes selon lesquels un hierarchical storage management conserve et organise les données dans un système de stockage et d’archivage. Pouvoir expliquer quels en sont les avantages en ce qui concerne l’économicité du stockage de données et la disponibilité de celles‐ci.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer sur la base de la solution retenue par le mandant une stratégie concrète d’archivage, de sauvegarde et de restauration d’applications et de bases de données. La faire valider par le mandant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères conceptuels qui définissent une stratégie de sécurité et d’archivage (périodicité, type de sauvegarde, disponibilité, stockage des sauvegardes, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques courantes de sauvegarde et pouvoir expliquer à quels domaines elles sont applicables ou quelles exigences elles satisfont.
+                </knowledge>
+                <knowledge>
+                    Pouvoir indiquer comment les technologies de sauvegarde de données et l’importance relative des critères conceptuels qui définissent une stratégie de sauvegarde et d’archivage influencent l’efficacité énergétique et l’utilisation durable des ressources.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences en matière de restauration de données et d’applications et pouvoir expliquer de quels critères conceptuels il faut tenir compte dans une stratégie de restauration pour satisfaire ces exigences.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les tâches, responsabilités et compétences des acteurs concernés afin de garantir une mise en oeuvre optimale du point de vue organisationnel de la stratégie d’archivage, de sauvegarde et de restauration définie.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les conditions organisationnelles nécessaires à l’implémentation de processus de sauvegarde et d’archivage fiables. Pouvoir nommer sur cette base les rôles et compétences nécessaires dans la stratégie de sauvegarde et d’archivage retenue.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et automatiser les procédures d’archivage, de sauvegarde et de restauration d’ensembles de données, procéder à des tests de vérification du déroulement de ces procédures et les implémenter.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions des solutions d’archivage, de sauvegarde et de restauration d’informations et pouvoir expliquer comment elles assistent l’automatisation des procédures correspondantes.
+                </knowledge>
+                <knowledge>
+                    Pouvoir indiquer les configurations possibles des fonctions des solutions d’archivage, de sauvegarde et de restauration d’informations et pouvoir expliquer comment elles assistent les procédures correspondantes.
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures de test spécialement adaptées aux procédures de pilotage dans le cadre de l’exploitation de systèmes TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir un concept d’élimination adéquate sur la base des consignes concernant le cycle de vie du système de sauvegarde et d’archivage et de ses supports.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les dispositions légales à appliquer pour l’élimination de systèmes de sauvegarde, d’archivage et de leurs supports, pouvoir indiquer quels sont les objectifs de protection des données et environnementaux poursuivis par le législateur.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences de sécurité des données à prendre en compte lors de l’élimination de supports de données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir des points de contrôle et des tests réguliers des processus d’archivage et de sauvegarde ainsi qu’un plan de secours correspondant. Les intégrer dans la documentation d’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les procédés de test et les contrôles permettant de garantir le bon fonctionnement de la sauvegarde et de l’archivage ainsi que des processus du plan de secours allant de pair.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doivent satisfaire les procès‐verbaux garantissant la réussite des tests de sécurité, d’archivage et de restauration.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

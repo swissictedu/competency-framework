@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>287</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=287%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Creare siti web in CSS</title>
+    <capability>Creare un sito web in cascading style sheet (CSS) secondo le direttive e testare il prodotto finale.</capability>
+    <goals>
+        <goal>
+            Scrivere un codice sintatticamente e semanticamente corretto in cascading style sheet (CSS).
+            <knowledge-list>
+                <knowledge>
+                    Conoscere il proprio ambiente di sviluppo e i propri strumenti (tool) al fine di creare siti web efficienti e correggere eventuali errori di codifica
+                </knowledge>
+                <knowledge>
+                    Conoscere la struttura (sintassi) e il significato (semantica) del cascading style sheet (CSS) e la relativa integrazione nelle pagine HTML.
+                </knowledge>
+                <knowledge>
+                    Distinguere diversi tipi di selettori CSS (ad es. di tipo, classe, ID, attributo e valore).
+                </knowledge>
+                <knowledge>
+                    Conoscere diversi tipi di scrittura e rappresentazione dei codici CSS (ad es. i coding standard) e saperli commentare
+                </knowledge>
+                <knowledge>
+                    Conoscere i CSS validator per verificare il codice CSS.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Creare un sito web responsivo e di facile uso in CSS.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere vantaggi e svantaggi delle interfacce web di facile uso.
+                </knowledge>
+                <knowledge>
+                    Conoscere i metodi principali per creare interfacce web di facile uso (ad es. layout a una o più colonne, griglia di design e box).
+                </knowledge>
+                <knowledge>
+                    Conoscere le tecniche di base per creare interfacce di navigazione e maschere di facile uso.
+                </knowledge>
+                <knowledge>
+                    Conoscere le strategie (mobile first e desktop first) per la creazione di siti web responsivi.
+                </knowledge>
+                <knowledge>
+                    Conoscere gli strumenti (tool) necessari a verificare la responsività (responsiveness) dei siti web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Impiegare librerie CSS (framework CSS).
+            <knowledge-list>
+                <knowledge>
+                    Conoscere le attuali librerie CSS e i loro vantaggi e svantaggi principali.
+                </knowledge>
+                <knowledge>
+                    Conoscere diverse tecniche per integrare le librerie CSS (ad es. localmente, tramite CDN o link http).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Integrare elementi multimediali (immagini, registrazioni audio e video, e semplici animazioni) in una pagina web.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere diverse rappresentazioni dei vari elementi multimediali (immagini, registrazioni audio e video, e semplici animazioni).
+                </knowledge>
+                <knowledge>
+                    Conoscere strategie e tecniche per creare diversi elementi multimediali.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Controllare il prodotto finale per quanto concerne il rispetto delle direttive e apportare le modifiche necessarie.
+            <knowledge-list>
+                <knowledge>
+                    Conoscere diversi modi di procedere ai fini della verifica (ad es. test di funzionamento o test di accettazione) ed essere in grado di spiegarne l'attuazione, finalizzata al conseguimento degli obiettivi prefissati
+                </knowledge>
+                <knowledge>
+                    Conoscere i criteri di verifica necessari a garantire il corretto funzionamento del sito web su diversi terminali e browser
+                </knowledge>
+                <knowledge>
+                    Conoscere diverse fonti da cui attingere informazioni sulle funzioni CSS supportate dai browser (ad es. caniuse.com).
+                </knowledge>
+                <knowledge>
+                    Conoscere semplici tecniche di rilevazione del browser (browser sniffing) per ottimizzare la compatibilità dei browser.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

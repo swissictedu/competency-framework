@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>318</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=318%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Analyser et programmer orienté objet avec des composants.</title>
+    <capability>Analyser une tâche puis l´implémenter, documenter et tester avec un environnement de développement comprenant un GUI-Designer.</capability>
+    <goals>
+        <goal>
+            Analyser la donnée du problème, développer l´interface utilisateur et représenter le déroulement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une méthode pour l´analyse d´une donnée d´un problème (par ex. Use Case) et pouvoir appliquer celle-ci sur des tâches simples.
+                </knowledge>
+                <knowledge>
+                    Connaître une méthode pour représenter le déroulement d´un programme (par ex. structogramme, diagramme d’activités) et pouvoir représenter avec celle-ci des faits simples.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments structurels d´itération, de sélection et pouvoir préciser leurs mises en application correctes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organiser et réaliser l´interface graphique utilisateur avec le GUI-Designer.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les règles générales de l´ergonomie TEV (par ex. DIN EN ISO 9241110) et pouvoir préciser comment celles-ci s´appliquent pour l´organisation d´une interface graphique utilisateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux composants d´une interface graphique et pouvoir les mettre en application correctement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter le projet de programme avec un environnement de programmation basé sur des composants et avec la mise en œuvre d´éléments de la structure du déroulement, de propres procédures et fonctions.
+            <knowledge-list>
+                <knowledge>
+                    Connaître un environnement de programmation basé composants (par ex. .NET, Java/Swing) et leurs domaines typiques de mise en œuvre.
+                </knowledge>
+                <knowledge>
+                    Connaître les différentes possibilités de la sélection (simple/multiple) ainsi que de l´itération (au début/à la fin) et pouvoir les mettre en œuvre avec un langage de programmation.
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures et des foncti6ons, pouvoir expliquer leur structure (y compris la liste des paramètres) et leur mise en application.
+                </knowledge>
+                <knowledge>
+                    Connaître le mécanisme du traitement événementiel d’un système basé objets et pouvoir exploiter des événements  dans des routines de traitement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Lors de la programmation, respecter les conventions de codes, commenter le code programme en veillant à la maintenance et la reproductibilité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la signification des commentaires de procédures et fonctions, ainsi que leur contribution pour faciliter la maintenance d’un code programme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Partant de la donnée du problème, élaborer les cas de tests, tester le programme et au besoin corriger les erreurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une procédure pour la vérification statique d’un code programme et pouvoir en montrer l´importance pour la qualité d’un logiciel.
+                </knowledge>
+                <knowledge>
+                    Connaître une procédure (par ex. analyse des valeurs limites) pour la définition de cas de tests, afin de démontrer la fiabilité d’un algorithme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

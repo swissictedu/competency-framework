@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>137</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=137%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Probleme im Second- und Third-Level Support bearbeiten</title>
+    <capability>An den Second- und Third-Level Support weitergeleitete Probleme analysieren, Lösung erarbeiten bzw. vorschlagen, Lösung implementieren und im Trouble Ticket System dokumentieren oder Problem gemäss Vorgabe eskalieren.</capability>
+    <goals>
+        <goal>
+            Mittels Checkliste Risiko- und Sicherheitsaspekte der vom First-Level und / oder Second-Level weitergeleiteten Probleme feststellen und in die weitere Bearbeitung einbeziehen. Problem analysieren sowie alle zur Lösungsfindung notwendigen Informationen und Unterlagen beschaffen. Trouble Ticket System konsultieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehensweisen und Techniken zur Eingrenzung und Klassierung von Fehlerzuständen und kann aufzeigen, mit welchen Mitteln diese in Checklisten umgesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Funktionen eines Trouble Ticketsystems und kann erläutern, welchen Beitrag diese zu einer effizenten und effektiven Fehlerbehandlung beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kategorien von Informationen die bei der Abarbeitung eines Trouble Tickets von Bedeutung sind und kann erläutern, welchen Beitrag diese zu einer effizenten und effektiven Fehlerbehandlung beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Das Problem selbständig oder in einem Team von Spezialisten eingrenzen, die Erkenntnisse auswerten und die Lösung erarbeiten und falls nötig, implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt persönliche Verhaltensregeln für eine effiziente und effektive Bearbeitung von Problemstellungen in Teams und kann aufzeigen, welchen Beitrag sie in dieser Hinsicht leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Problemlösungsprotokoll zur Behebung der Störung / des Problems erstellen oder nachführen und erkannte Schwachstellen gemäss Vorgabe eskalieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Informationen zu einer Problemlösung oder Fehlerbehandlung und kann aufzeigen, welchen Beitrag diese hinsichtlich Nachvollziehbarkeit und Eindeutigkeit leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Auf Grund der Risiko-Checkliste hoch priorisierte Prozesse / Anwendungen mit nicht unmittelbar lösbaren Problemen / Störungen, eskalieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Schritte bei der Eskalation von kritischen Problemen und kann aufzeigen, welche Bedeutung Eskalationsprozeduren für einen sicheren Betrieb der Systeme haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wo erforderlich ergänzende Informationen bei Lieferanten (HW und SW) einholen und allenfalls technische Änderungen/Entwicklungen dokumentieren lassen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Arten von Herstellerdokumentationen und kann aufzeigen, für welche Kategorien von Problemen diese eine Hilfestellung bieten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

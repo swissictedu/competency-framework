@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>289</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=289%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>CMS einsetzen und bewirtschaften</title>
+    <capability>Installiert, konfiguriert und bewirtschaftet ein geläufiges webbasiertes Redaktions-, oder Content Management System (CMS) und erstellt selbständig CMS-Designvorlagen (Templates, Themes) auf Basis eines vorgegebenen, bestehenden, statischen Webseiten-Designs.</capability>
+    <goals>
+        <goal>
+            Installiert und konfiguriert ein geläufiges Content Management System nach Kundenwunsch und schaltet einen lokal entwickelten CMS-basierten Webauftritt live.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die eigene Entwicklungsumgebung und Werkzeuge (Tools), um effizient Websites zu gestalten und mögliche Codierungsfehler zu beheben.
+                </knowledge>
+                <knowledge>
+                    Kennt die Instrumente (FTP-Client), um Dateien vom eigenen Arbeitsplatzrechner auf einen Server hochzuladen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Ablauf, um Datenbank-Inhalte vom eigenen Arbeitsplatzrechner zu sichern (exportieren) und auf einen Server hochzuladen (importieren).
+                </knowledge>
+                <knowledge>
+                    Kennt einige handelsüblichen Content Management Systeme und kann auf Basis der Kundenwünsche eine Empfehlung aussprechen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterschiede zwischen Front-End und Back-End.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert Webseiten-Designs und wandelt diese in CMS-Designvorlagen um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten, um eine vorgegebene statische Webseite zu analysieren und in eine für das CMS vorgesehene Design-Vorlage (Theme, Template) umzuwandeln.
+                </knowledge>
+                <knowledge>
+                    Kennt die für das CMS notwendige Scriptsprache (PHP, TypoScript).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden, um eine von Dritten entwickelte Design-Vorlage (Theme, Template) einzusetzen und zu konfigurieren, und dementsprechend eine massgeschneiderte Lösung zu entwickeln.
+                </knowledge>
+                <knowledge>
+                    Kennt Skizzierungsmöglichkeiten wie Mockups, Wireframes, Grobsitemaps etc., um dem Kunden vorgängig ein möglichst genaues Bild des Endproduktes vorstellen zu können.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methoden, um eine (hierarchische) Seiten-Struktur (Sitemap) zu erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methoden, um eine Struktur des Webauftritts und dessen Menü aufzubauen und umzusetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden, um eine mehrsprachige Funktionalität eines CMS anzuwenden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installiert und konfiguriert ein bestehendes Plug-In.
+            <knowledge-list>
+                <knowledge>
+                    Kennt von einer Dritt-Firma erstellte Module (Plug-Ins) und die Voraussetzungen, um diese zu installieren und nach Kundenwunsch zu konfigurieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt und implementiert ein Benutzerrollen-Konzept.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden, um ein Benutzerkonzept nach Kundenwunsch zu entwickeln.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensweisen, um neue Benutzer einzupflegen und Zugriffsrechte oder Rollen dem Kundenwunsch entsprechend zuzuweisen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Sicherheitsaspekte für die Nutzung des CMS (Kennwort-Standards).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

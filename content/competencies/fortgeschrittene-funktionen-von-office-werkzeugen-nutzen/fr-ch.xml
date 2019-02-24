@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>302</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=302%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Utiliser les fonctions avancées d’Office</title>
+    <capability>Utiliser le traitement de documents à l´aide de fonctions avancées de traitement de textes, tableurs et de présentation. Installer et appliquer une gestion des tâches et délais pour un groupe.</capability>
+    <goals>
+        <goal>
+            Structurer des documents (textes, graphiques, tableaux) avec des sections, tableaux, chapitres et utiliser des en-têtes, bas de pages différents dans le même document.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes de base de la typographie qui permettent de rendre un document agréable et facile à lire.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Accorder les documents sur le moyen de présentation, mettre en évidence par la mise en œuvre de liens, de notes de bas de pages, de références, de tables des matières, de renvois.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités de mise en page et de structuration offertes par les fonctions colonnes, tabulations et tableaux.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments servant à caractériser des termes, des passages de texte, des objets, (par ex. notes de bas de page, références, tables des matières et renvois) et permettant d’améliorer la compréhension, l’aperçu et l’orientation dans le texte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Lier à l´aide des fonctions de publipostage des documents avec des sources de données et piloter des blocs de textes au travers de champs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’engagement de la fonction sérielle pour l’élaboration rationnelle de  documents analogues.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments qui sont mis en œuvre lors de l’impression de masse (document principal, source de données, filtres, lots de textes).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transposer des prescriptions d´organisation en modèles et documents. Intégrer dans le document des aides de saisies (champs de formulaires).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions permettant de réaliser les directives d’organisation lors de l’élaboration de modèles.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités d’utilisation des champs formulaire qui sont une aide à la saisie dans les documents/formulaires.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer des formulaires pour la saisie et la modification de données d´un tableau afin d´assurer la qualité et une gestion efficace.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions standards pour la réalisation de formulaires pour la saisie de données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer des évaluations à l´aide de fonctions de regroupement, de formules de calculs et de fonctions logiques sur des données issues de plusieurs feuilles.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités permettant de représenter l’évaluation de données de manière claire dans une table (par ex. des groupes, des objets, des caractéristiques, des filtres).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Représenter les résultats avec un type approprié de diagramme, améliorer la signification avec des étiquettes, des valeurs clés, des graduations.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des types de diagrammes et leurs éléments qui les complétent (par ex. étiquettes, valeurs clés, axes clés) permettant de simplifier la compréhension et l’interprétation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer une gestion automatisée avec les fonctions standards de la messagerie (sauvegarde automatique, archivage, distribution, etc.).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions standards des systèmes de messagerie qui permettent d´automatiser la gestion des messages (classement des messages entrants dans des dossiers, classement automatique, archivage, listes de distribution).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fixer, coordonner à l´aide des fonctions standards du calendrier, des délais pour un groupe, attribuer des tâches et surveiller le déroulement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions de groupe d’un calendrier pour la coordination et le suivi des activités d´un groupe.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

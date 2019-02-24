@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>108</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=108%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assemblare apparecchiature elettroniche</title>
+    <capability>Assemblare, testare, mettere in funzione delle apparecchiature elettroniche e documentare.</capability>
+    <goals>
+        <goal>
+            Interpretare la documentazione tecnica (ad esempio: mandato, schema del circuito, lista componenti, schema d’assemblaggio, descrizione funzionalità) necessaria per l’assemblaggio e la manutenzione di un’apparecchiatura elettronica.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i simboli di circuiti eletronici ed elettromeccanici e sa spiegare quale funzione essi assumono.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identificare i componenti, progettare il procedimento d’assemblaggio e documentare.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i principi di nomenclatura dei differenti componenti elettronici e ne sa dedurre i campi d’appicazione e i dati caratteristici (ad esempio i codici dei colori per le resistenze, scritte dei condensatori, etc.).
+                </knowledge>
+                <knowledge>
+                    Sa riconoscere i componenti con polarità.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Realizzare l’assemblaggio meccanico e le connessioni in base alla documentazione tecnica.
+            <knowledge-list>
+                <knowledge>
+                    Elencare i materiali impiegati nella saldatura e spiegare i loro modi d’utilizzo (saldatore, stagno, piastra del circuito stampato).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verificare le funzionalità prescritte dell’apparecchiatura elettronica con degli strumenti adeguati e correggere gli errori.
+            <knowledge-list>
+                <knowledge>
+                    Sa definire, in base allo schema del circuito, dei punti di misura nell’apparecchiatura.
+                </knowledge>
+                <knowledge>
+                    Sa eseguire delle semplici misurazioni con, ad esempio, un multimetro.
+                </knowledge>
+                <knowledge>
+                    Sa eseguire un appropriato test di funzionalità.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Redigere un manuale d’uso.
+            <knowledge-list>
+                <knowledge>
+                    Conosce la struttura e l’organizzazione di un semplice manuale d’uso e sa spiegare perché è necessario un manuale d’uso.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

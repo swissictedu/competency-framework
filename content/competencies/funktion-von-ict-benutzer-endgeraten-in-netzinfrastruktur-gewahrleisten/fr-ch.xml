@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>261</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=261%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Garantir la fonction des terminaux utilisateurs dans la structure réseau</title>
+    <capability>Intégrer dans une infrastructure réseau des terminaux ICT utilisateurs, relier à des services existants et soutenir les utilisateurs lors de cette opération.</capability>
+    <goals>
+        <goal>
+            Intégrer, selon directives, des appareils terminaux dans un réseau existant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement pour l'intégration de terminaux dans un réseau existant, comme par exemple clients/tablettes/unités mobiles.
+                </knowledge>
+                <knowledge>
+                    Connaître les opérations nécessaires pour relier des terminaux dans un WLAN, réseau informatique, et un réseau de téléphonie mobile.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour l'intégration de terminaux VoIP dans un réseau existant.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Relier des terminaux selon directives aux ressources existantes de l'entreprise (services).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les systèmes d'exploitation actuels pour la téléphonie mobile ainsi que le déroulement afin de les intégrer au réseau de l'entreprise, et relier au service de messagerie.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour intégrer des terminaux dans un service Cloud. 
+                </knowledge>
+                <knowledge>
+                    Connaître les risques et avantages de base d'un service Cloud.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Soutenir les utilisateurs lors de la liaison de terminaux à des services.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités de soutenir les utilisateurs lors de la liaison vers des services.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement pour l'enregistrement et l'activation de terminaux et pouvoir soutenir les utilisateurs à cette occasion
+                </knowledge>
+                <knowledge>
+                    Connaître le principe de la gestion des unités mobiles et de la gestion de la base de données de configuration (GBDC).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester de manière structurée l'intégration des terminaux dans un réseau et documenter les résultats.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure et le déroulement pour tester et documenter l'intégration de terminaux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déceler et éliminer systématiquement les erreurs au moyen d'outils appropriés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement pour la recherche systématique des erreurs sur des terminaux.
+                </knowledge>
+                <knowledge>
+                    Connaître les divers outils, tels que optiques, physique ou spécifique à l'outil, pour la recherche d'erreurs dans un réseau et les terminaux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

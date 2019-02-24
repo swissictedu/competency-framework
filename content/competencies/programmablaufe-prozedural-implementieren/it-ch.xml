@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>403</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=403%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implementare degli algoritmi in modo procedurale</title>
+    <capability>Aufgrund einer Vorgabe Programmabläufe prozedural erstellen, testen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Rappresentare il flusso di esecuzione di un programma sotto forma di un diagramma di flusso.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le strutture di controllo sequenza, selezione e iterazione, la loro funzionalità e utilizzo. 
+                </knowledge>
+                <knowledge>
+                    Conosce la notazione per rappresentare il flusso di esecuzione della logica di un programma.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Determinare i dati per l'input, l'elaborazione e l'output come anche fissare i tipi di dati.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i principali tipi di dati, il loro fabbisogno di memoria e l'ambito dei valori.
+                </knowledge>
+                <knowledge>
+                    Conosce le regole (implicite ed esplicite) che vengono utilizzate nella conversione di tipi di dati e gli effetti sulla precisione. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Applicare delle strutture di controllo per il controllo del flusso di esecuzione del programma.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le fondamentali istruzioni, strutture di controllo, condizioni e operatori di un linguaggio di programmazione.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Trasformare una struttura di flusso e di dati in un flusso di esecuzione del programma con un linguaggio di programmazione.
+            <knowledge-list>
+                <knowledge>
+                    Conosce la struttura fondamentale di un programma.
+                </knowledge>
+                <knowledge>
+                    Conosce il senso e l'utilità delle variabili e delle costanti come anche le loro differenze.
+                </knowledge>
+                <knowledge>
+                    Conosce il dominio di validità delle variabili e come vengono utilizzate.
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità di un ambiente di sviluppo e come comportarsi con avvisi e messaggi d'errore
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Utilizzare dei casi di test predefiniti (valori di entrata, risultati aspettati) per individuare ed eliminare gli errori nel flusso di esecuzione del programma.
+            <knowledge-list>
+                <knowledge>
+                    Conosce il senso e l'utilità dei test e lo scopo dei singoli casi di test.
+                </knowledge>
+                <knowledge>
+                    Conosce i criteri per la definizione di un caso di test e della scelta mirata dei dati di test.
+                </knowledge>
+                <knowledge>
+                    Conosce un procedimento per localizzare ed eliminare gli errori in un programma.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Attivare un debugger per sorvegliare l'esecuzione del programma e individuare gli errori.
+            <knowledge-list>
+                <knowledge>
+                    Conosce l'utilità, le funzioni e il servizio di un debugger.
+                </knowledge>
+                <knowledge>
+                    Conosce l'utilità dei breakpoint e della sorveglianza delle variabili per il controllo dei flussi di esecuzione dei programmi e delle condizioni.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>125</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=125%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Peripheriegeräte in Betrieb nehmen</title>
+    <capability>Lokale Peripheriegeräte wie Drucker, Scanner, Kopierer, FAX und digitale Kameras installieren, konfigurieren, warten und Gerätestörungen beheben.</capability>
+    <goals>
+        <goal>
+            Installieren und konfigurieren von Druckern, Scannern, Kopierern, FAX und digitalen Kameras. Erstellen und nachführen der technischen Dokumentationen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt gängige Peripheriegeräte für den Einsatz in einer Einzelplatzumgebung (PC) und kann aufzeigen, welche technischen Vorgänge (Funktionen, Funktionsprinzipien, Funktionsergebnisse) zum Arbeitsergebnis führen, dass mit diesen Geräten erzielt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die prinzipielle Vorgehensweise bei der Installation von Peripheriegeräten (Lieferung auf Vollständigkeit überprüfen, Herstellervorschriften, Installationsanleitungen konsultieren usw.) und kann aufzeigen, wie durch die Einhaltung dieser Vorgehensweise eine fehlerfreie Inbetriebnahme sichergestellt werden kann.
+                </knowledge>
+                <knowledge>
+                    Kann erläutern, welcher Nutzen für den Betrieb und Unterhalt eines Peripheriegerätes erreicht wird, wenn die Informationen zu Konfigurationen/Einstellungen und für das Inventar in einer technischen Dokumentation erfasst und nachgeführt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wartungsfenster für die peripheren Geräte definieren und Wartungspläne erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Bestimmungen, welche ein Wartungsplan beinhalten muss und kann aufzeigen, wie damit eine vorbeugende Wartung sichergestellt und die Verfügbarkeit von Peripheriegeräten optimiert werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Kriterien (Betriebsdauer, Nutzungsintensität, Umgebungsbedingungen usw.) die bei der Festlegung von Wartungsplänen zu berücksichtigen sind und kann erläutern, wie diese Kriterien das Wartungsintervall und den Wartungsaufwand beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wartung an den peripheren Geräten durchführen und Wartungsprotokolle nachführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Informationen in Reparatur- und Wartungsprotokollen und kann aufzeigen, wie deren Berücksichtigung die Verfügbarkeit der Geräte und einen wirtschaftlichen Betrieb gewährleisten kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fehler systematisch analysieren. Fehler wie defekte Stromversorgung, mangelhafte Ausgabequalität, falsche Konfigurationseinstellungen, usw. am Gerät beheben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Methode, die eine systematische Eingrenzung von fehlerhaften Zuständen erlaubt und kann anhand eines typischen Fehlerfalls aufzeigen, wie dieser damit effizient aufgedeckt werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung der Berücksichtigung von Hersteller-Dokumentationen bei der Behebung von fehlerhaften Zuständen und kann erläutern, wie damit Haftungsfällen vorgebeugt wird und eine schnelle Behebung des Fehlers erreicht werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verbrauchte oder irreparable Geräte und Materialien (Farbbänder, Toner, etc.) umweltgerecht entsorgen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Vorschriften bei der Entsorgung von Hardwarekomponenten und Verbrauchsmaterialien und kann erläutern, welche Wirkung der Gesetzgeber mit diesen Vorschriften zum Schutz der Umwelt erzielen will.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

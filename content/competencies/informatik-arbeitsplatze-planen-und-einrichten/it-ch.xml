@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>138</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=138%26clang=it</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Progettare ed allestire delle postazioni di lavoro informatiche</title>
+    <capability>Progettare ed allestire delle postazioni di lavoro informatiche tenendo in considerazione gli aspetti ergonomici ed ecologici.</capability>
+    <goals>
+        <goal>
+            Chiarire le esigenze e le specifiche delle requisiti operativi, ambientali e della postazione di lavoro ed includerle nella progettazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt räumliche und personenabhängige Merkmale, die bei der Planung und Einrichtung von Informatik-Arbeitsplätzen berücksichtigt werden müssen und kann aufzeigen, mit welchen Massnahmen den dazu gehörigen ergonomischen Anforderungen Rechnung getragen wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborare il progetto per le postazioni di lavoro IT, includendo i principi dell’ergonomia, l’aspetto energetico, le prescrizioni,le norme e le raccomandazioni. Progettare gli allacciamenti alla rete elettrica e ai canali di comunicazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von betrieblichen Vorgaben für IT Arbeitsplätze und kann darlegen, welchem Zweck diese dienen.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Rahmenbedingungen, Normen und Vorschriften, die bei der Installation von IT Arbeitsplätzen zu berücksichtigen sind und kann darlegen, welchen Beitrag diese zur Betriebs- und Personensicherheit leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Determinare i costi del progetto, facendo una distinzione tra le spese d’esercizio e gli investimenti.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Unterschiede zwischen Investitions- und Betriebskosten und kann diese an Beispielen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sulla base del progetto, pianificare e definire le scadenze per tutte le fasi di lavoro: interventi architettonici, illuminazione, arredamento, rete di comunicazione, erogazione di energia e installazione delle postazioni di lavoro informatiche.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien zur Bildung von Arbeitspaketen und kann an Beispielen erläutern, welchen Beitrag die Arbeitspakete für eine termingerechte und reibungslose Abwicklung des Vorhabens leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Anlaufstellen in einer Unternehmung, die in einem Beschaffungsprozess involviert sind und kann deren Aufgaben, Zuständigkeiten und Verantwortungen darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Redigere degli opuscoli informativi per il supporto in caso di guasti, l’ergonomia, l’ecologia, l’utilizzo dell’energia e le prescrizioni operative.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Elemente einer Benutzerinstruktion und deren Abfolge und kann erläutern, welchen Beitrag diese zur Verständlichkeit und zum entsprechenden Verhalten der Benutzer leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sorvegliare la fornitura e l’installazione secondo il progetto e, dove necessario, fare un inventario.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von Kriterien, welche bei der Lieferung bestellter Produkte überprüft werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Kriterienbereiche Kosten, Termine und Qualität und deren Abhängigkeiten, welche bei der Überprüfung der Ausführung von Arbeitspaketen zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Systeminformationen, die in einem Inventar enthalten sein sollten und kann erläutern, welchen Beitrag diese für einen effizienten Betrieb leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt betriebswirtschaftlich relevante Informationen die in einem Inventar enthalten sein sollten und kann erläutern, welche Bedeutung diese für das betriebliche Rechnungswesen und den Lizenznachweis haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Proporre delle impostazioni d’utente della postazione di lavoro insieme ad ogni utente. Istruire l’utente nell’utilizzo dell’ installazione e dare consigli dal punto di vista della salute e del comportamento ala postazione di lavoro. Consegna degli opuscoli informativi.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kommunikationstechniken die bei der Instruktion von Benutzern anzuwenden sind und kann aufzeigen, welchen Beitrag dies für eine nachhaltige Umsetzung leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Predisporre lo smaltimento di eventuali vecchie apparecchiature secondo le prescrizioni, eseguire il collaudo dell’installazione, aggiornare l’inventario.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vereinbarungen der Konvention über Recycling und Entsorgung von (Elektronik-)-Geräten der Informations- und Kommunikationstechnik (SWICO) und kann darlegen, welchen Beitrag die Konvention für eine ökologische Entsorgung leistet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

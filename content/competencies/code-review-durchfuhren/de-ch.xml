@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>459</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=459%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Code Review durchführen</title>
+    <capability>Prüft die technische Code‐Qualität einer Applikation und leitet Massnahmen zur Verbesserung derselben ein.</capability>
+    <goals>
+        <goal>
+            Definiert aufgrund von Entwicklungsvorgaben des Betriebs und spezifischer Anforderungen an die zu entwickelnde Software die Kriterien und technischen Standards, die der Source Code erfüllen bzw. deren Einhaltung der Code Review nachweisen muss.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Zielsetzungen hinsichtlich der Qualität von Applikationen, welche mittels Code Reviews geprüft werden und kann dazu konkrete Befunde in einem Source Code nennen sowie erläutern, welche Konsequenzen diese bezüglich der Erfüllung dieser Zielsetzungen haben.
+                </knowledge>
+                <knowledge>
+                    Kennt die verbreiteten Schwachstellen von Source Code (Code Smells) und kann erläutern, welche Konsequenzen sich daraus für die Wiederverwendung, Bearbeitung oder Ausführung von Source Code ergeben.
+                </knowledge>
+                <knowledge>
+                    Kennt die verbreiteten Kriterien für die Beurteilung und die technischen Standards für die Erstellung von Source Code und kann erläutern, welche Zielsetzungen hinsichtlich der Qualität von Applikation damit berücksichtigt und welche Schwachstellen damit aufgedeckt bzw. verhindert werden sollen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien, welche sich aus dem für die Applikation eingesetzten Framework bzw. den darin definierten Regeln ergeben, und kann aufzeigen, wie diese den korrekten Einsatz des Frameworks sicherstellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wählt die Prüfmethoden resp. Werkzeuge aus, welche eine zuverlässige und effiziente Prüfung der Erfüllung der Kriterien bzw. der Einhaltung der technischen Standards durch den Source Code erlauben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Prüfmethoden, welche dem Nachweis der Code‐Qualität dienen, und kann erläutern, auf welche Kriterien und Standards sich diese beziehen und wie sie die Erfüllung dieser Kriterien und Standards prüfen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt mit Unterstützung der gewählten Prüfmethoden und Werkzeuge eine Untersuchung des Programmcodes durch.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau der Programmiersprachen des zu prüfenden Source Code und kann aufzeigen, wie dies bei einer Test‐Spezifikation zu berücksichtigen ist, um zuverlässige Qualitätsaussagen zu erhalten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert und beurteilt anhand der Software‐Qualitätsmetriken, ob der Source Code die Kriterien erfüllt resp. den technischen Standards entspricht.
+            <knowledge-list>
+                <knowledge>
+                    Kann für die verbreiteten Kriterien und Standards geeignete Qualitätsmetriken aufzeigen und erläutern, welche Nachweise diese in Bezug auf die Erfüllung der geprüften Kriterien resp. der Einhaltung von Standards liefern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Priorisiert die aus den Code‐Reviews resultierenden Befunde und leitet daraus die Empfehlungen für den Qualitätsbericht an die Projektleiterin/den Projektleiter oder die Auftraggeberin/den Auftraggeber ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kriterien zu Priorisierung von Qualitätsbefunden für Source Code und kann anhand des Aufbaus und der Abhängigkeiten in einem Source Code erklären, warum diese bei der Entwicklung der Applikation zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die Informationselemente, welche der Bericht zu einer Analyse, Expertise, Prüfung etc. eines Sachverhalts an einen Auftraggeber beinhalten muss, sowie die Anforderungen an deren Ausarbeitung und kann erläutern, wie diese die Nachvollziehbarkeit beeinflussen und eine rationale Entscheidungsfindung ermöglichen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt für die priorisierten Befunde einen verbindlichen Auftrag für die Anpassung des Source Codes.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorgaben eines vollständig definierten Auftrags an eine Person oder ein Team sowie die Anforderungen an deren Ausarbeitung und kann erläutern, wie diese zur erfolgreichen Abwicklung eines Auftrages bzw. zur Zielerreichung beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

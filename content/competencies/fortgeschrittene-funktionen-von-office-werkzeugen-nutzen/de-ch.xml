@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>302</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=302%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Fortgeschrittene Funktionen von Office Werkzeugen nutzen</title>
+    <capability>Dokumentverarbeitung mit fortgeschrittenen Funktionen von Text-, Tabellen- bzw. Präsentationswerkzeugen nutzen. Termin- und Aufgabenverwaltung für ein Team einrichten und anwenden.</capability>
+    <goals>
+        <goal>
+            Mehrseitige Dokumente (Text, Grafik, Tabellen) mit Hilfe von Spalten, Tabellen, Abschnittsgliederungen mehrstufig strukturieren und Kopf-/Fusszeilen mit wechselnden Inhalten steuern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Grundregeln der Typografie, um ansprechende und lesefreundliche Dokumente zu gestalten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dokumente auf ein Präsentationsmedium abstimmen und durch den Einsatz von, Fussnoten, Referenzen, Verzeichnissen und Verweisen verständlicher, lesbarer und übersichtlicher machen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Gestaltungs- und Gliederungsmöglichkeiten, die sich mit den Funktionen Spalten, Tabulatoren resp. Tabellen erzielen lassen
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente, die der Kennzeichnung von Begriffen, Textstellen, Objekten dienen (zB. Fussnoten, Referenzen, Verzeichnisse und Verweise) und die Verständlichkeit, Übersichtlichkeit und die Orientierung im Text verbessern .
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit Serienfunktionen Dokumente und Datenquellen (Tabelle, Tabellenblatt, Adressverwaltung) verbinden und über Feldinhalte Textbausteine steuern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Einsatz der Serienfunktion für die rationelle Erstellung gleichartiger Massendokumente.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente, die beim Seriendruck zum Einsatz kommen (Hauptdokument, Datenquelle, Filter, Textbausteine).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gestaltungsvorgaben in Format- und Dokumentvorlagen umsetzen. In Dokumentvorlagen Erfassungshilfen (Formularfelder) integrieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktionen um Gestaltungsvorgaben (zB. einheitliche Schriften, Beschränkung der Formatierungsmöglichkeiten) bei der Erstellung von Formatvorlagen zu realisieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten wie Formularfelder als Eingabehilfen in Dokumentvorlagen/ Formularen verwendet werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formulare für die Erfassung und Änderung von Tabellendaten erstellen und damit die Datenqualität und eine effiziente Datenverwaltung sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Standard-Funktionen, die für die Erstellung von Formularen zur Dateneingabe und –pflege.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit Gruppierungsfunktionen, Berechnungsformeln und logischen Verknüpfungen Auswertungen erstellen, denen Daten aus mehreren Tabellenblättern zu Grunde liegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten, Auswertungen von Daten in Tabellen übersichtlich darzustellen. (zB. Gruppen, Objekte, Eigenschaften, Filter)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sachverhalte mit einem geeigneten Diagrammtyp darstellen und die Aussagekraft von Diagrammen mit Beschriftungen, Kennwerten und Kennlinien erhöhen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Diagrammtypen und deren Elemente zur Ergänzung (zB. Beschriftungen, Kennwerte, Kennlinien) um die Verständlichkeit und Interpretation zu vereinfachen..
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit Standardfunktionen eines E-Mail-Systems eine automatisierte Nachrichtenverwaltung (Ordner, automatisierte Ablage, Archivierung, Verteiler) einrichten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Standardfunktionen eines E-Mail-Systems, die eine automatisierte Verwaltung der Nachrichten (Verteilung eingehender E-Mails in Ordner, automatisierte Ablage, Archivierung, Verteiler) ermöglichen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit Standardfunktionen eines Kalender-Systems Termine für ein Team festlegen, koordinieren; Aufgaben zuordnen und deren Ausführung überwachen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Team-Funktionen eines Kalender-Systems zur Koordination und Überwachung der Aktivitäten in einer Gruppe.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

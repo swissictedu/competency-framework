@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>158</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=158%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Software-Migration planen und durchführen</title>
+    <capability>Migrationen für Versionswechsel oder Softwareablösung planen und durchführen.</capability>
+    <goals>
+        <goal>
+            Auf Grund eines Auftrages die Migration für den Wechsel auf die neue Software-Version (Major Release) oder auf eine neue Software mit ähnlicher Funktionalität erarbeiten (Vorgaben, Ziele, Termine, Tätigkeiten, Ressourcen, technische Anforderungen). Dokumentation mit Release Informationen sichten und relevante Punkte für die Migration erkennen und festhalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine bewährte Vorgehensweise für die Migration von Software.
+                </knowledge>
+                <knowledge>
+                    Kennt mögliche Risiken, welche bei der Migration auf eine neue Software bzw. auf eine neue Software-Version auftreten können.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien zur Bildung von Arbeitspaketen zur termingerechten und reibungslosen Abwicklung des Vorhabens.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Erkennung und Gegenüberstellung der für den Betrieb relevanten technischen Aspekte und Anforderungen einer Software (z.B. Systemumgebung, Datenmenge, Sicherheitsanforderungen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Neue Version oder neue Software auf einem Testsystem installieren und sich mit den wesentlichen Unterschieden / Neuerungen vertraut machen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von Merkmalen, die für einen systematischen Vergleich von Softwarereleases relevant sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Konfigurationsmerkmale, die für den Betrieb der neuen Software-Version oder Software relevant sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Zu migrierende Datenbestände analysieren, identifizieren und Funktionalität auf dem Testsystem mit der neuen Version bzw. der neuen Software erproben. Relevante Punkte für die Migration erkennen und festhalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein bewährtes Verfahren zur Analyse von Datenbeständen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Nutzen von Tests in einer realen oder virtuellen Testumgebung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bisherige Daten extrahieren, aufbereiten und ins neue System laden. Wo möglich die Vorgänge automatisieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten Vorgänge mit einer Skriptsprache zu automatisieren.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Vorgehen um Datenbestände zu migrieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            In einer Testumgebung die Funktionalität, Verfügbarkeit, Sicherheit und Vollständigkeit der Umstellung nachweisen und einen Freigabeantrag stellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Vorgehensweise zum Testen der Migration in der Testumgebung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen für einen Freigabeantrag.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            User-, Betriebs- und Wartungsdokumentation anpassen, definitive Umstellung planen und bewilligen lassen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufbau und Inhalt der Dokumentation für die Wartung und den Betrieb von Software .
+                </knowledge>
+                <knowledge>
+                    Kennt die begleitenden Massnahmen für die Migration sowie Aufbau und Inhalt der entsprechenden Dokumentationsformen (z.B. Rollback, Anwenderinstruktion, Servicedesk-Information).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Umstellung durchführen oder durchführen lassen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Auftragsinhalt und -aufbau für die definitive Migration.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

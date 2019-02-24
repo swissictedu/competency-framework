@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>304</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=304%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Einzelplatz-Computer in Betrieb nehmen</title>
+    <capability>Einzelplatz-Computer in Betrieb nehmen, Betriebssystem und Office Suite installieren, Gerät mit dem Netzwerk verbinden und das System testen.</capability>
+    <goals>
+        <goal>
+            Komponenten eines Computer-Arbeitsplatzes (Gerät, Bildschirm, Tastatur/Maus, Drucker, Netzwerkanbindung) nach Vorgabe verbinden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Prinzip der Verarbeitung von Informationen in einem Mikrocomputer und kann aufzeigen, welche Aufgaben den Hardwarekomponenten (CPU, Arbeitsspeicher, Massenspeicher, Bussysteme) zugewiesen sind und wie der Informationsfluss zwischen den einzelnen Hardwarekomponenten funktioniert (Eingabe, Verarbeitung, Ausgabe, Speicherung und Kommunikation).
+                </knowledge>
+                <knowledge>
+                    Kennt die gängigen Leistungsmerkmale und Kenndaten der Hardwarekomponenten eines Einzelplatz-Computers und kann erläutern, welche Hardware-Konfigurationen für welche Einsatzgebiete erforderlich sind.
+                </knowledge>
+                <knowledge>
+                    Kennt standardisierte Peripherieschnittstellen und Bussysteme eines Einzelplatz-Computers und kann aufgrund ihrer Merkmale aufzeigen, für welche Einsatzfälle diese vorgesehen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Betriebssystem unter Verwendung der Standardeinstellungen installieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Funktionen eines Einzelplatz-Computer-Betriebssystems und kann anhand von verbreiteten Anwendungsfällen erläutern, wie diese Funktionen die Verarbeitung von Informationen steuern und unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Einstellungen bei der Konfiguration eines Einzelplatz-Computer-Betriebssystems und kann an Beispielen aufzeigen, wie damit Hardware und Betriebssystem optimal aufeinander abgestimmt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Software-Lizenzbestimmungen bei der Installation beachten und erforderliche Registrierungen und Aktivierungen vornehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die rechtlichen Verpflichtungen, die eingegangen werden, wenn man den Lizenzvereinbarungen eines Herstellers bei der Installation von Software zustimmt und kann die Konsequenzen aufzeigen, wenn diese missachtet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt den prinzipiellen Ablauf von Registrierung und Aktivierung von Informatik-Komponenten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Office Suite unter Verwendung der Standardeinstellungen installieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Einstellungen, die bei einer Standard-Installation eines Office-Paketes hinsichtlich des Funktionsumfangs/der Pfadangaben gewählt werden können und kann aufzeigen, welche Konsequenzen diese Einstellungen auf die Anwendung der Programme und den Betrieb (Datenablage etc.) des Einzelplatz-Computers haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Netzwerkzugang nach Vorgabe einrichten und austesten. Die Schutzmassnahmen für eine sichere Nutzung des Computers und des Netzwerks treffen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die prinzipielle Vorgehensweise, um auf einem Client eine Verbindung zum Netzwerk herzustellen und kann erläutern, wie damit die Kommunikation gewährleistet wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die nötigen Sicherheitseinstellungen (Virenschutz, Personal-Firewall, Updates) um einen Einzelplatz-Computer vor aktuellen Gefahren zu schützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Einstellungen zur Reduktion des Energieverbrauchs einsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Einstellungsmöglichkeiten eines Einzelplatz-Computers zur Senkung des Energieverbrauchs und kann erläutern, welche Konsequenzen sich daraus für die Benutzerfreundlichkeit, die Umwelt und die Lebensdauer der Geräte ergeben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Computer-Arbeitsplatz testen, Defekte und Konfigurationsfehler systematisch eingrenzen und beheben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kategorien von Fehlermeldungen (Hardware, Betriebsystem, Anwenderprogramme etc.) und kann die wichtigsten Indizien aufzeigen, welche für die Zuordnung der Fehlermeldungen zu diesen Kategorien ausschlaggebend sind.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Methode (z.B. Ausschluss intakter Teilsysteme), die eine systematische Eingrenzung von fehlerhaften Zuständen erlaubt und kann beispielhaft aufzeigen, wie mit Hilfe dieser Methode ein typischer Fehlerfall effizient aufgedeckt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Computer-Arbeitsplatz nach ergonomischen Grundsätzen einrichten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Richtlinien für das Einrichten eines ergonomischen Einzelplatz-Computer -Arbeitsplatzes und kann erläutern, wie diese zum Wohlbefinden beim Arbeiten beitragen und welchen gesundheitlichen Schäden damit vorgebeugt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Computer-Arbeitsplatz anhand eines Abnahmeprotokolls übergeben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung einer geordneten Übergabe des Einzelplatz-Computer -Arbeitsplatzes (Abnahmeprotokoll) an die Benutzerin oder den Benutzer und kann diese Bedeutung anhand des konkreten Nutzens, welche die Beteiligten daraus ziehen, aufzeigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

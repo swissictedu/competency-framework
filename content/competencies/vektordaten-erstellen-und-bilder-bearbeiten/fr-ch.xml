@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>271</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=271%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Elaborer des données vectorielles et traiter des images</title>
+    <capability>Réaliser des graphiques, des diagrammes et des images, les traiter selon des aspects conceptuels et les sauvegarder de manière adaptée au média.</capability>
+    <goals>
+        <goal>
+            Réaliser des éléments graphiques dans un programme d'illustration à base vectorielle.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différences entre les données à base de pixels et à base vectorielle ainsi que les avantages et inconvénients en termes de résolution, de gradation et de volume de données.
+                </knowledge>
+                <knowledge>
+                    Connaître différents outils pour la réalisation de graphiques et leurs applications.
+                </knowledge>
+                <knowledge>
+                    Connaître l'outil Plume pour réaliser et adapter des courbes/tracés.
+                </knowledge>
+                <knowledge>
+                    Connaître les outils appropriés pour réaliser et traiter des graphiques vectoriels (logos, pictogrammes, diagrammes, plans de situation, éléments typographiques) pour des médias imprimés ou numériques.
+                </knowledge>
+                <knowledge>
+                    Connaître les consignes pour réaliser des graphiques vectoriels pour une sortie traceur (plotter output).
+                </knowledge>
+                <knowledge>
+                    Connaître les fonctions de l'outil de vectorisation de l'image pour vectoriser des données à base de pixels.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Effectuer des corrections et des montages simples dans un programme de traitement d'images à base de pixels
+            <knowledge-list>
+                <knowledge>
+                    Connaître l'importance des facteurs de qualité que sont la résolution et la taille des images ainsi que la taille des fichiers.
+                </knowledge>
+                <knowledge>
+                    Connaître des moyens pour évaluer la résolution des images et pour modifier/configurer la taille des images.
+                </knowledge>
+                <knowledge>
+                    Connaître les applications des données d'image afin de pouvoir adapter, si nécessaire, le contraste et la luminosité ainsi que les paramètres de gradation.
+                </knowledge>
+                <knowledge>
+                    Connaître des fonctions pour effectuer des corrections de couleur simples sur des images.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour transformer des images en couleur en images noir et blanc.
+                </knowledge>
+                <knowledge>
+                    Connaître des fonctions pour masquer des contenus d'image et supprimer l'arrière-plan.
+                </knowledge>
+                <knowledge>
+                    Connaître des outils appropriés pour effectuer des retouches simples sur des données d'image.
+                </knowledge>
+                <knowledge>
+                    Connaître des outils appropriés pour réaliser des combinaisons d'image simples.
+                </knowledge>
+                <knowledge>
+                    Connaître des moyens pour optimiser la netteté des images.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour automatiser des étapes de traitement.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour choisir un langage visuel adapté au groupe cible (p. ex. motif, structure de l'image, noir et blanc/couleur, format, règlement de la netteté et du flou des images).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Enregistrer des images et des fichiers vectoriels dans un format de fichier approprié.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les formats de fichiers adaptés et leurs caractéristiques pour stocker des images de manière optimale.
+                </knowledge>
+                <knowledge>
+                    Connaître la compression sans perte et avec perte.
+                </knowledge>
+                <knowledge>
+                    Connaître des fonctions pour optimiser et stocker des images pour différents médias de sortie.
+                </knowledge>
+                <knowledge>
+                    Connaître des formats graphiques à base vectorielle.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>416</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=416%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Immaterialgüterrecht bei Produktion und Publikationen berücksichtigen</title>
+    <capability>Erkennt Probleme, die bei der Missachtung des Immaterialgüterrechts entstehen können, und entwickelt rechtsgültige Lösungen.</capability>
+    <goals>
+        <goal>
+            Erkennt mögliche Problemfelder und allfällige Folgen und Risiken innerhalb einer Organisation im Bereich des Immaterialgüterrechts.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Risiken und Kostenfolgen bei Missachtungen des Urheberrechtes und anderen Schutzrechten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen über das Urheberrecht, den Designschutz, das Patentrecht, das Markenrecht und das Recht am eigenen Bild.
+                </knowledge>
+                <knowledge>
+                    Kennt die Gesetze in der Schweiz und die Unterschiede zur EU und zur USA.
+                </knowledge>
+                <knowledge>
+                    Kennt alternative Urheberrechtsmodelle, z.B. Creative Commons.
+                </knowledge>
+                <knowledge>
+                    Kennt das System der Schutzfrist.
+                </knowledge>
+                <knowledge>
+                    Kennt die Methoden und Quellen, um Rechte an Werken recherchieren zu können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt Lösungskonzepte unter Einbezug der betrieblichen Ziele.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Schutzrechte sowie deren Einsatzgebiete zum Schutz eigener Werke und zur Berücksichtigung fremder Rechte.
+                </knowledge>
+                <knowledge>
+                    Kennt die Implementierungsmöglichkeiten und die zu berücksichtigen Rahmenbedingungen der einzelnen Schutzrechte.
+                </knowledge>
+                <knowledge>
+                    Kennt die inhaltlich notwendigen Punkte für die Entwicklung hausinterner Richtlinien (Medienstandard) in Bezug auf die Schutzrechte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet Massnahmen ein und erstellt Richtlinien im Umgang mit Urheberrechten und anderen Schutzrechten und implementiert diese als Hausstandard.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten, um Kreativaufträge unter Berücksichtigung geregelter Urheberrechte und andere Schutzrechte zu erteilen.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensweisen, um intellektuelles Eigentum zu deklarieren um die Verbreitung zu steuern (einschränken oder fördern).
+                </knowledge>
+                <knowledge>
+                    Kennt die notwendigen Massnahmen, um betriebsintern Richtlinien zu deklarieren und zu implementieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dokumentiert die Standards für die internen und externen Stellen, gegebenenfalls auch durch eine Schulung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten einer benutzergerechten Kommunikation und Schulung.
+                </knowledge>
+                <knowledge>
+                    Kennt didaktische Ansätze, um eine Sensibilisierung und ein Bewusstsein in Bezug auf Schutzrechte zu fördern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kontrolliert und optimiert die definierten Richtlinien im Tagesgeschäft.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Instrumente, um die intern und extern definierten Richtlinien zu überprüfen.
+                </knowledge>
+                <knowledge>
+                    Kennt die notwendigen Handlungsschritte für die Intervention und die Eskalation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

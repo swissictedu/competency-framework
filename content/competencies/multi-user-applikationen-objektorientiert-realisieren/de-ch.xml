@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>223</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=223%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Multi-User-Applikationen objektorientiert realisieren</title>
+    <capability>Multi-User-Applikation objektorientiert entwerfen, erforderliche Datenbankanpassungen vornehmen und Applikation implementieren, testen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Einschätzen, ob eine Datenbank die Anforderungen der Multi-User-Fähigkeit erfüllt und allfällige Anpassungen dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Anforderungen an das Datenbankmanagement-System bezüglich Multi-User-Fähigkeit.
+                </knowledge>
+                <knowledge>
+                    Kennt Aspekte bei der Datenmodellierung, welche die Multi-User-Fähigkeit ermöglichen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Applikation entwerfen und mittels Transaktionen Multi- User-Fähigkeit sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die prinzipiellen Unterschiede zwischen Geschäftsobjektmodell und relationalem Datenmodell .
+                </knowledge>
+                <knowledge>
+                    Kennt wichtige Architekturvarianten und -konzepte (Client/Server, Multi-Tier, Middleware, Framework, Klassenbibliothek).
+                </knowledge>
+                <knowledge>
+                    Kennt die Umsetzung einer objekt-relationalen Abbildung eines Geschäftsobjektmodells und deren Spezifikation mittels UML (Klassendiagramm, Sequenzdiagramm).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            User Interfaces, Datenbankanpassungen und Transaktionen implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt spezifische Elemente für die Umsetzung von Multi-User-fähigen Benutzerschnittstellen (z.B. Profil, unterschiedliche Benutzersichten, Berechtigungskonzept, usw.).
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten ein mehrbenutzer-fähiges Rechtemanagement zu implementieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten um Transaktionen im DBMS sicherzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten um Transaktionen in der Applikation zu implementieren.
+                </knowledge>
+                <knowledge>
+                    Kennt relevante Techniken für die Implementation einer Persistenzschicht.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testspezifikation für funktionale und nicht-funktionale Aspekte der Multi-User-Fähigkeit definieren, Applikation testen und Tests protokollieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Aspekte, welche bei der Testspezifikation einer Muli-User-Applikation zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Vorgehen, um nicht-funktionale Anforderungen zu testen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transaktionen dokumentieren  und dabei auf Wartbarkeit und Nachvollziehbarkeit achten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten zur Dokumentation von Transationen um DBMS und in der Applikation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

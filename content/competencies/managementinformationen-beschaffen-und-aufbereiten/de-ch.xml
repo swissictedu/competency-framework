@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>170</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=170%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Managementinformationen beschaffen und aufbereiten</title>
+    <capability>Informationsbedarf für Entscheidungssituationen aufgrund von Kundenbedürfnissen bestimmen. Dafür benötigte und richtige Daten beschaffen und entscheidungsorientiert aufbereiten.</capability>
+    <goals>
+        <goal>
+            Informationsbedarf aus den Kundenbedürfnissen ableiten und in einem strukturierten Anforderungskatalog oder in einem semantischen Datenmodell zusammenstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Eigenschaften von Managementinformationen (z.B. Nachvollziehbarkeit, Vollständigkeit, Qualität der Informationsquellen) und kann aufzeigen, wie diese die Aussagekraft einer Managementinformation beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die strategische Bedeutung und die damit verbundenen Risiken von Managementinformationen für ein Unternehmen und kann aufzeigen, welche Konsequenzen sich daraus für die Aufbereitung dieser Informationen ergeben.
+                </knowledge>
+                <knowledge>
+                    Kennt die Strukturelemente eines semantischen Datenmodells und kann erläutern, wie dieses die gezielte Ableitung von Managementinformationen aus unterschiedlichen Informationsquellen unterstützt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prozess für die Informationsbeschaffung und die Informationsaufbereitung aus den im Katalog formulierten Anforderungen oder dem semantischen Datenmodell konzipieren und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen bei der systematischen Informationsbeschaffung und -aufbereitung kann den Beitrag der einzelnen Vorgehensschritte zur Qualität und Aussagekraft der Managementinformation erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vorhandene und zusätzlich benötigte Datenquellen aus dem Anforderungskatalog oder dem semantischen Datenmodell bestimmen und daraus ein logisches Datenmodell für das Managementinformationssystem ableiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Basisfunktionalitäten eines Managementinformationssystems und kann aufzeigen für welche Arten von Tätigkeiten diese Funktionalitäten in einem Unternehmen eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Informationsquellen (öffentliche, private, Web) und kann darlegen, welche Vorkehrungen für die Nutzung in einem Managementinformationssystem getroffen werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken der Datenmodellierung, welche eine multidimensionale Darstellung von Managementinformationen ermöglichen und kann deren Nutzen für die Unternehmensführung anhand von Praxisbeispielen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Daten aus den verschiedenen Datenquellen analysieren, plausibilisieren und ins Managementinformationssystem überführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Vorgehen zur Überführung von Informationen aus einem Quell- in das Zielsystem und kann für die einzelnen Schritte aufzeigen, wie diese zur Aktualität, Widerspruchsfreiheit und Konsistenz der Informationen beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die prinzipiellen Probleme bei der Nutzung von Informationen, die aus unterschiedlichen Datenquellen zusammengeführt wurden und kann erläutern, welche Auswirkungen diese auf die Qualität der Managementinformationen haben können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Daten mit einer geeigneten Auswertungsmethode selektieren und aufbereiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Auswertungsmethoden (OLAP-Analysen, Data Mining) und Darstellungsformen, um Informationen in verdichteter Form empfängergerecht zu präsentieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Das Resultat der Datenanalyse interpretieren, stufengerecht aufbereiten und dem Entscheidungsträger präsentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kann Methoden und Techniken zur Herbeiführung zur Entscheidung in einem Gremium beschreiben und an Beispielen erläutern, in welcher Situation diese zur Anwendung kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

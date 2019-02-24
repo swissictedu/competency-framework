@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>141</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=141%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Datenbanksystem in Betrieb nehmen</title>
+    <capability>Datenbanksystem installieren, konfigurieren, Urladung durchführen, Funktionalität sicherstellen und Übergabe in den produktiven Betrieb durchführen.</capability>
+    <goals>
+        <goal>
+            Datenbanksystem nach Vorgaben (zB. Anzahl Benutzer, Speicherbedarf, Transaktionsvolumen, Verfügbarkeitsanforderungen) installieren und für den produktiven Betrieb einrichten bzw. vorbereiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Arten von Datenbanken (zB. relationale-, objektorientierte-, hierarchische, Verteilte DB) und deren typische Merkmale der physischen Datenorganisation.
+                </knowledge>
+                <knowledge>
+                    Kennt wichtige Parameter zur Konfigurierung eines Datenbanksystems und  deren Bedeutung für die Funktionalität und Performance.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Vorgehensweise um ein Datenbanksystem nach Vorgaben umzusetzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Datenbank und Tabellen nach Vorgabe einrichten. Testdaten laden und geforderte Funktionalität überprüfen. Urladung/Datenmigration vorbereiten, dokumentieren und durchführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Aktionen und ihre Abfolgen, welche zum Aufsetzen einer Datenbank in einem Datenbanksystem notwendig sind.
+                </knowledge>
+                <knowledge>
+                    Kennt den Normalisierungsprozess zur Überführung von logischen Schemas in Datenbankschemas.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung von Funktionen und Komponenten des Data Dictionary (Katalog der Metadaten) in einem Datenbanksystem.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Datenbanksystem für den operativen Betrieb vorbereiten, Security-, Backup-, Restart- und Recovery-Prozeduren (Scripts) bereitstellen und testen. Systemtests (Volumen-, Stress- und Crash-Tests) durchführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Sinn und Zweck von Security-, Backup-, Restart- und Recovery-Prozeduren in einem Datenbanksystem für die Sicherstellung des operativen Betriebs.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Schritte, die bei einem Test durchlaufen werden.
+                </knowledge>
+                <knowledge>
+                    Kennt spezifische Testmethoden für Datenbanksysteme zur Überprüfung von Performance und Verfügbarkeit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mittels Standardreports Performance und Verfügbarkeit überprüfen und interpretieren und. Erforderliche Optimierungsmassnahmen durchführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt mögliche Optimierungsmassnahmen zur Verbesserung der Performance und Verfügbarkeit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Grundberechtigungen für den produktiven Einsatz einrichten und Standardreports in Form von Views, Stored Procedure endbenutzergerecht zur Verfügung stellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorgehensweise für die Inbetriebnahmeund Betriebsfreigabe einer Datenbank.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten zur Vergabe von Zugriffsrechten.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen um Business Logik in Stored Procedures abzubilden.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen um Abfragen in Views zur Verfügung zu stellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Übergabe in die operative Umgebung planen durchführen und Abnahmeprotokoll erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Inhalt und Aufbau einer Dokumentation (zB. Installations-, Lizenz-, Betriebs- und Wartungsdokumentation).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

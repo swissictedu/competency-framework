@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>209</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=209%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Diriger et gérer un secteur informatique</title>
+    <capability>Planifier et budgétiser les ressources d’un secteur informatique, organiser le travail des collaborateurs et instaurer une communication interne. Recruter des collaborateurs et promouvoir leur développement.</capability>
+    <goals>
+        <goal>
+            Déterminer et budgétiser, en collaboration avec l’organe hiérarchiquement supérieur, la planification de mise en œuvre des ressources et des besoins à court, moyen et long terme en fonction du cahier des charges prédéterminé ainsi que des objectifs correspondants.
+            <knowledge-list>
+                <knowledge>
+                    Connaît le mode de procéder à utiliser pour planifier l’engagement des ressources dans une unité informatique.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adapter l’unité organisationnelle à la planification de la mise en oeuvre des ressources et des besoins. Mettre à jour ou établir les descriptifs de fonctions et de rôles en tenant compte des tâches, des compétences et des responsabilités.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter la structure d’un descriptif de poste et expliquer quelles informations leur éléments contextuels fournissent par rapport au recrutement et à l’évolution des collaborateurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Comparer la planification des besoins avec les ressources existantes et s’assurer que des collaborateurs aux compétences et possibilités de développement adéquates soient disponibles dans les délais requis, même à plus long terme. En cas de besoin, redéfinir les priorités avec l’organe hiérarchiquement supérieur.
+            <knowledge-list>
+                <knowledge>
+                    Peut décrire la manière dont les principes d’évaluation du personnel peuvent attester des caractéristiques et du comportement des candidats.
+                </knowledge>
+                <knowledge>
+                    Peut énumérer les mesures appropriées au développement à long terme des collaborateurs en termes de comportement et de compétences.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir et répartir (en interne et en externe) des tâches clairement définies (résultats, échéances, charges) et tenir compte des objectifs ainsi que de la planification des ressources à court terme.
+            <knowledge-list>
+                <knowledge>
+                    Peut esquisser la structure d’un mandat de travail et peut expliciter la manière dont la compréhension et l’acceptation sont enregistrées chez les destinataires.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Surveiller l’atteinte des objectifs visés par les tâches courantes grâce à des moyens appropriés. En cas de besoin, proposer des mesures correctives et faire rapport à l’organe hiérarchiquement supérieur.
+            <knowledge-list>
+                <knowledge>
+                    Peut expliquer les fonctions de direction (planifier, décider, allouer, contrôler) et décrire leurs effets sur le contrôle de l’atteinte des objectifs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gérer de manière constructive les différences d’opinion et les conflits dans l’équipe. Prévoir des mesures efficaces afin d’identifier suffisamment rapidement les conflits sous-jacents. Créer un climat de travail ouvert et détendu afin d’empêcher les départs non désirés et des escalades dans les conflits au sein de l’équipe.
+            <knowledge-list>
+                <knowledge>
+                    Peut indiquer les causes possibles de conflits qui pourraient découler d’un travail en groupe.
+                </knowledge>
+                <knowledge>
+                    Connaît les mesures efficaces d’élimination des conflits dans les groupes et peut présenter les règles et les modes de procéder en vue d’une utilisation correcte de ces mesures.
+                </knowledge>
+                <knowledge>
+                    Peut énumérer les conditions générales et les mesures qui motivent une équipe et décrire la manière dont elles contribuent à améliorer les prestations d’une équipe.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Construire un mode d’information interne qui veille à la bonne prise en charge des besoins en information et en communication du secteur organisationnel.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter les moyens d’information et de communication qui sont utilisés au sein d’une unité organisationnelle et décrire la manière dont ceux-ci contribuent au fonctionnement d’un domaine.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

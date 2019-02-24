@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>132</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=132%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Effectuer un appel d’offres et comparer les résultats</title>
+    <capability>Effectuer un appel d’offres pour des moyens informatiques de son propre champ d´activité, évaluer et élaborer les recommandations d’acquisition.</capability>
+    <goals>
+        <goal>
+            Extraire du cahier des charges les informations nécessaires pour l’appel d’offres et élaborer une évaluation de celles-ci.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la procédure lors de l´acquisition de matériels et peut préciser, comment les différentes étapes contribuent à un bon choix.
+                </knowledge>
+                <knowledge>
+                    Connaît les sections les plus importantes d´un cahier des charges et peut préciser quelles sections doivent doit être prises en considération lors l’appel d’offres et leur évaluation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir des prestataires sur le marché et lancer l’appel d’offres.
+            <knowledge-list>
+                <knowledge>
+                    Peut expliquer, pourquoi une présélection des fournisseurs lors de l’appel d´offres est pleinement justifiée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer les offres rentrées avec des techniques de comparaison. Estimer les risques et déterminer les coûts.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure et le contenu d’un appel d’offre, peut préciser par des exemples où des risques possibles se cachent dans les offres.
+                </knowledge>
+                <knowledge>
+                    Connaît les critères les plus importants pour l’évaluation d´une offre et peut préciser, comment à l’aide de ces critères, la décision peut être déclenchée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer une recommandation d’acquisition avec justificatifs à l’attention des décideurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les informations les plus importantes qu´une recommandation d´acquisition doit comprendre et peut préciser, quelles règles doivent être prises en considération pour une recommandation compréhensible et complète.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

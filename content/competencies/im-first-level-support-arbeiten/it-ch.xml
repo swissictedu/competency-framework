@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>112</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=112%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Lavorare nell’assistenza di primo livello</title>
+    <capability>Prendere nota dei problemi e dei bisogni dei clienti nel supporto di primo livello, classificarli ed inoltrarli risp. sottoporre delle appropriate proposte di soluzione.</capability>
+    <goals>
+        <goal>
+            Prendere conoscenza del problema, delle cause del problema o dei bisogni del cliente e circoscriverlo attraverso domande mirate.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le principali tecniche d’interrogazione (domande aperte, domande chiuse) e sa indicare in quali situazioni di ricezione e d’analisi del problema esse sono adatte nel dialogo con il cliente.
+                </knowledge>
+                <knowledge>
+                    Conosce dei metodi che permettono di circoscrivere la causa di un guasto (per es. principio d’esclusione, albero decisionale) e sa spiegare come essi contribuiscono all’analisi sistematica di guasti o di problemi.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Reagire con comprensione alle reazioni emotive del cliente e riportare la conversazione sul problema tecnico.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le principali aspettative della clientela verso un servizio d’assistenza (affidabilità, capacità di reazione, competenza, comprensione) e sa indicare quale comportamento o quali supposizioni personali si devono tenere in considerazione.
+                </knowledge>
+                <knowledge>
+                    Conosce le regole da rispettare per esprimersi in modo chiaro e comprensibile e sa spiegare, per mezzo di esempi, come applicarle nel dialogo con il cliente.
+                </knowledge>
+                <knowledge>
+                    Conosce i principali comportamenti della clientela e i loro retroscena e sa indicare come reagirvi in modo adeguato.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sulla base delle competenze nel supporto, ponderare e decidere se una richiesta del cliente può essere trattata autonomamente o deve essere inoltrata ad altri (escalation).
+            <knowledge-list>
+                <knowledge>
+                    Conosce le principali categorie di domande poste in un ambiente di assistenza informatica estesa (PC/LAN, programmi di burotica, software standard) ad un helpdesk e sa indicare come esse sono differenti sul piano della complessità e in funzione del servizio di cui è generalmente responsabile per la risoluzione del problema.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Se necessario, descrivere dettagliatamente il problema e le cause ed inoltrarlo al supporto di secondo livello (escalation) come mandato di risoluzione al problema (ticket).
+            <knowledge-list>
+                <knowledge>
+                    Conosce le principali categorie d’informazioni da trasmettere con il problema ad un altro servizio e sa spiegare come esse contribuiscono ad un trattamento efficace del problema.
+                </knowledge>
+                <knowledge>
+                    Sa indicare una procedura adattata ai bisogni del cliente nella trasmissione di una discussione e sa spiegare quali esigenze del cliente bisogna tener conto nelle singole fasi.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identificare la soluzione al problema con i mezzi d’aiuto a disposizione (banca dati di risoluzione problemi, documentazione dei produttori, aiuti online, etc.).
+            <knowledge-list>
+                <knowledge>
+                    Conosce le strutture d’aiuto più utilizzate che permettono di orientarsi nella documentazione dei produttori e gli aiuti in linea (struttura tematica, indice, funzioni di ricerca, etc.) e sa indicare come esse facilitano la ricerca precisa d’indicazioni e d’istruzioni.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spiegare in modo comprensibile all’utente la soluzione oppure guidarlo nella risoluzione del problema con istruzioni precise.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le principali regole da rispettare nella comunicazione di soluzioni (definizione di termini tecnici, frasi semplici, andamento progressivo, etc.) e sa spiegare come esse permettono di garantire una risoluzione efficace e duratura del problema.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documentare i nuovi problemi mai riscontrati e la rispettiva soluzione per la banca dati di risoluzione problemi.
+            <knowledge-list>
+                <knowledge>
+                    Sa indicare le regole da rispettare nella documentazione dei problemi di assistenza e delle loro soluzioni e sa spiegare come esse permettono di garantire che le soluzioni potranno essere riutilizzate nella risoluzione di problemi simili.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

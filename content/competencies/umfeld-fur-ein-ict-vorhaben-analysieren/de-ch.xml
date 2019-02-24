@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>496</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=496%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Umfeld für ein ICT-Vorhaben analysieren</title>
+    <capability>Analysiert das für ein ICT‐Vorhaben relevante inner‐ und ausserbetriebliche Umfeld, identifiziert Einflüsse und Ansprüche und leitet die sich daraus ergebenden Chancen, Risiken und Randbedingungen für das ICT‐Vorhaben ab.</capability>
+    <goals>
+        <goal>
+            Identifiziert für ein bestimmtes ICT‐Vorhaben, welche Einflüsse und Ansprüche sich aus dem unternehmensexternen Umfeld ergeben können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Sphären (z.B. Wirtschaft, Gesellschaft, Technologie, Natur) und Anspruchsgruppen (z.B. Kunden, Lieferanten) im Umfeld eines Unternehmens, (z.B. in der Systematik des St. Galler‐Modells).
+                </knowledge>
+                <knowledge>
+                    Kennt grob die aktuelle wirtschaftliche Situation mit ihren aktuellen Risiken und Herausforderungen für das Unternehmen und mögliche Auswirkungen auf bestimmte ICTVorhaben.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Einflussgrössen aus Gesellschaft, Technologie und Natur auf das Unternehmen sowie mögliche Auswirkungen auf konkrete ICT‐Vorhaben.
+                </knowledge>
+                <knowledge>
+                    Kennt grob die aktuellen (Mega‐)Trends in Wirtschaft, Gesellschaft, Technologie (auch ausserhalb der ICT) und Natur und deren potenziellen Einfluss auf heutige und zukünftige ICT‐Vorhaben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert für ein bestimmtes ICT‐Vorhaben, welche Einflüsse und Ansprüche sich aus dem unternehmungsinternen Umfeld (Strategie, Prozesse, Strukturen, Kultur, Menschen) ergeben können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt im Überblick branchenbezogen (z.B. Handel, Fertigung, Dienstleistung etc.) typische Wertschöpfungsketten und den potenziellen Wertschöpfungsbeitrag der ICT.
+                </knowledge>
+                <knowledge>
+                    Kennt im Überblick Ziele und wesentliche Prozessschritte typischer Prozesse in einem Unternehmen (z.B. Fertigung, Lager, Vertrieb, Fakturierung) und den potenziellen Wertschöpfungsbeitrag der ICT.
+                </knowledge>
+                <knowledge>
+                    Kennt den Zusammenhang zwischen Unternehmensumfeld, Strategie, Prozessen und Informationssystemen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert und bewertet die identifizierten Einflüsse und Ansprüche und leitet mögliche Auswirkungen (Chancen, Risiken, Randbedingungen) auf das ICT‐Vorhaben ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die unmittelbaren Abhängigkeiten eines ICT‐Vorhabens vom unternehmensexternen Umfeld und die dazu gehörigen Vorgaben und Massnahmen zur Sicherstellung des Erfolgs eines ICT‐Vorhabens.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen und Darstellungstechniken im Zusammenhang mit der Umfeldanalyse und insbesondere mit der Stakeholder‐Analyse.
+                </knowledge>
+                <knowledge>
+                    Weiss, nach welchen Kriterien Einflüsse und Ansprüche aus dem Umfeld eines ICTVorhabens bewertet werden können und welche Bedeutung diese Bewertung für das weitere Vorgehen hat.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Priorisiert die Randbedingungen, Chancen und Risiken hinsichtlich ihrer Bedeutung für eine erfolgreiche Umsetzung des ICT‐Vorhabens.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung einer konsequenten Kundenorientierung für den Erfolg von ICT-Vorhaben.
+                </knowledge>
+                <knowledge>
+                    Weiss, in welchen Aspekten die Ergebnisse der Umfeldanalyse die eigene Arbeit bzw. die Arbeit von am ICT‐Vorhaben mitbeteiligten Stellen beeinflussen können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kommuniziert die Ergebnisse der Analyse anderen am ICT‐Vorhaben beteiligten Stellen (z.B. Auftraggeber, Vorgesetzter, Mitarbeiter) und leitet die notwendigen Schritte ein, damit diese bei der Umsetzung des Vorhabens berücksichtigt werden.
+            <knowledge-list>
+                <knowledge>
+                    Weiss, wie sichergestellt werden kann, dass die Ansprüche der Stakeholder in ICTVorhaben berücksichtigt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

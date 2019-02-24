@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>662</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=662%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assurer la sécurité TIC</title>
+    <capability>Assurer la sécurité lors de la planification, le développement et dans le système productif global, soit l’intégrité, la confidentialité (y.c. la protection de données) ainsi que la disponibilité des informations/données et le système TIC de base y relatif.</capability>
+    <goals>
+        <goal>
+            Définir quelles normes nationales et internationales ainsi que règles externes dans le domaine du respect TIC concernent l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des normes nationales et internationales dans le domaine de la sécurité TIC (par ex. CobiT, BSI 100‐x, ISO 2000, ITIL, ISO 2700x, IKS, etc.) et leurs relations.
+                </knowledge>
+                <knowledge>
+                    Connaître des règles externes et leur définition (par ex. loi et ordonnance sur la protection des données LPD).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et formuler, en collaboration avec la direction d’entreprise, la ligne de conduite et les objectifs pour la sécurité des informations, et les mettre en œuvre à l’aide d’un cercle PDCA (planifier‐développer‐contrôler‐ajuster).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les catégories d’objectifs de sécurité TIC (par ex. confidentialité, disponibilité, intégrité).
+                </knowledge>
+                <knowledge>
+                    Connaître les restrictions qui doivent être observées lors de la définition des objectifs de sécurité TIC (par ex. état des technologies, budget, connaissances).
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes du cercle PDCA et pouvoir expliquer comment celles‐ci contribuent à l’obtention de la sécurité TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir un système de gestion de la sécurité des informations et un cadre de conformité TIC.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments de définition d’un système de gestion de la sécurité des informations (par ex. selon ISO 27000).
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments d’un cadre de conformité TIC en tant que partie intégrante d’un système de gestion de la sécurité des informations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre ceux‐ci en étroite collaboration avec la direction d’entreprise sur la base d’un processus de gestion de la sécurité des informations et assurer son respect.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les enjeux spécifiques qui doivent être pris en considération dans le but d’une introduction et mise en œuvre durable d’un système de gestion de la sécurité des informations.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités pour la définition de mécanismes de contrôle (par ex. questions de contrôle, catalogue de la protection de base).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir, pour la surveillance, le contrôle et l’optimisation des systèmes TIC, une gestion exhaustive des contrôles sur tous les processus commerciaux et infrastructures.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les exigences pour un système de gestion des audits (par ex. des systèmes et composants de soutien, conformité de la certification).
+                </knowledge>
+                <knowledge>
+                    Connaître des formes, construction et contenu de mécanismes de surveillance et de contrôle en relation avec les directives de sécurité TIC (par ex. sous forme de règles IDS).
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures préventives, lors de la définition et planification d’un audit, sur la profondeur, l’environnement et la force d’expression qui en résultent.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documenter le déroulement d’audits, la saisie, respectivement, l’évaluation des résultats de sorte que ceux‐ci soient contrôlables et reproductibles.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les données dans un rapport d’audit et pouvoir démontrer comment celles‐ci influencent la reproductibilité et la force d’expression.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Exécuter régulièrement des audits d’informations et systèmes dans le cadre des TIC (disponibilité, confidentialité, intégrité, sécurité des informations, conservation et protection des données).
+            <knowledge-list>
+                <knowledge>
+                    Connaître des modèles de déroulement pour l’exécution d’un audit dans des systèmes TIC (par ex. importance, profondeur, connaissances préalables, état du savoir, interne/externe).
+                </knowledge>
+                <knowledge>
+                    Connaître des systèmes d’évaluation et leur force d’expression dans le domaine de la sécurité TIC (par ex. OSSTMM).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Exploiter les résultats des audits et définir le cadre des processus pour l’implémentation et la gestion de mesures afin d’assurer les objectifs spécifiques de la sécurité des informations.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des dimensions d’évaluation pour l’exploitation de mécanismes de surveillance et de contrôle (par ex. potentiel de menaces).
+                </knowledge>
+                <knowledge>
+                    Connaître les méthodes et techniques fondamentales pour la planification et la surveillance de mesures de sécurité TIC (délégation, convention, rapport).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

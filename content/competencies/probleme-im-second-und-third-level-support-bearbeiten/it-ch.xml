@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>137</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=137%26clang=it</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Prendre en charge l&amp;#039;assistance en deuxi&amp;egrave;me et troisi&amp;egrave;me instance</title>
+    <capability>Analyser les problèmes transmis à l’assistance en 2e et 3e instance, élaborer respectivement proposer une solution, implémenter la solution et la documenter dans le Trouble Ticket System ou transmettre plus haut selon prescriptions.</capability>
+    <goals>
+        <goal>
+            Constatare gli aspetti di rischio e sicurezza dei problemi inoltrati dal supporto di primo e/o secondo livello attraverso delle liste di controllo (check-list) e includerli nella successiva fase di elaborazione. Analizzare il problema così come tutte le informazioni necessarie per trovare la soluzione. Consultare il TTS.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehensweisen und Techniken zur Eingrenzung und Klassierung von Fehlerzuständen und kann aufzeigen, mit welchen Mitteln diese in Checklisten umgesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Funktionen eines Trouble Ticketsystems und kann erläutern, welchen Beitrag diese zu einer effizenten und effektiven Fehlerbehandlung beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt Kategorien von Informationen die bei der Abarbeitung eines Trouble Tickets von Bedeutung sind und kann erläutern, welchen Beitrag diese zu einer effizenten und effektiven Fehlerbehandlung beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Delimitare il problema in modo indipendente oppure in un team di specialisti, sfruttare le conoscenze ed elaborare la soluzione e, se necessario, implementarla.
+            <knowledge-list>
+                <knowledge>
+                    Kennt persönliche Verhaltensregeln für eine effiziente und effektive Bearbeitung von Problemstellungen in Teams und kann aufzeigen, welchen Beitrag sie in dieser Hinsicht leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Redigere o ampliare un protocollo di risoluzione problemi per l’eliminazione del guasto/del problema ed affrontare i punti deboli conosciuti secondo specifiche.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Informationen zu einer Problemlösung oder Fehlerbehandlung und kann aufzeigen, welchen Beitrag diese hinsichtlich Nachvollziehbarkeit und Eindeutigkeit leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sulla base della lista di controllo dei rischi, in caso di problemi/guasti che non hanno una soluzione immediata, affrontare per primo i processi/applicazioni con la più alta priorità
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Schritte bei der Eskalation von kritischen Problemen und kann aufzeigen, welche Bedeutung Eskalationsprozeduren für einen sicheren Betrieb der Systeme haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dove necessario, recuperare informazioni complete dai fornitori (HW e SW) ed eventualmente far documentare i cambiamenti/sviluppi tecnici.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Arten von Herstellerdokumentationen und kann aufzeigen, für welche Kategorien von Problemen diese eine Hilfestellung bieten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

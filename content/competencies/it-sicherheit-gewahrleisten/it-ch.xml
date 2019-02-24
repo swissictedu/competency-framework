@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>211</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=211%26clang=it</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Instituer une politique de sécurité</title>
+    <capability>Elaborare, applicare e gestire dei concetti strategici di sicurezza IT per garantire la sicurezza IT (protezione dei dati, sicurezza dei dati, disponibilità). Definire e introdurre processi di sicurezza IT e provvedimenti organizzativi per garantire il funzionamento operativo di aziende / organizzazioni con la massima sicurezza possibile.</capability>
+    <goals>
+        <goal>
+            Analizzare la strategia dell’azienda e le strategie IT, dedurne le esigenze di sicurezza e progettare o adattare una strategia di sicurezza IT.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien, die in einer Unternehmensstrategie und/oder in einer IT Strategie für eine IT Sicherheitsstrategie von Bedeutung sind und kann deren Aussagen als Beitrag zur Gewährleistung der Unternehmenssicherheit erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Struktur einer standardisierten IT Sicherheitsstrategie und kann erläutern wie diese auf ein bestimmtes Unternehmen adaptiert werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dedurre e definire concetti, procedure, processi di sicurezza e le necessarie strutture organizzative per garantire la sicurezza IT.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Techniken, um aus Strategien Anforderungen, Messgrössen und Bedingungen in Konzepte, organisatorische und ablauftechnische Vorgaben zu überführen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborare, documentare e introdurre le direttive di sicurezza IT, l’organizzazione della sicurezza e i criteri di misurazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt zu erfüllende Sicherheitskriterien eines Unternehmens und kann darlegen, in welchen Bereichen diese einen Beitrag zur Gewährleistung der Sicherheit und Vertraulichkeit leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire e introdurre per il funzionamento operativo, processi periodici di controllo con criteri di misurazione e di allarme.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Struktur und Inhalte eines Qualitätssicherungsplans kann dessen Eignung als Steuerungsinstrument für periodische Überprüfungen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborare e introdurre procedure per un’informazione periodica e affidabile del personale sui nuovi aspetti principali relativi alla sicurezza.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Techniken zur Formulierung von Verhaltensleitsätzen und kann deren Wirkungen als Beitrag zur Sensibilisierung der Mitarbeiter darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Informare il personale sui rischi della sicurezza IT, sulle disposizioni e sull’organizzazione della sicurezza, comunicare il concetto di allarme ed insegnare nella pratica un comportamento sicuro da tenere in caso di sospetto.
+            <knowledge-list>
+                <knowledge>
+                    Kann Anordnungen zur korrekten Verhaltensweise formulieren (Richtlinien).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Controllare periodicamente i processi di sicurezza, l’organizzazio-ne della sicurezza e le direttive per quanto riguarda la loro attualità, adeguatezza e adempimento.
+            <knowledge-list>
+                <knowledge>
+                    Kann einen Qualitätssicherungsplan für periodische Überprüfungen definieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Controllare periodicamente il funzionamento dell’organizzazione d’allarme e delle procedure di escalation in caso di catastrofe.
+            <knowledge-list>
+                <knowledge>
+                    Kann nicht stetige Prozesse auf Wirksamkeit überprüfen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

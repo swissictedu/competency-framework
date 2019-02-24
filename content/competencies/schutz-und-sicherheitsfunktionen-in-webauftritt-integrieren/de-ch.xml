@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>173</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=173%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Schutz- und Sicherheitsfunktionen in Webauftritt integrieren</title>
+    <capability>Datenschutz und Sicherheitsmassnahmen für Personen- und Geschäftsdaten in Webauftritten integrieren.</capability>
+    <goals>
+        <goal>
+            In einem Webauftritt zu bearbeitende Informationen auf ihre Schutzziele hin untersuchen und nach Vertraulichkeits-, Verfügbarkeits-, Integritäts- und Verbindlichkeits-Aspekten klassieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Schutzziele für Informationen, welche sich aus gesetzlichen und betrieblichen Anforderungen ableiten und kann darlegen, welche Gefahren bei deren Einhaltung begegnet wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prozessketten der Webnutzung bis zur Datenbasis und retour analysieren, Schutz- und Sicherheitslücken aufdecken und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die häufigsten Sicherheitslücken für Daten und Informationen einer Internetanwendung und kann aufzeigen, in welcher Art und Weise diese Daten und Informationen gefährden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Potentiell durch Transaktionen gefährdete Websites bzw. potentiell gefährdete Geschäftsdaten identifizieren.
+            <knowledge-list>
+                <knowledge>
+                    
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nutzungsprofile von Usern mit geeigneten Tools bestimmen und standardisierte Userklassen bilden.
+            <knowledge-list>
+                <knowledge>
+                    Kann Gesichtspunkte für die Bildung von Nutzungsprofilen bzw. Userklassen für eine Website aufzeigen und ihre Bedeutung für einen sicheren und effizienten Betrieb einer Website erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Für den Zugangs- und Zugriffsschutz geeignete Massnahmen vorschlagen (Login, Passwörter, Authentifizierung, Autorisierung, Zertifikate, Session ID, Verschlüsselung, usw.).
+            <knowledge-list>
+                <knowledge>
+                    Kennt Verfahren für den Zugangs- und Zugriffsschutz eines Internetauftritts und kann erläutern, bei welchen Gefährdungspotentialen diese sinnvoll zum Einsatz kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schutz der Informationen auf dem Netz nach Bedarf mit geeigneten Massnahmen gewährleisten (VPN, SSL, usw.).
+            <knowledge-list>
+                <knowledge>
+                    Kennt Verfahren zum Schutz der Kommunikationsverbindungen gegen nicht autorisierte Einsichtnahme und Manipulation von Informationen und kann erläutern, bei welchen Gefährdungspotentialen diese sinnvoll zum Einsatz kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schutzziele, Prozessketten, potentiell gefährdete Geschäftsdaten, Userklassen und geplante Schutzmassnahmen zusammenführen und Web-bezogenes Sicherheitskonzept entwickeln.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die systematische Vorgehensweise zur Lösung einer Problemstellung und kann aufzeigen, welchen Beitrag die einzelnen Phasen dieses Vorgehens zur Problemlösung leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Konzept präsentieren und bewilligen lassen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Regeln, welche beim inhaltlichen Aufbau einer Präsentation zu beachten sind und kann erläutern, wie die Einhaltung dieser Regeln zur Verständlichkeit und Aussagekraft beitragen.
+                </knowledge>
+                <knowledge>
+                    Kann Methoden und Techniken zur Herbeiführung einer Entscheidung in einem Gremium beschreiben und an Beispielen erläutern, in welchen Situationen diese zur Anwendung kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Getroffene Massnahmen mit einem Testszenario verifizieren und Testprotokoll erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische Aspekte im Bereich Sicherheit, die bei einer Migration und Integration einer Lösung zu berücksichtigen sind und kann darlegen, welche Bedeutung diese Aspekte bei der Implementierung eines Internetauftritts haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verhaltensrichtlinien und Motivationsmassnahmen zur Förderung einer Sicherheitskultur beschreiben.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Auswirkungen von verbreiteten Verhaltensweisen einer Person oder einer Gruppe auf die Sicherheitskultur in einem Unternehmen aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kann die wichtigsten Voraussetzungen und Massnahmen in der Mitarbeiterführung beschreiben, die dazu führen, dass Mitarbeitende bereit sind, Verantwortung zu übernehmen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

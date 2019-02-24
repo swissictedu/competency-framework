@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>673</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=673%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Awareness für Informationssicherheit schaffen und fördern</title>
+    <capability>Identifiziert im Bereich der Informationssicherheit bedarfs- und zielgruppengerechte Kommunikations- und Schulungsmassnahmen zur Schaffung und Förderung von Awareness und setzt diese um.</capability>
+    <goals>
+        <goal>
+            Baut ein tragfähiges Beziehungsnetzwerk mit relevanten Anspruchsgruppen und Medien auf und stellt den regelmässigen Wissens- und Erfahrungsaustausch im Bereich der Informationssicherheit sicher.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante externe Stellen im Bereich der der Informationssicherheit (z.B. Fachverbände, ISACA, Expertenforen, externe Beratungsstellen).
+                </knowledge>
+                <knowledge>
+                    Kennt relevante Medien im Umfeld einer Organisation und die Faktoren für eine erfolgreiche Medienarbeit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nimmt Bedürfnisse und Fragen von Stakeholdern auf und berät diese im Bereich der Informationssicherheit zielgruppengerecht und kompetent.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Modelle des Zuhörens (z.B. Rogers, Steil) und kann deren Bedeutung für die Reduktion von Missverständnissen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundsätze der systemisch-lösungsorientierten Beratung (z.B. Ressourcenorientierung, Multiperspektivität, lösungsorientiere Fragetechniken, Reframing).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wertet sicherheitsrelevante Informationen aus dem operativen Betrieb einer Organisation aus und identifiziert den Bedarf an Kommunikations- oder Schulungsmassnahmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Prozess der Handhabung von Informationssicherheitsvorfällen in einer Organisation (z.B. Prioritäten, Kategorien, Eskalationsprozess) und kann grundsätzliche Ursachen von Vorfällen und Nichtkonformitäten erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten statistischen Kenngrössen und Key Performance Indikatoren (KPI) einer Organisation.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Methoden und Techniken zur Verdichtung von Informationen aus dem operativen Betrieb (z.B. Histogramm, Korrelationsdiagramm, Trendanalyse).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wählt unter Berücksichtigung der Rahmenbedingungen eine geeignete Methode für eine Kommunikations- oder Schulungsmassnahme aus und legt die Kommunikationskanäle fest.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Einflussgrössen auf Kommunikations- und Schulungsmassnahmen (z.B. Zielgruppe, Kosten, Zeit und Qualität).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Sensibilisierung von Stakeholdern (z.B. Informationskampagne, Schulung, Live-Demonstrationen, Beratung) und kann deren Eignung und die Vor- und Nachteile erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Kommunikationskanäle (z.B. Face-to-Face, Printmedien, Soziale Medien, Foren, Webinar, Fernsehen, Radio) und kann die Unterschiede in Bezug auf die Wirkung und deren Vor- und Nachteile erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant eine Kommunikationsmassnahme und bereitet die Kommunikationsinhalte zielgruppen- und mediengerecht auf.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Unterschiede zwischen interner und externer Kommunikation.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Medienformate (z.B. Text, Ton, Bild, Video) und kann deren Vor- und Nachteile erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegenden Werkzeuge für die Medienarbeit (z.B. Medienmitteilung, Medienkonferenz, Medienmappe, Sperrfrist).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant eine Schulung und bereitet die Schulungsinhalte didaktisch auf.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Konzept des ganzheitlichen Lernens mit Kopf, Hand und Herz.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Schulungskonzepte (z.B. Präsenzschulung, E-Learning, Blended Learning, Selbststudium) und deren Unterschiede hinsichtlich Didaktik, Sozialform und Arbeitsform.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Schulungsmethoden (z.B. Referat, Live-Demonstration, Spiele, Rollenspiele, Diskussionen) und kann deren Vor- und Nachteile erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Faktoren für die Planung einer Schulung (z.B. Thema, Zielpublikum, Zeit, Hilfsmittel, Methodenvielfalt).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt eine Kommunikations- oder Schulungsmassnahme um, wertet die erzielten Ergebnisse aus und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Wirkungsmessung einer Kommunikationsmassnahme (z.B. Webtracking, Medienclipping, Befragung).
+                </knowledge>
+                <knowledge>
+                    Kennt relevante Aspekte für die Evaluation von Schulungen (z.B. Zufriedenheit der Teilnehmenden, Lernerfolg, Praxistransfer, Nutzen).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Evaluation von Schulungen (z.B. Fragebogen, Tests) und kann deren Vor- und Nachteile erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

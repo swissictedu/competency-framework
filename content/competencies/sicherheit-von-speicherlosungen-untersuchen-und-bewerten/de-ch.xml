@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>677</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=677%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Sicherheit von Speicherlösungen untersuchen und bewerten</title>
+    <capability>Untersucht die Speicherlösungen einer Organisation, bewertet deren Reifegrad bezüglich Informationssicherheit und empfiehlt Verbesserungsmassnahmen für die Sicherheit der Speicherlösungen.</capability>
+    <goals>
+        <goal>
+            Ermittelt den Istzustand der Speicherlösungen einer Organisation und dokumentiert die Architektur in geeigneter Form.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Speicherarchitekturen (DAS, NAS, SAN und Objektspeicherung) und deren Merkmale hinsichtlich Konnektivität (z.B. SCSI, FC, Ethernet), Zugriffsverfahren (block-, datei- oder objektbasiert) und Protokolle (z.B. iSCSI, SAS, NFS, CIFS/SMB, HTTP).
+                </knowledge>
+                <knowledge>
+                    Kennt die gebräuchlichen elektronischen, magnetischen und optischen Speichermedien und deren Merkmale hinsichtlich Performance, Speicherkapazität, Preis und Lebensdauer (Haltbarkeit).
+                </knowledge>
+                <knowledge>
+                    Kennt die gebräuchlichen Technologien und Verfahren für den Verbund und die Organisation von Massenspeichern (z.B. Disk Arrays, JBOD, RAID, Tape Library).
+                </knowledge>
+                <knowledge>
+                    Kennt das Konzept der Storage-Virtualisierung und die unterschiedlichen Technologien für die Speichervirtualisierung (z.B. netzwerkbasiert als In-Band, Out-of-Band oder Split-Path; hostbasiert; controllerbasiert, VTL).
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Cloudlösungen (z.B. Private Cloud, Public Cloud, Hybrid Cloud, Community Cloud) und kann deren Merkmale und Unterschiede für die Sicherheit von Speicherlösungen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungsformen zur Dokumentation von Speicherlösungen (z.B. physikalische und logische Netzwerkpläne, Schichtenmodell, Blockdiagramm).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet unter Berücksichtigung der relevanten betrieblichen und gesetzlichen Vorgaben die Anforderungen für die Sicherheit und den Datenschutz der Speicherlösungen ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung der Klassifizierung von Informationen hinsichtlich Vertraulichkeit, Integrität und Verfügbarkeit und kann die Anforderungen an ein Klassifizierungskonzept und geeignete Verfahren für die Umsetzung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt das Ziel und die Bedeutung der Sicherung, Archivierung und Wiederherstellung der Daten und kann die Anforderungen an ein Datensicherungskonzept und geeignete Strategien und Verfahren für die Umsetzung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten gesetzlichen Vorgaben bei der Speicherung, Bearbeitung und Archivierung von Daten (z.B. Aufbewahrungsfristen gemäss Geschäftsbücherverordnung (GeBüV), Regelungen gemäss EU-US Privacy Shield) und zum Schutz sensibler Daten (z.B. Bundesgesetz über den Datenschutz (DSG), Datenschutz-Grundverordnung der Europäischen Union (EU-DSGVO)).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die Sicherheit der Speicherlösungen auf der Ebene der Prozesse und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Prozessanforderungen an die Administration und den Betrieb von Speicherlösungen (z.B. Zugangssteuerung und Schlüsselverwaltung, Aufbewahrung von Datenträgern, periodische Überprüfung der Wiederherstellung von Daten).
+                </knowledge>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Anforderungen an die Überwachung von Speicherlösungen und die relevanten gesetzlichen oder regulatorischen Vorgaben (z.B. Ereignisprotokollierung, Datenschutz bei der Aufzeichnung sensibler Daten, Verhältnismässigkeit, Aufbewahrungsdauer der aufgezeichneten Daten).
+                </knowledge>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Anforderungen an das Release-, Update- und End-of-Life-Management von Komponenten und relevanter Software von Speicherlösungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die Sicherheit der Speicherlösungen aus technischer Sicht und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Eignung und die typischen Anwendungszwecke der unterschiedlichen Speichermedien und Technologien.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Massnahmen zur Erhöhung der Ausfallsicherheit und Verfügbarkeit (z.B. RAID, Failover-Cluster, HA-Systeme, Spiegelung und Replikation von Systemen, Georedundanz).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur abgestuften Speicherung verschiedener Daten auf unterschiedliche Speichermedien (z.B. Tiered Storage, Hierarchisches Speichermanagement).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Kapazitäts- und Leistungsoptimierung von Speicherlösungen (z.B. Kompression, Deduplizierung).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die Speicherlösungen in Bezug auf den Einsatz von kryptografischen Massnahmen und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die gebräuchlichen kryptografischen Verfahren für die hardwarebasierte Verschlüsselung von Datenträgern (z.B. AES, SHA).
+                </knowledge>
+                <knowledge>
+                    Kennt die erweiterten Anforderungen an die Verschlüsselung bei netzwerkbasierten Speicherlösungen und kann die gebräuchlichen Verfahren für eine verschlüsselte Datenübertragung erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erarbeitet auf der Basis der identifizierten Schwachstellen einen Massnahmenkatalog für die Verbesserung der Sicherheit der Speicherlösungen, formuliert eine Empfehlung und präsentiert diese den Entscheidungsträgern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Inhalte und die Gliederung eines strukturierten Massnahmenkatalogs (z.B. Massnahme, Zeitbedarf, Zuständigkeit, Mehrwert, Kostenschätzung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Inhalte und die Gliederung einer guten Präsentation und kann den Einfluss relevanter Haltungen auf die Überzeugungsarbeit erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

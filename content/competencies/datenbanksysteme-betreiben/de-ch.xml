@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>140</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=140%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Datenbanksysteme betreiben</title>
+    <capability>Datenbanksystem in einer produktiven Umgebung betreiben. User, Rollen und Rechte nach Vorgabe einpflegen, Extrakte erzeugen und Datenbankberichte auswerten.</capability>
+    <goals>
+        <goal>
+            Dokumentationen, Strukturen und betriebliche Vorgaben zur Datenbank und zum Datenbanksystem interpretieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau einer Betriebsdokumentation zu einem Datenbanksystem und kann für die einzelnen Elemente aufzeigen, welche Bedeutung diese für einen zuverlässigen Betrieb und eine nachhaltige Wartung haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            User, Rollen und Rechte nach Vorgabe einpflegen (Administration) und Betriebsdokumentationen nachführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Prinzip der Sichten und Rollen für die Vergabe von Berechtigungen und Rechten in einem Datenbanksystem und kann aufzeigen, wie damit unterschiedliche betriebliche Anforderungen überschaubar und gesichert administriert werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Speicherauslastung, Performance und Verfügbarkeit mit standardisierten Datenbankreports überwachen. Fehler/Probleme analysieren, dokumentieren und allenfalls erforderliche Eskalation einleiten und überwachen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt gängige Reports von Datenbanksystemen und kann erläutern, welche Aussagen diese Reports liefern und wie diese zu gewichten sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Kategorien von Meldungen beim Betrieb eines Datenbanksystems und kann an Beispielen aufzeigen, welche Meldungen als kritisch einzustufen sind und eskaliert werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Auswertungen/Extrakte nach Vorgabe erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Sprachelemente einer Datenbankabfragesprache für die Extrahierung von Informationen und kann an Beispielen aufzeigen, mit welchen Sprachelementen welche Informationsextrakte effizient erzeugt werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Upgrade-, Update- und Repair-Aufgaben nach Anweisung durchführen und deren Wirkung überwachen.
+            <knowledge-list>
+                <knowledge>
+                    Weiss um die Kritikalität von Upgrade-, Update- und Repair-Aufgaben im produktiven Betrieb eines Datenbanksystems und kann für die einzelnen Aufgaben Vorkehrungen nennen, die eine problemlose Rückkehr in den Ursprungszustand ermöglichen.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Methode (z.B. Testen, Validierung) für die Erfolgskontrolle und kann deren Einsatz für die Bestimmung der Zielerfüllung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Überprüfung und Sicherstellung der Integrität von Informationen und kann erläutern, welche Arten von Fehlern damit verhindert werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Benutzer-Probleme bearbeiten (First Level Support) und falls erforderlich eskalieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt typische Probleme beim Abruf von Informationen aus einer Datenbank (ungenügende Rollen, Berechtigungen, Rechte) und kann gegenüber Usern erläutern, warum bestimmte Zugriffe nicht das gewünschte Ergebnis liefern.
+                </knowledge>
+                <knowledge>
+                    Kann durch User ausgelöste Fehlermeldungen des Datenbanksystems interpretieren und aufgrund des Fehlerzustands entscheiden, ob eine Eskalation des Fehlers angezeigt ist.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dokumentation des Datenbanksystems pflegen (Data Dictonary).
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufbau und Inhalte eines Data Dictionary und kann an Beispielen erläutern, wie die Metainformationen im Data Dictionary den Umgang mit dem Datenbanksystem unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>304</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=304%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Installer et configurer un ordinateur mono-poste</title>
+    <capability>Mettre en service un ordinateur, installer, configurer le système d´exploitation et une suite bureautique, relier à Internet, tester le système.</capability>
+    <goals>
+        <goal>
+            Mettre en service les composants d´un ordinateur mono-poste (écran, clavier, souris et imprimante) selon directives.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes du traitement des informations dans un micro-ordinateur et pouvoir expliquer les tâches des composants matériels (processeur, mémoire de travail, mémoire de masse, systèmes de bus) et la manière dont les informations circulent entre eux (saisie, traitement, sortie, mémorisation et communication).
+                </knowledge>
+                <knowledge>
+                    Connaître les principales caractéristiques de performance et spécifications des composants matériels d´un ordinateur monoposte et pouvoir expliquer quelles sont les configurations matérielles nécessaires pour les différents domaines d´utilisation.
+                </knowledge>
+                <knowledge>
+                    Connaître les interfaces de périphérique et les systèmes de bus standard d´un ordinateur monoposte et pouvoir indiquer en fonction de leurs caractéristiques les utilisations pour lesquelles ils sont prévus.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer, configurer et tester le système d´exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales fonctions d´un système d´exploitation de ordinateur monoposte et pouvoir expliquer sur la base de cas d´utilisation courants comment ces fonctions contrôlent et soutiennent le traitement d´informations.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux paramètres de configuration d´un système d´exploitation d’ordinateur monoposte et pouvoir expliquer à l´aide d´exemple comment ils permettent d´assurer une compatibilité optimale entre les matériels et le système d´exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Lors de l´installation, observer les dispositions des licences logicielles et, le cas échéant, effectuer et activer l´enregistrement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales méthodes qui permettent d´établir une liaison Internet sur un client et pouvoir expliquer comment elles garantissent la communication.
+                </knowledge>
+                <knowledge>
+                    Connaître le principe du déroulement de l’enregistrement et l’activation de composants informatiques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer, configurer et tester une suite bureautique selon directives.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux paramètres utilisés dans l´installation standard d´une suite bureautique (étendue des fonctions, indication des chemins) et pouvoir en expliquer les conséquences pour l´utilisation des programmes et l´exploitation de l’ordinateur monoposte (stockage des données, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer selon directives et tester l’accès au réseau. Prendre les mesures de protection pour un fonctionnement sûr de l’ordinateur et du réseau.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales méthodes qui permettent d´établir une liaison réseau chez un client et pouvoir expliquer comment elles garantissent la communication.
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures de sécurité nécessaires (protection anti-virus, Firewall, mises à jour) afin de protéger l’ordinateur monoposte contre les dangers actuels.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Activer les réglages pour la réduction de consommation d´énergie.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités de paramétrage d´économie d´énergie d´un ordinateur monoposte et pouvoir expliquer leurs conséquences pour la convivialité, l´environnement et la durée de vie des appareils
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Cerner systématiquement les erreurs de configuration et les pannes, le cas échéant, corriger et/ou dépanner.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux types de messages d´erreur (matériel, système d´exploitation, logiciels, etc.) et peut expliquer les principaux éléments qui permettent d´établir un lien entre les messages d´erreur et la catégorie dont ils font partie.
+                </knowledge>
+                <knowledge>
+                    Connaître une méthode (par ex. exclusion de systèmes partiels intacts) permettant de cerner systématiquement les erreurs et pouvoir la démontrer à l´aide d´un exemple typique de panne.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adapter la place de travail ordinateur en tenant compte des principes de l´ergonomie.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales directives concernant l´ergonomie des postes de travail informatisés et pouvoir expliquer comment ils contribuent au bien-être de l´utilisateur et évitent les atteintes à sa santé.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Livrer la place de travail ordinateur à l´utilisateur sur la base d´un protocole de remise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l´importance d´une transmission réglementée d’un ordinateur monoposte (procès-verbal de réception) aux utilisateurs et pouvoir l´illustrer par des avantages concrets qu´en retirent les personnes concernées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

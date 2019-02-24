@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>678</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=678%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Sicherheit von End- und Peripheriegeräten untersuchen und bewerten</title>
+    <capability>Untersucht den Einsatz und die Integration von standortgebundenen und mobilen End- und Peripheriegeräten in einer Organisation, bewertet den Reifegrad bezüglich Informationssicherheit und empfiehlt Verbesserungsmassnahmen für die Sicherheit.</capability>
+    <goals>
+        <goal>
+            Ermittelt den Istzustand der standortgebundenen und mobilen End- und Peripheriegeräte einer Organisation und dokumentiert deren Integration in die vorhandene ICT-Infrastruktur in geeigneter Form.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die unterschiedlichen standortgebundenen und mobilen End- und Peripheriegeräte, Sensoren und Aktoren (z.B. Fat-, Thin und mobile Client, Drucker, Scanner, Smart-Watches, Smart-Home-Lösungen) und deren typische Einsatzgebiete.
+                </knowledge>
+                <knowledge>
+                    Kennt die unterschiedlichen Netzwerkstandards bei der Integration und Kommunikation von End- und Peripheriegeräten in LAN, WLAN, PAN und WPAN (z.B. IEEE 802.3, IEEE 802.11, Bluetooth, Infrarot, RFID, Z-Wave) und kann deren Merkmale und potenziellen Schwachstellen für die Informationssicherheit erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Typen des Fernzugriffs von Endgeräten auf das Firmennetzwerk (z.B. End-to-Site VPN, End-to-End VPN, mobile VPN) und kann deren Unterschiede erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Funktionen der gängigen Betriebssysteme von Endgeräten (z.B. Windows, Linux, iOS, Android).
+                </knowledge>
+                <knowledge>
+                    Kennt das Konzept der Virtuellen Desktop-Infrastruktur (VDI) und kann die Vor- und Nachteile solcher Lösungen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungsformen zur Dokumentation von End- und Peripheriegeräten und deren Integration in der ICT-Infrastruktur (z.B. Blockdiagramm, Netzwerkplan, Geräte- und Inventarlisten).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft die Sicherheit beim Einsatz und der Integration der End- und Peripheriegeräte mit geeigneten Methoden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die relevanten Empfehlungen für standortgebundene und mobile End- und Peripheriegeräte aus dem de-facto Standard Open Source Security Testing Methodology Manual (OSSTMM).
+                </knowledge>
+                <knowledge>
+                    Kennt relevante Bedrohungen und Angriffsvektoren bei End- und Peripheriegeräten (z.B. Schadsoftware, Diebstahl, fehlerhafte Konfiguration, technische Schwachstellen, Phishing, Spoofing, Snarfing, Bluejacking).
+                </knowledge>
+                <knowledge>
+                    Kennt die spezifischen Anforderungen und Risiken bei Umgebungen mit "Bring Your Own Device" (BYOD).
+                </knowledge>
+                <knowledge>
+                    Kennt gebräuchliche Werkzeuge zur Erkennung von Schwachstellen auf End- und Peripheriegeräten (z.B. Vulnerability-Scan, Antivirensoftware).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die Sicherheit der End- und Peripheriegeräte auf der Ebene der Prozesse und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Prozessanforderungen an die Administration und die Benutzung von End- und Peripheriegeräten (z.B. Massnahmen gegen Verlust und Diebstahl, Zugangssteuerung und Schlüsselverwaltung).
+                </knowledge>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Anforderungen an die Überwachung von End- und Peripheriegeräten und die relevanten gesetzlichen oder regulatorischen Vorgaben (z.B. Datenschutz bei BYOD und bei der Aufzeichnung sensibler Daten, Verhältnismässigkeit, Aufbewahrungsdauer der aufgezeichneten Daten).
+                </knowledge>
+                <knowledge>
+                    Kennt die sicherheitsrelevanten Anforderungen an das Release-, Update- und End-of-Life-Management von End- und Peripheriegeräten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die Sicherheit der End- und Peripheriegeräte aus technischer Sicht und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische Massnahmen gegen Schadsoftware auf End- und Peripheriegeräten (z.B. Virenscanner, Antimalware-Lösungen).
+                </knowledge>
+                <knowledge>
+                    Kennt technische Massnahmen zur Steuerung des Zugriffs auf End- und Peripheriegeräten (z.B. ACL, Benutzerauthentifizierung, Mehrfaktor-Authentifizierung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten, Funktionen und Grenzen von Enterprise Mobility Management Lösungen (EMM) oder einzelnen Teilen davon (z.B. MDM, MAM).
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen, Möglichkeiten und Grenzen von Security Information und Event Management Lösungen (SIEM) und deren Bedeutung für die Forensik.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bewertet die End- und Peripheriegeräte in Bezug auf den Einsatz von kryptografischen Massnahmen und identifiziert mögliche Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten zur Verschlüsselung der Daten auf End- und Peripheriegeräten (z.B. softwarebasierte Verschlüsselung der Festplatte oder des Gerätespeichers).
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten für die abhörsichere Übertragung von Telefondaten (z.B. SRTP bei VoIP, App zur Sprachverschlüsselung bei mobilen Endgeräten).
+                </knowledge>
+                <knowledge>
+                    Kennt das Konzept von Trusted Computing Plattformen (TC) und dem Einsatz von Trusted Platform Modulen (TPM).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erarbeitet auf der Basis der identifizierten Schwachstellen einen Massnahmenkatalog für die Verbesserung der Sicherheit der End- und Peripheriegeräte, formuliert eine Empfehlung und präsentiert diese den Entscheidungsträgern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Inhalte und die Gliederung eines strukturierten Massnahmenkatalogs (z.B. Massnahme, Zeitbedarf, Zuständigkeit, Mehrwert, Kostenschätzung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Inhalte und die Gliederung einer guten Präsentation und kann den Einfluss relevanter Haltungen auf die Überzeugungsarbeit erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

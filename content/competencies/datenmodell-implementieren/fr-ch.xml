@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>104</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=104%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter un modèle de données</title>
+    <capability>Représenter et administrer des données structurées dans un logiciel de base de données à l’aide d’un schéma conceptuel de base de données.</capability>
+    <goals>
+        <goal>
+            Interpréter un schéma conceptuel de base de données à l’aide des entités, attributs et relations.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les termes d’entités, d’attributs et de relation dans un schéma conceptuel de base de données ainsi que leur représentation.
+                </knowledge>
+                <knowledge>
+                    Connaître les différentes cardinalités et leur signification en regard des relations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer, normaliser un schéma logique de base de données et le représenter sous forme de diagramme.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement du développement d’une base de données (identifier des tables, définir des attributs, établir des relations).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter un schéma logique de base de données avec un logiciel approprié.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments d’un programme de base de données qui permettent de mettre en œuvre un modèle de données en un schéma physique de base de données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer avec un logiciel de base de données une interface utilisateur pour la saisie, la modification et l´évaluation des données en tenant compte de la protection et de la sécurité des données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les composants GUI et les champs de formulaire pour la définition d´interfaces utilisateur de saisie, de modification et d´évaluation de données.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales règles de séquence et de désignation des informations à respecter pour créer une interface utilisateur ergonomique pour une base de données.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales questions pour la manipulation, la sélection et l´évaluation d’ensembles de données.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités d’un programme de base de données afin de mettre en œuvre les principes de la protection et la sécurité des données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier avec des données tests la conformité de l´application. Verbaliser les résultats.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux critères de test pour l’intégrité et la cohérence et pouvoir démontrer comment les cas de tests doivent être structurés pour permettre de les vérifier.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

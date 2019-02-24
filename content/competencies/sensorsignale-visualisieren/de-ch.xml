@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>253</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=253%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Sensorsignale visualisieren</title>
+    <capability>Analoge und digitale Signale aufbereiten und für die Visualisierung ausgeben bzw. für die Steuerung von Aktoren nutzen.</capability>
+    <goals>
+        <goal>
+            Sensoren zur Erfassung physikalischer Grössen auswählen und deren Signalformen erkennen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Sensoren für elektrische, akustische, optische, chemische, elektromagnetische Grössen und kann erläutern, welche Typen sich für die Erfassung eignen.
+                </knowledge>
+                <knowledge>
+                    Kennt mögliche Einflussfaktoren zwischen Signalquellen und Empfänger und kann erläutern, weshalb die Signale gestört werden könnten.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Signalarten, wie sie von gängigen Sensoren erzeugt werden und kann erläutern, wie die Signale visualisiert werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt gängige digitale Signalgeber, wie Taster, Inkrementalgeber, Winkelcodierer, usw. und kann beschreiben, welche Signalformen diese liefern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Aufgrund der Aufgabenstellung Anzeigen für Signale bzw. Aktoren für die Steuerung bestimmen und den Signalverlauf von der Signalquelle bis zur Signalnutzung beschreiben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten zur Verstärkung analoger oder digitaler Sensorsignale.
+                </knowledge>
+                <knowledge>
+                    Kennt gängige Symbole für die Darstellung von Steuerketten (Sensor, Verstärker, Wandler, Aktor) und kann beispielhaft darlegen, wie damit der Signalverlauf in einer Dokumentation dargestellt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Digitale Signale logisch verknüpfen und für die Auswertung in Diagrammen darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Logikbausteine der Digitaltechnik (AND, NAND, NOT, OR, NOR, XOR) und kann deren Schaltzeichen mit der zugehörigen Wahrheitstabelle beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kennt die Darstellung von Zeitdiagrammen und kann an Beispielen erläutern, was damit bezweckt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analoge und digitale Signale für die Anzeige aufbereiten und auf geeigneten Anzeigemedien ausgeben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Prinzip der A/D-Wandlung eines Spannungssignals und kann den Einfluss der Parameter Wandlungsgeschwindigkeit und Auflösung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt das Prinzip der D/A-Wandlung und kann an Beispielen darlegen, für welche Aufgaben D/A-Wandler benötigt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten für die Anzeige/Ausgabe von Signalen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit analogen und digitalen Signalen Aktoren ansteuern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt gängige Gruppen von Aktoren für Bewegung, Schall, Licht, usw. und kann an Beispielen aufzeigen, mit welchen Arten von Signalen diese angesteuert werden können.
+                </knowledge>
+                <knowledge>
+                    Kann für Aktoren aufgrund der Kennwerte die erforderliche Stromversorgung bestimmen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

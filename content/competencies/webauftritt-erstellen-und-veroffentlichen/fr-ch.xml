@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>101</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=101%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Réaliser et publier un site Web</title>
+    <capability>Réaliser et publier un site Web avec l´aide d´un langage d´édition de page selon directives.</capability>
+    <goals>
+        <goal>
+            Analyser les données du travail prescrit (Mise en page, contenu, fonctionnalités), choisir des éléments de texte, respectivement graphiques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la démarche d´analyse de situation et la manière dont elle contribue à la définition d´un mandat précis.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un projet de solution de la présentation Web (structure du site, navigation, présentation, etc.).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales différences des divers clients en regard de la fonctionnalité, la représentation, la résolution et la largeur de bande de la liaison réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères de structuration des informations utilisées sur un site Web.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales conditions légales cadres (droit d´auteur, téléchargements illégaux, conditions de licences) à respecter lorsqu´on utilise des contenus provenant de sources tierces.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales formes médiatiques du Web et leur intégration dans un site.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes généraux qui doivent être respectés en ce qui concerne les couleurs et les polices lors de la réalisation d´un site Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre le projet de solution en présentation Web et d´un langage de description de pages.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments de base HTML et des feuilles de style (CSS) et pouvoir les mettre en œuvre dans le cadre de la réalisation d´un site Web.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes généraux (police, couleur, résolution) à respecter lors de la réalisation d´un site Web.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités du format PDF et pouvoir préparer des documents compatibles avec le site.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier la présentation Web sur la conformité des prescriptions et du mandat.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une méthode de contrôle des résultats (par ex. tests, validation) et pouvoir en expliquer l´utilisation pour la vérification de la réalisation des objectifs.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères de tests afin de permettre la mise en œuvre correcte des fonctionnalités dans divers navigateurs et terminaux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Publier le site sur un serveur Web.
+            <knowledge-list>
+                <knowledge>
+                    Connaître sur quoi il faut veiller lors du transfert d´un site Web de l´environnement de travail local sur un serveur Web.
+                </knowledge>
+                <knowledge>
+                    Connaître des outils (FTP, partage de fichiers, etc.) de transfert entre l´environnement local et l´environnement serveur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

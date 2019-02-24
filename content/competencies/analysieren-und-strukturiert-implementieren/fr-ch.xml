@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>118</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=118%26clang=fr</reference>
+            <level>2</level>
+            <lessons>80</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Analyser et implémenter structurellement</title>
+    <capability>Analyser, implémenter structurellement, documenter et tester une tâche.</capability>
+    <goals>
+        <goal>
+            Analyser une tâche et la diviser en fonctions, respectivement en procédures.
+            <knowledge-list>
+                <knowledge>
+                    Connaît une méthode pour délimiter et découper un problème en fonctions / procédures, peut représenter les résultats avec des techniques appropriées.
+                </knowledge>
+                <knowledge>
+                    Connaît les différences entre les mémoires permanentes et non-permanentes, peut décrire pour quelles types de données celles-ci sont utilisées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les structures des données et les algorithmes.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales structures de données (records, arrays multidimensionnels, Fifo, stack. etc.) et peut montrer à l’aide d’exemples, quelles algorithmes entrent en jeu pour certaines structures de données (par ex. le tri).
+                </knowledge>
+                <knowledge>
+                    Connaît la différence entre des structures de données statiques et dynamiques, et peut montrer quelle structure de données doit être mise en application selon les exigences posées.
+                </knowledge>
+                <knowledge>
+                    Connaît des algorithmes de recherche d’information dans des structures de données ou des fichiers, et peut montrer à l’aide d’exemples, comment la recherche visée, la mise à disposition et le traitement peuvent être maîtrisés efficacement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Représenter graphiquement par diagrammes de flux (Jackson, Nassi-Shneiderman, etc.) les fonctions à réaliser.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des catégories de normes formelles pour une donnée de programme et peut préciser, quelles contributions celles-ci apportent à une procédure uniforme lors de la programmation et lors de la maintenance des programmes.
+                </knowledge>
+                <knowledge>
+                    Connaît une méthode (par ex. Jackson) pour le développement et la représentation de structures de programmes, peut énoncer quels objectifs sont poursuivis par le biais de la mise en application de la méthode.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transposer le projet à l´aide d´un langage de programmation procédural selon les conventions de codes.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la syntaxe et la sémantique d’un langage procédural, peut décrire avec quelles commandes ou fonctions d’une librairie, un algorithme défini peut être traité efficacement.
+                </knowledge>
+                <knowledge>
+                    Connaît des conventions de codes et peut décrire, à l’aide d’exemples, quelles contributions le respect de telles conventions peuvent apporter à la lisibilité et la maintenance d’un programme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir des grandeurs de test pour les différents cas à tester.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des principes qui doivent être pris en considération lors de la définition de données ou cas test, et peut préciser comment avec ceux-ci un traitement complet et correct des informations d’un programme peut être vérifié. (White box test, black box test)
+                </knowledge>
+                <knowledge>
+                    Connaît l´importance des valeurs limites lors des tests et peut préciser à l’aide d’exemples, comment l´exactitude des conditions dans les programmes peut ainsi être prouvée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Effectuer les tests, saisir les résultats dans un protocole et, au besoin, éliminer les erreurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la constitution d´un protocole d´essais et peut préciser à l’aide d’exemples, quels objectifs sont poursuivis avec celui-ci. (Quoi, quand, de qui, combien, etc.)
+                </knowledge>
+                <knowledge>
+                    Connaît l´importance de la documentation des décisions de développement, peut décrire ce qui concerne la maintenance et la reproductibilité des programmes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

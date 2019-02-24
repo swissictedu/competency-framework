@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>454</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=454%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Organiser un centre de services</title>
+    <capability>Planifier et mettre en oeuvre l’organisation des structures et des processus nécessaire à l’élimination des dysfonctionnements et à la réalisation des demandes de service conformément aux accords de service conclus avec le client.</capability>
+    <goals>
+        <goal>
+            Développer sur la base des accords de service un processus d´élimination des dysfonctionnements comprenant des procédures d’escalade adéquates.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment se présente un processus standard d’élimination de dysfonctionnement et comment il est adapté aux besoins de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Savoir comment reproduire dans le processus d’élimination des dysfonctionnements les procédures d’escalade définies dans les accords de service.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer quels sont les critères d’urgence et d’incidence utilisés pour catégoriser les dysfonctionnements et comment le centre de services met en oeuvre une table de classification.
+                </knowledge>
+                <knowledge>
+                    Pouvoir identifier quand il est nécessaire d’adapter le processus d’élimination des dysfonctionnements à l’évolution des conditions générales, à de nouvelles exigences, à de nouveaux accords de service ou sur la base du suivi permanent du processus.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer sur la base des accords de service un processus de traitement et de transmission des demandes de service.
+            <knowledge-list>
+                <knowledge>
+                    Savoir expliquer les facteurs qui influencent le processus du centre de services.
+                </knowledge>
+                <knowledge>
+                    Connaître les différences fondamentales entre les processus de fourniture de prestations et le processus d’élimination des dysfonctionnements.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer l’organisation des structures nécessaires aux processus d’élimination des dysfonctionnements et de traitement des demandes de service.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment un centre de services doit être organisé en fonction des exigences contenues dans les accords de service conclus avec les clients.
+                </knowledge>
+                <knowledge>
+                    Savoir quels outils de communication un centre de services peut utiliser et comment pour répondre aux exigences.
+                </knowledge>
+                <knowledge>
+                    Etre en mesure de définir, sur la base des exigences figurant dans les accords de service, la nécessité des plages horaires de disponibilité du centre de services, de l’organisation de services et de l’organisation d’élimination des dysfonctionnements.
+                </knowledge>
+                <knowledge>
+                    Savoir avec quels outils les exigences en matière de traitement des demandes de service et d’élimination des dysfonctionnements sont couvertes dans une organisation de services adaptée.
+                </knowledge>
+                <knowledge>
+                    Savoir comment les interfaces avec l’organisation opérationnelle (centre d’exploitation, service de sécurité, etc.) et les sous‐traitants (fournisseurs, partenaires contractuels externes, etc.) sont définies, planifiées et concrétisées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer et implémenter les outils techniques assistant les processus d’élimination des dysfonctionnements et de traitement des demandes de service et en assurer la maintenance.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités offertes par les outils techniques pour le soutien du centre de services et des processus d’élimination des dysfonctionnements.
+                </knowledge>
+                <knowledge>
+                    Savoir comment des produits adaptés sont sélectionnés ou développés sur la base des possibilités techniques des outils d’assistance des processus du centre de services.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer, sur la base des processus du centre de services, l’utilisation et la maintenance de ces outils techniques dans l’exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les besoins de personnel et les qualités requises pour exécuter les processus d’élimination des dysfonctionnements et de traitement des demandes de service.
+            <knowledge-list>
+                <knowledge>
+                    Savoir quelles sont les exigences techniques que doit remplir le personnel du centre de services et comment les documenter dans une description de fonction.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance des mesures de formation continue déterminées par les exigences et savoir comment les organiser.
+                </knowledge>
+                <knowledge>
+                    Savoir comment les exigences quantitatives (grille quantitative) de l’exploitation opérationnelle envers le centre de services influencent le besoin de personnel. Savoir comment planifier les ressources humaines en conséquence.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer le plan de travail du centre de services en tenant compte des exigences de l’entreprise, de la disponibilité des collaborateurs et du volume de travail prévu.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment pouvoir identifier les exigences de l’exploitation opérationnelle en ce qui concerne l’engagement des collaborateurs du centre de services.
+                </knowledge>
+                <knowledge>
+                    Connaître la méthodologie qui permet de prévoir aussi précisément que possible un volume de travail futur sur la base de données concernant la charge de travail et des conditions générales de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les outils de planification du travail du personnel.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir des critères adéquats pour la supervision des prestations. Organiser la collecte et la mise à disposition des données. Etablir des rapports de prestation et les communiquer de manière adéquate.
+            <knowledge-list>
+                <knowledge>
+                    Savoir quels sont les facteurs qui déterminent l’adéquation des indicateurs clés de performance (KPI) et comment ils sont harmonisés avec les exigences internes et organisationnelles ainsi qu’avec celles figurant dans les accords de service.
+                </knowledge>
+                <knowledge>
+                    Savoir comment il faut organiser la saisie des données de suivi nécessaires.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes d’analyse et d’interprétation périodique des données de suivi des indicateurs clés de performance.
+                </knowledge>
+                <knowledge>
+                    Savoir comment représenter et présenter les résultats de manière adaptée aux destinataires.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

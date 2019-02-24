@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>265</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=265%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Digitale Fotografien produzieren</title>
+    <capability>Bereitet eine Fotografieproduktion konzeptionell vor und richtet die Produktion ein. Erstellt und bearbeitet Fotorohdaten und bereitet diese für das erforderliche Zielformat auf.</capability>
+    <goals>
+        <goal>
+            Erstellt ein Konzept für eine einfache digitale Fotografieproduktion.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die einzelnen Produktionsphasen für Fotografien.
+                </knowledge>
+                <knowledge>
+                    Kennt Instrumente zur zeitlichen Planung einer Produktion.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Symbole in Beleuchtungsskizzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organisiert die benötige Infrastruktur und Materialien für eine Aufnahme.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das produktionsrelevante Material und kann dieses auflisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgehensweise bei Reservationsprozessen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Baut einen Aufnahmeort gemäss Konzept mit allen notwendigen Geräten und Materialien auf.
+            <knowledge-list>
+                <knowledge>
+                    Kennt unterschiedliche Lichtcharakteristiken (z.B. Lichtart, Belichtung, Farbtemperatur).
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Lichtformer (z.B. Reflektoren, Diffusoren, Softboxen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt Rohdaten mit einer Fotokamera gemäss Konzept.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Farbsysteme (RGB, CMYK).
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionsweise einer Kamera.
+                </knowledge>
+                <knowledge>
+                    Kennt die Handhabung einer Kamera.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert die Fotografien vor Ort.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Faktoren zur Beurteilung einer Fotografie.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transferiert Fotografierohdaten von einem Speichermedium auf die vorgegebene Dateiablage und legt sie korrekt strukturiert ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die gängigen Schnittstellen zur Übertragung von Fotografien.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Übertagungsarten (z.B. Tethering).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Setzt Farbkorrekturen und Farbgebungen für digitale Fotografien um.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Programme (z.B. Lightroom, RAW Converter, Capture One) zur Bearbeitung von Fotografien.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Bearbeitungstechniken zur Farbkorrektur von Fotografien.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Bearbeitungstechniken zur Farbgebung von Fotografien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bereitet die finalen Fotografien für das erforderliche Zielformat auf.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Bildformate und ihre Eigenschaften.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied von komprimierten und unkomprimierten Dateien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

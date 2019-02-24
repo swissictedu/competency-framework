@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>114</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=114%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettre en œuvre des systèmes de codification, de compression et d’encryptage.</title>
+    <capability>Mettre en œuvre des systèmes de codification, de compression et d’encryptage.</capability>
+    <goals>
+        <goal>
+            Choisir et utiliser des procédures de compression appropriées d´archivage des informations. Démontrer quels sont les effets de la codification sur la transmission des données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les types les plus importants de code binaires (ASCII, ANSI, BCD, EAN, 1 de n, UTF, Uni-Code, etc.) et pouvoir préciser au moyen de leurs caractéristiques (jeu de caractères, redondance) comment ceux-ci se différencient en ce qui concerne la capacité de numération, la sensibilité aux erreurs et la capacité de calcul.
+                </knowledge>
+                <knowledge>
+                    Connaître les propriétés les plus importantes des images (dessin aux traits N/B, photo couleurs, images animées, vectoriels, orientés pixels, etc.) et pouvoir  décrire, comment la qualité d´image (résolution, profondeur de couleurs), la construction d´image et le besoin en mémoire peuvent être influencés.
+                </knowledge>
+                <knowledge>
+                    Connaître les systèmes numériques tels que binaire, octal et hexadécimal ainsi que les opérateurs logiques tels que OR, AND, NOT, y compris la procédure de conversion d’un système numérique à l’autre.
+                </knowledge>
+                <knowledge>
+                    Connaître la procédure de codification binaire de nombre (par ex. des nombres négatifs, complément à deux, à virgule flottante).
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures pour la représentation des couleurs (par ex. RGB, CMYK).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir et utiliser selon directives des procédures de compression pour la sauvegarde, la restauration et la transmission de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques (taux de compression, perte de la qualité) pour les principales procédures de compression.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales normes et standards (par ex. JPEG, PNG, MPEG, H261/263, Huffmann) ainsi que les domaines types où elles sont appliquées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir et utiliser des procédures de cryptage pour la sécurité des informations contre l´accès non autorisé en mémoires et sur des voies de transmission.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le principe fondamental du cryptage des informations (cryptographie/stéganographie) et pouvoir préciser, au moyen d´un concept de cryptage simple, comment des informations peuvent ainsi être chiffrées et déchiffrées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Utiliser des procédures sûres de transfert de fichiers au moyen de procédures de cryptage asymétriques et symétriques. Prendre en considération les aspects tels que clés publics/clés privées, les certificats, les protocoles et les normes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales différences entre un cryptage symétrique et asymétrique (mot de passe, clé public, clé privée) et pouvoir décrire, comment celles-ci se répercutent sur le degré de protection des données.
+                </knowledge>
+                <knowledge>
+                    Connaître le principe des systèmes de signature électronique et pouvoir préciser au moyen d’exemples, comment la sécurité de la transmission peut ainsi être garantie (authentification, intégrité).
+                </knowledge>
+                <knowledge>
+                    Connaître le but des certificats numériques et pouvoir décrire par des exemples, comment la confiance peut ainsi être garantie entre prestataires et destinataires.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

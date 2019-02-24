@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>114</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=114%26clang=it</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Impiegare delle procedure di codifica, di compressione e di criptaggio</title>
+    <capability>Impiegare delle procedure di codifica, di compressione e di criptaggio</capability>
+    <goals>
+        <goal>
+            Scegliere e utilizzare delle procedure di codifica appropriate alla situazione. Mostrare quali effetti ha la codifica sulla rappresentazione dei dati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Typen von Binärcodes (z.B. ASCII, ANSI-, BCD-, EAN-,1-aus -n-, UTF, Uni-Code) und kann anhand ihrer Merkmale (Zeichenvorrat, Redundanz) aufzeigen, wie sich diese hinsichtlich der Bewertbarkeit, Fehlererkennbarkeit und Rechenfähigkeit unterscheiden.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Eigenschaften von Bildern (S/W-Strichzeichnung, Farbfoto, bewegte/nicht bewegte Bilder, vektorisiert/pixelorientiert usw.) und kann erläutern, wie damit die Bildqualität (Auflösung, Farbtiefe), der Bildaufbau und der Speicherbedarf beeinflusst werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt binäre, oktale und hexadezimale Zahlensysteme. Kennt logische Operationen (OR, AND, NOT) und kennt die Verfahren zur Umrechnung in das jeweils andere Zahlensystem.
+                </knowledge>
+                <knowledge>
+                    Kennt Verfahren zur binären Kodierung von Zahlen (z.B. negative Zahlen/Zweierkomplement, Gleitkommazahlen).
+                </knowledge>
+                <knowledge>
+                    Kennt Verfahren zur Repräsentation von Farben (z.B. RGB, CMYK).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Scegliere delle procedure di compressione secondo specifiche per il salvataggio, il ripristino e la trasmissione di dati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Merkmale (Kompressionsrate, Qualitätsverlust) für gängige verlustlose und verlustbehaftetet Kompressionsverfahren.
+                </knowledge>
+                <knowledge>
+                    Kennt ausgewählte Normen und Standards (z.B. JPEG, PNG, MPEG, H261/263, Huffmann-Verfahren) und kennt typische Anwendungsbereiche wo diese eingesetzt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Scegliere e utilizzare delle procedure di criptaggio secondo specifiche per la sicurezza dei dati contro l'accesso non autorizzato di memorie di dati e delle vie di comunicazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das grundsätzliche Prinzip der Verschlüsselung von Informationen (Kryptografie/Steganografie) und kann anhand eines einfachen Verschlüsselungskonzepts aufzeigen, wie damit Informationen chiffriert und dechiffriert werden können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Utilizzare delle procedure di trasmissione di file sicure con procedure di criptaggio simmetrico e asimmetrico. Tenere in considerazione aspetti quali le chiavi pubbliche/chiavi private, i certificati, i protocolli e gli standard.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die prinzipiellen Unterschiede zwischen einer symmetrischen und asymmetrischen Verschlüsselung (Passwörter, private und öffentliche Schlüssel) und kann erläutern, wie sich diese auf den Grad der Datensicherheit auswirken.
+                </knowledge>
+                <knowledge>
+                    Kennt das Prinzip elektronischer Signatursysteme und kann anhand von Beispielen aufzeigen, wie damit die Sicherheit (Authentizität, Integrität) der Übermittlung gewährleistet werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt den Zweck digitaler Zertifikate und kann an Beispielen erläutern, wie damit das Vertrauen zwischen Anbieter und Bezüger (einer Leistung, eines Produktes) sichergestellt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

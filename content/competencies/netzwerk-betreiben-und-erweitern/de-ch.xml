@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>145</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=145%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Netzwerk betreiben und erweitern</title>
+    <capability>Performance und Verfügbarkeit eines Netzwerks überwachen und Ergebnisse interpretieren. Netzwerke nach Vorgabe mit WLAN /VLAN erweitern und entfernte lokale Netze sicher verbinden.</capability>
+    <goals>
+        <goal>
+            Dokumentation eines Netzwerkes interpretieren und nachführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Aufbau und Inhalt einer Netzwerkdokumentation (Netzwerkplan und Netzwerkschema, Konfigurationen und Inventarlisten).
+                </knowledge>
+                <knowledge>
+                    Kennt gängige Darstellungsarten und Symbole für Netzwerkplan und Netzwerkschema.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Performance und Verfügbarkeit des Netzes mit Tools überwachen (Netzwerk Management System). Auswertungen/Logfiles interpretieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt mögliche Datenquellen (Netzwerkkomponenten und angeschlossene Endsysteme) für die Überwachung eines Netzwerkes.
+                </knowledge>
+                <knowledge>
+                    Kennt Tools zur Überwachung von Netzwerken.
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten Parameter zur Auswertung von Performance und Verfügbarkeit.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Darstellungsarten für die erhobenen Daten und und weiss wie diese interpretiert werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bei Störungen, Fehlersymptome und -meldungen systematisch erfassen. Ursachen von Störungen mit Tools ermitteln und beheben.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Indizien bzw. Symptome, welche auf Störungen hinsichtlich Verfügbarkeit und Performance hinweisen können.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden um Störungen systematisch zu ermitteln und beheben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Netzwerke in virtuelle LAN aufteilen und konfigurieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten zur physikalischen und logischen Gliederung eines Netzwerkes und ihre Auswirkungen auf Performance und Verfügbarkeit.
+                </knowledge>
+                <knowledge>
+                    Kennt die VLAN Typen (tagbasiert, portbasiert und dynamisch) und typische Konfigurationsmöglichkeiten der Geräte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Netzwerke mit Wireless LAN erweitern und mit gesichertem Zugang konfigurieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt WLAN Standards, Antennenarten und typische Einsatzgebiete. sowie deren Vorteile und Nachteile
+                </knowledge>
+                <knowledge>
+                    Kennt WLAN-Sicherheitsmassnahmen
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entfernte lokale Netze sicher verbinden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten und typische Einsatzgebiete für eine sichere Verbindung entfernter LANs.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorteile und Nachteile von VPN-Technologien für eine sichere Verbindung.
+                </knowledge>
+                <knowledge>
+                    Kennt den prinzipiellen Unterschied zwischen WAN-Access, WAN-Core-Netzwerk und VPN Verbindungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

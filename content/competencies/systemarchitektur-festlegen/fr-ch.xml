@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>204</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=204%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Définir une architecture de systèmes</title>
+    <capability>Analyser l’architecture de systèmes existante et l’évaluer en fonction des objectifs (stratégie informatique). Définir des variantes de mise en place et développer la future architecture de système. Planifier la migration et la mise en oeuvre puis faire prendre la décision.</capability>
+    <goals>
+        <goal>
+            Développer et décrire la future architecture de systèmes à partir de l’architecture existante et des objectifs informatiques, en tenant compte des technologies informatiques préférées. Dans ce but, veiller aux architectures de référence des différents environnements systèmes.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les éléments d’une architecture système et peut présenter quelle est l’utilité de la détermination d’une architecture système sur l’évolution à moyen terme de l’informatique dans l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaît les architectures de référence des différents environnements systèmes et peut expliquer leur adéquation par rapport aux tendances resp. aux évolutions technologiques.
+                </knowledge>
+                <knowledge>
+                    Connaît les méthodes et les modes de procéder pour recenser les exigences des clients et peut expliciter dans quelles conditions préalables et générales ceux-ci sont mis en oeuvre.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les variantes et les étapes de mise en œuvre de la future architecture de systèmes et tenir compte dans ce contexte de l’architecture réseau et des applications.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les caractéristiques de l’architecture des réseaux et des applications et peut présenter la manière dont celles-ci doivent être prises en compte dans la définition d’une architecture système.
+                </knowledge>
+                <knowledge>
+                    Connaît le mode de procéder pour développer des variantes de solution et peut expliquer dans quelles conditions générales celui-ci contribue à obtenir une évaluation largement validée.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer les variantes de mise en pratique proposées en tenant compte des effets sur la rentabilité, sur le processus de développement de logiciels, sur les méthodes, les outils et le personnel requis. Faire prendre la décision sur une variante de mise en œuvre.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la méthode de calcul des investissements et peut expliquer pour quels types de projets d’investissements celle-ci est utilisée.
+                </knowledge>
+                <knowledge>
+                    Connaît les méthodes et les procédures d’évaluation de variantes de solutions et peut indiquer à l’aide d’exemples la manière dont celles-ci influent sur une décision.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Maintenir l’état des applications stratégiques et leurs perspectives dans leur „cycle de vie“ et en déduire les exigences de la planification de la migration. Elaborer le plan de migration sur la base de la variante de mise en œuvre choisie.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter l’importance de la position de plusieurs applications stratégiques dans le cycle de vie lors d’une migration vers une nouvelle architecture système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déduire du plan de migration les facteurs critiques de succès pour la mise en place prévue. Déterminer les mesures, les responsabilités et les instruments de contrôle de la mise en œuvre et élaborer la demande de projet jusqu’à la prisede décision.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les facteurs critiques de réussite lors d’une migration vers une nouvelle architecture système et peut indiquer dans quelles conditions générales ceux-ci doivent être observés lors de la planification d’une migration.
+                </knowledge>
+                <knowledge>
+                    Connaît les aspects fondamentaux qui doivent être pris en compte pour une décision en vue de la migration d’une architecture système dans une organisation et peut présenter quels effets sont ainsi couverts par rapport au besoin en ressources.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

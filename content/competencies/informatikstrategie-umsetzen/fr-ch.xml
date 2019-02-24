@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>215</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=215%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettre en œuvre une stratégie informatique</title>
+    <capability>Déduire de la mission de l’entreprise et de la stratégie informatique les exigences et les conditions générales et les intégrer dans des indications concrètes sur le plan conceptuel à un secteur informatique. Elaborer des variantes de mise en œuvre, les présenter et transférer la variante choisie au responsable, pour réalisation.</capability>
+    <goals>
+        <goal>
+            Valider la stratégie informatique en termes de clarté, d’adéquation et de capacité de mise en pratique tout en tenant compte des prestations de services et des aspects organisationnels des secteurs d’organisation concernés.Clarifier avec le responsable les incertitudes relatives à la stratégie informatique et opérer les adaptations nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les objectifs de base et les contenus d’une stratégie informatique.
+                </knowledge>
+                <knowledge>
+                    Peut présenter le schéma de base d’un mode de procéder par rapport à une planification informatique orientée vers la stratégie et peut présenter, à chaque étape individuelle, la contribution des prestations de services de l’informatique qui sont axées sur les objectifs de l’entreprise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier des domaines (matériel, applications, gestion de projet, etc.) au sein d’une unité organisationnelle pour lesquels existe un besoin d’action d’un point de vue stratégique (mission de l’entreprise, stratégie informatique, etc. ). Avancer des propositions de solutions sur le plan conceptuel pour les domaines concernés de cette unité organisationnelle.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les domaines d’activité d’un département informatique et peut décrire leur contribution aux objectifs.
+                </knowledge>
+                <knowledge>
+                    Peut présenter avec quelles méthodes les techniques d’analyse et de design sont appliquées ainsi que la manière dont elles peuvent constituer une solution.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer sur le plan conceptuel des mesures de mise en application des propositions de solutions et développer des variantes de mise en œuvre (projets informatiques ou mandats potentiels), y compris une planification globale.
+            <knowledge-list>
+                <knowledge>
+                    Connaît différentes techniques de créativité et peut indiquer quelle contribution celles-ci fournissent à la détermination de solutions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer de manière correspondante des variantes de mise en application selon les ressources humaines et financières des secteurs organisationnels et vérifier la stratégie informatique modifiée. Elaborer des recommandations aux décisionnaires sous forme de rapports.
+            <knowledge-list>
+                <knowledge>
+                    Peut citer les techniques d’évaluation d’alternatives utilisées pour identifier des concepts de solutions et peut expliquer leur contribution à une prise de décision claire.
+                </knowledge>
+                <knowledge>
+                    Connaît les domaines contextuels d’un rapport relatif à une proposition de solution concernant une indication ou un problème déterminé et peut présenter quelle contribution ceux-ci fournissent à une recommandation plausible et gérable.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Présenter aux décisionnaires des variantes documentées de mise en œuvre en émettant des recommandations et faire prendre une décision.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la composition d’une présentation expressive et peut décrire dans quels buts celle-ci sert à élaborer une proposition devant un organe décisionnel.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Informer ouvertement et clairement, les collaborateurs et les responsables de l’unité organisationnelle, sur les décisions prises et leurs effets. Transférer des projets et/ou des mandats sélectionnés aux organes responsables pour application.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter les règles de communication adéquates lors de la présentation de décisions aux personnes concernées et peut expliquer la manière dont elles permettent d’obtenir une meilleure acceptation.
+                </knowledge>
+                <knowledge>
+                    Connaît le contenu et la structure d’un mandat de projet et peut indiquer en quoi ceux-ci contribuent à obtenir un mandat clair.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

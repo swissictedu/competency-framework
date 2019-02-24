@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>209</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=209%26clang=it</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Diriger et gérer un secteur informatique</title>
+    <capability>Pianificare e preparare il budget delle risorse di un settore dell’organizzazione IT, organizzare l’impiego dei collaboratori e garantire la comunicazione interna. Reclutare i collaboratori e promuovere il loro sviluppo.</capability>
+    <goals>
+        <goal>
+            In collaborazione con i superiori gerarchici, definire e preparare il budget delle risorse, il piano d’impiego delle risorse e il piano dei bisogni a breve, medio e lungo termine in base al mandato di prestazioni prestabilito e ai corrispondenti obiettivi.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehensweisen für die Planung des Ressourcen-Einsatzes in der IT Organisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adattare la propria unità organizzativa al piano d’impiego delle risorse e al piano dei bisogni. Attualizzare o preparare le descrizioni delle funzioni e dei ruoli, tenendo in considerazione compiti, competenze e responsabilità.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Struktur einer Stellenbeschreibung aufzeigen und erläutern, welche Informationen deren inhaltliche Elemente bezogen auf die Rekrutierung und Entwicklung von Mitarbeitern liefern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Confrontare il piano dei bisogni con le risorse esistenti e assicurarsi che collaboratori con adeguate competenze e possibilità di sviluppo siano disponibili nei tempi stabiliti, anche a lungo periodo. In caso di necessità, ridefinire le priorità insieme con l’unità gerarchicamente superiore.
+            <knowledge-list>
+                <knowledge>
+                    Kann beschreiben, wie die Prinzipien der Personalbeurteilung Eigenschaften und Verhalten von Bewerbern aufzeigen können.
+                </knowledge>
+                <knowledge>
+                    Kann geeignete Massnahmen für die langfristige Entwicklung von Mitarbeitenden hinsichtlich Verhalten und Fähigkeiten aufzählen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Preparare e trasmettere (all’interno e all’esterno) ordini di lavoro definiti in modo chiaro (risultati, scadenze, costi), considerando gli obiettivi e il piano d’impiego delle risorse a breve termine.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Struktur eines Arbeits-Auftrages skizzieren und erläutern, wie dabei Verständlichkeit und Akzeptanz beim Adressaten erreicht wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Controllare il raggiungimento degli obiettivi degli attuali ordini di lavoro utilizzando appropriati mezzi di conduzione. In caso di necessità, proporre provvedimenti correttivi e fare rapporto all’unità gerarchicamente superiore.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Führungsfunktionen (planen, entscheiden, anordnen, kontrollieren) erklären und ihre Wirkung für die Kontrolle der Zielerreichung beschreiben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gestire in modo costruttivo le divergenze d’opinioni ed i conflitti nel team. Prevedere provvedimenti efficaci per individuare tempestivamente i conflitti latenti. Creare un clima di lavoro aperto e disteso, allo scopo di prevenire dimissioni non volute e l’escalation di conflitti all’interno del team.
+            <knowledge-list>
+                <knowledge>
+                    Kann mögliche Ursachen für Konflikte, die sich aus der Zusammenarbeit in Gruppen ergeben können, aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kennt wirksame Massnahmen zur Beilegung von Konflikten in Gruppen und kann Regeln und Vorgehensweisen für einen korrekten Einsatz dieser Massnahmen aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kann die Rahmenbedingungen und Massnahmen aufzählen, die ein Team motivieren und beschreiben, wie sie dazu beitragen, die Leistung des Teams zu verbessern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Costruire un sistema d’informazione interno che garantisca i bisogni d’informazione e di comunicazione dell’unità organizzativa.
+            <knowledge-list>
+                <knowledge>
+                    Kann Informations- und Kommunikationsmittel, die innerhalb eines organisatorischen Bereiches Anwendung finden, aufzeigen und beschreiben, wie diese zu einem funktionierenden Bereich beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

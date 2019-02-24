@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>194</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=194%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Concevoir un site Internet en fonction de la mercatique et de l’efficacité</title>
+    <capability>Développer, organiser et mettre en oeuvre des sites Web adaptés au marché cible en tenant compte des aspects d’utilisabilité et de marketing.</capability>
+    <goals>
+        <goal>
+            Analyser les statistiques d’un site Web et identifier leurs potentiels d’exploitation pour l’amélioration de la présence sur le marché.
+            <knowledge-list>
+                <knowledge>
+                    Peut fournir des informations déterminantes sur le profil des visiteurs d’un site Web et expliquer leur contribution à l’identification du comportement des clients.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser des sites Web existants et évaluer les potentiels d’amélioration pour mieux atteindre le public cible (offre, conception, navigation, fonctionnalités).
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principes de structuration et de navigation des sites Web et peut expliquer dans quelle mesure ils influencent l’utilisabilité d´un site Web.
+                </knowledge>
+                <knowledge>
+                    Connaît les éléments de contenu d’un site Web et les principes qui doivent être respectés lors de sa structuration et peut expliquer à l’aide d’exemples les effets qu’ils permettent d’exercer sur les utilisateurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les faiblesses d’un site Web existant.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les domaines du marketing et peut expliquer comment et par quelles fonctionnalités un site Web permet de les mettre en oeuvre.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier la présence souhaitée sur le marché, l’image, les objectifs et les mesures de promotion des ventes.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des techniques de créativité et peut expliquer les conditions préalables et le contexte dans lesquels ces techniques sont appropriées pour la recherche de nouvelles solutions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Faire appel à des experts marketing pour accroître le potentiel de marché.
+            <knowledge-list>
+                <knowledge>
+                    Peut indiquer les éléments dont il faut tenir compte pour une mise en œuvre efficace des mesures de marketing Web et les résultats qu’ils permettent d’obtenir.
+                </knowledge>
+                <knowledge>
+                    Peut présenter les règles à appliquer dans le cadre de la collaboration avec des spécialistes d’autres domaines et peut expliquer comment elles contribuent à la réussite de cette collaboration.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et évaluer les processus et les ressources permettant la maintenance des contenus (‘Content Management’).
+            <knowledge-list>
+                <knowledge>
+                    Connaît la démarche à adopter pour la vérification et l’adaptation de contenus d´un système d’information et peut expliquer comment elle garantit la traçabilité des adaptations et la qualité des contenus.
+                </knowledge>
+                <knowledge>
+                    Peut présenter les types d’applications pour lesquels on fait appel à des systèmes de gestion de contenu et peut en décrire les fonctionnalités.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer un projet de solution et préparer les éléments permettant la prise de décision. Comparer les coûts de réalisation de la solution avec les recettes supplémentaires budgétées.
+            <knowledge-list>
+                <knowledge>
+                    Connaît le fonctionnement de l’analyse multicritères et peut présenter à l’aide d’exemples la manière dont chacun de ses éléments peut influencer la prise de décision.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Faire prendre la décision de réalisation.
+            <knowledge-list>
+                <knowledge>
+                    Peut décrire les méthodes et les techniques permettant d´obtenir une décision de la part d´une instance et peut expliquer à l´aide d´exemples dans quelles situations elles sont utilisées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier, lancer et superviser la mise en œuvre.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les catégories déterminantes d’exigences et de conditions générales pour la planification de la réalisation d’un projet informatique et peut expliquer comment elles garantissent son exécution correcte et le respect des délais.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

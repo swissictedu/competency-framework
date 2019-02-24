@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>603</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=603%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Sourcing-Strategie festlegen</title>
+    <capability>Legt auf Basis der ICT-Strategie, dem Dienstleistungsportfolio der ICT und den unternehmensspezifischen Vorgaben fest, welche Leistungen selbst erbracht oder eingekauft werden.</capability>
+    <goals>
+        <goal>
+            Legt das optimale Sourcing Modell unter Berücksichtigung der ICT-Strategie und den unternehmensspezifischen Rahmenbedingungen fest.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Anwendungsfelder, Formen und Unterscheidungsmerkmale von Outsourcing (bsp. Outtasking, selektives Outsourcing, Transitional Outsourcing, Complete Outsourcing).
+                </knowledge>
+                <knowledge>
+                    Kennt Konzepte zur Konsolidierung und Zentralisierung von Dienstleistungen und deren Abgrenzung zu Outsourcing (bsp. Shared Services).
+                </knowledge>
+                <knowledge>
+                    Kennt Nutzen und Risiken von Outsourcing (bsp. Konzentration aufs Kerngeschäft, Know-how des Dienstleisters, Abhängigkeit vom Dienstleister, Rechtssicherheit der Verträge).
+                </knowledge>
+                <knowledge>
+                    Kennt Faktoren für das effiziente und effektive Outsourcing (Interessen der Mitarbeitenden, Widerstände der Belegschaft, Kundenorientierung und Erfahrung des Outsourcing-Partners).
+                </knowledge>
+                <knowledge>
+                    Kennt die Massnahmen zur Vermeidung und Verminderung von Risiken im Outsourcing.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beurteilt die Fähigkeit und den Reifegrad der ICT zur Umsetzung des gewählten Sourcing Modells und beschreibt diese unter Berücksichtigung der organisatorischen, technischen und finanziellen Rahmenbedingungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Ziel, Struktur, Lieferobjekte und Vorgehen bei der Erstellung einer SWOT-Analyse (bsp. nach Harvard Business School).
+                </knowledge>
+                <knowledge>
+                    Kennt strategisch relevante Untersuchungsbereiche in Bezug auf das Outsourcing für die Bestimmung des Ist-Zustand und den Reifegrad der ICT (bsp. Technology Readiness Level).
+                </knowledge>
+                <knowledge>
+                    Kennt Vergleichsgrössen hinsichtlich der Performance von ICT-Dienstleistungen mit Dritten in Bezug auf das Outsourcing (Benchmarking von ICT-Kosten per ICT-Funktion und ICT-Kostenarten).
+                </knowledge>
+                <knowledge>
+                    Kennt die rechtlichen Aspekte von Outsourcing und deren Bedeutung hinsichtlich der Fähigkeit der ICT zur Umsetzung eines Sourcing-Modells (bsp. Datenschutzerfordernisse).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert die Leistungen, die bei Dritten eingekauft werden können und beschreibt deren möglichen Serviceumfang und Serviceniveau.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Ziele und Bestandteile von Outsourcing-Verträgen zwischen Bezügern und Erbringern von ICT-Leistungen (z.B. Service Level-Agreements).
+                </knowledge>
+                <knowledge>
+                    Kennt vertragliche Bestimmungen in Outsourcing-Verträgen zwischen Bezügern und Erbringern von ICT-Leistungen (bsp. Lizenzrechte, Personalübernahme).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wählt unter Berücksichtigung der unternehmensspezifischen Vorgaben und Regulatorien das geeignete Verfahren für die Offertstellung und die Angebotspräsentation aus.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Formen gängiger Submissionsverfahren und ihre Vor- und Nachteile (bsp. öffentliches Verfahren, Einladungsverfahren, privatwirtschaftliche Verfahren (RFI, RFQ, RFP, RFF).
+                </knowledge>
+                <knowledge>
+                    Kennt die Ablaufschritte eines Submissionsverfahrens (bsp. Definition der Vergabekriterien, Veröffentlichung von Ausschreibungen).
+                </knowledge>
+                <knowledge>
+                    Kennt die gesetzlichen Vorgaben in Bezug auf Submissionsverfahren (bsp. Vergaberecht, Schwellenwerte, Gleichbehandlungsgrundsätze).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

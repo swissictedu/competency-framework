@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>302</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=302%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Utilizzare le funzioni avanzate degli strumenti di burotica</title>
+    <capability>Dokumentverarbeitung mit fortgeschrittenen Funktionen von Text-, Tabellen- bzw. Präsentationswerkzeugen nutzen. Termin- und Aufgabenverwaltung für ein Team einrichten und anwenden.</capability>
+    <goals>
+        <goal>
+            Strutturare documenti di più pagine (testo, grafica, tabelle) con l'aiuto di colonne, tabelle, suddivisioni di capitoli in più livelli e gestire intestazioni e piè di pagina con contenuti dinamici.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le più importanti regole di base della tipografia che permettono di rendere un documento gradevole e facile da leggere.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Armonizzare i documenti con il supporto di presentazione e renderli più comprensibili, leggibili e chiari attraverso l'utilizzo di collegamenti, note a piè pagina, riferimenti, indici e rimandi.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le possibilità d'impaginazione e di strutturazione offerte dalle funzioni colonne, tabulazioni e tabella.
+                </knowledge>
+                <knowledge>
+                    Conosce gli elementi che servono a caratterizzare dei termini, dei brani di testo, degli oggetti (ad esempio note a piè pagina, referenze, indici e rimandi) che migliorano la comprensione, la chiarezza e l'orientamento del testo. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Unire documenti e sorgenti di dati (tabelle, fogli di calcolo, gestione indirizzi) con funzioni in serie e controllare l'inserimento di testo standard attraverso dei campi.
+            <knowledge-list>
+                <knowledge>
+                    Conosce l'utilizzo delle funzioni in serie per l'elaborazione razionale di grosse quantità di documenti simili.
+                </knowledge>
+                <knowledge>
+                    Conosce gli elementi che sono utilizzati nella stampa-unione (documento principale, sorgente dati, filtri, testi standard).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Trasporre le direttive d'impaginazione in modelli di formato e di documento. Integrare nei modelli di documento degli aiuti per la raccolta dati (campi di formulario).
+            <knowledge-list>
+                <knowledge>
+                    Conosce le funzioni che permettono di realizzare delle direttive sul formato nell'elaborazione di modelli (ad esempio caratteri uniformi, restrizioni delle possibilità di formattazione).
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità quali i campi di formulario che possono essere utilizzate come aiuto all'introduzione di dati nei modelli e nei formulari.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Creare dei modelli per la raccolta e la modifica di dati nei fogli di calcolo per garantire la qualità dei dati ed un'efficiente gestione dei dati.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le funzioni standard disponibili per la creazione di formulari online d'introduzione e di manutenzione di dati.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eseguire delle interpretazioni con funzioni di raggruppamento, formule di calcolo e funzioni logiche, i cui dati risiedono in molteplici fogli di calcolo.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le possibilità offerte dai fogli di calcolo per la valutazione di insiemi di dati (ad esempio gruppi, oggetti, proprietà, filtri).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rappresentare lo stato delle cose con un tipo appropriato di grafico e migliorare il significato del grafico per mezzo di etichette, valori limite e curve caratteristiche.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i vari tipi di grafici e i loro elementi (ad esempio etichette, valori chiave, curve caratteristiche) che permettono di semplificare la comprensione e l'interpretazione. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Utilizzare una gestione automatizzata di messaggi (cartelle, classificazione automatica, archiviazione, distribuzione) attraverso le funzioni standard di un sistema di posta elettronica.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le funzioni standard di un sistema di posta elettronica, che permette una gestione automatizzata dei messaggi (distribuzione dei messaggi in entrata in cartelle, classificazione automatica, archiviazione, liste di distribuzione)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire e coordinare le scadenze di un team attraverso le funzioni standard di un sistema di calendario; assegnare i compiti e sorvegliare la loro esecuzione.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le funzioni di team di un sistema di calendario per la coordinazione e la sorveglianza delle attività di un gruppo. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

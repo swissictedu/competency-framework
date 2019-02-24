@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>418</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=418%26clang=fr</reference>
+            <level>5</level>
+            <lessons>50</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Adapter des messages au média et au public cible</title>
+    <capability>Transmettre des messages, en conformité avec les médias et groupes ciblés, avec des images, du son, des films et des animations, de sorte que les messages principaux soient traduits pour le support ciblé.</capability>
+    <goals>
+        <goal>
+            Analyser et clarifier les messages avec la participation du contexte de communication parent.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des procédés pour extraire et enregistrer (transcription) les messages clés à partir d´un message (texte).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer un concept de présentation et mettre en évidence la position de la dramaturgie.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différentes étapes du processus de conception graphique.
+                </knowledge>
+                <knowledge>
+                    Connaître l´importance et le potentiel de la perception associative (acquisition et traitement de l´information).
+                </knowledge>
+                <knowledge>
+                    Connaître l´importance des approches de conception créative et innovante ainsi que des méthodes pour promouvoir et développer celle‐ci soi‐même.
+                </knowledge>
+                <knowledge>
+                    Connaître les bases de la dramaturgie et des histoires.
+                </knowledge>
+                <knowledge>
+                    Connaître le processus de développement et les principales composantes de l´abstrait, de l´exposé, du script et du scénario.
+                </knowledge>
+                <knowledge>
+                    Connaître les outils de planification de l´organisation, tels que plan de tournage, liste des accessoires et de matériel, etc. pour pouvoir répondre aux exigences économiques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en oeuvre une présentation du concept avec des images, des films (par exemple des clips), des enregistrements sonores et des animations.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le fonctionnement technique et la manipulation de l´équipement pour la production de contenus multimédias.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités de composition créative, tels que la composition d’images, la perspective, la taille d’un plan, etc. et leur impact communicatif.
+                </knowledge>
+                <knowledge>
+                    Connaître les applications et maîtriser l´application pratique pour la post‐production.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Intégrer les ressources créées dans la présentation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différents formats de fichiers et les possibilités d´exportation dans les médias cibles.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques d’implémentation dans le récipient existant (présentation, site web, l´impression de magazines, etc.) et savoir ce qui doit être pris en considération pour chaque média ciblé.
+                </knowledge>
+                <knowledge>
+                    Connaître le fonctionnement de l´authoring DVD.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

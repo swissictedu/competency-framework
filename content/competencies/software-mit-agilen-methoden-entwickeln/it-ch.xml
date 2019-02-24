@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>426</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=426%26clang=it</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Sviluppare software con metodologia agile</title>
+    <capability>Applicare dei metodi agili per lo sviluppo software nei cicli di release. </capability>
+    <goals>
+        <goal>
+            Vorgegebene Funktionalität im Rahmen eines Softwareprojekts mit einer agilen Methode umsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Conosce un metodo agile per lo sviluppo software. 
+                </knowledge>
+                <knowledge>
+                    Conosce il contenuto e la struttura di una User Story.
+                </knowledge>
+                <knowledge>
+                    Conosce valori e principi di metodi agili.
+                </knowledge>
+                <knowledge>
+                    Conosce i limiti dei metodi agili e linearii. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Realizzare e testare a tappe le funzionalità con pratiche dello sviluppo agile in cicli di release predefiniti e presentare un riassunto della release software.
+            <knowledge-list>
+                <knowledge>
+                    Conosce lo svolgimento e gli elementi di un ciclo di release.
+                </knowledge>
+                <knowledge>
+                    Conosce la struttura e il contenuto di una presentazione di release.
+                </knowledge>
+                <knowledge>
+                    Conosce l'importanza delle release funzionali di software.
+                </knowledge>
+                <knowledge>
+                    Conosce le pratiche (Best Practice) dello sviluppo software agile come ad esempio design semplice, Metapher, Refactoring, Testdriven Design, Continuous Integration, Pair Programming, Coding Standard.
+                </knowledge>
+                <knowledge>
+                    Conosce gli strumenti appropriati allo sviluppo agile per le Unit Test, System Build, System Integration, test d'accettanza etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Utilizzare in modo mirato dei campioni di sviluppo esistenti e/o componenti software testati per la risoluzione di problemi.
+            <knowledge-list>
+                <knowledge>
+                    Conosce l'importanza e la struttura dei campioni significativi di sviluppo.
+                </knowledge>
+                <knowledge>
+                    Conosce l'utilità della riutilizzazione dei componenti software esistenti.
+                </knowledge>
+                <knowledge>
+                    Conosce una procedura per la valutazione di componenti software per risolvere dei problemi dati.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Riflettere sui risultati e sullo svolgimento del lavoro di un ciclo di release e dedurne delle conclusioni per il seguito dello svolgimento.
+            <knowledge-list>
+                <knowledge>
+                    Conosce un procedimento per riflettere sui risultati di un ciclo di release.
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità per riflettere sulla propria metodologia di lavoro nei cicli di release.
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità per ottimizzare il seguito della procedura sulla base della riflessione (SCRUM, Ceremony, Product Backlog Issues).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettere a disposizione i documenti di progetto e il codice sorgente in un sistema di gestione delle versioni condiviso.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i vantaggi e l'utilità di un sistema di gestione delle versioni condiviso.
+                </knowledge>
+                <knowledge>
+                    Conosce le funzionalità e l'utilizzo di un sistema di gestione delle versioni e le possibilità di integrarvi differenti oggetti. 
+                </knowledge>
+                <knowledge>
+                    Conosce le differenze tra i sistemi di gestione delle versioni con acceso esclusivo e parallelo.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formulare in modo comprensivo e intuitivo il codice sorgente secondo le convenzioni e rielaborarlo secondo il bisogno.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i concetti, le regole e le procedure di Clean Code.
+                </knowledge>
+                <knowledge>
+                    Conosce l'importanza del Refactoring per il miglioramento della leggibilità intuitiva del codice sorgente.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

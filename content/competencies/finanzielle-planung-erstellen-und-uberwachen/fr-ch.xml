@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>651</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=651%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Etablir et surveiller la planification financière</title>
+    <capability>Etablir la planification financière pour son domaine, surveiller leur respect et établir un rapport sur les résultats au moyen des chiffres et informations significatifs demandés.</capability>
+    <goals>
+        <goal>
+            Identifier et interpréter, du point de vue TIC, les principales positions du bilan et du compte de résultats de l’entreprise, et pouvoir en déduire comment ceux‐ci peuvent être influencé par sa propre unité d’organisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les objectifs et les tâches de la comptabilité financière.
+                </knowledge>
+                <knowledge>
+                    Connaître le contenu et la composition du bilan et du compte des résultats, ainsi que  les groupes et positions du plan comptable qui sont importants pour les TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître les directives spécifiques à l’entreprise en ce qui concerne la planification et les processus de contrôle du bilan et du compte des résultats (par ex. les délais, inclusion de l’unité d’organisation TIC).
+                </knowledge>
+                <knowledge>
+                    Connaître les incidences financières importantes (par ex. masse salariale, produit des intérêts, frais de location) avec leur efficacité ou inefficacité sur les liquidités et le succès.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser et interpréter les résultats de la comptabilité analytique et les comparer aux prestations apportées, aux chiffres de l’an passé ainsi qu’aux résultats d’autres entreprises/unités d’organisation de la branche.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les objectifs et tâches de la comptabilité d’entreprise et la distinction avec la comptabilité financière.
+                </knowledge>
+                <knowledge>
+                    Connaître les objectifs et le positionnement du calcul des coûts (constitué par le calcul du type de coûts, de la position des coûts et des porteurs de coûts).
+                </knowledge>
+                <knowledge>
+                    Connaître diverses procédures de calcul des coûts telles que calcul des coûts totaux (par ex. budgétisation), des coûts partiels (analyse de rentabilité), la comptabilisation des coûts des procédures et leurs buts d’utilisation.
+                </knowledge>
+                <knowledge>
+                    Connaître la mise en œuvre et les procédures du compte d’exploitation (type de coûts, position des coûts et porteurs de coûts).
+                </knowledge>
+                <knowledge>
+                    Connaître les différences entre le calcul des coûts actuels et planifiés, les chiffres significatifs ainsi que les mesures de correction.
+                </knowledge>
+                <knowledge>
+                    Connaître les chiffres financiers significatifs et benchmarks spécifiques aux TIC (par ex. coûts par poste, place de travail SAV, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir un compte d’investissements statique ou dynamique pour un projet et en déduire une recommandation de décision reproductible d’un point de vue financier.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le but du calcul des investissements.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes statiques et dynamiques pour prouver la rentabilité des inves‐
+tissements et leur mise en œuvre appropriée.
+Procédures statiques:
+
+calcul des coûts et du compte des résultats
+calcul de la comparaison des gains
+calcul du rendement (ROI Return on Investment)
+méthode du payement en retour
+
+Procédures dynamiques:
+
+méthode de la valeur du capital
+méthode du payement en retour
+
+                </knowledge>
+                <knowledge>
+                    Connaître les types d’investissements et leurs caractères distinctifs (création, remplacement, élargissement, etc.) ainsi que les effets des investissements sur les coûts d’exploitation pendant la durée d’utilisation et, le cas échéant, sur les désinvestissements après la clôture de la durée d’utilisation.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences liées aux décisions d’investissements en tant que contribution stratégique ainsi que l’interprétation dans le contexte de la conduite d’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères d’évaluation sur les investissements spécifiques aux risques (par ex. cycle de vie, délocalisation), qui doivent être pris en compte dans l’analyse du projet d’investissements et dans l’évaluation des  résultats du calcul des investissements.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier et interpréter les principales positions de l’état des flux de trésorerie et pouvoir estimer les conséquences des investissements et désinvestissements de sa propre unité d’organisation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les objectifs et tâches du calcul des flux de trésorerie ainsi que leur signification dans le contexte de la conduite de la comptabilité financière.
+                </knowledge>
+                <knowledge>
+                    Connaître les comptes significatifs sur les entrées et sorties, ainsi que la provenance, l’utilisation et les effets sur les liquidités.
+                </knowledge>
+                <knowledge>
+                    Connaître des fonds (par ex. capital de roulement), les différences entre des opérations efficaces ou inefficaces sur les fonds ainsi que les causes des modifications de fonds.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir, sur la base d’un plan de projet et de l’analyse des risques, un budget du projet en tant que base à l’attention du groupe décisionnel.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les directives de la budgétisation d’entreprise ainsi que les conséquences sur la budgétisation de projets TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux coûts du budget d’un projet ainsi que les influences possibles sur les frais d’exploitation et gains, ainsi que l’estimation en ce qui concerne les liquidités de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître la signification et le cadre d’une analyse des risques (évaluation et plan des risques) relatifs au plan du projet ainsi qu’en relation avec le budget du projet (coûts supplémentaires, facteurs de risque, test du stress).
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences sur les bases décisionnelles (transparence, reproductibilité, utilisation des données planifiées, domaines concernés, hors limites, TCO), et les explications ainsi que les recommandations sur la variante à choisir.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

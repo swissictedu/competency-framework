@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>651</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=651%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Finanzielle Planung erstellen und überwachen</title>
+    <capability>Erstellt die finanzielle Planung für seinen Bereich, überwacht deren Einhaltung und rapportiert die Ergebnisse mittels der verlangten Kennzahlen und Informationen.</capability>
+    <goals>
+        <goal>
+            Identifiziert und interpretiert die aus Sicht der ICT die wesentlichen Positio-nen der Bilanz- und Erfolgsrechnung der Unternehmung und kann ableiten, wie diese durch die eigene Organisationseinheit beeinflusst werden können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Ziele und Aufgaben der Finanzbuchhaltung.
+                </knowledge>
+                <knowledge>
+                    Kennt Inhalt und Gliederung von Bilanz und Erfolgsrechnung und der für die ICT relevanten Kontenplan-Gruppen und –Positionen.
+                </knowledge>
+                <knowledge>
+                    Kennt unternehmensspezifische Vorgaben zu Planungs- und Kontrollprozessen für Bilanz und Erfolgsrechnung (z.B. Termine, Einbezug der ICT-Organisationseinheit).
+                </knowledge>
+                <knowledge>
+                    Kennt relevante Geschäftsvorfälle (z.B. Lohnaufwand, Zinsertrag, Mietaufwand) mit ihrer Wirksamkeit/Unwirksamkeit auf Liquidität und Erfolg.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert und interpretiert die Ergebnisse der Kostenrechnung und ver-gleicht diese mit der erbrachten Leistung, den Vorjahreszahlen sowie den Ergebnissen anderer Unternehmen/Organisationseinheiten der Branche.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Ziele und Aufgaben der Betriebsbuchhaltung (BeBu) und die Unterscheidung zur Finanzbuchhaltung (FiBu).
+                </knowledge>
+                <knowledge>
+                    Kennt Ziele und Positionierung der Kostenrechnung (KoRe bestehend aus Kostenarten-, Kostenstellen¬- und Kostenträger-Rechnung).
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Verfahren von Kostenrechnungen wie Vollkosten- (z.B. Plankostenrechnung), Teilkosten- (Deckungsbeitragsrechnung) und Prozesskostenrechnung und deren Verwendungszweck.
+                </knowledge>
+                <knowledge>
+                    Kennt Einsatz und Verfahren des Betriebsabrechnungsbogens BAB (Kostenarten KA, Kostenstellen KST und Kostenträger KTR).
+                </knowledge>
+                <knowledge>
+                    Kennt die KoRe bezogene Plan/Ist Vergleiche, Kennzahlen sowie Korrekturmassnahmen.
+                </knowledge>
+                <knowledge>
+                    Kennt ICT-spezifische Finanzkennzahlen und Benchmarks (Kosten pro Desktop, SAP-Arbeitsplatz, u.ä.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt eine statische oder dynamische Investitionsrechnung für ein Vorha-ben und leitet daraus eine aus finanzieller Sicht nachvollziehbare Entscheidungsempfehlung ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Zweck der Investitionsrechnung.
+                </knowledge>
+                <knowledge>
+                    Kennt statische und dynamische Methoden zum Nachweis der Wirtschaftlichkeit von Investitionen und deren zweckmässiger Einsatz.
+Statische Verfahren:
+•    Kosten- und Erfolgsrechnung
+•    Gewinnvergleichsrechnung
+•    Renditenrechnung (ROI Return on Investment)
+•    Payback-Methode
+Dynamische Verfahren:
+•    Kapitalwertmethode (NPV Net-Present-Value)
+•    Payback-Methode
+                </knowledge>
+                <knowledge>
+                    Kennt Investitionstypen und deren Unterscheidungsmerkmale (Gründung, Ersatz, Erweiterung etc.) sowie die Auswirkungen von Investitionen auf die Betriebskosten während der Nutzungsdauer und auf allfällige Desinvestitionen nach Ablauf der Nutzungsdauer.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an Investitionsentscheide als Strategiebeitrag sowie die Interpretation im Kontext der Unternehmensführung.
+                </knowledge>
+                <knowledge>
+                    Kennt risikospezifische Beurteilungskriterien von Investitionen (z.B. Lebenszyklus, First-Move-Technologien, Offshoring), die in der Analyse des Investitionsvorhabens und in der Bewertung der Ergebnisse der Investitionsrechnung berücksichtigt werden müssen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert und interpretiert die wesentlichen Positionen der Mittelflussrechnung und kann die Konsequenzen von Investitionen und Desinvestitionen der eigenen Organisationseinheit abschätzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Ziele und Aufgaben der Mittelflussrechnung (MFR) sowie deren Bedeutung im Kontext der finanziellen Rechnungsführung.
+                </knowledge>
+                <knowledge>
+                    Kennt die für den Mittel zu- und -abfluss relevante Konten sowie die Mittelherkunft und -verwendung und Auswirkungen auf die Liquidität.
+                </knowledge>
+                <knowledge>
+                    Kennt Fonds (z.B. Nettoumlaufvermögen NUV), Unterschiede von fondwirksamen- und fondunwirksamen Geschäftsfällen und Ursachen von Fonds-Veränderungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt auf Basis eines Projektplans und der Risiko-Analyse das Projektbudget als Grundlage für das Entscheidungsgremium.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Vorgaben der unternehmensweiten Budgetierung und -prozesse sowie Konsequenzen auf die Budgetierung von ICT-Projekten.
+                </knowledge>
+                <knowledge>
+                    Kennt die projektbudget-relevanten Kosten sowie mögliche Auswirklungen auf Betriebskosten und Erträge und kann eine Einschätzung bezüglich der Liquidität des Unternehmens vornehmen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung und Zusammenhang einer Risiko-Analyse (Risikobewertung und Risiko-Map) bezogen auf den Projektplan sowie auf ein Projektbudget (Zuschlagssatz, Risikofaktor, Stress-Test).
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Entscheidungsgrundlagen (Transparenz, Nachvollziehbarkeit, verwendete Plandaten, Betrachtungsraum, out of scope, TCO) und Erläuterungen sowie Empfehlung der zu wählenden Variante.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

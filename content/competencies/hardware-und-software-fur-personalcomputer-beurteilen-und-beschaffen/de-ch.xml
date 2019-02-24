@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>149</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=149%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Hardware und Software für Personalcomputer beurteilen und beschaffen</title>
+    <capability>Auf- und Umrüstungsvorhaben für PC-Arbeitsplätze planen. Komponenten evaluieren und Beschaffung einleiten.</capability>
+    <goals>
+        <goal>
+            Bestehende PC-Infrastruktur und Auftrag analysieren, Machbarkeit des Auftrags untersuchen und mögliche Lösungsvorschläge erarbeiten. (z.B. Entscheid für Ersatz oder Aufrüstung, Teilersatz, Ersatz des Betriebssystems, usw.).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Hauptaktivitäten eines Beschaffungsvorhabens und kann für die einzelnen Schritte aufzeigen, welchen Beitrag diese zu einer bedarfsgerechten und preiswerten Beschaffung (optimales Kosten/Nutzen-Verhältnis) beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Kategorien von Anforderungen und Bedürfnissen eines Benutzers an die Hard- und Software seiner Arbeitsplatzumgebung (Funktionalität, Verfügbarkeit, Komfort etc.) und kann erläutern, welche Bedeutung diesen Kategorien hinsichtlich der Arbeitsleistung resp. Arbeitsunterstützung eines Mitarbeiters zukommt.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Kriterien (technische, finanzielle, terminliche), die bei der Abklärung der Machbarkeit eines Vorhabens beachtet werden müssen und kann erläutern, warum diese Kriterien für den Entscheid über die Realisierung eines Vorhabens von Bedeutung sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Lösungskonzept mittels einer Pilot-/Testinstallation überprüfen und allfällige Anpassungen vornehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Anforderungen von Anwenderprogrammen, welche bei der Überprüfung einer bestehenden Arbeitsumgebung (Betriebsystem und Hardware) berücksichtigt werden müssen und kann erläutern, welchen Beitrag die Erfüllung dieser Anforderungen zur Sicherstellung eines fehlerfreien Betriebs leistet.
+                </knowledge>
+                <knowledge>
+                    Weiss um die Bedeutung von Pilot-/Testinstallationen zum Nachweis der Gesamtfunktionalität eines Auf- bzw. Umrüstvorhabens für unterschiedliche Hard- und Software-Konfigurationen und kann erläutern, wie damit die Zielerfüllung des Upgrade-Vorhabens gesichert werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Pflichtenheft erstellen und mögliche Anbieter auswählen. Offerten einholen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau eines Pflichtenhefts und kann den Beitrag der einzelnen Elemente dieses Pflichtenhefts zu einer verbindlichen Grundlage für die Offertestellung der potenziellen Lieferanten aufzeigen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Kriterien, die bei der Auswahl von möglichen Lieferanten zu beachten sind und kann erläutern, wie damit zu einer erfolgreichen Beschaffung beigetragen wird.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen bei der Einholung von Offerten und kann erläutern, was bei den einzelnen Schritten vorgekehrt werden muss, um rechtzeitig bedarfsgerechte, verbindliche Angebote zu erhalten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Offerten beurteilen und bewerten. Erstellen einer Entscheidungs-Empfehlung mit Begründungen zuhanden des Auftraggebers.
+            <knowledge-list>
+                <knowledge>
+                    Kennt geeignete Bewertungsmethoden für den Vergleich von Angeboten (z.B. Nutzwertanalyse) und kann erläutern, was bei deren Anwendung zu beachten ist, um eine aussagekräftige Bewertung sicherzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die für einen Antrag relevanten Elemente und kann aufzeigen, wie diese auszuarbeiten sind, damit sie die Entscheidungsträger bei der Entscheidungsfindung unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mögliche technische und wirtschaftliche Implikationen, soweit absehbar, dokumentieren und bewerten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt mögliche Implikationen, die im Verlaufe eines Beschaffungsprogramms auftreten können und kann erläutern, welche Konsequenzen diese hinsichtlich einer erfolgreichen Beschaffung haben können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

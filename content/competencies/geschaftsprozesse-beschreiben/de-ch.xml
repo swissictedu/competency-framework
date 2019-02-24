@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>254</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=254%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Geschäftsprozesse beschreiben</title>
+    <capability>Geschäftsprozesse dokumentieren, Aufgabenanalyse durchführen und Prozessabläufe grafisch darstellen.</capability>
+    <goals>
+        <goal>
+            Relevante Prozessinformationen (Bezeichnung, auslösendes Ereignis, Ergebnis, Auslöser, Empfänger) identifizieren, dokumentieren und sich dabei auf die Beschreibung einer zuvor durchgeführten Erhebung ab-stützen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Unterschied zwischen der Ablauf- und der Aufbauorganisation einer Unternehmung.
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten Elemente einer Unternehmensorganisation, welche die Zuständigkeiten und Verantwortungen in einem Geschäftsprozess beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundelemente Objekt und Verrichtung zur Beschreibung eines Geschäftsprozesses.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Elemente zur Darstellung eines Geschäftsprozesses.
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten Informationen zur Definition eines Geschäftsprozesses und dessen Abgrenzung zu anderen Geschäftsprozessen.
+                </knowledge>
+                <knowledge>
+                    Kennt typische Merkmale von auslösenden Ereignissen und Ergebnissen in einem Geschäftsprozess.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Geschäftsprozess in einer Aufgabenanalyse in Prozessschritte zerlegen und den Prozessablauf grafisch darstellen. Die grafische Darstellung erfolgt auf der Grundlage von anerkannten und üblichen Beschreibungsstandards.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Möglichkeit Folgebeziehungen und deren Sachverhalt visuell darzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Darstellungstechnik (z.B. UML Anwendungsfalldiagramm, Aktivitätsdiagramm) zur Modellierung eines Prozessablaufs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prozessablauf mit Zusatzinformationen wie benötigten Hilfsmitteln, ausführenden Stellen sowie der Beschreibung des zu erzeugenden Outputs (Ergebnis) präzisieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt prozessunterstützende Mittel und Ressourcen sowie deren Anwendung (z.B. Checkliste, Workflow-Managementsoftware).
+                </knowledge>
+                <knowledge>
+                    Kennt Anforderungen an Informationen und deren Darstellung zur Übergabe an nachfolgende Prozessschritte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

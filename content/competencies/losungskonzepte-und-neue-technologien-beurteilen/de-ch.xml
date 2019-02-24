@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>419</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=419%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Lösungskonzepte und neue Technologien beurteilen</title>
+    <capability>Beurteilt und evaluiert für eine definierte Aufgabenstellung geeignete Konzepte und Software (z.B. CMS, Webshops) sowie neue Technologien unter Berücksichtigung interner und externer Ressourcen.</capability>
+    <goals>
+        <goal>
+            Analysiert die Anforderungen des Ist‐Zustands und der möglichen Soll‐Zustände.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedenen Erhebungstechniken in Bezug auf Systemanforderungen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert für den Soll‐Zustand allfällige neue Technologien und beschafft sich die notwendigen betriebsrelevanten Informationen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Rechechiermethoden und Informationsquellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Instrumente, um die Informationsqualität (Relevanz und Korrektheit) zu berücksichtigen.
+                </knowledge>
+                <knowledge>
+                    Kennt Ansätze der Technologieanalyse, z.B. der TPF‐Analyse (Technologie‐Portfolio‐Analyse).
+                </knowledge>
+                <knowledge>
+                    Kennt im Rahmen des Requirements Engineering die Möglichkeiten und die notwendigen Arbeitsschritte um Requirements (funktional/nicht‐funktional) zu definieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt das Anforderungsprofil für das neue Lösungskonzept, respektive für die neue Technologie.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Einsatz von Use Cases (Anwendungsfällen) und kann diese auf die zukünftige Lösung anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Eckpunkte einer fundierten Systemanforderung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Baut eine Testumgebung auf, simuliert und testet die zukünftige Lösung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten und Einsatzgebiete einer Laufzeitumgebung (Sandbox).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Testverfahren (z.B. Blackbox, Whitebox, Extremwertetests etc.), um die Funktionalität in der Sandbox zu beurteilen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erkennt und beurteilt die Auswirkungen auf die bestehenden Betriebsprozesse und leitet gegebenenfalls Massnahmen für den operativen Einsatz ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Ansätze der Szenario‐ und Auswirkungsanalyse (z.B. FMEA).
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten und Instrumente, um die Auswirkungen der neuen Lösung aufzuzeigen (z.B. Ursache‐Wirkungsdiagramm).
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundlagen des Prozessmanagements, um allfällige Ablaufänderungen dokumentieren und aufzeigen zu können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt aus dem neuen Lösungsansatz konkrete Umsetzungsvarianten anhand der Bedarfsanalyse.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Nutzwertanalyse‐Instrument und kann entsprechend eine Empfehlung verschiedener Varianten abliefern.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Priorisierungs‐/Gewichtungsmethoden für die Kriterien.
+                </knowledge>
+                <knowledge>
+                    Kennt das Instrument der SWOT‐Analyse für die Beurteilung verschiedener Lösungsvarianten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluiert die bestmögliche Variante und liefert eine Empfehlung ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die notwendigen Eckpunkte für einen Empfehlungsbericht.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>642</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=642%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Administrer le portfolio des applications TIC</title>
+    <capability>Définir, développer et administrer, en accord avec l’architecture TIC d’entreprise, les modèles de licences, les informations des durées de cycles et le portfolio des applications et technologies dans le cadre de son propre domaine de prestations.</capability>
+    <goals>
+        <goal>
+            Définir le processus de gestion du portfolio des applications et technologies en respectant les objectifs fixés par la stratégie TIC, et en tenant compte des cycles d’organisation et de gestion prescrits dans l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les méthodes et processus usuels ou élémentaires pour la gestion d’un portfolio d’applications et pouvoir expliquer dans quel but ceux‐ci sont utiles à la gestion d’un portfolio d’application.
+                </knowledge>
+                <knowledge>
+                    Connaître des modèles d’organisation (z.B. Jeffery, M., &amp; Leliveld, I. (2004). Best Practices in IT Portfolio Management, Kaplan, J. D. (2005) ‐ Strategic IT portfolio support, which consume the bulk of IT spending) et des systèmes d’évaluation (par ex. Matrix
+selon MC Farlan) en faveur d’une gestion adéquate du portfolio d’applications dans l’entreprise en étant conscient des forces et des faiblesses.
+                </knowledge>
+                <knowledge>
+                    Connaître les interfaces entre la gestion du portfolio d’applications et les processus de l’entreprise ainsi que les TIC (processus d’exploitation, processus stratégiques TIC, processus d’architecture, processus du budget, processus de développement, etc.) et pouvoir expliquer la contribution du contenu de la gestion du portfolio d’applications envers l’apport prestataire de ces processus.
+                </knowledge>
+                <knowledge>
+                    Connaître les catégories principales de fixations d’objectifs et de directives pour un portfolio d’applications dans la stratégie d’une entreprise et des TIC ( par ex. gestion des technologies) et pouvoir démontrer de quelle manière cette gestion du portfolio d’applications est utile dans les objectifs visés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer une stratégie des licences en tenant compte du portfolio d’applications existant, laquelle définit des partenaires appropriés pour l’entreprise selon la stratégie TIC et de l’architecture d’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques (par ex. durée de validité) de divers modèles de licences et pouvoir démontrer comment celles‐ci influencent la gestion du portfolio d’applications, respectivement, doivent être prises en considération.
+                </knowledge>
+                <knowledge>
+                    Connaître des systèmes de gestion des licences être conscient de ce que la contribution du contenu représente pour une mise en œuvre efficace.
+                </knowledge>
+                <knowledge>
+                    Connaître les modèles usuels de licences des fournisseurs de logiciels ainsi que les principes liés du calcul des coûts et pouvoir estimer leurs effets sur le portfolio d’applications et l’architecture d’entreprise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir un système d’évaluation en tenant compte des diverses complexités des systèmes d’information et des sous‐systèmes, des unités d’organisation, de la stratégie des licences, des interfaces externes et des développements technologiques, et qui garantisse une évaluation différenciée, reproductible et mesurable du portfolio.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les systèmes d’information et sous‐systèmes (par ex. système ERP en liaison avec le BI Reporting [système d’évaluation]) dans une entreprise et être capable d’expliquer leur propriété et leur singularité.
+                </knowledge>
+                <knowledge>
+                    Connaître les méthodes et techniques de systèmes d’évaluation des applications d’une entreprise et pouvoir expliquer comment celles‐ci contribuent, par diverses dimensions, à la description de la valeur commerciale, de l’état technique et au classement du cycle de vie.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques sur lesquelles des méthodes d’intégration d’applications prennent références, respectivement lesquelles définissent le degré d’intégration d’une application et pouvoir expliquer la relation entre celles‐ci et le rapport prix/utilité.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques de représentation et de notation des flux d’informations, et des interfaces de chaque application et pouvoir démontrer la plus‐value d’une figure standardisée à l’aide de ces techniques de représentation et de notation pour la gestion du portfolio d’applications d’une entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les innovations technologiques actuelles des TIC qui touchent le design, l’architecture et l’implémentation d’applications et pouvoir représenter leur signification par rapport à chaque application à l’aide de critères objectifs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer, dans le cadre d’un cycle fixé, le portfolio des applications et technologies à l’aide du système d’évaluation élaboré, et en déduire la valeur commerciale (en particulier le processus et le pilote commercial), la réalisation des directives issues de l’architecture d’entreprise et l’état technique actuel des applications et des technologies.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les applications usuelles d’économie d’entreprise, leurs actions communes, leurs utilisations, leur utilité et leurs possibilités d’influence dans le cadre des processus commerciaux.
+                </knowledge>
+                <knowledge>
+                    Connaître les effets les modifications/exigences de l’architecture commerciale, en particulier de l’architecture des processus, les innovations commerciales futures, particulièrement les innovations du produit et le pilote commercial envers le cycle de vie.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et des techniques pour la saisie et l’évaluation d’informations en faveur du portfolio d’applications (par ex. review des utilisateurs, requêtes automatiques, interprétation des tendances, statistiques) et pouvoir démontrer comment celles‐ci contribuent à l’évaluation exhaustive du portfolio d’applications.
+                </knowledge>
+                <knowledge>
+                    Connaître des dispositions légales qui doivent être observées lors de l’organisation des fonctionnalités d’une application et pouvoir expliquer de quelle manière cela doit‐il être appliqué.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et des techniques pour la saisie des valeurs significatives dans les processus d’exploitation. Connaître les principales grandeurs d’influence et leurs effets telles que, par exemple, la probabilité d’une panne, la satisfaction des utilisateurs, la performance du système, ainsi que le temps de réponse sur l’acceptation de l’utilisateur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Piloter et gérer le développement du portfolio d’applications en tenant compte de l’évaluation du portfolio d’applications, des influences extraordinaires (modification des conditions cadres légales, technologiques, de sécurité) et des ressources disponibles, en respectant le processus défini de gestion du portfolio d’applications et des technologies.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales valeurs clés de l’entreprise sur des exigences non-fonctionnelles (par ex. endurance, performance, temps d’arrêt, croissance des données, etc.) et pouvoir expliquer, sur la base de leurs effets sur l’exploitation TIC, l’importance de leur prise en considération dans la gestion du portfolio d’applications.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance d’une gestion systématique de l’interrogation par rapport au développement et la maintenance d’une application et pouvoir expliquer de quelle manière cela agit sur la gestion du portfolio d’applications.
+                </knowledge>
+                <knowledge>
+                    Connaître les limites organisationnelles et les relations entre la gestion du portfolio d’applications et la gestion du portfolio de projets TIC. Pouvoir expliquer, comment celles‐ci contribuent à une optimalisation de l’utilité pour l’entreprise, et le déroulement élémentaire ainsi que les conséquences en regard des dépenses et de la complexité.
+                </knowledge>
+                <knowledge>
+                    Connaître les catégories de conditions cadres qui créent un besoin en regard du développement future d’applications et pouvoir démontrer quelles conséquences fondamentales auraient le non‐respect de ces conditions cadres.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

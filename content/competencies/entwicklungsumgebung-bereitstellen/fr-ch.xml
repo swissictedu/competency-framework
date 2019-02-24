@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>478</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=478%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettre à disposition un environnement de développement</title>
+    <capability>Utiliser des outils appropriés pour le cycle de vie complet de l’application en cours de développement.</capability>
+    <goals>
+        <goal>
+            Définir les outils d’un environnement de développement utilisés dans les différentes phases du cycle de vie d’une application en fonction de ses caractéristiques et de l’architecture logicielle choisie.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les outils de base disponibles dans un environnement de développement. Pouvoir expliquer dans quelles phases du cycle de vie d’une application ils sont utilisés et quelle y est leur fonction.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales caractéristiques des applications et de l’architecture logicielle qui influencent l’utilisation des outils et pouvoir en expliquer les interdépendances.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer et configurer l’environnement de développement (IDE) conformément aux consignes standard de l’entreprise et du fournisseur sur un poste de travail de développeur.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités fondamentales de configuration d’un IDE qui permettent de garantir le respect des styles de codage et des consignes de développement dans les projets IDE.
+                </knowledge>
+                <knowledge>
+                    Connaître les mécanismes permettant d’étendre les fonctionnalités des IDE et connaître les règles à respecter pour l’installation de ces extensions (plug‐ins, add‐ons, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir la structure des projets dans un environnement de développement. Déterminer les éléments de structure à lier à une version et implémenter ces consignes dans l’environnement de développement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques de la structure de projet modulaire et pouvoir indiquer comment leur respect structure et facilite le développement.
+                </knowledge>
+                <knowledge>
+                    Connaître des mécanismes permettant de gérer les interdépendances dans un projet IDE et avec des composants extérieurs (bibliothèques tierces) et savoir expliquer comment leur utilisation structure et améliore le développement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les consignes de versionnage pour le développement simultané de plusieurs versions et releases afin qu’il soit possible de restaurer un état défini en tout temps.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des mécanismes d’outils de gestion de code source (SCM) assistant le développement simultané dans plusieurs branches de développement et pouvoir expliquer comment ils garantissent la traçabilité permanente d’un état défini.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et des processus permettant de coordonner le travail de plusieurs développeurs, de communiquer le cycle de vie d’une application et d’expliquer comment ils permettent de garantir la circulation des informations entre le développement et la gestion des versions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les fonctionnalités et configurer l’exécution des fonctions d’un serveur d’intégration continue compte tenu des exigences et conditions spécifiques d’un processus de création logicielle.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions de base d’un serveur d’intégration continue (serveur IC) et pouvoir expliquer comment elles assistent le processus de développement et garantissent que l’état actuel du développement (avancement du travail, documentation et qualité) soit toujours disponible.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités fondamentales de configuration des fonctions d’un serveur IC et pouvoir expliquer comment elles influencent le processus de développement de l’application et de ses composants et fournissent le soutien attendu.
+                </knowledge>
+                <knowledge>
+                    Connaître les mécanismes fondamentaux des outils permettant de gérer les artefacts développés et leurs composants dépendants (bibliothèques tierces) dans un référentiel (repository) et savoir expliquer comment ils influencent la structure des projets IDE et les scripts de génération.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer des scripts pour l’automatisation de la génération, du paquetage, du déploiement et du versionnage des sources utilisées (code de programme et documentation correspondante).
+            <knowledge-list>
+                <knowledge>
+                    Savoir élaborer des scripts pour l’automatisation de la génération, du paquetage, du déploiement et du versionnage des sources utilisées (code de programme et documentation correspondante).
+                </knowledge>
+                <knowledge>
+                    Connaître les fonctions des outils de génération et savoir expliquer comment elles garantissent la création des artefacts dans l’environnement de développement (IDE) et dans le serveur IC.
+                </knowledge>
+                <knowledge>
+                    Connaître les consignes des systèmes‐cibles des processus de génération (génération, unit test, paquetage, déploiement) et pouvoir indiquer comment elles doivent être prises en compte dans l’automatisation des processus de génération.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

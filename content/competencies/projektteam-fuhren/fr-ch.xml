@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>494</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=494%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Diriger une équipe de projet</title>
+    <capability>Diriger une équipe de projet en relation professionnelle et sociale en tenant compte des situations spécifiques qui se produisent dans un projet et mettre en oeuvre, de manière ciblée, des outils et des méthodes de gestion.</capability>
+    <goals>
+        <goal>
+            Réfléchir à son propre comportement pour assurer une direction d’équipe efficace et efficiente.
+            <knowledge-list>
+                <knowledge>
+                    Connaître son image de soi et différentes images des autres ainsi que certaines théories à ce sujet.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux aspects de la gestion personnelle.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance de la fonction d’exemple dans la direction de collaborateurs.
+                </knowledge>
+                <knowledge>
+                    Savoir quelle influence exerce son image de soi sur le comportement de direction.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Appliquer les principes de la théorie de direction de personnel (attribution des missions, maîtrise des conflits, etc.) dans les situations spécifiques aux projets.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions de direction: planifier, décider, exécuter, contrôler.
+                </knowledge>
+                <knowledge>
+                    Connaître les différents styles de direction et savoir comment concrétiser ces connaissances dans le cadre de la direction de personnel.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Adapter son comportement de direction aux collaborateurs de projet, à la composition de l’équipe et à la situation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les difficultés particulières de la direction dans le cadre d’un projet (différence hiérarchie‐projet).
+                </knowledge>
+                <knowledge>
+                    Connaître les différences entre équipe et groupe et les caractéristiques de l’équipe.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sélectionner les collaborateurs de projet en fonction des exigences et en tenant compte de leurs compétences et de leur personnalité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les facteurs qui influencent la réussite d’un groupe et savoir composer des équipes en conséquence (esprit de groupe, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître la structure socio‐dynamique des hiérarchies et d’autres modèles. En tenir compte dans la composition et la direction de l’équipe de projet.
+                </knowledge>
+                <knowledge>
+                    Savoir comment composer une équipe de projet équilibrée (sur le plan de la personnalité, des savoirs professionnels, etc.).
+                </knowledge>
+                <knowledge>
+                    Savoir quels critères les membres de l’équipe doivent remplir (attitude positive envers le travail en équipe, faculté d’accepter la critique, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître différents critères de sélection (compétence méthodologique, motivation, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Diriger le processus de formation de l’équipe.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différents rôles au sein d’une équipe et savoir comment les appréhender.
+                </knowledge>
+                <knowledge>
+                    Connaître les phases de formation d’une équipe et diriger l’équipe en conséquence.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formuler les objectifs de collaboration de manière claire et compréhensible et en tenant compte des objectifs du projet et de la composition de l’équipe.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les règles qui président à une communication simple et compréhensible.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les objectifs des collaborateurs de projet en fonction des objectifs du projet et de leurs rôles et fonctions respectifs. Les fixer avec eux. Evaluer la réalisation des objectifs avec les collaborateurs de projet et prendre des mesures s’ils n’ont pas été atteints.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les règles de délégation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en place le cadre nécessaire à motiver les participants au projet.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes de la motivation et ses principales théories (Herzberg, Maslow, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance du retour d’information donné et reçu ainsi que les règles qui le régissent.
+                </knowledge>
+                <knowledge>
+                    Connaître les mesures qui permettent d’exiger des efforts de la part des collaborateurs et de les encourager en fonction de leurs aptitudes.
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs de perturbation du travail en équipe (conditions inadaptées, paresse, luttes de pouvoir, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier et prévenir les conflits et leurs causes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les causes et les symptômes de conflit et les mesures permettant d’y remédier.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités et mesures de prévention des conflits.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement typique d’un conflit.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de maîtriser les conflits.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organiser et animer les réunions de projet de façon à en assurer l’efficacité et l’efficience.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes de la gestion de réunions.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes techniques d’animation (techniques de présentation, de créativité, de décision, d’analyse, etc.) et leurs utilisations possibles.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

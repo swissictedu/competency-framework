@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>283</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=283%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Offerten rechtskonform erstellen und überprüfen</title>
+    <capability>Erstellt eine Offerte unter Berücksichtigung der relevanten Rechtsgrundlagen und Rechtsaspekte. Überprüft die Einhaltung der Vertragsinhalte und der Schutzrechte für die eigenen Dienstleistungen und Produktionen.</capability>
+    <goals>
+        <goal>
+            Verfasst eine Offerte entsprechend dem zugrundliegenden Vertragsobjekt in der rechtlich korrekten Form.
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Vertragsarten (Kaufvertrag, Auftrag, Werkvertrag, Arbeitsvertrag).
+                </knowledge>
+                <knowledge>
+                    Kennt die Merkmale und rechtlichen Anforderungen von verschiedenen Vertragsobjekten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Klärt die rechtlichen Voraussetzungen im Hinblick auf eine Offerte ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Voraussetzungen für die Vertragsentstehung (gegenseitige übereinstimmende Willensäusserung, Vertragsfähigkeit, Form, Inhalt).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Offertenarten (verbindliche, unverbindliche, befristete und unbefristete Offerten/Anträge).
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Vertragsformen (Formfreiheit, einfache Schriftlichkeit, qualifizierte Schriftlichkeit, öffentliche Beurkundung, Eintrag in öffentliche Register und öffentliche Beurkundung) sowie die mit der Vertragsform und -leistung verbundenen Verjährungsfristen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Voraussetzungen von Anfechtbarkeit (wesentlicher Irrtum, absichtliche Täuschung, Furchterregung und Drohung, Übervorteilung) und Nichtigkeit (unmögliche, widerrechtliche und unsittliche Vertragsinhalte) von Verträgen oder Vertragsobjekten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Trifft Abklärungen bezüglich der relevanten Aspekte des Immaterialgüterrechts für die erbrachten Dienstleistungen und Produktionen. Überprüft eine Offerte hinsichtlich Verletzungen des Immaterialgüterrechts und der Einhaltung der Schutzrechte.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die relevanten Teilbereiche des Immaterialgüterrechts wie Patentrecht, Recht der Marken und Unternehmenskennzeichen (Marke, Ausstattung, Firma), das Designrecht (Muster und Modelle) und das Urheberrecht (Schutz technischer Geistesschöpfungen, z.B. Computerprogramme, Bilder).
+                </knowledge>
+                <knowledge>
+                    Kennt die Abgrenzungskriterien der einzelnen Rechtsgebiete innerhalb des Immaterialgüterrechts.
+                </knowledge>
+                <knowledge>
+                    Kennt die spezifischen nationalen Gesetze und Verordnungen sowie internationale Übereinkommen im Immaterialgüterrecht.
+                </knowledge>
+                <knowledge>
+                    Kennt rechtswidrige Handlungen im Immaterialgüterrecht (Patentrechtsverletzung, Markenrechtsverletzung, Urheberrechtsverletzung) sowie gesetzliche Sanktionen wie zivilrechtliche Rechtsmittel (z.B. Unterlassungsklage, Schadenersatzklage) und strafrechtliche Sanktionen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Sicherung der Schutzrechte im Urheberrecht bezogen auf die nicht Übertragbarkeit von Urheberpersönlichkeitsrechte (Anerkennung der Urheberschaft, Erstveröffentlichung) und Urhebervermögensrechte (Herstellung von Kopien, Werkänderungen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überprüft eine Offerte hinsichtlich einer Gefährdung oder Verletzung des Datenschutzgesetzes.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Grundsatz des Datenschutzgesetzes zum Schutz der Persönlichkeit und der Grundrechte von natürlichen und juristischen Personen, über welche die Daten erfasst werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die rechtlichen und organisatorischen Konsequenzen für das Unternehmen oder die Mitarbeitenden bei Datenschutzverletzungen (z.B. Schadensersatzforderungen, Arbeitsplatzverlust).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

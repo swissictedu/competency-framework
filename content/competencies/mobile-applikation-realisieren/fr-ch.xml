@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>335</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=335%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Réaliser une application pour mobile.</title>
+    <capability>Mettre en œuvre et tester une application pour mobile selon directives.</capability>
+    <goals>
+        <goal>
+            Analyser la donnée, développer la fonctionnalité et le scénario.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les standards ergonomiques (par ex. EN-9241-110) et leur mise en œuvre sur une plateforme mobile.
+                </knowledge>
+                <knowledge>
+                    Connaître les lignes directrices pour le design et le pilotage des utilisateurs sur une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques de divers appareils mobiles en regard de l’affichage, de la position et des options de saisie.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer le concept de solution pour l’application et vérifier l’implémentation dans des solutions existantes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître divers types d’applications (application native, application Cross, Hybride ou Web) et Frameworks.
+                </knowledge>
+                <knowledge>
+                    Connaître des fonctions spéciales, les acteurs et capteurs sensoriels (par ex. la  géolocalisation, capteurs de mouvement, reconnaissance et génération audio).
+                </knowledge>
+                <knowledge>
+                    Connaître les spécificités des architectures  d’applications en regard des fonctionnalités, des possibilités et limites des caractéristiques.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de solutions de persistance sur des plateformes mobiles (scénarios online/offline).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmer une application avec un environnement de développement usuel en tenant compte des possibilités et restrictions des appareils mobiles.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’utilisation et la mise en œuvre d’un environnement de développement, de simulation et de tests.
+                </knowledge>
+                <knowledge>
+                    Connaître un Framework usuel et ses API (par ex. pour IOS, Android, HTML5).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier la publication de l’application sur une plateforme usuelle et fixer les étapes nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités et des conditions pour la publication d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes nécessaires à la publication d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes de la commercialisation d’une application (produit, placement, prix, promotion).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier l’application mobile selon le plan de tests, saisir les résultats des tests et, le cas échéant, entreprendre les corrections nécessaires.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des procédures de tests pour vérifier les exigences fonctionnelles d’applications sur des appareils mobiles.
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures de tests pour vérifier des exigences non-fonctionnelles (portabilité, ergonomie, sécurité, expérience de l’utilisateur) d’applications sur des appareils mobiles.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

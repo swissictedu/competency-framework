@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>189</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=189%26clang=it</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Concevoir et implanter un système d’assurance qualité</title>
+    <capability>Definire, documentare, trasformare e introdurre un sistema di qualità (QS) IT specifico per progetti di sviluppo, acquisizione, manutenzione o gestione (software e hardware).</capability>
+    <goals>
+        <goal>
+            Definire l’organizzazione QS per un progetto; stabilire e documentare ruoli, incarichi, competenze e responsabilità dei partecipanti.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Rollen in einer IT QS-Organisation und kann deren Aufgaben, Kompetenzen und Verantwortungen beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kann Richtlinien für den Einsatz von Methoden und Werkzeuge erläutern, die erfolgreiche Abwicklung eines IT Vorhabens unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Komponenten eines IT Q-Systems und kann deren Zusammenwirken für die erfolgreiche Abwicklung eines IT Vorhabens erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire metodi e strumenti come provvedimenti QS costruttivi per la gestione di progetti (PM) e prepararne le direttive necessarie.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Werkzeuge für das IT Projektmanagement und kann aufzeigen, für welche Arten von IT Vorhaben sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire metodi e strumenti per gli incarichi specifici per progetti di Change and Configuration Management (CCM) ed elaborarne le direttive necessarie.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Werkzeuge für das Change- und Configurationmanagement und kann aufzeigen, für welche Arten von IT Vorhaben sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire metodi e strumenti, specifici per progetti, per il controllo analitico della qualità (Review, Audit, Test, ecc.) e prepararne le direttive necessarie.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Werkzeuge (z.B. Debugging-, Testautomatisierungstools) für die analytische Qualitätssicherung und kann aufzeigen, für welche Arten von IT Komponenten sich deren Einsatz eignet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire i metodi e gli strumenti, tipici per progetti, per il processo di sviluppo, rispettivamente per l’acquisizione di software e/o hardware, e prepararne le istruzioni necessarie.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Entwicklungsmethoden (SA/D, OOA/D/P, ERD, usw.) und Vorgehensmodelle (V-Modell 97, RUP, usw.) für die Softwareentwicklung und kann erläutern, für welche Arten von IT Vorhaben sich diese eignen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Schritte des Evaluationsprozesses bei der Beschaffung von Hardware und Software und kann den Beitrag dieser Schritte zur Auswahl eines bedarfsgerechten Produkts erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau einer Nutzwertanalyse und weiss, wie diese zur Bewertung eines Angebots eingesetzt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formare collaboratori nei ruoli specifici per progetti (metodi, strumenti e direttive) e assicurare al progetto una corrispondente cultura della qualità, rispettivamente un comportamento dei collaboratori orientato alla qualità.
+            <knowledge-list>
+                <knowledge>
+                    Kann für didaktisch-methodische Grundprinzipien aufzeigen, welchen Beitrag diese zu einer erfolgreichen Ausbildung von Mitarbeitern leisten können.
+                </knowledge>
+                <knowledge>
+                    Kann die Wirkung einer gelebten Qualitätskultur gegenüber Mitarbeitern erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire metodi e strumenti per la manutenzione e l’operatività dei sistemi IT sviluppati e/o acquistati in progetti, elaborarne le direttive necessarie e contemporaneamente tenere conto delle condizioni operative aziendali.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Kategorien von betrieblichen Rahmenbedingungen aufzeigen, die für den erfolgreichen Betrieb eines IT Systems zu berücksichtigen sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die für Wartung und Betrieb eines IT Systems notwendigen Sicherheitsvorkehrungen.
+                </knowledge>
+                <knowledge>
+                    Kennt qualitätssichernde Werkzeuge (Datensicherung, Datenarchivierung, Verarbeitungskontrollen, usw.) und kann deren Unterstützung bei der Wartung und dem Betrieb eines IT Systems erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

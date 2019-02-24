@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>451</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=451%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Applikation testen</title>
+    <capability>Entwickelt unter Berücksichtigung aller Rahmenbedingungen der Applikationsentwicklung ein Testkonzept und setzt dieses unter Einhaltung der Methoden der Software‐Qualitätssicherung um.</capability>
+    <goals>
+        <goal>
+            Entwickelt unter Berücksichtigung von Projektzielen, Richtlinien, Standards und der Teststrategie das Testkonzept.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Teststrategien und kann erläutern, unter welchen Vorgaben und Rahmenbedingungen eines Entwicklungsprojekts diese zur Anwendung kommen bzw. geeignet sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bestimmungen, welche ein Testkonzept beinhaltet, und kann diese charakterisieren. Kennt den strukturellen und chronologischen Aufbau eines Testkonzepts.
+                </knowledge>
+                <knowledge>
+                    Kennt die verbreiteten Testmethoden und kann erläutern, für welche Art von Testobjekten und in welchen Teststufen sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spezifiziert auf Basis der betrieblichen Vorgaben, des Projektplanes, des Testkonzepts und der darin vorgegebenen Teststufen eine geeignete Testumgebung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kriterien, welche bei der Definition einer Testumgebung zu berücksichtigen sind, und kann erläutern, wie deren Berücksichtigung einen Beitrag zur Aussagekraft des Tests hinsichtlich der Lauffähigkeit der Applikation in der operativen Umgebung leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Richtet die Testwerkzeuge ein und erstellt Vorgaben für die Spezifikation der Testfälle.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktionen der verbreiteten Test‐ und Testmanagementtools und weiss, welchen Beitrag diese für eine zuverlässige und effiziente Abwicklung der Tests für eine Applikation leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Konfigurationsmöglichkeiten für die Funktionen der verbreiteten Test‐ und Testmanagementtools und kann deren Auswirkungen auf die Implementierung und Ausführung der Tests erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Definitionselemente der Mustervorgaben für die Tests und weiss, welchen Betrag diese zu einer fachgerechten Implementierung und Ausführung dieser Tests leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt unter Berücksichtigung der im Testkonzept definierten Teststufen, Ziele und Meilensteine ein adäquates Testdrehbuch.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente einer Testfall‐Beschreibung und kann erläutern, welchen Beitrag diese zur Konkretisierung einer Applikation leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente einer Testfall‐Beschreibung und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt Testfälle unter Berücksichtigung der im Testkonzept definierten Testfall‐Entwurfsverfahren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Testdrehbuches und kann erläutern, welchen Beitrag diese zur Sicherstellung einer konsistenten und effizienten Testabwicklung leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entwickelt automatisierbare Tests, implementiert das Scripting und stellt die notwendigen Daten in einer lesbaren Form zur Verfügung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Voraussetzungen, welche eine automatisierte Abwicklung eines Tests rechtfertigen, und kann den Zusammenhang zwischen diese Voraussetzungen und der Effizienz und Zuverlässigkeit der Abwicklung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Regeln zur Implementierung von automatisierten Tests und weiss, wie diese die Testausführung beeinflussen bzw. zu einer fachgerechten Implementierung der Tests beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt Tests anhand des Testdrehbuches aus, sammelt und bewertet die Testergebnisse, erstellt und analysiert Abweichungsmeldungen und dokumentiert diese in einem Bericht für die Entscheidungsträger.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kriterien für eine differenzierte Interpretation von Ergebnissen der verbreiteten Tests und kann erläutern, welche Aussagen diese hinsichtlich der Qualität einer Applikation zulassen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Kriterien an eine nachvollziehbare Aufbereitung von Testergebnissen/‐interpretationen und weiss, welchen Beitrag diese zur Beurteilung der Testergebnisse und zur Entscheidungsfindung leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Archiviert die Testartefakte und Testdokumente und sichert damit die Nachvollziehbarkeit der Testergebnisse.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Merkmale einer strukturierten Archivierung von Testergebnissen und kann erläutern, wie diese die Nachvollziehbarkeit und Wiederauffindbarkeit der Testergebnisse sicherstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung einer Archivierung von Tests und ihren Ergebnissen hinsichtlich Wiederverwendbarkeit und Beweisführung bei Mängelrügen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

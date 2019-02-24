@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>226A</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=226A%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter (sans hérédité) sur la base des classes</title>
+    <capability>Mettre en oeuvre sans hérédité les exigences dans un design de classes, implémenter, documenter et tester avec un langage orienté objets.</capability>
+    <goals>
+        <goal>
+            Reproduire un design logiciel avec des classes et compléter avec ses propres classes spécialisées et techniques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des moyens d'abstraction tels que relations, classes, attributs et méthodes avec lesquels le monde réel est représenté dans le design.
+                </knowledge>
+                <knowledge>
+                    Comprendre les classes en tant que type abstrait de données.
+                </knowledge>
+                <knowledge>
+                    Connaître les types de relation tels qu'association, agrégation, composition entre les classes.
+                </knowledge>
+                <knowledge>
+                    Connaître la signification de classes spécialisées et de classes qui sont nécessaires pour l'implémentation d'une application et compléter le design sur la base des classes (classes techniques).
+                </knowledge>
+                <knowledge>
+                    Comprendre la cohabitation de plusieurs classes dans une application et mettre en oeuvre le principe de la délégation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Reproduire la notation de structures dynamiques et statiques d'une application au moyen d'un langage unifié de modélisation (UML).
+            <knowledge-list>
+                <knowledge>
+                    Connaître des notations par diagramme pour la représentation de classes et d'objets.
+                </knowledge>
+                <knowledge>
+                    Connaître des notations par diagramme pour la représentation de l'échange d'informations entre objets.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter un design orienté objets.
+            <knowledge-list>
+                <knowledge>
+                    Connaître un langage orienté objets qui est approprié à la mise en oeuvre d'un design basé sur les classes.
+                </knowledge>
+                <knowledge>
+                    Pouvoir appliquer le principe de la dissimulation d'informations et de l'encapsulage lors du développement de classes.
+                </knowledge>
+                <knowledge>
+                    Comprendre la différence entre le programme pour le temps de compilation (classes) et le temps de déroulement (objets se référençant).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter des cas de tests pour des unités fonctionnelles d'une application afin de tester celle-ci automatiquement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des déroulement afin de trouver, pour des unités, des cas de tests au moyen de valeurs limites appropriées ou de vérifications de parcours.
+                </knowledge>
+                <knowledge>
+                    Connaître les moyens mis à disposition d'une infrastructure de tests afin d'implémenter les cas de tests.
+                </knowledge>
+                <knowledge>
+                    Connaître des moyens pour mesurer la couverture des tests.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Documenter systématiquement les classes d'une application avec l'utilisation des infrastructures prévues.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités de l'infrastructure de documentation et savoir comment documenter les unités de programme selon les directives.
+                </knowledge>
+                <knowledge>
+                    Connaître l'utilité de la documentation des applications et savoir comment celles-ci sont produites.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

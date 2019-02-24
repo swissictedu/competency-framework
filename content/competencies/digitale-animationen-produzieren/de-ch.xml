@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>266</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=266%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Digitale Animationen produzieren</title>
+    <capability>Erstellt anhand von Schlüsselbildern animierte Sequenzen und passt diese auf bestehendes Rohmaterial (vektor- oder rasterbasierte Bilddokumente) an.</capability>
+    <goals>
+        <goal>
+            Entwickelt ein visuelles Animationskonzept (z.B. mittels Schlüsselbildern, oder Shootingboard) für Animationsabläufe und bindet Effekte für eine einfache digitale Animation ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Eigenschaften von Shootingboards und kann diese interpretieren.
+                </knowledge>
+                <knowledge>
+                    Kennt grundlegenden Effekte für Animationen (z.B. Weichzeichner, Verlauf).
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten und Grenzen der Nachbearbeitung von Visuellen Effekten (VFX).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt sinnvolle Datenstrukturen für Animationsprojekte.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Eigenschaften des Dynamic Linking und dessen Verwendungszweck.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgehensweise zur Datenaufbereitung von vektor- und rasterbasierten Bilddokumenten für Animationsprojekte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Animiert grafische Elemente (Icons, Piktogramme, Logos, Bauchbinden) in einem geeigneten Programm.
+            <knowledge-list>
+                <knowledge>
+                    Kennt grundlegende Animationstechniken (Einzelbild-, Schlüsselbild- und Pfad-Animation).
+                </knowledge>
+                <knowledge>
+                    Kennt die Eigenschaften von normalen Ebenen und Formebenen.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Keyframearten und deren Eigenschaften.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bindet animierte Elemente korrekt in bestehende digitale Filmaufnahmen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Compositinggrundlagen für die Nachbearbeitungsphase (z.B. Angleichen von unterschiedlichen ISO-Werten, Angleichen von unterschiedlichen Farbgebungen).
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterschiede zwischen Ebenenmasken (Layer Masks) und bewegten Masken (Track Mattes).
+                </knowledge>
+                <knowledge>
+                    Kennt Einstellungsebenen (Adjustment Layers) und deren Verwendungsmöglichkeit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bindet Elemente in bewegtes Footage ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt unterschiedliche Trackingmethoden (z.B. Point-, 3D-Tracking) und kann diese anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt Null-Objekte und deren Verwendungsmöglichkeiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Parent-Child-Beziehung zwischen unterschiedlichen Ebenen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt animierte Übergänge für Filmschnitte.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Unterschiede zwischen Luma- und Alphamasken.
+                </knowledge>
+                <knowledge>
+                    Kennt Animationsvorlagen für Formebenen zum Erstellen von Lumamasken.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bereitet die finalen Daten für unterschiedliche Verwendungszwecke auf (z.B. Masterfiles, Stream, Präsentation).
+            <knowledge-list>
+                <knowledge>
+                    Kennt unterschiedliche Container und Codec für Animationsprojekte (z.B. GIF, MOV, MPEG4, h.264) und deren Eigenschaften.
+                </knowledge>
+                <knowledge>
+                    Kennt die Verwendungszwecke standardisierter Container.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

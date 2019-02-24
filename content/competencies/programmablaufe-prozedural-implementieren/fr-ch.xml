@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>403</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=403%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter de manière procédurale des déroulements de programme</title>
+    <capability>Aufgrund einer Vorgabe Programmabläufe prozedural erstellen, testen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Représenter sous forme d’une structure de flux du déroulement d’un programme.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les séquences, sélection et itération des structures de contrôle ainsi que leur fonctionnalité et mise en œuvre.
+                </knowledge>
+                <knowledge>
+                    Connaître la notation afin de représenter le déroulement de la logique d’un programme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les données nécessaires pour l’entrée, le traitement et la sortie ainsi que fixer les types de données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les types de données, leurs besoins en mémoire et leurs valeurs possibles.
+                </knowledge>
+                <knowledge>
+                    Connaître les règles (implicites et explicites) qui sont appliquées lors de la conversion de types de données ainsi que leurs influences en regard de l’exactitude.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Appliquer des structures de contrôle pour le déroulement du programme.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les consignes, structures de contrôle, conditions et opérateurs fondamentaux d’un langage de programmation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre dans un programme la structure du déroulement et les données à l’aide d’un langage de programmation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la construction fondamentale d’un programme.
+                </knowledge>
+                <knowledge>
+                    Connaître le sens et l’utilité de variables et de constantes, ainsi que leurs différences.
+                </knowledge>
+                <knowledge>
+                    Connaître le domaine de validité des variables et comment celles-ci sont mise en œuvre.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités d’un environnement de développement ainsi que le comportement avec les messages d’alerte ou d’erreur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Appliquer des cas de tests fonctionnels prescrits (valeur d’entrée, résultats attendus) afin de déceler et, au besoin, éliminer les erreurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le sens et l’utilité des tests ainsi que l’intention des cas d’erreur individuelle.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères pour la définition de cas de test et le choix ciblé des données de test.
+                </knowledge>
+                <knowledge>
+                    Connaître une procédure pour localiser et éliminer des erreurs dans un programme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre un débogueur afin de surveiller l’exécution du programme et pour déceler les erreurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’utilité, les fonctions et l’utilisation d’un débogueur.
+                </knowledge>
+                <knowledge>
+                    Connaître l’utilité des points d’arrêt et la surveillance des variables pour contrôler le déroulement du programme ainsi que les conditions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

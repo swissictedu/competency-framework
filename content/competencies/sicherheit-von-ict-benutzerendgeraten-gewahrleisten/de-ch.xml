@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>263</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=263%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Sicherheit von ICT-Benutzerendgeräten gewährleisten</title>
+    <capability>Sicherheit von ICT-Benutzerendgeräten (Notebook, PC, mobile Endgeräte, IoT-Geräte, Webcam) gewährleisten durch Erkennen von aktuellen Bedrohungen und Schwachstellen. Absichern der Geräte durch die nötigen Schutzmassnahmen.  Im Ereignisfall die Schadensanalyse durchführen und Mitarbeiter und Kunden bei der Beseitigung der Schäden unterstützen.</capability>
+    <goals>
+        <goal>
+            ICT-Sicherheitsbegriffe erläutern (Schutzobjekte, Schwachstellen, Bedrohungen, Gefahr, Datenschutz, Datensicherheit, Schutzmassnahmen) und Zusammenhänge verstehen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Fachbegriffe der ICT-Sicherheitsziele (Vertraulichkeit, Verfügbarkeit, Integrität, Authentizität, Verbindlichkeit) und kann diese erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die aktuellen Bedrohungen (Höhere Gewalt, Eindringen, Übernehmen, Ausspähen, Entwenden, Verhindern, Zerstören, Verändern, Täuschen, Betrügen, Fälschen), die den Sicherheits-Grundschutz gefährden.
+                </knowledge>
+                <knowledge>
+                    Kennt den Zusammenhang zwischen den Schwachstellen (schwache Passwörter, Passwörter im Klartext, fehlende Updates, Konfigurationsfehler, Defekte, Bedienfehler) und der Gefährdung der Schutzobjekte (ICT-Endgeräte, Netze, Applikationen
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, sich zu einer aktuellen Bedrohungslage zu informieren.
+                </knowledge>
+                <knowledge>
+                    Kennt den Umfang eines IT-Grundschutzes für ein ICT-Endgerät.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            ICT-Endgeräte gemäss Vorgabe auf eine entsprechende Sicherheits-Konfiguration hin überprüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen beim Abarbeiten von Sicherheitsrichtlinien gemäss Vorgaben.
+                </knowledge>
+                <knowledge>
+                    Kann die vorgegebenen technischen Hilfsmittel zur gezielten Überprüfung der ordnungs gemässen Funktion und die Wirksamkeit einer Schutzmassnahme einsetzen.
+                </knowledge>
+                <knowledge>
+                    Kann nach Vorgabe die Konfiguration von ICT-Endgeräten auf sicherheitsrelevante Fehler überprüfen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            ICT-Endgeräte gemäss vorgegebenen Sicherheitsmassnahmen konfigurieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt proaktive Programme, Funktionen und Prozesse zur Verbesserung der Sicherheit von ICT-Endgeräten und kann diese in der Praxis einsetzen.
+                </knowledge>
+                <knowledge>
+                    Kann ein IT-Grundschutz für ein ICT-Endgerät gemäss Vorgabe konfigurieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Unsichere oder befallene ICT-Endgeräte in einem Ereignisfall isolieren und die nötigen Massnahmen zur Schadensbegrenzung, Analyse und Wiederanlauf einleiten
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Vorgehen im Umgang mit Unsicheren ICT-Endgerät und kann es erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt den sicheren Umgang mit ICT-Mitteln und kann Mitarbeiter und Kunden diesbezüglich instruieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Schritte, die während und nach einem Angriff zwecks Schadensbegrenzung, Analyse und Wiederanlauf auszuführen sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

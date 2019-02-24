@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>197</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=197%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer et implanter un concept de gestion des versions et des configurations</title>
+    <capability>Identifier les exigences d’un système de gestion de configuration pour un département informatique et proposer plusieurs variantes de solution. Elaborer les bases de décision. Faire choisir la variante adéquate et la concevoir en détail. Planifier sa réalisation et la mettre en œuvre. Assurer la réception par le client et mettre le système réalisé en production.</capability>
+    <goals>
+        <goal>
+            A partir d´un mandat de projet, choisir une technique permettant d’identifier les exigences d’un système de gestion de configuration. Définir les outils d´enquête correspondants et procéder à l´enquête auprès des utilisateurs.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter les objectifs de la gestion de configuration et décrire les tâches qui contribuent à leur réalisation.
+                </knowledge>
+                <knowledge>
+                    Peut décrire les techniques d’enquête et de collecte d’informations qui permettent d’identifier les exigences attendues d’un système de gestion de configuration.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            A partir des résultats de l´enquête, établir un catalogue complet et cohérent d’exigences et l’adapter aux éléments de la configuration tout en respectant les conditions générales de l’organisation.
+            <knowledge-list>
+                <knowledge>
+                    Peut énumérer les principales exigences envers un système de gestion de configuration et décrire les fonctionnalités qui contribuent à les remplir.
+                </knowledge>
+                <knowledge>
+                    Connaît les tâches de la gestion du changement de matériel et peut indiquer la contribution de chacune d’elles à un changement fiable et efficace.
+                </knowledge>
+                <knowledge>
+                    Connaît les tâches de la gestion du changement de logiciel et peut indiquer la contribution de chacune d’elles à un changement fiable et efficace.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            A partir du catalogue d’exigences, définir des variantes de solutions réalisables (rôles, processus, outils, méthodes et moyens organisationnels) et élaborer les bases de décision. Présenter les bases de décision au client et faire prendre la décision.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter les différentes techniques d’évaluation et de décision couramment utilisées, sait à quel moment les utiliser et connaît les précautions à prendre pour obtenir une évaluation fiable.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Décrire la variante de solution retenue sous forme d´étude détaillée au moyen de techniques appropriées d’analyse et de design et la préparer en vue de sa mise en œuvre.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter les techniques d’analyse et de design, les méthodes avec lesquelles elles sont utilisées et montrer comment elles permettent d’obtenir une représentation détaillée d’une solution.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            A partir de l´étude détaillée, planifier, initialiser, réaliser et contrôler les étapes de mise en œuvre pour obtenir un système de gestion de configuration prêt à être implanté. Déterminer à cet effet tous les éléments de configuration nécessaires et s’assurer de leur saisie et de la gestion de leur version dans le système. Relier les éléments de configuration entre eux conformément au référentiel de configuration actuel de manière à obtenir une version logicielle opérationnelle.
+            <knowledge-list>
+                <knowledge>
+                    Peut expliquer, dans les domaines fonctionnels de la gestion de projet, quelles sont les conditions générales et exigences importantes pour la réussite du projet.
+                </knowledge>
+                <knowledge>
+                    Connaît les étapes de l’introduction d’un système de gestion de configuration et peut expliquer la contribution de chacune d’elles à sa réussite.
+                </knowledge>
+                <knowledge>
+                    Peut énumérer les domaines de la gestion de version et peut décrire leur contribution au bon fonctionnement d’un système de gestion de version des logiciels.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Comparer le système de gestion de configuration avec le catalogue d’exigences et procéder à des corrections le cas échéant. Demander au client d´autoriser la mise en œuvre du système.Garantir la formation adéquate des futurs intervenants. Réaliser la mise en production du système.
+            <knowledge-list>
+                <knowledge>
+                    Peut citer les principes régissant la formation des utilisateurs et dire dans quelles conditions générales elles contribuent à la réussite de l’introduction.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

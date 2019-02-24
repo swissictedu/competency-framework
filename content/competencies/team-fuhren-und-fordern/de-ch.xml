@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>674</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=674%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Team führen und fördern</title>
+    <capability>Führt und fördert ein Team in fachlicher und sozialer Hinsicht und durch ein angepasstes und situationsgerechtes Führungs- und Kommunikationsverhalten.</capability>
+    <goals>
+        <goal>
+            Reflektiert die eigene Person das eigene Verhalten in Bezug auf eine effektive und effiziente Führung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt einfache Modelle zur Wahrnehmung von Persönlichkeits- und Verhaltensmerkmalen (z.B. Johari-Fenster, Eisberg-Modell) und kann die Unterschiede zwischen Selbst- und Fremdwahrnehmung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt grundlegende Modelle aus dem Zeit- und Selbstmanagement (z.B. Eisenhower-Prinzip, Pareto-Prinzip).
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung der Vorbildfunktion für die Führung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gestaltet das eigene Führungsverhalten bewusst und passt es je nach Kontext situationsgerecht an.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Führungsstile und deren Merkmale und kann die situationsgerechte Eignung eines Stils erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Organisationsformen und deren Merkmale (z.B. Ein- und Mehrlinienorganisation, Stablinienorganisation, Matrix-Organisation, reine Projektorganisation mit Task-Force) und kann die situationsgerechte Eignung einer Organisationsform erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gestaltet das eigene Kommunikationsverhalten bewusst und situationsgerecht und etabliert im Team eine wertschätzende Kommunikationskultur.
+            <knowledge-list>
+                <knowledge>
+                    Kennt grundlegende Kommunikationsmodelle (z.B. Vier-Ohren-Modell nach Schultz von Thun, Gewaltfreie Kommunikation nach B. Rosenberg) und kann deren Bedeutung für das eigene Kommunikationsverhalten erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Regeln für das Geben und Nehmen von Feedbacks.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fördert den Teambildungsprozess aktiv und moderiert die Rollenklärung im Team.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Unterschied zwischen einer Gruppe und einem Team.
+                </knowledge>
+                <knowledge>
+                    Kennt die fünf Phasen der Teambildung nach Tuckman (Forming, Storming, Norming, Performing und Adjourning) und kann die Merkmale jeder Phase erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Rollenmodelle in einem Team (z.B. Teamrollen nach Belbin), kennt den Unterschied zwischen dem Ausführen einer Rolle (role making) und der aktiven Übernahme einer Rolle (role taking) und kann die Bedeutung der Rollenzusammensetzung für die Leistungsfähigkeit in einem Team erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schafft die Rahmenbedingungen, damit ein Team motiviert arbeiten kann.
+            <knowledge-list>
+                <knowledge>
+                    Kennt grundlegende Modelle aus der Motivationstheorie (z.B. Maslow, Herzberg) und kann deren Bedeutung für die Praxis erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen extrinsischer und intrinsischer Motivation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erkennt Konfliktpotenziale und Konflikte im Team und leitet geeignete Massnahmen zu deren Verhinderung, Entschärfung oder Klärung ein
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Merkmale und Dynamik von Konflikten.
+                </knowledge>
+                <knowledge>
+                    Kennt Massnahmen zur Konfliktvermeidung und Konfliktbewältigung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Plant Veränderungsprozesse und unterstützt Betroffene beim Abbau der Widerstände und bei der Bewältigung der Veränderung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt typische Phasen in Veränderungsprozessen und kann die Merkmale der Phasen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Erfolgsfaktoren (z.B. Awareness für Dringlichkeit, schnelle Erfolge, Kommunikation) und Risiken in Veränderungsprozessen.
+                </knowledge>
+                <knowledge>
+                    Kennt typische Anzeichen für Ängste und Widerstände und kann geeignete Vorgehensweisen für den Umgang damit erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert den Weiterbildungsbedarf im Team, entwickelt zusammen mit den Mitarbeitenden individuelle Entwicklungsziele und plant die entsprechenden Weiterbildungs- oder Unterstützungsmassnahmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Unterstützungsmassnahmen (z.B. Schulung, Coaching, Teamentwicklung) und kann die Merkmale und deren situationsgerechte Eignung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an gute Zielvereinbarungen und konstruktive, wertschätzende Gespräche zur gemeinsamen Zielvereinbarung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

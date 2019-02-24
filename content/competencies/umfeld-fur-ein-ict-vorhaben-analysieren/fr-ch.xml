@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>496</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=496%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Analyser l’environnement d’un projet TIC</title>
+    <capability>Analyser l’environnement interne et externe déterminant pour un projet TIC, identifier les influences et les exigences et, sur cette base, définir les opportunités, les menaces et les contraintes du projet.</capability>
+    <goals>
+        <goal>
+            Identifier, pour un projet TIC défini, les influences et exigences qui résultent de l’environnement externe à l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les sphères (économie, société, technologie, nature) et les parties prenantes (clients, fournisseurs, etc.) de l’environnement d’une entreprise (p. ex. selon la systématique du modèle de St‐Gall).
+                </knowledge>
+                <knowledge>
+                    Connaître la situation économique actuelle dans ses grandes lignes, les risques et défis auxquels elle confronte l’entreprise et ses incidences éventuelles pour des projets TIC donnés.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux paramètres d’influence de la société, de la technologie et de la nature sur l’entreprise ainsi que leurs incidences potentielles sur des projets TIC concrets.
+                </knowledge>
+                <knowledge>
+                    Connaître les (méga)tendances actuelles de l’économie, de la société et de la technologie (non TIC également) dans leurs grandes lignes et leur influence potentielle sur les projets TIC en cours et futurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier, pour un projet TIC défini, les influences et exigences qui résultent de l’environnement interne à l’entreprise (stratégie, processus, culture, individus).
+            <knowledge-list>
+                <knowledge>
+                    Connaître dans leurs grandes lignes les chaînes de création de valeur typiques des différentes branches (commerce, industrie, services, etc.) et la contribution potentielle que peuvent leur apporter les TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître dans leurs grandes lignes les objectifs et principales étapes des processus typiques d’une entreprise (production, stocks, vente, facturation, etc.) et la contribution potentielle que peuvent leur apporter les TIC en matière de création de valeur.
+                </knowledge>
+                <knowledge>
+                    Connaître le lien entre environnement de l’entreprise, stratégie, processus et systèmes d’information.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser et évaluer les influences et exigences identifiées et, sur cette base, définir les conséquences possibles (opportunités, menaces et contraintes) pour le projet TIC.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les interdépendances directes entre un projet TIC et l´environnement externe à l’entreprise ainsi que les consignes et mesures allant de pair qui permettent d’assurer le succès du projet.
+                </knowledge>
+                <knowledge>
+                    Connaître la méthode d’analyse de l’environnement en général et des parties prenantes en particulier ainsi que les techniques de représentation correspondantes.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères permettant d’évaluer les influences et exigences provenant de l’environnement d’un projet TIC et l’importance de cette évaluation pour la suite du projet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Prioriser les contraintes, les opportunités et les risques en fonction de leur importance pour le succès du projet TIC.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’importance d’une orientation client systématique pour le succès des projets TIC.
+                </knowledge>
+                <knowledge>
+                    Savoir de quelle manière les résultats de l’analyse de l’environnement sont susceptibles d’influencer son propre travail et celui des participants au projet TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Communiquer les résultats de l’analyse aux parties prenantes du projet TIC (mandants, supérieurs hiérarchiques, collaborateurs, etc.) et prendre les mesures nécessaires pour qu’ils soient pris en compte lors de la réalisation du projet.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment garantir la prise en compte des exigences des parties prenantes dans un projet TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

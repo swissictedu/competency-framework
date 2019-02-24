@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>613</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=613%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Définir et développer un contrôle de portfolio TIC</title>
+    <capability>Développer, dans le rôle du contrôleur de portfolio, des instruments de contrôle appropriés pour le niveau du portfolio de projets. Assurer l’exactitude des chiffres significatifs et restituer un rapport adéquat envers le groupe d’intérêts.</capability>
+    <goals>
+        <goal>
+            Définir, avec le groupe d’intérêts des TIC, les chiffres significatifs qui assurent un contrôle fiable de la contribution de la gestion du portfolio de projets pour atteindre les objectifs stratégiques, et les besoins en ressources.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes du contrôle d’un portfolio de projets selon les stabdards actuellement valables (par ex. IPMA, PMI).
+                </knowledge>
+                <knowledge>
+                    Connaître les relations stratégiques et organisationnelles relatives à la force d’expression des valeurs significatives et de leur signification en regard du pilotage du portfolio de projets (par ex. la rentabilité, les liquidités, les délais, la qualité, les risques, les ressources, la satisfaction, la relation à la stratégie).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer les instruments de contrôles d’entente avec les groupes d’intérêts et en tenant compte des méthodes et outils définis, ainsi que des informations disponibles sur les projets.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctions et les effets des instruments de contrôle (par ex. gestion des ressources, coûts, délais, qualité) dans la gestion du portfolio de projets en regard des méthodes et outils définis.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier, par échantillonnage, la plausibilité des valeurs mesurées, identifier les causes an cas d’irrégularités et introduire les mesures appropriées pour garantir une base de données correcte.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les facteurs (par ex. saisies d’erreurs, manipulations, désintérêts) qui influencent l’exactitude des valeurs mesurées et leur base de données.
+                </knowledge>
+                <knowledge>
+                    Connaître des processus (par ex. KVP, cycle PDCA) en faveur de la plausibilité des valeurs mesurées (par ex. comparaison avant périodique, comparaison entre états attendus et réels, benchmark vis‐à‐vis d’autres projets).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser et évaluer le portfolio de projets sur la base des chiffres significatifs fixés. Développer des mesures pour le pilotage du portfolio de projets, en tenant compte des directives et conditions cadres stratégiques, et les mettre en œuvre.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes de l’analyse des valeurs significatives en regard de leur conséquence et effet (par ex. BSC, EVA, arborescence de valeurs significatives, tableau de bord).
+                </knowledge>
+                <knowledge>
+                    Connaître des mesures pour le pilotage de portfolio (sur la base des connaissances issues de l’analyse des valeurs significatives).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Editer des rapports sur la base des résultats de l’analyse et des mesures à l’attention des groupes d’intérêts, rapports qui représentent la mesure de l’objectif à atteindre par la gestion du portfolio de projets.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la communication (par ex. périodicité, forme, moyen, présentation), la construction et le contenu (par ex. déviation de l’objectif, comparaison des périodes, impacts, recommandations d’actions), restitution adéquate envers le groupe d’intérêts pour la conduite du portfolio de projets (objectivité des déclarations, règles de retour d’informations).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

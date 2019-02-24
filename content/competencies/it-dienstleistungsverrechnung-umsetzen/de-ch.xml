@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>258</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=258%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>IT Dienstleistungsverrechnung umsetzen</title>
+    <capability>Verrechnungsmodelle für IT Dienstleistungen erstellen. Unterschiedliche Arten der Leistungsverrechnung beurteilen und für den Einsatz vorschlagen. Verrechnungsmodelle operativ umsetzen und Controlling aufbauen.</capability>
+    <goals>
+        <goal>
+            Werte und Werteflüsse für zu verrechnende IT Dienstleistungen aus der Analyse von Verträgen, Service Level Agreements, Budgets, Lizenzen, Kostensammlern usw. ableiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kostenarten einer IT Abteilung und kann aufzeigen, welche Bedeutung diese für die Leistungsverrechnung bestimmter IT Dienstleistungen haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leistungsverrechnungsmöglichkeiten beurteilen und Empfehlung für Entscheidungsträger ausarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die prinzipiellen Unterschiede zwischen einer Voll- und einer Teilkostenrechnung und kann erläutern, unter welchen betrieblichen und leistungsspezifischen Rahmenbedingungen die eine oder die andere Variante zu bevorzugen ist.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verrechnungsmodell erstellen, mit einem Werkzeug abbilden und erproben. Dabei interne und externe Leistungsverrechnung (Verrechnungsschema, Fakturierungsablauf) berücksichtigen und Schnittstellen bestimmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten der Verrechnung bzw. Fakturierung von IT Dienstleistungen (Durchschnitt, Planzahlen, effektiv anfallend, Periodizität, Nutzen-Bezogenheit) und kann darlegen, bei welchen Charakteristiken von IT Dienstleistungen und/oder Voraussetzungen seitens Leistungsbezüger sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verrechnungsmodell in operatives Verrechnungssystem integrieren. Dabei Periodizität, Aktualität, Integrität sowie Datenschutz- und Sicherheitsaspekte beachten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Merkmale von IT Dienstleistungen, welche das Automatisierungspotential bei der Erhebung und Verrechnung dieser Dienstleistungen bestimmen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Reporting bestimmen. Abweichungen und deren Ursachen zwischen Plan- und Ist-Grössen erkennen und Massnahmen bestimmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt statistische Kennwerte (Streuung, Standardabweichung, Korrelation), welche die Beurteilung von Plan-/Ist-Abweihungen unterstützen und kann aufzeigen, wie diese zu interpretieren sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Darstellungsformen, die sich für die Visualisierung von Plan/Ist-Abweichungen entlang einer Zeitachse eignen und kann erläutern, welche Aussagen daraus abgeleitet werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt technische Vorkehrungen der Alarmierung von Personen beim Überschreiten von Grenzwerten und kann erläutern, unter welchen Voraussetzungen diese eine schnelle Reaktion auf Abweichungen erlauben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bei Bedarf Verrechnungsmodell anpassen.</goal>
+    </goals>
+</competency>

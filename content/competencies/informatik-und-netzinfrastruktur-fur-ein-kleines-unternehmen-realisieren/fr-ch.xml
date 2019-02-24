@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>117</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=117%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettre en place l’infrastructure informatique d’une petite entreprise</title>
+    <capability>Installer un réseau local sans administration centralisée des utilisateurs</capability>
+    <goals>
+        <goal>
+            Saisir, avec le mandant, les exigences du réseau à installer et déterminer les services désirés (Fichiers, impression, Internet).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les services de réseaux locaux les plus répandus et pouvoir démontrer  les exigences qui en résultent envers un réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir la construction logique ainsi que physique du réseau sur la base des exigences et de la topologie des lieux, en faire une représentation sous forme d´un diagramme et plan de réseau.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales informations qui doivent figurer dans un diagramme de réseau simple et pouvoir démontrer comment les représenter dans ce diagramme.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales règles à respecter pour une configuration réseau  correcte (adressage IP format, masque de sous réseau, classes, adresses privées, passerelles standard, serveur DNS) et pouvoir les expliquer par des exemples.
+                </knowledge>
+                <knowledge>
+                    Connaître les fonctions de principe des composants de réseau tels que switch, point d’accès, routeur et pouvoir expliquer où et dans quel but ils sont utilisés dans un réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités techniques les plus répandues de mise en place d´un accès Internet et pouvoir expliquer leurs conséquences pour l´utilisation d´Internet et son coût.
+                </knowledge>
+                <knowledge>
+                    Connaître les types de câbles et de prises ainsi que les câbles Ethernet courants (par ex. paire torsadée, UTP, STP, fibre optique, RJ45, 100BaseTX, 100BaseFX, 1000BaseFX, 1000BaseTX, etc.) et pouvoir indiquer à quelles exigences ils répondent en matière de performance et de locaux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer une planification de l´installation et de la configuration qui tient compte de la construction du réseau ainsi que de la topologie des lieux.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les conditions architecturales et les possibilités d´installation du câblage de réseau et pouvoir en démontrer les conséquences pour le travail d´installation, l´accès pour la maintenance et les coûts.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer le réseau et ses composants selon la documentation des constructeurs, procéder à la configuration.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les paramètres de la configuration des composants réseau (par ex. ordinateurs, routeurs, points d’accès) et pouvoir démontrer  comment ils contribuent au bon fonctionnement de la communication dans le réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer la gestion des ressources pour le partage de fichiers, d´imprimantes qui respecte les prescriptions en ce qui concerne la sécurité et les droits d´accès aux ressources.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales possibilités de gestion d´accès dans les systèmes d´exploitation de réseaux (autorisation de lecture et d´écriture, utilisateurs, groupes d´utilisateurs, partages) et pouvoir démontrer comment elles garantissent la sécurité des données.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de documentation des autorisations (par ex. matrice des relations entre groupes d´utilisateurs et partages) et pouvoir démontrer  comment elles facilitent l´attribution correcte des autorisations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester et documenter le réseau avec tous ses composants connectés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les symptômes des principales pannes d´un réseau et pouvoir en décrire les causes potentielles (erreur de configuration, erreur de câblage, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les principales informations qui doivent figurer dans la documentation d´un réseau simple et pouvoir expliquer à quoi elles sont utiles dans la maintenance et l´exploitation du réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître le but et les fonctions du modèle en couches OSI et pouvoir démontrer à quelles couches appartiennent les protocoles et les composantes du réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>167</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=167%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Evaluer des outils informatiques</title>
+    <capability>Evaluer des offres conformément aux exigences envers les outils et prestations informatiques et déclencher la procédure d’achat.</capability>
+    <goals>
+        <goal>
+            Définir une procédure d’évaluation conformément au mandat de projet et établir un calendrier.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les objectifs et les conditions générales régissant l’acquisition de système TIC et qui nécessitent une évaluation.
+                </knowledge>
+                <knowledge>
+                    Connaître les activités principales et les résultats d’une procédure d’évaluation et pouvoir en décrire les interdépendances temporelles et contextuelles.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les critères d’appel d’offres et d’évaluation à partir des informations et des exigences relatives aux outils et prestations informatiques et établir le catalogue de critères.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différences fondamentales entre objectifs et exigences d’un projet et pouvoir les illustrer par des exemples.
+                </knowledge>
+                <knowledge>
+                    Connaître les aspects à prendre en compte dans la formulation de critères sur la base d’objectifs et d’exigences pour garantir la représentativité de l’appel d’offres et l’objectivité de l’évaluation.
+                </knowledge>
+                <knowledge>
+                    Connaître la structure de base d’un catalogue d’exigences et savoir quels en sont les éléments qui contribuent à garantir une situation de départ claire pour l’acquisition d’une solution.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rédiger, à partir des informations relatives aux outils et prestations informatiques et du catalogue de critères, un cahier des charges destiné aux soumissionnaires qui contient des informations précises sur l’outil ou la prestation et sur les exigences que doivent remplir les offres.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la structure d’un cahier des charges et savoir quels en sont les éléments qui contribuent à établir une base contraignante pour la soumission d’offres.
+                </knowledge>
+                <knowledge>
+                    Connaître les dispositions légales qui régissent les appels d’offres et savoir comment elles contribuent à garantir le jeu de la concurrence.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir, à partir du catalogue de critères et d’autres informations figurant dans l’appel d’offres, des bases d’évaluation qui garantissent une sélection objective et transparente des offres.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments fondamentaux d’une méthode d’évaluation, notamment les objets d’évaluation, les critères d’évaluation et leur pondération. Pouvoir expliquer comment ces critères contribuent à l’objectivité de l’évaluation.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes permettant de pondérer des éléments d’évaluation (prestations, objets, critères, etc.) et pouvoir expliquer les informations nécessaires et comment la pondération en découle.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes d’évaluation permettant de comparer des offres (comparaison deux à deux, matrice de préférence, comparaison par facteurs, analyse multicritère, etc.) et pouvoir indiquer leurs démarches mais aussi leurs limites en ce qui concerne la significativité des comparaisons.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Se procurer des informations fiables sur les soumissionnaires dans des revues professionnelles, auprès d’autres entreprises, etc. et sélectionner ceux auxquels le contrat pourrait être attribué.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les exigences à satisfaire pour garantir une sélection des fournisseurs potentiels adaptée au projet (base de compétences, situation financière, respect de critères environnementaux, disponibilité des ressources, projets de référence).
+                </knowledge>
+                <knowledge>
+                    Connaître la démarche systématique à adopter pour sélectionner des fournisseurs potentiels adaptés sur le marché libre.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes sources d’information (foires, revues professionnelles, profils Internet, projets de référence, demandes directes de renseignements) relatives aux fournisseurs potentiels. Pouvoir indiquer les influences que subit leur significativité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Procéder à une présélection des offres sur la base des critères impératifs et de l’exhaustivité des soumissions.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères à respecter pour la présélection des offres et pouvoir indiquer les conséquences négatives qu’ils permettent d’éviter pour le projet et pour l’exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer les offres présélectionnées sur la base des documents d’évaluation, analyser les résultats et formuler une recommandation à l´intention du mandant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les documents nécessaires à l’évaluation d’offres (catalogues de critères, analyse multicritère, etc.) et pouvoir indiquer comment ils contribuent à une prise de décision précise et transparente.
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques permettant de représenter les résultats de l’évaluation de manière transparente.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Préparer les négociations contractuelles avec les fournisseurs sélectionnés et accompagner cette phase d’évaluation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les contenus déterminants d’une proposition à l’intention des décideurs et pouvoir indiquer comment ces contenus et leur ordre facilitent et garantissent la prise de décision.
+                </knowledge>
+                <knowledge>
+                    Pouvoir décrire les méthodes et les techniques permettant d’obtenir une décision de la part d’une instance et pouvoir illustrer par des exemples les situations dans lesquelles elles sont utilisées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déclencher la procédure d’achat conformément aux directives internes et en assurer le suivi.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les informations nécessaires à une acquisition.
+                </knowledge>
+                <knowledge>
+                    Pouvoir montrer comment le projet d’évaluation, le projet d’acquisition ainsi que l’organisation qui utilisera la solution se différencient sur le plan des tâches, des responsabilités et des compétences durant le processus qui s’étend de l’analyse des exigences à la mise en service de la solution.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>205</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=205%26clang=it</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>D&amp;eacute;finir une architecture de communication</title>
+    <capability>Analyser l’architecture de communication existante, définir des variantes de mise en œuvre et développer une future architecture en tenant compte de la stratégie ICT (Information &amp; Communication Technology). Planifier la migration et la mise en place puis faire prendre la décision.</capability>
+    <goals>
+        <goal>
+            Développer et décrire la future architecture à partir de l'architecture de réseau existante et des objectifs IT et en tenant compte des besoins des utilisateurs.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Vorgehensweisen zur Erhebung von Kundenanforderungen und kann erläutern, unter welchen Voraussetzungen und Rahmenbedingungen diese eine wirtschaftliche und aussagekräftige Erhebung gewährleisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten Merkmale zur Bestimmung der eingesetzten Topologien in einem Netzwerk und kann aufzeigen, auf welche betrieblichen Anforderungen resp. Rahmenbedingungen (Systemarchitektur, Applikationsarchitektur) diese schliessen lassen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Komponenten eines Netzwerks (logische Sicht) und kann aufzeigen, über welche Eigenschaften eines Netzwerks mit der Auslegung dieser Komponenten bestimmt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            In collaborazione con specialisti di reti, interni o esterni, elaborare l’implementazione dell’architettura prevista per il futuro utilizzando le tecnologie usuali disponibili sul mercato. Presentare l’analisi economica della redditività e far approvare l’architettura prevista per il futuro.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wesentlichen Anforderungen (Performance, Verfügbarkeit etc.) von Applikationen hinsichtlich der Netzwerkarchitektur und kann aufzeigen, welche Vorkehrungen bei der Festlegung einer Netzwerkarchitektur diesen Anforderungen gerecht werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die aktuellen Standards und Technologien im Bereich von LANs sowie WANs und kann darlegen, welche Eigenschaften diese aufweisen und für welche Anwendungsbereiche sich diese speziell eignen.
+                </knowledge>
+                <knowledge>
+                    Kann für die aktuellen Standards und Technologien im Netzwerkbereich erläutern, welche Bedeutung ihnen aufgrund ihrer Verbreitung, Produktreife, und des Innovationspotentials bei der Festlegung einer Netzwerkarchitektur zukommt.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen betrieblichen Rahmenbedingungen (Infrastruktur, Betriebsstruktur) die bei der Definition einer Netzwerkarchitektur zu berücksichtigen sind und kann aufzeigen, welche grundsätzlichen Überlegungen unter Berücksichtigung dieser Rahmenbedingungen bei der Festlegung einer Netzwerkarchitektur angestellt werden müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundsätzlichen Aspekte welche für einen Entscheid hinsichtlich Migration einer Netzwerkarchitektur in einer Organisation zu berücksichtigen sind und kann darlegen, welche Auswirkungen hinsichtlich Ressourcenbedarf mit der Abklärung dieser Aspekte abgedeckt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Vorgehensweisen zur Entwicklung von Lösungsvarianten und kann erläutern, unter welchen Rahmenbedingungen diese zu einer breit abgestützten Evaluation beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Verfahren der Investitionsrechnung und kann erläutern, für welche Art von Investitionsvorhaben diese eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Verfahren zur Bewertung von Lösungsvarianten und kann beispielhaft aufzeigen, wie diese eine sachlich fundierte Entscheidungsfindung unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Moderationstechniken, welche bei der Entwicklung von Konzepten bzw. Lösungsansätzen in interdisziplinären Teams zum Einsatz kommen und kann erläutern, wie diese breit abgestimmte und innovative Lösungen unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Individuare le varianti e le fasi di realizzazione per l’architettura di rete prevista per il futuro, considerando l’architettura del sistema e delle applicazioni.
+            <knowledge-list>
+                <knowledge>
+                    Kennt kritische Erfolgsfaktoren bei der Migration auf eine neue Netzwerkarchitektur und kann aufzeigen, unter welchen betrieblichen Rahmenbedingungen diese bei der Migrationsplanung zu beachten sind.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen Informationen, welche bei der Planung der Migration auf eine neue Netzwerkarchitektur im laufenden Betrieb zu beachten sind und kann erläutern, wie die Berücksichtigung dieser Informationen zur Aufrechterhaltung des laufenden Betriebs während der Migration beiträgt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Valutare le varianti di realizzazione proposte, considerando inoltre gli effetti sui metodi, sugli strumenti e sulle risorse richiesti. Condurre alla scelta di una variante di realizzazione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Faktoren (Gebäudesituation, Technologie etc.), welche den Ressourcenbedarfs bei der Migration auf eine neue Netzwerkarchitektur beeinflussen und kann an Beispielen erläutern, warum die Berücksichtigung dieser Faktoren eine zuverlässige Bestimmung des Ressourcenbedarfs sicherstellen.
+                </knowledge>
+                <knowledge>
+                    Kann Methoden und Techniken zur Herbeiführung von Entscheidungen in einem Gremium beschreiben und mögliche Situationen erläutern, in welchen diese zur Anwendung kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dedurre le esigenze per la pianificazione della migrazione ed elaborare un piano di migrazione per la variante di realizzazione scelta.</goal>
+        <goal>
+            Definire le esigenze per un Service Level Agreement.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Services im Bereich des Betriebs und Unterhalts eines Netzwerkes und kann aufzeigen, welche spezifischen Vor- und Nachteile mit der Vergabe dieser Services an einen externen Dienstleister verbunden sind.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>664</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=664%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>ICT-Dienstleistungen beschaffen und überwachen</title>
+    <capability>Steuert den Prozess mit externen Lieferanten, um die Einhaltung des Service Level Agreements (SLA) mit dem Kunden trotz zum Teil extern erbrachter ICT-Leistung garantieren zu können.</capability>
+    <goals>
+        <goal>
+            Identifiziert die Bestandteile einer Leistung, grenzt diese gegeneinander ab und erhebt die Bedürfnisse und Erwartungen, welche externe Leistungser-bringer erfüllen müssen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Definition des Begriffs ICT Dienstleistungen in Bezug auf die Unternehmenstätigkeit (z.B. gemäss itSMF) und deren Bedeutung bei der Auswahl von externen Dienstleistern.
+                </knowledge>
+                <knowledge>
+                    Kennt Kategorien von ICT Dienstleistungen und ihre Abgrenzung untereinander (z.B. Entwicklung, Systemintegration).
+                </knowledge>
+                <knowledge>
+                    Kennt die systematische Vorgehensweise bei der Erhebung von Bedürfnissen und Anforderungen (Sammlung- Analyse-Spezifikation-Validierung).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Instrumente zur Erhebung von Bedürfnissen und Anforderungen (z.B. Fokusgruppen, Problemzentriertes Interview).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Hält die Leistungsbestandteile und die damit verbundenen Bedürfnisse und Erwartungen in einem Pflichtenheft fest und initiiert eine verbindliche  Ausschreibung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Prinzipien, die zwecks einer erfolgreichen und fairen Ausschreibung zu beachten sind (z.B. Gleichbehandlung, Objektivität).
+                </knowledge>
+                <knowledge>
+                    Kennt Regeln und Verfahrensbestimmungen bei Beschaffungsvorhaben im öffentlich-rechtlichen Bereich (z.B. Auftragssumme,  offenes/selektives Verfahren).
+                </knowledge>
+                <knowledge>
+                    Kennt die Verfahrensschritte bei einem projektmässigen Vorgehen und entsprechende Vereinbarungen zwischen Auftraggeber und Anbieter von der Ausschreibung bis zur Bekanntmachung des Entscheids (z.B. Rückfragen der Anbietenden und der Umgang damit, um eine Gleichbehandlungssicherzustellen).
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Inhalte einer Ausschreibung (z.B. Leistungsverzeichnis, Pflichtenheft, geforderte Leistungsnachweise, Fristen).
+                </knowledge>
+                <knowledge>
+                    Kennt die Teile eines ICT-Leistungsverzeichnisses (z.B. ICT-Dienstleistungen, Consultingleistungen, Projektmanagement-Leistungen) und deren Definitionselemente (z.B. Leistungspositionen, Spezifikationen, Requirements).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert auf Basis der Anforderungen im Pflichtenheft ein Bewertungsinstrument, das eine objektive und nachvollziehbare Bewertung der eingegangenen Offerten sicherstellt.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundelemente eines Bewertungssystems (z.B. Bewertungsobjekt, Bewertungskriterien, Güteklassen) und die Anforderungen an deren Ausarbeitung, um die Objektivität und Nachvollziehbarkeit einer Bewertung sicherzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung und die Wertschöpfung eines systematisch gegliederten Leistungsverzeichnisses (2.5) für ein objektives und nachvollziehbares Bewertungssystem.
+                </knowledge>
+                <knowledge>
+                    Kennt Bewertungsmethoden und -instrumente zur Sicherstellung einer systematischen und nachvollziehbaren Bewertung (z.B. Nutzwertanalyse, Präferenzmatrix).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beurteilt mit Hilfe des Bewertungsinstruments die eingegangenen Offerten und legt das Ergebnis dem Auftraggeber in Form einer Empfehlung zur Entscheidung vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehen und Vorgehensschritte zur Sicherstellung eines Konsens-fähigen und objektiven Bewertungsergebnisses (z.B. Einführung Bewertungssystem, Analyse der Bewertungsergebnisse, Konsensprozesse).
+                </knowledge>
+                <knowledge>
+                    Kennt das Verhalten sowie die Einstellungen der Bewertungspersonen und ihren Einfluss auf die Objektivität und Vergleichbarkeit der Bewertung (z.B. Voreingenommenheit, Sympathien oder Antipathien, persönliche Betroffenheit, Veränderungsbereitschaft).
+                </knowledge>
+                <knowledge>
+                    Kennt Strukturelemente einer nachvollziehbaren und aussagekräftigen Empfehlung (Präsentation, Management-Summary) sowie deren Ausarbeitung zu Händen von Entscheidungsträgern (z.B. Ausgangssituation, Ziele, Evaluationsvorgehen, Evaluationsergebnisse, Empfehlung).
+                </knowledge>
+                <knowledge>
+                    Kennt Arten von Einwänden auf Empfehlungen/Angebote (z.B. Scheineinwand, Objektiver Einwand) und die Strategie der Einwand Behandlung, um darauf angepasst zu reagieren (z.B. Reframing-Methode, Divisionsmethode).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt den Prozess der Vertragsverhandlungen gemäss den betrieblichen Richtlinien und stellt dabei sicher, dass das Angebot den angeforderten ICT-Leistungen entspricht.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Bedeutung einer vertraglichen Vereinbarung hinsichtlich der Erbringung von quantitativen und qualitativen Dienstleistungen zwischen Auftragnehmer und Auftraggeber (z.B. Transparenz, Einschätzbarkeit, Sicherheit).
+                </knowledge>
+                <knowledge>
+                    Kennt Zusammenhang der vertragsrelevanten Dokumente für die Vereinbarung von ICT Dienstleistungen (z.B. Service Level Requirements,  Service Levels, Service Level Agreement) sowie ihre zeitliche und vertragliche Einordnung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Definitionselemente der Service Level Requirements (Gliederung in Leistungsgruppen, angebotenen Leistungen pro Leistungsgruppe, Qualität der Leistungen) und ihr Beitrag zu einer klaren Vereinbarung zwischen Auftraggeber und Auftragnehmer.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert mit dem Lieferanten abgestimmt auf die Anforderungen an die Leistungen die Überwachung der Leistungserbringung, deren Kommunikation und die Eskalationsprozesse.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Angaben in einem Reporting zur Leistungserbringung (z.B. erreichte Service Levels, Vergleich mit dem vereinbarten Service Levels, verwendete Informationen) und deren Bedeutung für die Überwachung der Leistungserbringung.
+                </knowledge>
+                <knowledge>
+                    Kennt Voraussetzungen und Massnahmen für eine optimale Kommunikation zwischen Leistungsbezügern und Leistungserbringern in der Phase der Leistungserbringung (z.B. Reaktionsvermögen, Vertrauen, Zuverlässigkeit, Sanktionsprinzipien).
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau- und ablauforganisatorische Massnahmen zur Sicherstellung von Eskalationsprozessen bei Abweichungen der vereinbarten Service Levels (z.B. Etablierung eines Service Level Managers, Verantwortung für Identifikation der Abweichungen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Überwacht mit Hilfe der vereinbarten Kennzahlen sowie der Instrumente zur Überwachung  der Leistungen die Leistungserbringung des Lieferanten und definiert und vereinbart mit ihm allfällige Verbesserungen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Anforderungen an KPI‘s zur Überwachung der Leistungserbringung (z.B. Übereinstimmung mit Service Level, verfügbare Informationen, Qualität der verfügbaren Informationen).
+                </knowledge>
+                <knowledge>
+                    Kennt Prinzipien einer wirksamen Überwachung der Leistungserbringung (z.B. Transparenz, Objektivität, Nachvollziehbarkeit) und die dafür zu treffenden Massnahmen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

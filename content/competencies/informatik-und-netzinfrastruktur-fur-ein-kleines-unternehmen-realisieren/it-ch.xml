@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>117</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=117%26clang=it</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Realizzare l&amp;rsquo;infrastruttura informatica e di rete per una piccola azienda</title>
+    <capability>Installare una rete locale senza una gestione centralizzata degli utenti.</capability>
+    <goals>
+        <goal>
+            Definire con il mandante le esigenze della rete da installare e determinare i servizi desiderati (file, stampa, Internet).
+            <knowledge-list>
+                <knowledge>
+                    Conosce i servizi di rete locale più diffusi e sa indicare quali esigenze per una rete ne derivano.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire la struttura logica e fisica della rete secondo le esigenze aziendali e la disposizione dei locali e rappresentarla in uno schema di rete e dei collegamenti.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le principali informazioni che devono figurare in uno schema di rete semplice e sa indicare come possono essere rappresentate.
+                </knowledge>
+                <knowledge>
+                    Conosce le principali regole da rispettare per un corretto indirizzamento IP (formato indirizzo IP, maschera di sottorete, classi, indirizzi privati, gateway standard, server DNS) e sa illustrarli attraverso degli esempi.
+                </knowledge>
+                <knowledge>
+                    Conosce i principali compiti dei componenti di rete switch, access point e router e sa spiegare dove e per quale scopo essi sono utilizzati in una rete.
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità tecniche più diffuse per la realizzazione di un accesso Inter- net e sa spiegare quali conseguenze hanno nell'utilizzazione d'Internet e il relativo costo.
+                </knowledge>
+                <knowledge>
+                    Conosce gli attuali tipi di cavo, di prese e di varianti Ethernet (doppini incrociati, UTP, STP, fibra ottica, RJ45, 100BaseTX, 100BaseFX, 1000BaseTX, etc.) e sa indicare a quali esigenze essi rispondono in rapporto alla prestazione e alla disposizione dei locali.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Pianificare le fasi di lavoro per l'installazione e la configurazione, tenendo conto della struttura di rete e della disposizione dei locali.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le condizioni architettoniche significative e le possibilità d'installazione in rapporto al cablaggio di rete e sa indicarne le conseguenze per il lavoro d'installazione, l'accesso per la manutenzione ed i costi.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Costruire la rete fisica, installare e configurare i componenti di rete secondo la documentazione dei produttori.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i parametri necessari per la configurazione dei componenti di rete (ad esempio computer, router, access point, etc.) e sa indicare come essi contribuiscono al buon funzionamento della comunicazione di rete.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire la gestione delle risorse (gruppi, condivisioni) e della condivisione di file e stampanti, tenendo in considerazione le specifiche per quanto concerne la sicurezza dei dati e la disponibilità.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le principali precauzioni che i sistemi operativi di rete offrono per la condivisione di risorse (autorizzazione di lettura e scrittura, utenti, gruppi d'utenti, condivisioni) e sa indicare come esse garantiscono la sicurezza dei dati.
+                </knowledge>
+                <knowledge>
+                    Conosce le possibilità di documentazione dell'attribuzione di autorizzazioni (per es. matrice delle relazioni tra gruppi d'utenti e condivisioni) e sa indicare come esse facilitano l'attribuzione corretta delle autorizzazioni.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testare la rete ed i sistemi connessi e documentare i risultati dei test.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i sintomi dei principali errori di una rete e ne sa descrivere le potenziali cause (errori di configurazione, errori di cablaggio, etc.).
+                </knowledge>
+                <knowledge>
+                    Conosce le principali informazioni presenti nella documentazione di una rete semplice e sa spiegare l'utilità nella manutenzione e il funzionamento della rete.
+                </knowledge>
+                <knowledge>
+                    Conosce lo scopo e la funzionalità del modello a livelli (OSI, modello TCP/IP) e sa indicare a quali livelli appartengono i protocolli e i componenti di rete.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

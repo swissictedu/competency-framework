@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>153</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=153%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer les modèles de données</title>
+    <capability>Réceptionner et analyser les exigences du client sur les informations, développer les modèles de données.</capability>
+    <goals>
+        <goal>
+            Réceptionner et analyser les besoins en informations, les exigences en vue de la maintenance des données avec le mandant (par ex. des cas commerciaux), ainsi que définir et documenter les besoins en matière de protection et sécurité des données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les méthodes répandues (étude de documentation, interview) pour obtenir des informations dans une entreprise et pouvoir décrire quels genres d’informations sont appropriés à quelles conditions cadres de l’entreprise.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer le modèle conceptuel de données et créer les informations manquantes, le cas échéant supprimer les redondances.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement méthodique lors du développement d’un modèle conceptuel de données et pouvoir décrire pour chaque étape son avancement.
+                </knowledge>
+                <knowledge>
+                    Connaître les règles qui doivent être prises en considération lors de la spécialisation respectivement de la généralisation d’objets en quantité d’entités et de relations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Transposer le modèle conceptuel de données dans un modèle logique ainsi que compléter les attributs, clé d’identification, clé étrangère, type de données).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques spécifiques qui doivent être remplies par une clé d’identification dans un modèle de données et pouvoir décrire quelles possibilités traitements peuvent ainsi être garanties.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments avancés de construction du modèle ER (association récursive) et de la modélisation des données (généralisation/spécialisation), pouvoir montrer dans quelles situations cette modélisation peut être mise en œuvre.
+                </knowledge>
+                <knowledge>
+                    Connaître les étapes de la normalisation jusqu’à la 3e. forme normale et pouvoir  décrire à l’aide d’exemples quelles contributions celles-ci apportent à la maintenance des données sans redondances.
+                </knowledge>
+                <knowledge>
+                    Connaître les différentes cardinalités (associations) et peu décrire comment celles-ci doivent être mises en application dans un modèle relationnel de données par le biais de la définition de clés primaires et étrangères.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier le modèle conceptuel de données avec le mandant et, le cas échéant, entreprendre les adaptations.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la mise en œuvre d’une technique de révision afin de vérifier un modèle de données avec le mandant.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités de mise en œuvre d’un prototype afin de vérifier et de concrétiser les exigences dans la cadre d’une discussion avec le mandant.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Développer et implémenter le schéma physique de la base de données selon le modèle logique de données présent.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités d’amélioration des temps d’accès sur une base de données par le biais de la définition d’indices et la dé-normalisation (redondance contrôlée) de tabelles, pouvoir décrire à l’aide d´exemples comment ces mesures contribuent à une amélioration des temps d’accès.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

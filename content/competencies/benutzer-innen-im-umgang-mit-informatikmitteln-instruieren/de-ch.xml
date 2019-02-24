@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>214</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=214%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Benutzer/innen im Umgang mit Informatikmitteln instruieren</title>
+    <capability>Benutzerinnen und Benutzer im Umgang mit Informatikmitteln instruieren und unterstützen.</capability>
+    <goals>
+        <goal>
+            Kurzanleitung oder Checkliste mit Regeln, Hinweisen und Vorschriften für den Umgang mit Informatikmitteln (Systemzugang, System- und Programmbedienung, Sicherheit, Datenschutz usw.) erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt prinzipielle Unterschiede zwischen einer Benutzerinstruktion und dem Support der Benutzer bei Problemen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Umgang mit Informatikmitteln am Arbeitplatz (zB. Systemzugang, System- und Programmbedienung, Sicherheit, Datenschutz).
+                </knowledge>
+                <knowledge>
+                    Kennt die Strukturen, die der Orientierung in einer Benutzeranleitung dienen (zB. thematische Gliederung, Inhaltsverzeichnis, FAQ).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden die Benutzer/innen das Selbstudium im Umgang mit Informatikmitteln ermöglichen
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Qualität (Klarheit, Verständlichkeit, Nachvollziehbarkeit, usw.) der Kurzanleitung/Checkliste und Instruktion durch persönliche Reflexion und das Einholen von Rückmeldungen verbessern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Fragetechniken (zB. offene Fragen, geschlossene Fragen) und welche Arten von Rückmeldungen (zB. allg. Einstufungen der Qualität, Hinweise auf Verbesserungspotentiale) sich damit einholen lassen, resp. wie sich diese für den Verbesserungsprozess einsetzen lassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Benutzerinnen und Benutzern Regeln und Hinweise für die Anwendung der Funktionen der Informatikmittel anwendergerecht erläutern und schrittweise anleiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Regeln, die bei der Benutzerinstruktion einzuhalten sind (zB. Sprechgeschwindigkeit, Blickkontakt, wichtige Schritte visualisieren, Fachbegriffe umschreiben, einfache Sätze, strukturiertes Vorgehen).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Benutzerinnen und Benutzern Sicherheitsstandards und Sicherheitsvorschriften erläutern und zum verantwortungsbewusstem Umgang mit Informationen und Informatikmitteln anleiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundlegenden Bereiche der Informationssicherheit, des Datenschutz, verbreitetes Verhalten von Benutzerinnen und Benutzern (zB. Öffnen von E-Mail-Anhängen unbekannter Sender, Bekanntgabe von Passwörtern, Herunterladen von Daten aus nicht bekannten Quellen im Internet) und die häufigsten Gefahrenquellen (zB. Viren, Hacker, Social Engineering)..
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, um Benutzerinnen und Benutzer für ein sicherheitskonformes Verhalten zu sensibilisieren (zB. schrittweises Aufzeigen der Konsequenzen aus einem Fehlverhalten, für die eigene Person und den Betrieb).
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung der Vorbildfunktion in diesem Bereich.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit geeigneten Massnahmen den Erfolg einer Instruktion überprüfen und Anliegen aufnehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehensweisen, um Benutzerinnen und Benutzern auf eine zuvorkommende Art bei der Ausübung ihrer Tätigkeit zu überprüfen (zB. Aufforderung ein weiteres Beispiel selber durchzuführen, Aufforderung eine Aktion noch einmal durchzuspielen, Schritte erklären lassen etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

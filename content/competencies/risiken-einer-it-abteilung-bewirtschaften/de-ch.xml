@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>246</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=246%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Risiken einer IT Abteilung bewirtschaften</title>
+    <capability>Risiken einer IT Abteilung analysieren und Massnahmen ableiten, die erkannten Risiken unter Berücksichtigung des Unternehmensumfeldes adressieren, bewirtschaften und überwachen.</capability>
+    <goals>
+        <goal>
+            Ein vorgegebenes unternehmensweites Risiko Management System für die IT Abteilung anpassen; Schnittstellen, Rollen, Aufgaben, Kompetenzen und Verantwortlichkeiten definieren und zuweisen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von Gefahren personeller, organisatorischer und technischer Art in einer IT Abteilung und kann an Beispielen darle-gen, wie diese durch eine entsprechende Zuteilung von Aufgaben und Verantwortungen reduziert oder eliminiert werden können und welche Konsequenzen sich hinsichtlich der Servicequalität einer IT Abteilung sich daraus ergeben können.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau eines unternehmensweiten Risiko Management Systems und kann für die einzelnen Bereiche erläutern, was diese für eine effiziente Bewirtschaftung der Risiken, zur Verhinderung von Risikoereignissen oder zur Eindämmung des Schadenpotentials im Risikofall vorkehren.
+                </knowledge>
+                <knowledge>
+                    Kennt die Zielsetzungen, welche mit einem unternehmensweiten Risiko Management System verfolgt werden und kann erläutern, warum die Integration der Dienstleistungen einer IT Abteilung in ein solches System für das Erreichen dieser Zielsetzungen unabdingbar ist.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Gefahrenpotentiale und Risiken seitens Personal, Organisationsumfeld, Technik und Prozesse einer IT Abteilung systematisch erheben.</goal>
+        <goal>
+            Erhebung strukturieren, bewerten und die Ergebnisse aufbereiten, so dass bedeutende Risiken der IT Abteilung eindeutig erkannt werden (Risikokatalog).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Struktur eines Risikokatalogs und kann für die einzelnen Elemente diese Katalogs aufzeigen, was sie zur Bewertung eines Unternehmens bzw. zu dessen Existenzsicherung beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Risikokatalog mit Massnahmen ergänzen, Kostenfolgen ermitteln, Termine und Verantwortlichkeiten für die Zielerreichung definieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kostenarten einer IT Abteilung und kann aufzeigen, welche Bedeutung diese für die Leistungsverrechnung bestimmter IT Dienstleistungen haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ergebnisse an die Entscheidungsträger kommunizieren und notwendige Entscheidungen herbeiführen.
+            <knowledge-list>
+                <knowledge>
+                    Kann Methoden und Techniken zur Herbeiführung einer Entscheidung in einem Gremium beschreiben und an Beispielen erläutern, in welchen Situationen diese Methoden und Techniken zur Anwendung kommen.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, welche Gesichtspunkte bei der Anpassung von Prozessen/Abläufen in einer Organisation beachtet werden müssen und kann anhand von möglichen Vorkehrungen darlegen, welchen negativen Folgen man mit der Beachtung dieser Gesichtpunkte bzw. diesen Vorkehrungen vorbeugt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wirksamkeit der Massnahmen des Risikomanagements mit einem institutionalisierten Prozess überwachen.
+            <knowledge-list>
+                <knowledge>
+                    Kann darlegen, welche Bedeutung die periodische Überprüfung eingeleiteter Verbesserungsmassnahmen für die nachhaltige Sicherung des Unternehmenserfolgs haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

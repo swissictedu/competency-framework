@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>301</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=301%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Office Werkzeuge anwenden</title>
+    <capability>Dokumente mit Text-, Tabellen- und Präsentationswerkzeugen strukturieren und gestalten. Internet und E-Mail nutzen und Dokumentverwaltung organisieren.</capability>
+    <goals>
+        <goal>
+            Strukturierte Ablage mit Ordnern, Ordnerstrukturen, Namenskonventionen etc. für Dateien/Dokumente erstellen, verwalten und pflegen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und die Funktionen eines Dateimanagements mit Ordnern, Dateien und Dateitypen auf Datenträgern und kann erläutern, wie diese eine effiziente Verwaltung von Dateien auf Datenträgern unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kennt die einfachsten Möglichkeiten, die ein Betriebssystem und die verbreiteten Tools im Bereich des Zugriffsschutzes bieten und kann erläutern, für welche Art von Informationen diese sinnvoll eingesetzt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Inhalt und Struktur von Texten und Daten/Informationen analysieren und für die Bearbeitung und Gestaltung ein Werkzeug (Textverarbeitung, Tabellenkalkulation, Präsentation) auswählen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Möglichkeiten, welche die verbreiteten Tools im Bereich Textverarbeitung, Präsentation, Tabellenkalkulation, Internet und Mail bieten und kann aufzeigen, für welche Art von Aufgaben sich diese eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Dokumente einrichten (Seitenzahlen, Kopf- und Fusszeilen usw.), Dokumentinhalte (Überschriften, Absätze, Abschnitte usw.) bestimmen und mit standardisierten Formatvorlagen strukturieren und gestalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Strukturelemente Seite, Absatz und Zeichen und kann erläutern, wie diese für die inhaltliche Gliederung und die Gestaltung eines Dokumentes eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Schriftmerkmale (Schriftart, Schriftgrad, Schriftschnitt) und kann darlegen, wie diese für die Hervorhebung bzw. Markierung von Textstellen zweckmässig eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt das Formatvorlagenkonzept der verbreiteten Anwendungsprogramme und kann aufzeigen, wie sich Formatvorlagen für eine effiziente und einheitliche Gestaltung und Strukturierung von Dokumenten einsetzen lassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Inhalte von Dokumenten mit Tabulatoren oder Tabellen übersichtlich darstellen und formatieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Möglichkeiten, mit Tabulatoren und Tabellen Informationen strukturiert darzustellen und kann aufzeigen in welchen Fällen diese einzeln oder in Kombination zur Anwendung kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rechtschreibungs-, Silbentrennungs-, Autokorrekturfunktionen usw. nutzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Automatisierungshilfen gängiger Officewerkzeuge und kann erläutern, wie damit wiederholte Eingaben vereinfacht und die Qualität der Ergebnisse verbessert werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vorgegebene Texte und Bilder unter Beachtung von Gestaltungsregeln für eine Präsentation (Hellraumprojektor, Beamer) aufbereiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Einstellungen für die Darstellung und Platzierung von Bildern in einem Dokument und kann aufzeigen, welche Wirkung damit erzielt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Daten/Informationen in einem Tabellenblatt strukturieren, standardisierte Berechnungen durchführen und einfache Diagramme erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Regeln, die beim Aufbau eines Tabellenblattes zu beachten sind, damit eine Berechnung der verlangten Werte/Kenngrössen oder die Erstellung von Diagrammen gewährleistet werden kann (zeilen- oder spaltenweise Anordnung von gleichen Messgrössen, spalten- oder zeilenweise Zuordnung von verbundenen Werten).
+                </knowledge>
+                <knowledge>
+                    Kennt die einfachsten statistischen Kenngrössen (Mittelwert, Minimum, Maximum) und kann aufzeigen, für welche Art von Aussagen diese verwendet werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die einfachsten Diagrammtypen für die Darstellung von Informationen und kann erläutern, welche Aussagen sich damit visualisieren lassen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Informationen aus dem Internet mit einer Suchmaschine gezielt suchen, verfügbar machen und dabei Sicherheitsbestimmungen einhalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die qualifizierten Suchfunktionen der gebräuchlichen Suchmaschinen und kann deren Wirkung hinsichtlich einer effizienten Informationsbeschaffung erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Gefahren, die bei der Übertragung von Informationen aus dem Internet auftreten können und kann erläutern, mit welchen Verhaltensmassnahmen und mit welchen Vorkehrungen (Browser-Einstellungen, Virenschutzprogramme) diesen entgegengewirkt werden kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Browserfunktionen für den Zugriff auf Internetadressen nutzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten von WWW-Browsern für einen vereinfachten und beschleunigten Zugriff auf Internetseiten und kann aufzeigen, in welchen Fällen diese Möglichkeiten sinnvoll eingesetzt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            E-Mails austauschen (senden, empfangen, antworten, weiterleiten, verteilen) und dabei Datenschutz-, Sicherheits- und Vertraulichkeitsvorschriften einhalten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten einer effizienten Anwendung von E-Mail-Systemen (Adressbuch, Verteilerlisten, Ordnerstruktur, Sicherheitseinstellungen etc.) und kann erläutern, welchen Nutzen diese in der täglichen Arbeit bringen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

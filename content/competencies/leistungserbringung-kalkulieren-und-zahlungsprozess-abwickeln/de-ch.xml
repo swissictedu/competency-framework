@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>284</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=284%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Leistungserbringung kalkulieren und Zahlungsprozess abwickeln</title>
+    <capability>Kalkuliert die zu erbringenden Leistungen inkl. Mehrwertsteuer für die Offertstellung aufgrund interner Vorgaben. Kontrolliert den Zahlungseingang, leitet gegebenenfalls die rechtlichen Schritte des Inkassos ein und stellt damit die Zahlung sicher.</capability>
+    <goals>
+        <goal>
+            Kalkuliert den Verkaufspreis von Dienstleistungen und Produkten.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement du calcul du prix d'achat des produits (y c. rabais, escomptes et frais d'achat).
+                </knowledge>
+                <knowledge>
+                    Kennt den Ablauf der betrieblichen Kalkulation für Dienstleistungen und Produkte (Einzellohn resp. Einstandspreis, Gemeinkostenzuschlag, Gewinnzuschlag).
+                </knowledge>
+                <knowledge>
+                    Kennt den Ablauf der Verkaufskalkulation für Dienstleistungen und Produkten (inkl. Rabatte, Skonti, Verkaufssonderkosten und MwSt.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Berechnet die Mehrwertsteuer (MwSt.) und die geschuldete Umsatzsteuer auf den erbrachten Leistungen (Dienstleistungen und Produkte) nach der Netto- und Saldomethode
+            <knowledge-list>
+                <knowledge>
+                    Kennt das System der Mehrwertsteuer (Steuersätze, Vorsteuer, Umsatzsteuer).
+                </knowledge>
+                <knowledge>
+                    Kennt die unterschiedlichen Mehrwertsteuersätze und deren Zuordnung zu den Dienstleistungen und Produkten.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen Netto- und Saldomethode.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Organisiert die Abrechnung der MwSt. mit der Eidgenössischen Steuerverwaltung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Periodizität (halb-, vierteljährlich) der MwSt.-Abrechnung.
+                </knowledge>
+                <knowledge>
+                    Kennt das zur Abrechnung notwendige Formular.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet alle relevanten rechtlichen Schritte für das Inkasso von ausstehenden Rechnungen ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung einer Betreibung und die (möglichen) Folgen für die involvierten Parteien.
+                </knowledge>
+                <knowledge>
+                    Kennt die verschiedenen Betreibungsarten (Pfändung, Pfandwertung und Konkurs).
+                </knowledge>
+                <knowledge>
+                    Kennt das Einleitungsverfahren gemäss Schuldbetreibungs- und Konkursgesetz (SchKG).
+                </knowledge>
+                <knowledge>
+                    Kennt die notwendigen Schritte für die Fortsetzung jeder Art von Betreibung und die gesetzlich einzuhaltenden Fristen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung und Gültigkeit der verschiedenen Arten von Verlustscheinen (Pfandausfallschein, Verlustschein aus Pfändung, Verlustschein aus Konkurs).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

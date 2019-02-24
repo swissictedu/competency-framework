@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>168</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=168%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assister des processus métier au moyen d’outils TIC</title>
+    <capability>Analyser des processus métier d´un département de l’entreprise et apporter un soutien adapté aux exigences et aux objectifs avec les ressources des TIC.</capability>
+    <goals>
+        <goal>
+            Caractériser et consigner, en collaboration avec les interlocuteurs du département concerné, la création de valeur d’un processus métier sous forme de prestations entrantes et sortantes ainsi que les caractéristiques, spécificités et objectifs correspondants.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différences de principe entre une organisation par processus et une organisation par fonctions. Pouvoir déduire les opportunités et les risques des deux formes d’organisation.
+                </knowledge>
+                <knowledge>
+                    Connaître des critères de gestion d’entreprise permettant de définir l’importance des processus pour l’entreprise et pouvoir indiquer pourquoi leur prise en compte est décisive pour la définition d’une assistance potentielle par des outils TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de notation des techniques de représentation de processus métier et pouvoir expliquer les états de faits qu’ils permettent d’indiquer dans le déroulement de processus.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques de délimitation de processus métier (matrice de décomposition, diagramme de chaînes de tâches, diagramme d’activité).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Décomposer un processus métier en sous‐processus et tâches, déterminer l’ordre logique des tâches et leur attribution aux exécutants ainsi que le recours aux outils (systèmes TIC, checklists, formulaires, etc.) et représenter les résultats au moyen d’une notation standardisée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques des différents types de processus (processus de base, processus de support, processus de direction) et pouvoir indiquer les tâches attribuées à ces types de processus dans l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités fondamentales d’optimisation de processus métier et pouvoir expliquer dans quelles situations on y recourt.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes permettant de décomposer des processus en étapes et d’en analyser les forces et les faiblesses.
+                </knowledge>
+                <knowledge>
+                    Connaître des mesures d’organisation des structures et des processus (y compris les mesures techniques et applicatives) permettant d’optimiser des processus métier et de définir des interfaces. Pouvoir expliquer les causes de problèmes face auxquelles elles contribuent à l’optimisation des processus commerciaux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser le processus métier documenté avec des interlocuteurs, le comparer avec des processus standard et en déduire des exigences et des potentiels d’amélioration.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la méthode permettant d’identifier et d’analyser les flux de données et d’information dans un processus, d’en évaluer la faisabilité (sur le plan technique, de la protection et de la sécurité des données, du droit) et de les aménager.
+                </knowledge>
+                <knowledge>
+                    Connaître la méthode permettant d’identifier les clients d’un processus et leurs besoins et les techniques de représentation qui indiquent comment répondre à ces besoins par l’optimisation du processus.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Structurer et prioriser les exigences définies et les corriger compte tenu des conflits potentiels.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des techniques de collecte de données et leur utilisation en fonction de la situation.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques de créativité permettant de développer des solutions en équipe.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance des processus de validation de résultats de travail avec des parties prenantes et les principaux facteurs qui en conditionnent le succès.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir, compte tenu des possibilités TIC, des solutions satisfaisant les exigences et permettant de réaliser les potentiels d’amélioration du processus métier.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les règles de formulation d’objectifs et de définition d’indicateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître les différences entre amélioration révolutionnaire et évolutionnaire des processus et pouvoir indiquer dans quelles conditions elles sont utilisées.
+                </knowledge>
+                <knowledge>
+                    Connaître les potentiels d’automatisation des outils TIC en matière d’assistance de processus, les critères d’évaluation de leur efficacité et la méthode permettant d’exploiter les potentiels d’optimisation.
+                </knowledge>
+                <knowledge>
+                    Connaître les principaux indicateurs de performance utilisés pour mesurer et évaluer les processus et pouvoir en indiquer le lien avec la création de valeur du processus.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Modéliser et documenter le processus visé avec les solutions satisfaisant les exigences et permettant de réaliser les potentiels d’amélioration.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales méthodes de documentation de processus et savoir comment elles contribuent à leur description structurée ainsi qu’à leur décomposition systématique.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques de représentation de processus adéquates ainsi que les critères de choix de ces techniques dans leur usage quotidien.
+                </knowledge>
+                <knowledge>
+                    Connaître les différentes caractéristiques d’un processus déterminantes pour sa conception et pour la fourniture de prestations adaptées aux parties prenantes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les mémoires de données pour les différentes tâches d’un sous‐processus ainsi que l’échange de prestations entre les tâches d´un sous‐ processus. Etablir une description sous forme de table.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la méthode d’analyse du point de vue des données dans un processus et savoir comment en déduire systématiquement des données d’entrée et de sortie.
+                </knowledge>
+                <knowledge>
+                    Connaître la structure d’un organigramme de données et pouvoir expliquer comment il est utilisé pour compléter la représentation d’un processus.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

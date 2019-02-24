@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>194</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=194%26clang=it</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Concevoir un site Internet en fonction de la mercatique et de l’efficacité</title>
+    <capability>Sviluppare siti Web orientati a gruppi mirati di destinatari considerando aspetti di marketing e d’usabilità; organizzare siti Web ed applicarli.</capability>
+    <goals>
+        <goal>
+            Analizzare statistiche Web e identificare possibili potenziali d’impiego per un sito di marketing ottimizzato.
+            <knowledge-list>
+                <knowledge>
+                    Kann relevante Informationen zum Nutzungsprofil von Besuchern einer Website aufzeigen, und den Beitrag dieser Informationen für die Bestimmung des Kundenverhaltens erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analizzare siti Web esistenti e valutare il possibile potenziale per un sito Web mirato (offerta, design, navigazione, funzionalità).
+            <knowledge-list>
+                <knowledge>
+                    Kennt Struktur- und Navigationsprinzipien bei Internetauftritten und kann darlegen, welchen Einfluss diese auf die Use Ability haben.
+                </knowledge>
+                <knowledge>
+                    Kennt gestalterische Elemente und Prinzipien von Web-Präsentation und kann an Beispielen erläutern, welche Wirkung damit bei den Besuchern erzielet soll.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Individuare i punti deboli dei siti esistenti.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bereiche des Marketings und kann aufzeigen, wie und mit welchen Funktionalitäten ein Webauftritt diese unterstützen kann.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identificare il sito di marketing progettato, l’immagine aziendale, gli obiettivi e i provvedimenti di promozione per l’incremento delle vendite.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kreativitätstechniken und kann aufzeigen, unter welchen Voraussetzungen und Rahmenbedingungen sich diese für die Synthese neuer Lösungen eignen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rivolgersi ad esperti dell’Internet marketing per incrementare il potenziale di mercato.
+            <knowledge-list>
+                <knowledge>
+                    Kann für die Massnahmen des Internetmarketing aufzeigen, was für eine effiziente Umsetzung zu beachten ist und welche Wirkungen erwartet werden können.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, welche Regeln bei der Zusammenarbeit mit Fachkräften aus einem anderen Gebiet zu beachten sind und wie diese zu einer erfolgreichen Zusammenarbeit beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definire processi e risorse per la gestione del contenuto (Content Management) e valutarli.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das grundsätzliche Vorgehen bei der Überprüfung und Anpassung von Inhalten in einem Informationssystem und kann darlegen, wie dieses die Nachvollziehbarkeit von Anpassungen und die Qualität der Inhalte sicherstellt.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, für welche Art von Anwendungen Content Management Systeme eingesetzt werden und kann beschreiben, welche Funktionalitäten es dazu bietet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborare un concetto di soluzione e prepararlo in modo che sia pronto per la decisione. Bilanciare i costi della soluzione mirata con i vantaggi pianificati.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau der Methode Nutzwertanalyse und kann für die einzelnen Elemente beispielhaft darlegen, wie diese einen Entscheid beeinflussen können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Condurre alla decisione per la realizzazione.
+            <knowledge-list>
+                <knowledge>
+                    Kann Methoden und Techniken zur Herbeiführung einer Entscheidung in einem Gremium beschreiben und an Beispielen erläutern, in welchen Situationen diese zur Anwendung kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Pianificare la realizzazione, avviarla e controllarla.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die relevanten Kategorien von Anforderungen und Rahmenbedingungen für die Realisierungsplanung eines Informatikvorhabens und kann erläutern, wie diese eine korrekte und termingerechte Ausführung sicherstellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

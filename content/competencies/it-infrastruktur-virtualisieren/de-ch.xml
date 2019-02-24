@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>340</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=340%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>IT Infrastruktur virtualisieren</title>
+    <capability>Virtualisierung einer vorgegebenen IT-Infrastruktur einschätzen, planen und durchführen</capability>
+    <goals>
+        <goal>
+            Ziele und Verfahren sowie Einsatzgebiete von virtualisierten Systemen erläutern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Verfahren zur Virtualisierung von IT Infrastrukturen.
+                </knowledge>
+                <knowledge>
+                    Kennt die lizenzrechtlichen Auswirkungen einer Virtualisierungs-lösung.
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterschiede zwischen Desktop-, Server- und Applika-tionsvirtualisierung.
+                </knowledge>
+                <knowledge>
+                    Kennt Konzepte zur Virtualisierung von Netzwerken.
+                </knowledge>
+                <knowledge>
+                    Kennt technische und wirtschaftliche Vorteile einer virtualisierten IT Infrastruktur.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Geeignetes Virtualisierungs-Konzept (Hardwareressourcen, finanzielle Mittel, Energieverbrauch) für einen gegebenen Auftrag erstellen. Finanzielle Einsparungsmöglichkeiten aufzeigen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Server-Hard- und Softwarekosten und deren finanzielle Auswirkung auf eine Virtualisierung.
+                </knowledge>
+                <knowledge>
+                    Kennt Vor- und Nachteile in Bezug auf Hardware, Energieverbrauch und finanzielle Mittel, die eine virtualisierte IT Infrastruktur mit sich bringt.
+                </knowledge>
+                <knowledge>
+                    Kennt Mittel und Verfahren um die Virtualisierungslösung in einem Konzept darzustellen. .
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            IT Infrastruktur mit ausgewählten Tools virtualisieren und testen
+            <knowledge-list>
+                <knowledge>
+                    Kennt Hardwarevoraussetzungen für die Virtualisierung einer IT Infrastruktur.
+                </knowledge>
+                <knowledge>
+                    Kennt ein Verfahren um Hardware Instanzen auf eine virtuelle Umgebung zu migrieren.
+                </knowledge>
+                <knowledge>
+                    Kennt die technischen Möglichkeiten des ausgewählten Virtualisierungsproduktes.
+                </knowledge>
+                <knowledge>
+                    Kennt Verfahren um die virtuelle IT Infrastruktur zu testen und zu dokumentieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Geeignete Storage- und Backuplösung definieren, installieren und konfigurieren
+            <knowledge-list>
+                <knowledge>
+                    Kennt mögliche Storage Lösungen für das Speichern der Daten der virtualisierten IT Infrastruktur.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien die bei der Datensicherung von virtuellen IT Infrastrukturen wichtig sind.
+                </knowledge>
+                <knowledge>
+                    Kennt Backuplösungen zum Sichern der von der virtuellen IT Infrastruktur produzierten Daten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Virtuelle IT Infrastruktur in den produktiven Betrieb überführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Verfahren für die Überführung in den produktiven Betrieb.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

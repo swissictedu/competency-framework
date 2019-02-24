@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>643</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=643%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Définir un processus de développement TIC</title>
+    <capability>Définir les processus et l’organisation du développement afin de garantir un déroulement efficace et approprié de l’une des architecture TIC d’entreprise (EA) ainsi que les démarches de développement y relatives, et mettre en œuvre de manière adéquate celui‐ci.</capability>
+    <goals>
+        <goal>
+            Définir, en tenant compte de la complexité de l’application à développer et du processus de développement choisi, les artefacts qui correspondent aux performances du processus de développement. Définir, en accord avec les artefacts à fournir, l’organisation et le déroulement du développement, le processus et le flux d’informations, lequel garantit la qualité et la reproductibilité du développement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les étapes méthodiques du processus de développement logiciel et comment les modèles de déroulement du développement logiciel peuvent mettre en œuvre ces étapes (par ex. open Unified Process, le modèle de la chute d’eau, Agile).
+                </knowledge>
+                <knowledge>
+                    Connaître des philosophies de développement (par ex. Extrem Programming, Scrum, Prototyping, open Unified Process) et comment celles‐ci se laissent inclure dans le déroulement du développement.
+                </knowledge>
+                <knowledge>
+                    Connaître les directives de l’UML envers la réalisation des artefacts (par ex. les diagrammes de classes, de distribution et d’interactions du développement logiciel orienté objets) et la contribution de ceux‐ci dans la concrétisation d’une application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Augmenter l’efficience des démarches de développement par la mise en œuvre d’automatisme et d’outils comme soutien du processus de développement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principales caractéristiques d’une application (par ex. Fat/Thin/Mobile Client) et de l’architecture logicielle (par ex. applications tertiaires, mobile, web), lesquelles influencent la mise en œuvre des outils et leur influence sur le processus de développement.
+                </knowledge>
+                <knowledge>
+                    Connaître des mécanismes d’outils de gestion du code source (SCM: cvs, svn, git), lesquels soutiennent le développement parallèle sur plusieurs branches et comment ceux‐ci garantissent à tout moment de reproduire un état défini.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et processus (par ex. Peer Programming, SCM: git) afin de coordonner le développement avec plusieurs développeurs, de communiquer le cycle de vie de l’application, et comment le flux d’informations entre le développement et la gestion des versions peut‐il ainsi être garanti.
+                </knowledge>
+                <knowledge>
+                    Connaître des directives de systèmes cibles pour les processus de réalisation (génération, test unitaire, déploiement) et comment celles‐ci doivent être prises en compte lors de l’automatisation des processus de construction.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les connaissances et capacités nécessaires sur la base des exigences qui fixent et définissent les portfolios d’architecture et d’application ainsi que le développement des technologies, dans quelle mesure les collaborateurs disponibles  disposent‐ils de ces connaissances et ces capacités.
+            <knowledge-list>
+                <knowledge>
+                    Connaître divers modèles de carrières et critères dans le développement logiciel qui permettent les décisions au changement de carrière et qui influencent le processus de développement.
+                </knowledge>
+                <knowledge>
+                    Connaître des rôles ainsi que leurs tâches, leurs responsabilités, leurs compétences dans un processus de développement et pour quelles caractéristiques d’une démarche de développement ceux‐ci sont nécessaires.
+                </knowledge>
+                <knowledge>
+                    Connaître des caractéristiques pour déterminer le degré d’expériences (par ex. programmeur junior ou senior) et pouvoir démonter quelles prestations peuvent être attendues de la part d’un collaborateur ayant un degré d’expérience donné.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et techniques (par ex. l’évaluation) pour définir le degré d’expériences de collaborateurs et pouvoir démontrer comment l’avantage est influencé dans la démarche du projet.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et techniques de conduite de la conversation (par ex. l’écoute active, la réflexion, etc.) et comment, à quel moment, celles‐ci doivent être introduites dans la conversation afin de cibler le déroulement de celle‐ci.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre les ressources de développement en tenant compte de leurs connaissances, capacités, disponibilités, du plan de développement des collaborateurs et des capacités de charges, en accord avec la complexité et l’urgence des démarches de développement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes et techniques de la planification d’engagement (par ex. diagramme de Gant, plan du projet, plan des ressources) et comment celles‐ci influencent le déroulement du projet par l’engagement optimal des ressources.
+                </knowledge>
+                <knowledge>
+                    Connaître des caractéristiques des divers styles de conduite (par ex. patriarcat, gestion des objectifs) et comment celles‐ci se répercutent sur le projet et les courbes de performances résultantes y relatives (phase de repos, courbe de charge, balance work‐/life) des collaborateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et techniques pour la saisie des prestations (par ex. relatives aux collaborateurs, relatives aux performances) et comment celles‐ci garantissent le contrôle et la conduite des projets.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques de projets partagés (par ex. near, projets off‐shore) et quelles influences ont celles‐ci sur le processus de formation du groupe.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir la saisie, la gestion des expériences, et les connaissances issues des démarches de développement, et atteindre les précautions organisationnelles de sorte à les mettre à disposition dans d’autres projets et à pouvoir les utiliser.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques de la construction d’un système de gestion des connaissances et comment l’usage du savoir et des expériences influence la démarche du développement.
+                </knowledge>
+                <knowledge>
+                    Connaître des instruments et des mesures d’un développement personnel systématique et pour quelle situation de départ ceux‐ci sont mis en œuvre et quelles effets s’exercent sur la personne concernant le développement.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes et des techniques pour apporter ainsi qu’assurer les expériences et les connaissances dans des projets, et sur quels points de vue, lors de leur engagement, il faut particulièrement prêter attention afin de saisir celles‐ci pleinement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

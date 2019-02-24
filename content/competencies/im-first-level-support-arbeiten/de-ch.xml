@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>112</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=112%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Im First Level Support arbeiten</title>
+    <capability>Im First Level Support Probleme und Bedürfnisse von Kundinnen und Kunden aufnehmen, klassieren und weiterleiten resp. geeignete Lösungsvorschläge unterbreiten.</capability>
+    <goals>
+        <goal>
+            Das Problem, die Ursachen des Problems oder die Bedürfnisse der Benutzerinnen und Benutzer zuvorkommend aufnehmen und durch gezielte Fragen strukturiert eingrenzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verschiedenen Fragetechniken (offene Fragen, geschlossene Fragen) und kann aufzeigen, bei welchen Situationen in der Aufnahme und Analyse eines Problems sich diese im Gespräch mit den Kunden eignen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Eingrenzung von Fehlerursachen (z.B. Ausschlussprinzip, Entscheidungsbäume) und kann erläutern, wie diese eine systematische Analyse von Fehlern bzw. Problemen erlauben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Auf emotionale Reaktionen von Kundinnen oder Kunden mit Verständnis reagieren und das Gespräch auf die Sachebene führen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die zentralen Anforderungen eines Kunden an eine Supportstelle (Zuverlässigkeit, Reaktionsfähigkeit, Kompetenz, Einfühlungsvermögen) und kann erläutern, mit welchem Verhalten resp. welchen persönlichen Voraussetzungen man diesen Rechnung trägt.
+                </knowledge>
+                <knowledge>
+                    Kennt die Regeln, die für eine klare und verständliche Ausdrucksweise zu berücksichtigen sind und kann an Beispielen erläutern, wie diese Regeln in der Kommunikation mit den Kunden eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Verhaltensweisen von Kunden und deren Hintergrund und kann aufzeigen, wie man darauf korrekt reagiert.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Aufgrund der Zuständigkeiten im Support abwägen und entscheiden, ob eine Kundenanfrage selber behandelt oder an eine andere Stelle eskaliert werden muss.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kategorien von Anfragen, die in einer Umgebung mit einer verbreiteten IT Unterstützung (PC/LAN, Office-Programme, Standardsoftware) beim Helpdesk eingehen und kann aufzeigen, wie sich diese hinsichtlich ihrer Komplexität und der Stelle, die üblicherweise für die Problemlösung zuständig ist, unterscheiden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Falls erforderlich das Problem und die Ursache nachvollziehbar beschreiben und als Problemlösungsauftrag (Ticket) an den Second Level Support weiterleiten (Eskalation).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kategorien von Informationen, die bei der Weiterleitung eines Problems an eine andere Stelle mitgeliefert werden müssen und kann erläutern, welchen Beitrag diese für eine effektive Problembehandlung leisten.
+                </knowledge>
+                <knowledge>
+                    Kann ein kundenorientiertes Vorgehen bei der Weiterleitung eines Gesprächs aufzeigen und erläutern, welchen Anforderungen der Kunden man mit den einzelnen Schritten Rechnung trägt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mit den vorhandenen Hilfsmitteln (Problemlösungsdatenbanken, Herstellerdokumentationen, Online-Hilfen etc.) die Problemlösung identifizieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verbreiteten Hilfsstrukturen, die der Orientierung in einer Herstellerdokumentation oder in Online-Hilfen dienen (Thematische Gliederung, Index, Suchfunktionen etc.) und kann erläutern, wie damit das gezielte Auffinden von Hinweisen und Anleitungen unterstützt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Der Benutzerin/dem Benutzer die Lösung verständlich erläutern oder sie/ihn mit gezielten Instruktionen bei der Problemlösung anleiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Regeln, die bei der Kommunikation und Anleitung von Problemlösungen (Fachbegriffe umschreiben, einfache Sätze, schrittweises Vorgehen etc.) einzuhalten sind und kann erläutern, wie damit eine effiziente und nachhaltige Problemlösung sicher gestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ein bisher nicht aufgetretenes Problem und die Problemlösung für die Problemlösungsdatenbank dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kann die Regeln aufzeigen, die bei der Dokumentation von Supportproblemen und den dazugehörigen Problemlösungen eingehalten müssen und kann erläutern, wie damit die Wiederverwendbarkeit dieser Lösungsansätze in vergleichbaren Problemsituationen sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

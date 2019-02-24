@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>127</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=127%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assurer l’exploitation de serveurs</title>
+    <capability>Exploiter et entretenir un serveur dans l’environnement existant. Surveiller les performances, la disponibilité et la sécurité du système.</capability>
+    <goals>
+        <goal>
+            Consulter la documentation d’exploitation et s’imprégner dans l’environnement existant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le contenu, l’organisation et l’application d’une documentation d’exploitation.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance d’une documentation d’exploitation exhaustive et mise à jour afin d’assurer la maintenance.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer le concept des droits et autorisations d’accès des divers groupes d’utilisateurs, administrer les utilisateurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités d’un système d’exploitation en ce qui concerne les droits d’accès.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre les moyens d’aide disponibles pour l’administration et l’exploitation de serveurs.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les moyens d’aide intégré à un système d’exploitation.
+                </knowledge>
+                <knowledge>
+                    Connaître d’autres moyens d’aide à l’exploitation et la surveillance d’un système.
+                </knowledge>
+                <knowledge>
+                    Connaître les tâches qui lors de l’administration de serveurs permettent l’exploitation de la surveillance du système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre l’installation des mises à jour, des patches selon directives et mettre à jour la documentation d’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître  le déroulement pour l’intégration de mises à jour et de patchs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Eliminer les pannes matérielles et exécuter l’échange matériel, mettre à jour la documentation d’exploitation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement correct pour le remplacement matériel.
+                </knowledge>
+                <knowledge>
+                    Connaître les pannes types des composants matériels (par ex. RAM, HD, alimentation, ventilateurs, etc.)
+                </knowledge>
+                <knowledge>
+                    Connaître la technologie RAID concernant les sauvegardes redondantes sur divers supports afin d’augmenter la sécurité et les performances.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

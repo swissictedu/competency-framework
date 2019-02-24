@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>207</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=207%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Aufwand von ICT-Leistungen erheben und budgetieren</title>
+    <capability>Erhebt den Aufwand für Arbeitspakete, Services und weitere ICT‐Dienstleistungen mit Hilfe zweckmässiger Methoden und erstellt im Rahmen der betrieblichen Vorgaben ein Aufwandbudget.</capability>
+    <goals>
+        <goal>
+            Erhebt und strukturiert die erforderlichen Personal‐ und Betriebsmittel für vorgegebene Arbeitspakete oder definierte Services.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehen, um Arbeitspakete in Arbeitsschritte z.B. Strukturierung) zu zerlegen und kann diesen erforderliche Personal‐ und Sachmittel zuordnen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden der Aufwandschätzung (z.B. Analogieverfahren, Expertenrunde) und deren situationsgerechte Einsatzmöglichkeiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Berechnet den Aufwand an Personal‐ und Betriebsmitteln, erstellt einen Kostenplan und stuft die Ergebnisse hinsichtlich Genauigkeit ein.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Abhängigkeiten zwischen Personal und Sachmitteln und die Auswirkungen einer optimalen Abstimmung von Personal und Sachmitteln auf die Kosten.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten zur sinnvollen Gliederung von Kostenpositionen in einem Kostenplan.
+                </knowledge>
+                <knowledge>
+                    Kennt den Unterschied zwischen Investitionen, Projektabwicklungskosten und Betriebskosten.
+                </knowledge>
+                <knowledge>
+                    Kennt einfache Kalkulationsmodelle, um den Aufwand von Arbeitspaketen zu berechnen.
+                </knowledge>
+                <knowledge>
+                    Stützt sich auf zweckmässige Informationsquellen als Basis seiner Berechnungen und kann die Ergebnisse auf deren Genauigkeit hin beurteilen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erkennt den finanziellen Rahmen für die Erfüllung von Services und Arbeitspaketen basierend auf vorgegebenen Kundenverträgen, klärt mögliche Kosteneinsparungen und deren Konsequenzen für die Leistungserbringung ab und passt den Kostenplan entsprechend an.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kalkulationsmodelle, welche vom vereinbarten Entgelt ausgehend die Vorgaben für die Leistungserbringung in quantitativer und qualitativer Ausprägung ableiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Regeln der Wertschöpfung und weiss, welche Anforderungen daraus aus Sicht der Kostenplanung auf die Arbeitsplanung zur Umsetzung von Arbeitspaketen entstehen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Zusammenhänge zwischen einem Kostenplan und einer Budgetierung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt aus dem Kostenplan ein Kostenbudget für Projekt‐ und Betriebskosten und richtet diese auf den Budgetierungsprozess des Unternehmens aus.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Budgetierungsprozess und grundsätzliche Auswirkungen von Projektkosten, Betriebskosten und Erträgen auf die Liquidität des Unternehmens.
+                </knowledge>
+                <knowledge>
+                    Kennt den Kontext der unternehmensweiten Budgetierung und die Konsequenzen, welche sich daraus auf die Budgetierung im Verantwortungsbereich seiner Tätigkeit ergeben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            4Vergleicht den effektiven Aufwand basierend auf Projektausgabenkontrolle und Finanzreportings mit der Budgetierung, leitet daraus Trends für den weiteren Verlauf ab und schlägt geeignete Massnahmen zum Umgang mit Abweichungen vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Folgen eingegangener Verpflichtungen (Bestellungen, vergebene Arbeitspakete intern/extern) auf die Kostenkontrolle.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, um eine Kostenüberwachung sinnvoll aufzubauen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden, um aufgelaufen Kosten mit den erzielten Arbeitsergebnissen zu vergleichen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, Abweichungen zwischen Kostenplan und Budget darzustellen, Situation und Trends zu analysieren und die Auswirkungen auf die weitere Entwicklung einzuschätzen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Einsatz von magischem Dreieck und Teufelsquadrat, um aus der analysierten Situation Vorschläge zur Korrektur auszuarbeiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

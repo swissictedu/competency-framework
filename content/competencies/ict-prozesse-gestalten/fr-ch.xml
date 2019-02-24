@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>621</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=621%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Concevoir des processus TIC</title>
+    <capability>Concevoir des processus TIC de sa propre unité d’organisation avec pour objectif d’apporter des prestations TIC effectives et efficaces. Développer et améliorer de manière continue l’efficience des processus TIC.</capability>
+    <goals>
+        <goal>
+            Définir le processus qui parcourt les TIC en commun avec le client dans le cadre de l’élaboration et l’apport de prestations TIC.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le concept du Customer Life Cycle (par ex. phases d’existence entre le premier contact jusqu’à la remise au client).
+                </knowledge>
+                <knowledge>
+                    Connaître la définition des phases du Customer Life Cycle ainsi que son déroulement en regard d’une prestation qui doit être fournie vis‐à‐vis du client. (Exigences, acquisition, élaboration des prestations, service et conclusion de la remise).
+                </knowledge>
+                <knowledge>
+                    Connaître le comportement des clients en relation avec le Customer Life Cycle (par ex. Behavioral Life Cycle Theory, Shefrin et Thaler, 1988).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les clients de sa propre unité d’organisation et saisir leurs besoins en prestations TIC.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le concept de la segmentation du marché (par ex. selon les dimensions région, produit et technologie).
+                </knowledge>
+                <knowledge>
+                    Connaître les techniques pour la collection systématique des exigences (par ex. l’ingénierie et la gestion des besoins).
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques de saisies et le but de leur mise en œuvre, l’utilité, des particularités (par ex. questionnaires standardisés, questions et réponses prédéfinies ou des entretiens qualitatifs, objectif, étapes de déroulement lors du développement, créer des dimensions, exécuter les saisies, évaluation…).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les prestations à apporter de la part de sa propre unité d’organisation issues des directives stratégiques et des besoins du client.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement de la saisie de prestations TIC (par ex. saisie, documentation, gestion).
+                </knowledge>
+                <knowledge>
+                    Connaître la relation entre la structure de l’organisation d’une entreprise et leurs processus ainsi que leurs stratégies (par ex. principe «Structure follows Process follows Strategy.» in «Strategy and Structure: Chapters in the History of the Industrial Enterprise», Alfred D. Chandler Jr., MIT Press, Cambridge, 1969).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer, à partir des prestations à apporter, les processus nécessaires de prestations et les représenter comme une carte topographique.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques et les variantes d’un processus de prestation (par ex. selon J. Becker: Processmanagement: A Guide for …).
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités de représentation pour des processus de prestations, de conduite, de soutien avec leurs effets changeant et/ou leur relation au temps (par ex. diagramme séquentiel).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déduire les exigences à partir des besoins du client, des directives de qualité, des directives régulatrices et des prestations à apporter.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le concept de la gestion des performances d’un processus (par ex. définir et mesurer les indicateurs de performance, définir et implémenter un système de pilotage).
+                </knowledge>
+                <knowledge>
+                    Connaître le concept de l’accord du niveau de service (par ex. environnement des prestations, temps de réaction, qualité, délai de livraison, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître des structures et directives pour le développement des propres standards de qualité, de mesures de la qualité (par ex. selon EFQM, ISO, TQM).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Créer des processus TIC flexibles et optimisés en termes de coûts sur la base des exigences des processus TIC.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’approche de la définition et de l’introduction de la conception de processus (par ex. selon J. Becker).
+                </knowledge>
+                <knowledge>
+                    Connaître la mise en œuvre de méthodes de représentation de processus telles que BPM (Business Process Modeling) et UML (Unified Modeling Language).
+                </knowledge>
+                <knowledge>
+                    Connaître l’approche permettant d’identifier les générateurs de coûts (par ex. au moyen des lots de coûts de processus).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les grandeurs appropriées pour la mesure et le pilotage de l’élaboration des prestations et les saisir.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement pour la mesure des prestations de processus (par ex. degré de succès, qualité, degré de satisfaction du client).
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement de la définition des chiffres significatifs (par ex. quantité travaillée, temps utilisé, mise en œuvre de ressources, coûts des processus).
+                </knowledge>
+                <knowledge>
+                    Connaître la définition et l’introduction de modèles de mesures (par ex. BSC).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Améliorer continuellement les processus TIC, en relevant systématiquement des idées d’amélioration, à l’aide de méthodes appropriées et/ou en les discutant dans des groupes et les mettre en œuvre.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes pour l’amélioration continue de processus (par ex. gestion des idées, cercles de qualité).
+                </knowledge>
+                <knowledge>
+                    Connaître le concept de la gestion du savoir (par ex. selon Nonaka et Takeuchi).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

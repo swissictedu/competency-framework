@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>167</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=167%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Evaluation von Informatikmitteln durchführen</title>
+    <capability>Führt abgestimmt auf die Anforderungen an Informatikmittel/-leistungen die Evaluation von Angeboten durch und löst deren Beschaffung aus.</capability>
+    <goals>
+        <goal>
+            Legt abgestimmt auf den Projektauftrag das Evaluationsvorgehen fest und erstellt einen Terminplan.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Zielsetzungen und Rahmenbedingungen bei der Beschaffung von ICT‐Systemen, die für die Durchführung einer Evaluation sprechen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Hauptaktivitäten eines Evaluationsprozesses sowie dessen Lieferobjekte und kann deren zeitliche und inhaltliche Abhängigkeiten beschreiben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus den Angaben für die zu beschaffenden Informatikmittel und ‐leistungen sowie den dazugehörigen Anforderungen die Kriterien für die Ausschreibung und Bewertung ab und erstellt den Kriterienkatalog.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Unterschiede zwischen Zielsetzungen und Anforderungen eines Vorhabens und kann diese anhand von Beispielen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Gesichtspunkte, welche in Bezug auf die Ableitung von Kriterien aus Anforderungen und Zielsetzungen beachtet werden müssen, um eine aussagekräftige Ausschreibung und eine objektive Bewertung sicherzustellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die grundlegende Struktur eines Anforderungskatalogs sowie den Beitrag der einzelnen Elemente dieser Struktur zu einer klaren Ausgangslage für die zu beschaffende Lösung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt ausgehend von den Angaben für die zu beschaffenden Informatikmittel und ‐leistungen sowie dem Kriterienkatalog ein Pflichtenheft, das potenziellen Anbietern klare Angaben zum Beschaffungsobjekt und zu den Erwartungen an die zu erstellenden Offerten liefert.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau eines Pflichtenhefts sowie den Beitrag der einzelnen Elemente dieses Pflichtenhefts zu einer verbindlichen Grundlage für die Offerten Erstellung durch die potenziellen Lieferanten.
+                </knowledge>
+                <knowledge>
+                    Kennt die rechtlichen Vorgaben für die Durchführung von Ausschreibungen und weiss, wie der Gesetzgeber damit zur Sicherstellung des Wettbewerbs beiträgt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt auf der Basis des Kriterienkatalogs und von weiteren Informationen in der Ausschreibung Bewertungsgrundlagen, die eine objektive und nachvollziehbare Beurteilung der eingehenden Offerten gewährleisten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundelemente einer Bewertungsmethode, namentlich Bewertungs‐objekte sowie Bewertungskriterien und deren Gewichtung, und kann erläutern, wie diese zu einer objektiven Bewertung beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Gewichtung von Bewertungselementen (Leistungen, Objekte, Kriterien etc.) und kann erläutern, welche Informationen diese erfordern und wie sich daraus die Gewichtung ableitet.
+                </knowledge>
+                <knowledge>
+                    Kennt Bewertungsmethoden für den Vergleich von Angeboten (z.B. Paargewichtung, Präferenzmatrix, Rangreihenverfahren, Nutzwertanalyse) und kann deren Vorkehrungen aber auch deren Einschränkungen hinsichtlich der Aussagekraft von Vergleichen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beschafft zuverlässige Informationen zu potenziellen Anbietern aus Fachzeitschriften, von anderen Unternehmen etc. und wählt geeignete Anbieter, die mit der Ausschreibung bedient werden sollen, aus.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Anforderungen an eine dem Projekt angemessene Auswahl von potenziellen Lieferanten (z.B. Abstützung der Kompetenzen, finanzielle Situation, Einhaltung ökologischer Vorgaben, Ressourcenverfügbarkeit, Referenzprojekte).
+                </knowledge>
+                <knowledge>
+                    Kennt die systematische Vorgehensweise, um dem Projekt angemessene potenzielle Lieferanten im freien Markt auszuwählen.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Quellen zum Einholen von Informationen (z.B. Messen, Fachzeitschriften, Webprofile, Referenzprojekte, direkte Anfragen) über die potentiellen Anbieter und kann aufzeigen, wie deren Aussagekraft beeinflusst wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Trifft aufgrund der Erfüllung der Muss‐Kriterien und der Vollständigkeit der Offerten eine Vorauswahl der in Frage kommenden Angebote.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien, die bei der Grobfilterung von eingereichten Angeboten zu beachten sind, und kann aufzeigen, welchen negativen Entwicklungen im Projekt und im Betrieb damit vorgebeugt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nimmt mit Hilfe der Bewertungsdokumente die Beurteilung der noch in Frage kommenden Offerten vor, analysiert die Ergebnisse und leitet daraus eine Empfehlung an den Auftraggeber ab.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die für eine Bewertung von Angeboten relevanten Dokumente, wie Offerten, vorbereitete Kriterienkataloge oder Nutzwertanalyse, und kann aufzeigen, wie diese zu einer klaren und nachvollziehbaren Entscheidungsgrundlage beitragen.
+                </knowledge>
+                <knowledge>
+                    Kennt Techniken, die eine nachvollziehbare Darstellung der Bewertungsergebnisse sicherstellen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bereitet die Verhandlungen in Hinblick auf den Vertragsabschluss mit den ausgewählten Lieferanten vor und begleitet diese Phase der Evaluation.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die für einen Antrag an die Entscheidungsträger relevanten inhaltlichen Elemente und kann aufzeigen, wie die einzelnen Elemente und deren Reihenfolge die Entscheidungsfindung herbeiführen und unterstützen.
+                </knowledge>
+                <knowledge>
+                    Kann Methoden und Techniken zur Herbeiführung einer Entscheidung in einem Gremium beschreiben und an Beispielen erläutern, in welcher Situation diese zur Anwendung kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Löst den Beschaffungsvorgang gemäss betriebsinternen Richtlinien aus und überwacht diesen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die notwendigen Informationen, die für eine Beschaffung bereit stehen müssen.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, wie sich das Evaluations Projekt, das Beschaffungsvorhaben sowie die Betriebsorganisation, welche die ausgewählte Lösung später einsetzt, hinsichtlich Aufgaben, Verantwortungen und Kompetenzen im Prozess von der Anforderungserhebung bis zur Inbetriebnahme der Lösung voneinander abgrenzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

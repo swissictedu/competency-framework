@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>115</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=115%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Multimedia-Einrichtungen in Betrieb nehmen</title>
+    <capability>Multimediaeinrichtungen (Hard- und Software) installieren, konfigurieren, testen und in Betrieb nehmen.</capability>
+    <goals>
+        <goal>
+            Multimedia-Geräte (z.B. Kamera, Beamer, Display, Headset, Lautsprecher-System) installieren und konfigurieren.
+            <knowledge-list>
+                <knowledge>
+                    Kann an Hand von Betriebsanleitungen Multimedia-Einrichtungen in Betrieb nehmen und anforderungsgerecht konfigurieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Schnittstellen und Softwarekomponenten, die für den Betrieb von Multimedia-Einrichtungen an einem Personalcomputer zur Verfügung stehen und kann aufzeigen, wie diese den Betrieb von Multimedia-Einrichtungen unterstützen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Lösungen zur Übertragung und Verarbeitung von Audio- und Video-Datenströmen realisieren (z.B. Audio-, Video-Streaming).
+            <knowledge-list>
+                <knowledge>
+                    Kennt Techniken für die Digitalisierung und Kompression von Audio- und Video-Informationen (Streaming) und kann erläutern, welche Voraussetzungen für den Einsatz in einem Personalcomputer dazu gegeben sein müssen.
+                </knowledge>
+                <knowledge>
+                    Kennt die prinzipiellen Verfahren zur Digitalisierung analoger Signale und kann erläutern, welche Faktoren bei der Digitalisierung die Qualität beeinflussen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installation und Konfiguration testen und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein systematisches Vorgehen für die Überprüfung der Funktionsfähigkeit von Multimedia-Einrichtungen und kann erläutern, warum sich dieses für die Aufdeckung von Fehlern oder Störungen in diesem Fall besonders eignet.
+                </knowledge>
+                <knowledge>
+                    Kann die Installation sinnvoll dokumentieren
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Multimedia-Geräte und die dazu gehörige Software bedienen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt mögliche Betriebsoptionen der Hardware und Software von Multimedia-Einrichtungen und kann aufzeigen, wie durch die Wahl geeigneter Optionen der Einsatz dieser Einrichtungen optimiert werden kann.
+                </knowledge>
+                <knowledge>
+                    Kennt Software für die Bearbeitung von Bild, Ton und Video und kann an Beispielen aufzeigen, wie damit das Ausgangsmaterial verändert oder mit Effekten angereichert werden kann.
+                </knowledge>
+                <knowledge>
+                    Weiss um die Bedeutung einer Bedienungsanleitung und kann aufzeigen, wie mit einer vollständigen Bedienungsanleitung ungeübte Personen Multimedia-Einrichtungen einfach und sicher bedienen können.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Aufbau, Funktion und konkreten Einsatz der Multimedia-Geräte Kundinnen und Kunden erläutern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Einsatzbereiche analoger und digitaler Multimedia-Einrichtungen und kann erläutern, für welche Einsatzfälle diese sich eignen (Kamera, Beamer, Display, Sound- und TV-Karten, Audio-/Videosoftware, usw.).
+                </knowledge>
+                <knowledge>
+                    Kennt Aufbau und Funktion von Multimediageräten und kann diese anhand von einfachen Beispielen erläutern
+                </knowledge>
+                <knowledge>
+                    Kann durch schrittweises Erläutern und Vorführen von Multimedia-Einrichtungen an Hand einer Bedienungsanleitung ungeübten Personen die Bedienung solcher Systeme verständlich vermitteln.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

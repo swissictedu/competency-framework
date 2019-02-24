@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>234</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=234%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Gérer et assurer les risques d’exploitation de systèmes informatiques</title>
+    <capability>Identifier systématiquement les risques liés à l’exploitation de systèmes informatiques et définir des mesures propres à en garantir la sécurité et la fiabilité. Gérer les risques et vérifier l’efficacité des mesures prises.</capability>
+    <goals>
+        <goal>
+            Recenser et identifier systématiquement les risques potentiels influençant la sécurité et la fiabilité de l’exploitation de systèmes informatiques. Sur cette base, établir un catalogue des risques.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les différentes perspectives d’identification de risques ou de dangers potentiels liés à l’exploitation d’un système (processus métier et applications concernés ainsi que leur plate-forme, utilisateurs, etc.) et peut expliquer quelles sont les sources de risque que ces perspectives permettent d’identifier dans l’exploitation.
+                </knowledge>
+                <knowledge>
+                    Connaît une méthode d’identification et de définition systématique des sources de risque et peut expliquer comment ses différentes étapes contribuent à l’exhaustivité de l’analyse des dangers potentiels.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Structurer et classifier les informations adéquates, les processus métier, les applications concernées et leur(s) plate(s)-forme(s) en fonction des risques. Compléter le catalogue des risques.
+            <knowledge-list>
+                <knowledge>
+                    Connaît la structure et les éléments du catalogue des risques et peut expliquer comment ses différents éléments contribuent à l’évaluation ou à la garantie de la sécurité d’exploitation d’un système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les risques sur la base du catalogue des risques et les évaluer systématiquement. Représenter les liens entre le danger, la source, la probabilité de survenance, les conséquences (dommages) et le risque.
+            <knowledge-list>
+                <knowledge>
+                    Connaît une méthode d’analyse et d’évaluation systématiques des composantes déterminantes d’un risque (probabilité de survenance, dommages potentiels) et peut expliquer à l’aide d’exemples comment les liens existant entre elles influencent la probabilité de survenance d’un dommage.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir et mettre en œuvre des mesures propres à prévenir les risques. Assurer la gestion courante des risques.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les dispositions organisationnelles contenues dans un plan de secours et peut expliquer comment chacune d’entre elles garantit, en cas de besoin, que des mesures adéquates et efficaces soient prises pour écarter le danger ou limiter l’étendue du dommage.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Valider l’efficacité des mesures de gestion des risques au moyen d’une procédure institutionnalisée.
+            <knowledge-list>
+                <knowledge>
+                    Peut décrire les principales conditions préalables et mesures de direction du personnel, qui préparent les collaborateurs à assumer des responsabilités.
+                </knowledge>
+                <knowledge>
+                    Peut expliquer les aspects à prendre en compte dans l’adaptation de processus dans une organisation et peut indiquer à l’exemple de mesures préventives les conséquences négatives qu’ils permettent d’écarter.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

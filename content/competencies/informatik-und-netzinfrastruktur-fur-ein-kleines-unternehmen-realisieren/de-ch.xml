@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>117</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=117%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Informatik- und Netzinfrastruktur für ein kleines Unternehmen realisieren</title>
+    <capability>Lokales Netzwerk ohne zentrale Benutzerverwaltung installieren.</capability>
+    <goals>
+        <goal>
+            Mit dem Auftraggeber die Anforderungen an das zu installierende Netzwerk aufnehmen und die gewünschten Dienste/Services bestimmen (File, Print, Internet).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die verbreiteten lokalen Netzwerkdienste und kann aufzeigen, welche Anforderungen an ein Netzwerk sich daraus ergeben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Logischen und physischen Aufbau des Netzwerks gemäss betrieblichen Anforderungen und räumlichen Verhältnissen definieren und in einem Netzwerkschema und einem Verkabelungsplan abbilden.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen Informationen, die aus einem einfachen Netzwerkschema hervorgehen müssen und kann aufzeigen, wie diese abgebildet werden können.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Regeln für eine korrekte Netzwerkkonfiguration (IP-Adressformat, Subnetmaske, Klassen, private Adressen, Standardgateway, DNS-Server) und kann diese anhand von Beispielen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die prinzipiellen Aufgaben der Netzwerkkomponenten Switch, Accesspoint und Router und kann aufzeigen, wo und zu welchem Zweck diese in einem Netzwerk eingesetzt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt die verbreiteten technologischen Möglichkeiten zur Erstellung eines Internetzugangs und kann erläutern, welche Konsequenzen diese für die Nutzung des Internets und die daraus resultierenden Kosten haben.
+                </knowledge>
+                <knowledge>
+                    Kennt gängige Kabeltypen, Steckertypen und Ethernet-Varianten (z.B. Twisted Pair, UTP, STP, Glasfaser, RJ45, 100BaseTX, 1000BaseFX, 1000BaseTX etc.) und kann aufzeigen, bei welche Anforderungen hinsichtlich Leistung und bei welchen räumlichen Gegebenheiten diese zum Einsatz kommen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Arbeitsschritte für die Installation und Konfiguration planen, die den Aufbau des Netzwerks und die baulichen Verhältnisse berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante bauliche Gegebenheiten und Installationsmöglichkeiten hinsichtlich der Netzwerk-Verkabelung und kann deren Auswirkungen auf Installationsaufwand, Zugänglichkeit für den Unterhalt und Kosten aufzeigen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Netzwerk aufbauen und die Netzwerkkomponenten gemäss Herstellerdokumentationen installieren und konfigurieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die notwendigen Einstellungen der Netzwerkkonfiguration der Netzwerkkomponenten (z.B. Computer, Router, Accesspoint) und kann aufzeigen, welchen Beitrag diese zur Sicherstellung der Kommunikation im Netzwerk leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ressourcenverwaltung (Gruppen, Shares) und File-/ Printsharing definieren und dabei die Vorgaben hinsichtlich Datensicherheit und Verfügbarkeit berücksichtigen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die prinzipiellen Vorkehrungen, die Netzwerkbetriebssysteme für die Ressourcenzuteilung bieten (Lese-, Schreibrecht, Benutzer, Benutzergruppen, Shares) und kann aufzeigen, wie diese die Sicherheit von Daten gewährleisten.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, die Vergabe von Rechten zu dokumentieren (z.B. Matrix der Beziehungen zwischen Benutzergruppen und Shares) und kann aufzeigen, wie damit eine korrekte Vergabe der Rechte erleichtert wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Netzwerk und angeschlossene Systeme testen und die Testergebnisse dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Symptome der wichtigsten Fehler in einem Netzwerk und kann mögliche Ursachen (Konfigurationsfehler, Fehler bei der Verkabelung etc.) dafür beschreiben.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Informationen in der Dokumentation eines einfachen Netzwerks und kann erläutern, wie diese für die Wartung und den Betrieb benötigt werden.
+                </knowledge>
+                <knowledge>
+                    Kennt den Zweck und die Funktionen der Schichtenmodelle (OSI, TCP/IP-Modell) und kann die verwendeten Protokolle sowie Netzwerkkomponenten den entsprechenden Schichten zuordnen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

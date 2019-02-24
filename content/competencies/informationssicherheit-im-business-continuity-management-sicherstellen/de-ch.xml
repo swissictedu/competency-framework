@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>670</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=670%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Informationssicherheit im Business Continuity Management sicherstellen</title>
+    <capability>Stellt die Integration der Informationssicherheit im Business Continuity Management (BCM) einer Organisation sicher und unterstützt das Management bei der Bewältigung von Notfällen und Krisen.</capability>
+    <goals>
+        <goal>
+            Unterstützt und berät das Management bei der Erarbeitung einer Business Impact Analyse (BIA) in den Belangen der Informationssicherheit.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Zweck und die Inhalte einer BIA (Folgeschädenabschätzung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Begriffe Störung, Notfall, Krise und Katastrophe und kann die Unterschiede aus der Sicht einer Organisation erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt mögliche Szenarien von Notfällen und Krisen, die zu Ausfällen von ICT-gestützten Prozessen führen können (z.B. Ausfälle von Systemen, Gebäuden, Personal, Lieferanten).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analysiert die Notfall- und Krisenorganisation des Business Continuity Managements und stellt sicher, dass die Sicherheitsorganisation adäquat vertreten ist.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Anforderungen an die Informationssicherheit im Business Continuity Management aus der Norm ISO/IEC 27001 und verwandten Normen (z.B. ISO/IEC 22301, BS 25999).
+                </knowledge>
+                <knowledge>
+                    Kennt das Ziel des Business Continuity Managements und kann den Unterschied zum Disaster Recovery (Notfallwiederherstellung) erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten Behörden und externen Stellen für die Bewältigung von Notfällen und Krisen (z.B. MELANI, Ermittlungs- und Strafverfolgungsbehörden)
+                </knowledge>
+                <knowledge>
+                    Kennt die Zusammensetzung eines Notfall- oder Krisenstabes und kann die Tätigkeiten der unterschiedlichen Stabsfunktionen (S1 bis S6) und der Fachberater erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Beurteilt die Prozesse und Verfahren des Business Continuity Managements und stellt sicher, dass die Anforderungen an die Informationssicherheit berücksichtigt und sichergestellt sind.
+            <knowledge-list>
+                <knowledge>
+                    Kennt technische Möglichkeiten zur Vorbeugung eines Ausfalls von ICT‐gestützten Prozessen (z. B. Toleranzen, Redundanzen).
+                </knowledge>
+                <knowledge>
+                    Kennt organisatorische Massnahmen, um die Auswirkung beim Ausfall eines ICT‐gestützten Prozesses proaktiv zu minimieren (z.B. Notfallpläne, Audits, Einbezug externer Fachexpertise).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Stellt die periodische Überprüfung der Wirksamkeit der Notfall- und Krisenorganisation und der Prozesse und Verfahren des Business Continuity Managements sicher.
+            <knowledge-list>
+                <knowledge>
+                    Kennt geeignete Massnahmen zur Überprüfung der Wirksamkeit (z.B. periodische Notfallübungen, Audits).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Unterstützt und berät die Notfall- und Krisenorganisation bei der Bewältigung eines Notfalls oder einer Krise.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Krisenverlaufsmodelle und deren typische Phasen (z.B. Krisenmodelle nach Kast, Caplan oder Cullberg).
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundprinzipien der Krisenkommunikation (Schnelligkeit, Wahrhaftigkeit, Verständlichkeit und Konsistenz), unterschiedliche Zielgruppen (z.B. Betroffene, Behörden, Medien, Beteiligte) und kann die Wichtigkeit einer zielgruppengerechten Kommunikation erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

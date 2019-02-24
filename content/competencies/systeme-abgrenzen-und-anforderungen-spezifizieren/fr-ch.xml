@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>192</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=192%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Délimiter des systèmes et spécifier des exigences</title>
+    <capability>Analyser la structure d’un système ainsi que son intégration dans un système supérieur et spécifier les exigences en matière de développement, d’achat, d’exploitation ou de maintenance de ce système.</capability>
+    <goals>
+        <goal>
+            Assigner un système dans le cadre de sa complexité fonctionnelle dans le système supérieur et le décrire.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes fondamentaux de la pensée systémique (décomposition de systèmes, méta‐modèles de données, ordre, éléments, relations, etc.).
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer les relations entre un système et les structures organisationnelles, de ressources humaines et techniques de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Comprendre l’interprétation d’un méta‐modèle de données supérieur.
+                </knowledge>
+                <knowledge>
+                    Savoir quels sont les moyens à disposition pour décrire un système (modèles de processus, modèles de fonctions, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser et documenter des frontières de systèmes et de sous‐systèmes. Identifier et documenter des interfaces entre systèmes.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les interactions entre un système et son environnement.
+                </knowledge>
+                <knowledge>
+                    Savoir situer un système spécifique dans les structures de système supérieures et savoir comment évaluer sa fonction dans l’ensemble des fonctions.
+                </knowledge>
+                <knowledge>
+                    Savoir comment analyser les frontières d’un système et connaître des moyens de les documenter (listes d’événements, descriptions d’interfaces, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Décomposer un système décrit en sous‐systèmes, systèmes partiels et éléments. En décrire les interactions.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment un système spécifique est décomposé en ses sous‐systèmes et éléments et pouvoir décrire les relations entre sous‐systèmes et éléments.
+                </knowledge>
+                <knowledge>
+                    Connaître les méthodes d’analyse (analyse structurée, analyse orientée objet (AOO)) et de modélisation (UML, ERD, diagrammes de contexte, descriptions de processus) des systèmes.
+                </knowledge>
+                <knowledge>
+                    Savoir comment ces outils sont utilisés dans le cadre des projets de développement ou d’évaluation pour répondre de manière optimale aux exigences de l’exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier en accord avec le responsable les prestations que doit fournir le système.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les prestations fournies au cours du cycle de vie d’un système et pouvoir expliquer leur importance qualitative, économique et environnementale pour le système.
+                </knowledge>
+                <knowledge>
+                    Connaître des techniques permettant d’obtenir des informations relatives à certains états de fait de manière ciblée et efficace (recherche documentaire, entretiens, sondages, ateliers, observation, analyse de processus, etc.).
+                </knowledge>
+                <knowledge>
+                    Savoir comment on décompose les exigences de l’exploitation pour les adapter à un système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir à partir des prestations demandées, des besoins des groupes d’intérêts ainsi que des faiblesses de l’existant les exigences que doit remplir un système informatique ou que doivent remplir les livrables fournis en relation avec ce système.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir identifier les groupes d’intérêt déterminants pour un système (utilisateurs, parties prenantes, propriétaires de processus, environnement, informatique, etc.).
+                </knowledge>
+                <knowledge>
+                    Pouvoir identifier systématiquement les exigences de l’exploitation (fonctionnelles, techniques, organisationnelles, environnementales et économiques).
+                </knowledge>
+                <knowledge>
+                    Pouvoir montrer comment déduire des exigences à partir de processus métier.
+                </knowledge>
+                <knowledge>
+                    Savoir comment identifier les faiblesses d’un système au moyen de méthodes de comparaison, d’une analyse existant‐objectifs ou d’une analyse multicritère.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spécifier en accord avec les parties prenantes (services opérationnels, informatique, etc.) des exigences précises, objectives et consensuelles envers les prestations à fournir par le système.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment spécifier en accord avec les groupes d’intérêt des exigences précises, objectives et consensuelles envers le développement, l’acquisition, l’exploitation ou la maintenance d’un système informatique.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer sur la base des exigences internes et de l’existant quand un système doit être créé, remplacé ou modifié.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Classer les exigences par prestations, catégories logiques et ordre d’importance. Documenter ces exigences dans un catalogue d’exigences structuré sur la base de ces critères.
+            <knowledge-list>
+                <knowledge>
+                    Savoir décrire une exigence et la rendre mesurable sur la base de spécifications données.
+                </knowledge>
+                <knowledge>
+                    Savoir expliquer la différence entre objectifs impératifs et facultatifs.
+                </knowledge>
+                <knowledge>
+                    Connaître la structure de base d’un catalogue d’exigences (fonctionnelles, non fonctionnelles, métier, système) et savoir quels en sont les éléments qui contribuent à garantir une situation de départ claire pour l’acquisition d’une solution.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer pourquoi des pondérations différentes sont attribuées à des spécifications données.
+                </knowledge>
+                <knowledge>
+                    Savoir quels sont les outils d’analyse à utiliser pour prioriser ou pondérer des exigences (comparaison avec les objectifs, définition du degré de faisabilité, comparaison avec les meilleures pratiques, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

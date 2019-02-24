@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>667</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=667%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Informationssicherheitsmanagementsystem aufbauen</title>
+    <capability>Definiert unter Berücksichtigung der spezifischen Bedürfnisse einer Organisation und auf der Basis der relevanten Normen den Anwendungsbereich und die erforderlichen Prozesse und Verfahren für ein Informationssicherheitsmanagementsystem (ISMS).</capability>
+    <goals>
+        <goal>
+            Definiert unter Berücksichtigung der Informationssicherheitsstrategie einer Organisation die Zielsetzungen und den Anwendungsbereich für ein Informationssicherheitsmanagement-system (ISMS).
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und die relevanten Teile der Norm ISO/IEC 2700x für die Einrichtung, Umsetzung, Aufrechterhaltung und fortlaufende Verbesserung eines Informationssicherheitsmanagementsystems.
+                </knowledge>
+                <knowledge>
+                    Kennt den PDCA-Zyklus (Deming-Kreis) und kann die einzelnen Phasen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die relevanten Einflussfaktoren auf ein ISMS im Kontext einer Organisation.
+                </knowledge>
+                <knowledge>
+                    Kennt kritische Erfolgsfaktoren (KEF; critical success factors, CSF) bei der Einführung eines ISMS.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert, inventarisiert und klassifiziert die relevanten Werte (Assets) und definiert die Verantwortlichkeiten zu deren Schutz über den ganzen Informationslebenszyklus.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Begriff Wert (Asset) und dessen Verwendung im Zusammenhang mit einem ISMS.
+                </knowledge>
+                <knowledge>
+                    Kennt die typischen Phasen im Lebenszyklus von Informationen (Erstellung, Verarbeitung, Speicherung, Übermittlung, Löschung, Zerstörung).
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Schemata zur Klassifizierung von Werten hinsichtlich Vertraulichkeit (z.B. geheim, vertraulich, eingeschränkt, intern und öffentlich), Integrität (z.B. vital, wichtig, normal) und Verfügbarkeit (z.B. klassifiziert nach maximaler Ausfallzeit).
+                </knowledge>
+                <knowledge>
+                    Kennt den Zusammenhang zwischen der Klassifizierung von Werten und entsprechenden Sicherheitsanforderungen und kann geeignete Verfahren zur Gewährleistung der Informationssicherheit erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert den Prozess für das Risikomanagement in einer Organisation, führt eine Risikoanalyse durch und erarbeitet einen Risikobehandlungsplan für das ISMS.
+            <knowledge-list>
+                <knowledge>
+                    Kennt relevante Normen für das Risikomanagement (ISO 31000, ISO/IEC 27005).
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Risikoidentifikation (z.B. Befragungen, Dokumentenanalyse, Wertkettenanalyse, Delphi-Methode, Business Impact Analyse (BIA), Szenario-Analyse) und kann deren Vor- und Nachteile erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden zur Bewertung und Darstellung von Risiken (z.B. Risikomatrix, Risikolandkarte).
+                </knowledge>
+                <knowledge>
+                    Kennt die unterschiedlichen Handlungsoptionen zur Risikobehandlung (Reduktion, Vermeidung, Akzeptanz, Transfer) und kann deren Merkmale erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Risikobehandlungsplans (z.B. Sicherheitsmassnahme, Verantwortlichkeit, Termin).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert die Relevanz und Anwendung der Sicherheitsmassnahmen innerhalb einer Organisation in einer Erklärung zur Anwendbarkeit (Statement of Applicability, SoA).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bedeutung und den Zweck einer Erklärung der Anwendbarkeit (SoA).
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau und Inhalt von Anhang A der Norm ISO/IEC 27001 als Referenz für die Sicherheitsmassnahmen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert die erforderlichen Verfahren und die notwendigen Ressourcen für das ISMS.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die zentralen Verfahren für ein ISMS (z.B. Verfahren für die Dokumentenkontrolle, Audits, Vorbeugungs- und Korrekturmassnahmen) und die Anforderungen an deren Dokumentation.
+                </knowledge>
+                <knowledge>
+                    Kennt die wesentlichen unterstützenden Ressourcen für ein ISMS (z.B. Kompetenz, Awareness, Kommunikation und Dokumentenmanagement) und kann deren Einfluss erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert ein Kontrollsystem und die Kennzahlen zur Messung der Leistung und der Wirksamkeit des ISMS.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau und Inhalt der Norm ISO/IEC 27004 als Grundlage für die Überwachung, Messung, Analyse und Bewertung eines ISMS.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Formulierung und Messbarkeit von Key Performance Indikatoren (KPI).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>250</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=250%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>IT Projektportfolio managen</title>
+    <capability>IT Projektportfolio einer Geschäftseinheit oder des Unternehmens initialisieren, kontrollieren und steuern. Die Priorisierung der IT Projekte durch die verantwortlichen Gremien sicherstellen. Die beteiligten Personen über die Entscheidungen und Massnahmen informieren. Die nötigen Standards, Methoden und Tools vorgeben, implementieren und durchsetzen.</capability>
+    <goals>
+        <goal>
+            Festlegen, was für (Projekt-) Informationen in welcher Form und Periodizität von den einzelnen IT Projekten/Vorhaben als Grundlage für ein wirkungsvolles IT Projektportfolio Management geliefert werden müssen. Zu diesem Zweck Standards definieren, geeignete Methoden und Tools evaluieren, implementieren, kommunizieren und durchsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kann Zielsetzungen, welche mit einem Projektportfolio verfolgt werden und unternehmerische Rahmenbedingungen, welche für die Einführung eines Projektportfolios sprechen, darlegen.
+                </knowledge>
+                <knowledge>
+                    Kann angeben, welche Bereiche ein Projektportfolio beinhaltet und welchen Nutzen sich daraus für eine effektive Führung der Projekte in einer Unternehmung ableitet.
+                </knowledge>
+                <knowledge>
+                    Kann notwendige Projekt- und Unternehmensinformationen für den Aufbau eines Projektportfolios aufzeigen und erläutern, welche Entscheidungsgrundlagen diese im Rahmen eines Projektportfolios liefern.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden, die im Rahmen eines Projektportfolios für die Verarbeitung der Informationen bzw. für die Bereitstellung von Entscheidungsunterlagen verwendet werden und kann ihren Nutzen für ein effektives Projektportfolio erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sicherstellen, dass die benötigten Informationen den qualitativen und terminlichen Vorgaben entsprechend und im definierten Umfang vorhanden sind. Etwaige Korrekturen bei den Lieferanten (IT Projektleiter) veranlassen.</goal>
+        <goal>
+            Die geprüften Projektinformationen auswerten sowie Interdependenzen und Überschneidungen von Ressourcen (Kosten, Personal, Systemgrenzen) dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Prinzipien, welche zur Vermeidung von Ressourcenkonflikten in der Projektplanung beachtet werden müssen und kann anhand von Beispielen aus der Praxis aufzeigen, wie diese zu einer realistischen Planung beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Priorisierung der IT Projekte in Zusammenarbeit mit den verantwortlichen Geschäftseinheiten so festlegen, dass die Geschäftseinheits- oder Unternehmensstrategie sowie die aktuellen Informationen nachvollziehbar berücksichtigt sind. Dafür notwendige Entschlüsse der Entscheidungsträger vorbereiten und herbeiführen.
+            <knowledge-list>
+                <knowledge>
+                    Kann Techniken oder Regeln der Kommunikation zur Entscheidungsvorbereitung benennen und deren Beitrag zur Verständigung und Akzeptanz erklären.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Das Projektportfolio so erstellen bzw. aktualisieren, dass Änderungen und deren Auswirkungen erkannt und entsprechende Massnahmen eingeleitet werden können.</goal>
+        <goal>
+            Die beteiligten Personen und das Management über sämtliche Entscheidungen und Massnahmen rechtzeitig informieren.
+            <knowledge-list>
+                <knowledge>
+                    Kann Kommunikationsformen für die Erklärung von Entscheidungen und deren Konsequenzen skizzieren und beschreiben, wie sie das Verstehen und die Akzeptanz bei den Beauftragten erhöhen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

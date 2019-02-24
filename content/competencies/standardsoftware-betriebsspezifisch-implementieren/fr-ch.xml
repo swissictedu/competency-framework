@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>493</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=493%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter des logiciels standards en fonction des spécificités de l’entreprise</title>
+    <capability>Implémenter un système de soutien des processus métier en tenant compte des exigences de l’entreprise et des possibilités de paramétrage d’un logiciel standard.</capability>
+    <goals>
+        <goal>
+            Attribuer les workflows et activités du processus métier aux fonctions et informations du logiciel standard qui contribuent à l’automatisation de ces activités ou de ces workflows.
+            <knowledge-list>
+                <knowledge>
+                    Comprendre l’importance des logiciels standards en tant qu’application de gestion d’entreprise et d’organisation. Connaître leurs avantages et inconvénients.
+                </knowledge>
+                <knowledge>
+                    Connaître la structure modulaire des systèmes ainsi que les fonctions‐clés des applications de gestion d’entreprise. Pouvoir les adapter aux spécificités de l’entreprise. Progiciels de gestion intégrés (PGI) Planification d’entreprise, contrôle de gestion Finances et comptabilité Logistique, gestion matières et approvisionnement Planification et pilotage de la production (PPP) Gestion de la relation client (GRC) Système de gestion de contenu (SCG) (KISS), systèmes de gestion documentaire (DGD) Systèmes de gestion de workflows (WFMS)
+                </knowledge>
+                <knowledge>
+                    Connaître les critères de distinction et l’utilisation de tableaux entrées‐sorties, les systèmes applicatifs pré‐paramétrés universels et les solutions de branche en relation avec les logiciels standards.
+                </knowledge>
+                <knowledge>
+                    Connaître les démarches qui permettent une attribution aux processus métier sur la base des caractéristiques des logiciels standards en matière de fonctions, de processus et d’ergonomie.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Evaluer la mesure dans laquelle les fonctions et informations du logiciel standard qui ont été attribuées aux différents workflows et activités ainsi que les possibilités de paramétrisation qui vont de pair garantissent le soutien nécessaire.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir comparer la portée des fonctions de personnalisation proposées par le fournisseur du logiciel standard avec les possibilités de paramétrisation et l’évaluer (paramètres, tableau, outils de modélisation, modèles graphiques de référence utilisateur).
+                </knowledge>
+                <knowledge>
+                    Connaître les conséquences de l’abandon des possibilités de paramétrage.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités techniques de migration de données et savoir indiquer s’il faut opter pour une reprise de données automatique ou manuelle.
+                </knowledge>
+                <knowledge>
+                    Connaître les utilisations possibles des générateurs de développement typiques pour la réalisation de modifications de logiciels (outil de développement rapide (outil RAD), etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Recommander, pour les workflows et activités pour lesquels le soutien nécessaire ne peut être réalisé et en fonction de la stratégie de paramétrisation, une adaptation des exigences ou une modification du logiciel ou de l’organisation qui permettront d’y répondre.
+            <knowledge-list>
+                <knowledge>
+                    Savoir évaluer l’impact de l’adaptation d´exigences sur le processus métier et l’organisation.
+                </knowledge>
+                <knowledge>
+                    Connaître l’adaptabilité des logiciels standards en matière de pilotage des entrées/sorties, de structure de données, de traitement et d’analyse par rapport aux exigences.
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages et inconvénients des modifications possibles de logiciels standards ou de l’utilisation de programmes complémentaires.
+                </knowledge>
+                <knowledge>
+                    Connaître les risques et les mesures courantes dont s’accompagnent les adaptations dans le cadre de changements futurs de versions en ce qui concerne la réutilisabilité et pouvoir évaluer la maintenabilité (contrats de maintenance et d’assistance).
+                </knowledge>
+                <knowledge>
+                    Connaître les interactions entre les environnements et les interfaces concernés par la modification du logiciel (adaptabilité).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer des propositions conceptuelles de modification du logiciel en fonction des spécificités de l’entreprise. Les évaluer sur le plan de la faisabilité, de l’investissement, de la complexité, du risque, de la réutilisabilité et de la rentabilité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes permettant d’évaluer les impacts des modifications sur la stabilité et la sécurité opérationnelle et pouvoir décrire des mesures appropriées.
+                </knowledge>
+                <knowledge>
+                    Connaître des modèles de démarche adéquats, des principes ainsi que des méthodes d’adaptation de logiciels standards aux spécificités de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître l’impact d’une modification sur le plan de la technologie, de l’organisation et des processus. Développer des propositions conceptuelles tenant compte de cet impact.
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs critiques de succès (FCS) de la personnalisation et savoir comment les prendre en compte dans la modification de logiciel.
+                </knowledge>
+                <knowledge>
+                    Connaître la démarche de paramétrisation qui permet de garantir le bon fonctionnement et la disponibilité des logiciels standards.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Paramétriser le logiciel standard ou ses fonctions/informations compte tenu des exigences concernant le soutien du workflow ou des activités.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la démarche qui permet de vérifier si la conversion (reprise) de données effectuée après la paramétrisation est complète et correcte.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères et exigences qui garantissent la protection et la sécurité des données pendant la phase de paramétrage.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier si la solution paramétrisée satisfait les exigences concernant le soutien du workflow ou des activités et si un déroulement correct est assuré.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différentes méthodes de réception, de vérification et de contrôle de fonction et de performance. Savoir les appliquer.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

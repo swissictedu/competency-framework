@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>226A</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=226A%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Klassenbasiert (ohne Vererbung) implementieren</title>
+    <capability>Anforderungen in ein Klassendesign ohne Vererbung umsetzen und mit einer objektorientierten Programmiersprache implementieren, dokumentieren und testen.</capability>
+    <goals>
+        <goal>
+            Ein SW-Design mit Klassen nachvollziehen und mit eigenen fachlichen und technischen Klassen ergänzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Abstraktionsmittel wie Beziehungen, Klassen, Attribute und Methoden, mit denen die reale Welt im Design abgebildet wird.
+                </knowledge>
+                <knowledge>
+                    Versteht die Klasse als abstrakten Datentyp (ADT).
+                </knowledge>
+                <knowledge>
+                    Kennt die Beziehungstypen wie Assoziation, Aggregation, Komposition zwischen Klassen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung von Fachklassen und Klassen, die für die Implementation der Anwendung nötig sind und das klassenbasierte Design vervollständigen (technische Klassen).
+                </knowledge>
+                <knowledge>
+                    Versteht das Zusammenspiel mehrerer Klassen in einer Anwendung und wendet das Prinzip der Delegation an.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Die Notation dynamischer und statischer Strukturen einer Anwendung mittels Unified Modeling Language (UML) nachvollziehen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Diagrammnotationen zur Darstellung von Klassen und Objekten.
+                </knowledge>
+                <knowledge>
+                    Kennt Diagrammnotationen zur Darstellung des Meldungsaustausches zwischen Objekten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Klassenbasiertes Design implementieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine objektorientierte Sprache, welche für die Umsetzung des klassenbasierten Designs geeignet ist.
+                </knowledge>
+                <knowledge>
+                    Kann das Prinzip des Information Hiding und der Kapselung beim Entwurf von Klassen anwenden.
+                </knowledge>
+                <knowledge>
+                    Versteht den Unterschied zwischen dem Programm zur Kompilationszeit (Klassen) und zur Laufzeit (sich referenzierende Objekte).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Für funktionale Einheiten einer Anwendung Testfälle implementieren, um die Anwendung automatisch zu prüfen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Vorgehen um für Einheiten Testfälle mittels geeigneter Grenzwerte oder Pfadprüfungen zu finden und festzulegen.
+                </knowledge>
+                <knowledge>
+                    Kennt die zur Verfügung gestellten Mittel einer Testinfrastruktur um die Testfälle zu implementieren.
+                </knowledge>
+                <knowledge>
+                    Kennt Mittel, die Abdeckung der Tests zu messen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Klassen der Anwendung systematisch, unter Verwendung der hierfür vorgesehenen Infrastruktur, dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Möglichkeiten der Dokumentationsinfrastruktur und weiss wie die Programmeinheiten gemäss Vorgaben zu dokumentieren sind.
+                </knowledge>
+                <knowledge>
+                    Kennt den Nutzen von Api-Dokumentationen und weiss wie diese erzeugt werden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>411</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=411%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Datenstrukturen und Algorithmen entwerfen und anwenden</title>
+    <capability>Problemstellung analysieren und mit geeigneten Datenstrukturen und Algorithmen eine Lösung umsetzen, testen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Für ein gegebenes Problem eine geeignete Datenstruktur definieren und mit den Mitteln einer Programmiersprache, wie Structs, Referenzen / Zeiger und Arrays umsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Unterschied zwischen Wertevariablen und Referenzvariablen / Zeigervariablen.
+                </knowledge>
+                <knowledge>
+                    Kennt Sprachmittel einer Programmiersprache für das Deklarieren und das Arbeiten mit Werte- und Referenzvariablen.
+                </knowledge>
+                <knowledge>
+                    Kennt Konzept und Nutzen von verketteten Datenstrukturen.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Notation für die Darstellung von verketteten Datenstrukturen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ein Problem analysieren und einen geeigneten Algorithmus zur Lösung mit den Grundelementen Zuweisung, Verzweigung und Schleife entwerfen und mit Prozeduren und Funktionen umsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine systematische Vorgehensweise für die Analyse eines Problems.
+                </knowledge>
+                <knowledge>
+                    Kennt die Grundelemente von Algorithmen und deren Umsetzung in einer Programmiersprache.
+                </knowledge>
+                <knowledge>
+                    Kennt die Sprachmittel einer Programmiersprache für das Deklarieren und Aufrufen von Funktionen und Prozeduren.
+                </knowledge>
+                <knowledge>
+                    Kennt Notationen um Algorithmen dazustellen wie z.B. Struktogrammen, PAP usw.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Algorithmen und Datenstrukturen hinsichtlich Speicher- und Zeitkomplexität analysieren und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten zur Analyse von Zeit- und Speicherkomplexität von Algorithmen und Datenstrukturen.
+                </knowledge>
+                <knowledge>
+                    Kennt Komplexitätsklassen von Algorithmen (z.B. lineare, exponentielle Komplexität).
+                </knowledge>
+                <knowledge>
+                    Kennt Notationen zur Dokumentation der Speicher- und Zeitkomplexität eines Algorithmus.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ein komplexeres Problem auf kleinere Teilprobleme zurückführen und je nach Problemstellung  Iteration oder Rekursion einsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Vorgehen bei der Aufteilung eines komplexen Problems in kleinere Teilprobleme.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau von iterativen Algorithmen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau von rekursiven Algorithmen.
+                </knowledge>
+                <knowledge>
+                    Kennt Vor- und Nachteile sowie geeignete Einsatzgebiete des iterativen und des rekursiven Ansatzes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Abstrakte Datentypen, wie Liste, Set, Map etc. und die darauf definierten Operationen kennen und zielgerichtet einsetzen können.
+            <knowledge-list>
+                <knowledge>
+                    Kennt eine Programmbibliothek, die ADTs wie Liste, Set, Map, etc. zur Verfügung stellt und deren Anwendung.
+                </knowledge>
+                <knowledge>
+                    Kennt Eigenschaften von einzelnen abstrakten Datentypen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Datenstrukturen und Algorithmen mit dem Debugger und weiteren Tools untersuchen und dabei speziell die Situation auf Stack und Heap Analysieren und in geeigneter Form darstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Speicherlayout für einen Prozess mit den Bereichen Programmcode, globale Variablen, Stack und Heap.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anordnung von lokalen Variablen und Parametern in einem Stackframe.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionsweise des Stacks bei einem Funktionsaufruf.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionsweise im Heap bei dynamisch erzeugten Objekten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anwendung eines Debuggers für die Untersuchung von Heap und Stack zur Laufzeit und/oder ein Tool zur Laufzeitanalyse für Grössen wie Memory Leaks, Aufrufhäufigkeit und Verweildauer von Funktionen, etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

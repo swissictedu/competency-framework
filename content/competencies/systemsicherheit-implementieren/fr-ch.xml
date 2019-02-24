@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>182</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=182%26clang=fr</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter la sécurité système.</title>
+    <capability>Examiner des serveurs et places de travail en regard de la sécurité système, élaborer et mettre en œuvre des propositions d’amélioration.</capability>
+    <goals>
+        <goal>
+            Examiner des systèmes existants (clients, serveurs, composants réseau et services) de manière ciblée en regard des lacunes de sécurité et des manques de configuration avec des moyens appropriés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des moyens et méthodes pour déceler les lacunes de sécurité et manques de configuration dans des systèmes (par ex. Portscanner, Hardening Tools).
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance d’une documentation exhaustive en regard de la sécurité système.
+                </knowledge>
+                <knowledge>
+                    Connaître les erreurs les plus fréquentes de sécurité lors de la configuration de systèmes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborer des mesures pour la sécurité système sur la base des informations collectées.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux réglages de sécurité système au niveau du système d’exploitation, des applications, des composants réseaux et des utilisateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître les services nécessaires ainsi que leur dépendance pour l’exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implémenter et documenter des mesures de sécurité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des procédures pour l’actualisation des licences.
+                </knowledge>
+                <knowledge>
+                    Connaître le principe du déroulement et les prescriptions de sécurité pour l’identification de sources sûres en vue de mise à jour et à niveau de logiciels.
+                </knowledge>
+                <knowledge>
+                    Connaître des critères pour vérifier l’actualité de logiciels ainsi que les conséquences d’une non-actualisation.
+                </knowledge>
+                <knowledge>
+                    Connaître des procédures standards pour renforcer des systèmes.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour garantir la sécurité physique du matériel.
+                </knowledge>
+                <knowledge>
+                    Connaître le principe de la restriction des droits des utilisateurs.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour améliorer la sécurité système au moyen de l’instruction des utilisateurs (par ex. ingénierie sociale, Passwordcontainer).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer et configurer un Host Intrusion Detection System (HIDS) sur un système pré-sécurisé selon directives.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités de collecter des informations système au moyen d’un HDIS.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Tester l’efficacité des modifications/adaptations en regard de la sécurité et de la fonctionnalité à l’aide des informations disponibles du système ainsi que du HIDS. Au besoin, mettre à jour la documentation système.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le contenu des données du login importantes et du HDIS pour la sécurité.
+                </knowledge>
+                <knowledge>
+                    Connaître des anomalies système typiques (par ex. volume de données, accès).
+                </knowledge>
+                <knowledge>
+                    Connaître les contenus de la documentation système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Surveiller la sécurité système implémentée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principes importants de la sécurité dans la surveillance système.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>126</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=126%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Installer des périphériques en réseau.</title>
+    <capability>Intégrer des périphériques compatibles dans un réseau ainsi que leurs services.</capability>
+    <goals>
+        <goal>
+            Planifier l’intégration d’unités périphériques (avec connexion réseau directe) pour l´exploitation dans un réseau.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une procédure pour l’intégration d’unités périphériques dans un réseau (LAN, WAN).
+                </knowledge>
+                <knowledge>
+                    Connaître le principe du déroulement d’une tâche d’impression via la file d´attente dans les réseaux (spool).
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages de l’utilisation commune de ressources réseau (par ex. l’économie).
+                </knowledge>
+                <knowledge>
+                    Connaître des critères d’utilisation et des conditions cadres (par ex. le concept des droits) pour l’exploitation d’unités périphériques dans un réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer, configurer et tester le périphérique concerné directement sur le réseau et verbaliser dans la documentation réseau.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les réglages nécessaires de configuration sur l’unité périphérique et le client afin de permettre leur usage.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités pour actualiser les unités périphériques (Firmware, pilotes).
+                </knowledge>
+                <knowledge>
+                    Connaître une procédure de test pour vérifier la fonctionnalité correcte d’une unité périphérique.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance d’une documentation réseau tenue à jour.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installer, configurer et tester le périphérique concerné ainsi que le service y relatif via un service réseau, et verbaliser dans la documentation réseau.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les réglages nécessaires de configuration pour le service afin de pouvoir utiliser l’unité périphérique sur le poste client.
+                </knowledge>
+                <knowledge>
+                    Connaître les possibilités de scripts pour l’automatisation du raccordement et le droit d’utilisation d’unités périphériques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Comprendre et expliquer un périphérique compatible réseau dans sa fonctionnalité.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les fonctionnalités de diverses unités périphériques (par ex. imprimante, scanner, webcam).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir un mode d’emploi pour un périphérique compatible réseau.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux éléments d’un mode d’emploi.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

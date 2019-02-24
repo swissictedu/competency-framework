@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>253</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=253%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Visualiser les signaux de capteurs</title>
+    <capability>Capturer des signaux analogiques et numériques afin de les visualiser, respectivement pour piloter des acteurs.</capability>
+    <goals>
+        <goal>
+            Choisir des sondes pour capturer des grandeurs physiques et reconnaître leurs formes de signaux.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des capteurs pour les grandeurs électriques, acoustiques, optiques, chimiques, électromagnétiques et peut préciser quels types se prêtent pour la capture.
+                </knowledge>
+                <knowledge>
+                    Connaît des facteurs d’influence sur les signaux entre la source et le récepteur, peut décrire pourquoi les signaux ont des parasites.
+                </knowledge>
+                <knowledge>
+                    Connaît différents genres de signaux qui sont générés par les capteurs courants et peut décrire comment ces signaux peuvent être visualisés.
+                </knowledge>
+                <knowledge>
+                    Connaît des encodeurs numériques courants tels que poussoir, codeur incrémental, codeur angulaire, etc. et peut décrire quels genres de signaux ceux-ci fournissent.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer des affichages respectivement le pilotage d’acteurs sur la base de la donnée, décrire le flux des signaux depuis la source au récepteur final.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les possibilités d’amplification des signaux de capteurs analogiques et numériques.
+                </knowledge>
+                <knowledge>
+                    Connaît les symboles courants pour les la représentation de boucles de pilotage (capteur, amplificateur, convertisseur, acteur) et peut montrer à l’aide d’exemples comment le flux du signal peut être représenté.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Combiner des signaux logiques et les représenter dans des diagrammes afin de les évaluer.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principales fonctions de logiques combinatoire (ET, OU, NON, NON-ET, NON-OU, NON-OU exclusif) et peut représenter leur symbole respectif ainsi que la table de vérité.
+                </knowledge>
+                <knowledge>
+                    Connaît la représentation de diagramme temporel et peut, à l’aide d’exemples, montrer ce qui est visé.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Conditionner des signaux analogiques et numériques afin d’être affichés, et les diriger sur des moyens d’affichage adéquats.
+            <knowledge-list>
+                <knowledge>
+                    Connaît le principe de la conversion A/D et peut décrire l’influence des paramètres tels que le temps de conversion et la résolution.
+                </knowledge>
+                <knowledge>
+                    Connaît le principe de la conversion D/A et peut énoncer par l’exemple pour quelles tâches les convertisseurs D/A sont utilisés.
+                </knowledge>
+                <knowledge>
+                    Connaît des possibilités d’affichage/d’exploitation de signaux.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Piloter des acteurs avec des signaux analogiques et numériques.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des groupes usuels d’acteurs pour le mouvement, le son, la lumière, etc. et peut préciser avec quels types de signaux ceux-ci peuvent être actionnés.
+                </knowledge>
+                <knowledge>
+                    Peut déterminer, sur la base des caractéristiques des acteurs, quelles sont les alimentations nécessaires.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

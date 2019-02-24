@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>122</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=122%26clang=it</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Automatizzare delle attivit&amp;agrave; attraverso un linguaggio di script</title>
+    <capability>Automatizzare delle attività nell'amministrazione di sistemi attraverso un linguaggio di script.</capability>
+    <goals>
+        <goal>
+            Rappresentare graficamente (ad esempio attraverso un diagramma di flusso) la funzione o la procedura da automatizzare con le rispettive interazioni con l'utente.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Beispiele von Automatisierungsaufgaben.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien, die für die Beurteilung des Automatisierungspotentials von Bedeutung sind.
+                </knowledge>
+                <knowledge>
+                    Kennt grundlegende Kontrollstrukturen und deren Einsatz bei der Ablaufautomatisierung.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen bei der Situationsanalyse und weiss, welchen Beitrag diese zur Definition eines klaren Auftrags liefert.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur grafischen Darstellung von Abläufen.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Realisierung von Scripts in der Systemadministration.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Trasporre il diagramma di flusso con l'aiuto di un linguaggio di script.
+            <knowledge-list>
+                <knowledge>
+                    Kennt grundlegende Funktionalitäten der eingesetzten Scriptsprache.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Integrare lo script in un ambito di sistema.
+            <knowledge-list>
+                <knowledge>
+                    Kennt gängige Sicherheitsmassnahmen für den Einsatz von Scripts.
+                </knowledge>
+                <knowledge>
+                    Kennt Integrationsmöglichkeiten von Scripts im eingesetzten Betriebssystem.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testare lo script con una completa e corretta esecuzione della necessaria funzione rispettivamente procedura.
+            <knowledge-list>
+                <knowledge>
+                    Kennt ein Testverfahren für Scripts.
+                </knowledge>
+                <knowledge>
+                    Kennt das Testvorgehen zur Integration von Scripts.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Redigere una documentazione per l'utilizzo dello script.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente einer Dokumentation für die involvierten Rollen (z.B. System, Administrator, Entwickler)
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung der Dokumentation in Bezug auf Qualitätssicherung und Wartbarkeit.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

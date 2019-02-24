@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>184</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=184%26clang=it</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Progettare la sicurezza delle reti</title>
+    <capability>Verificare le reti di comunicazione con accessi di rete esterni e definire un concetto di collegamento per garantire la sicurezza di rete. Installare, configurare e testare sistemi di sicurezza (firewall, reti basate su Intrusion Detection System, proxy server, protezione virus). Valutare ed interpretare le informazioni di log dei sistemi di sicurezza.</capability>
+    <goals>
+        <goal>
+            Consultare la documentazione esistente sulla rete installata e sugli accessi di rete esterni (Internet, Fornitori, Remote Access, etc.), esaminare l’infrastruttura di rete alla ricerca di accessi di rete sconosciuti e redigere/completare l’inventario degli accessi di rete esterni. Se necessario, disattivare gli accessi di rete sconosciuti e/o aggiornare l’errata documentazione di rete.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die erforderlichen Informationen für ein Asset Management/Inventar und kann diese zur Verifizierung einer Dokumentation auf Aktualität einsetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung unvollständiger oder fehlender Assets und kann deren Auswirkung auf die Netzwerksicherheit erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Sicherheitsrisiken bei der Konfiguration von Netzen und kann entsprechende Massnahmen zur Abwehr von Anomalien beschreiben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Elaborare un concetto per gli accessi di rete esterni, definire i diritti e le autorizzazioni d’accesso e fissare gli standard tecnici per l’accesso e il funzionamento di rete.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die für Netze relevanten Sicherheitseinstellungen auf der Ebene von externen Zugängen und kann die erforderlichen Einstellungen für Standardinstallationen beschreiben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Configurare i sistemi di sicurezza in base alle direttive predefinite di sicurezza aziendali e verificare la funzionalità.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Administrationsmöglichkeiten in Netzbetriebssystemen und kann die Zuteilung der erforderlichen Rechte und Zugriffsberechtigungen für einen Einsatzfall darlegen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Provare i meccanismi di log dei sistemi di sicurezza e scegliere i metodi adatti.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Logmechanismen im Netzwerkbereich und kann deren Einsatzfelder erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Valutare le informazioni di log e identificare gli eventi rilevanti per la sicurezza. Dedurne gli adeguati provvedimenti e metterli in pratica.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Kriterien und Inhalte von Log- und Netzinformationen im Netzwerkbereich und kann daraus mögliche Massnahmen für zu ändernde Sicherheitseinstellungen und Netzkonfigurationen beschreiben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Accompagnare le modifiche/estensioni/provvedimenti introdotti, preparare ed eseguire le procedure di test/collaudo e la messa in produzione.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die für eine Einführung eines IT Geschäftsprozesses erforderlichen Methoden und Techniken.
+                </knowledge>
+                <knowledge>
+                    Kennt Verfahren zur Abnahme und Betriebsübergabe von geänderten IT Prozessen und kann die Notwendigkeit späterer Reviews zur Überwachung der Prozesseinhaltung erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

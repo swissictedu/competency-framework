@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>108</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=108%26clang=de</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Elektronisches Gerät aufbauen</title>
+    <capability>Anhand von Vorgaben ein elektronisches Gerät aufbauen, testen, einsetzen und dokumentieren.</capability>
+    <goals>
+        <goal>
+            Technische Unterlagen (z.B. Auftrag, Schaltplan, Stücklisten, Aufbauzeichnung, Funktionsbeschrieb), die für Aufbau und Wartung eines elektronischen Gerätes benötigt werden, interpretieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt elektronische und elektromechanische Schaltsymbole und kann aufzeigen, welche Funktionen diese übernehmen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bauelemente identifizieren, Vorgehen des Zusammenbaus planen und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Beschriftungsprinzipien bei verschiedenen elektronischen Bauteilen und kann deren Einsatzbereiche und Kenngrössen ableiten (z.B. Farbcode für Widerstände, Beschriftungen von Kondensatoren, usw.).
+                </knowledge>
+                <knowledge>
+                    Kann die Bauelemente mit Polarität erkennen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mechanischen Aufbau und Verdrahtung gemäss technischen Unterlagen realisieren.
+            <knowledge-list>
+                <knowledge>
+                    Zum Löten eingesetzte Materialien benennen und ihre Funktionsweise erklären (Lötkolben, Lötzinn, Leiterplatten).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vorgegebene Funktionen des elektronischen Gerätes mit geeigneten Mitteln überprüfen und Fehler korrigieren.
+            <knowledge-list>
+                <knowledge>
+                    Kann aufgrund des Schaltschemas Messpunkte im Gerät bestimmen.
+                </knowledge>
+                <knowledge>
+                    Kann einfache Messungen mit beispielsweise einem Multimeter vornehmen.
+                </knowledge>
+                <knowledge>
+                    Kann einen geeigneten Funktionstest durchführen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Bedienungsanleitung erstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Struktur und den Aufbau einer einfachen Bedienungsanleitung und kann erläutern, warum eine Bedienungsanleitung erforderlich ist.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

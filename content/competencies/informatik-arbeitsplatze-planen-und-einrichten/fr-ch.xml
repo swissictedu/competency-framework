@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>138</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=138%26clang=fr</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Planifier et installer des places de travail informatique.</title>
+    <capability>Planifier et installer des postes de travail informatique en tenant compte des aspects ergonomiques et écologiques.</capability>
+    <goals>
+        <goal>
+            Clarifier et intégrer dans la planification les conditions cadres et prescriptions de l’entreprise, de l’espace disponible et spécifiques aux places de travail.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques spatiales et dépendantes des personnes qui doivent être prises en considération lors de la planification et de l´installation des postes de travail informatiques et pouvoir préciser, avec quelles mesures, on tient compte des exigences ergonomiques y relatives.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser la planification des places de travail informatique en tenant compte des aspects ergonomiques, des prescriptions, des normes et recommandations. Planifier la connexion au réseau d’alimentation et au réseau informatique.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des catégories de normes de service pour des postes de travail informatique et pouvoir énoncer, dans quel but celles-ci servent.
+                </knowledge>
+                <knowledge>
+                    Connaître les conditions cadres, prescriptions et réglementations techniques à prendre en considération lors de l´installation de postes de travail informatique et pouvoir énoncer, quelles contributions celles-ci apportent à la sécurité des personnes et de l´exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les frais du projet et différencier entre les frais d´exploitation et les frais d´investissement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différences fondamentales entre les frais d´exploitation et les frais d´investissement et pouvoir décrire celles-ci par des exemples.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sur la base de la planification, conclure et mettre en route les travaux tels que construction, éclairage, mobilier, réseau informatique, réseau d’alimentation et mise en place des postes informatiques.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères visant la formation des ensembles de travaux et pouvoir décrire par des exemples, quelles contributions ils apportent pour un règlement dans les délais et sans problème du projet.
+                </knowledge>
+                <knowledge>
+                    Connaître les points de départ les plus importants dans une entreprise qui sont impliqués dans un processus d´acquisition et pouvoir énoncer leurs tâches, leurs compétences et leurs responsabilités.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Saisir la notice sur l’aide, en cas d’erreur ou problème, de l’ergonomie, de l’écologie, de la consommation d’énergie et des prescriptions de l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments les plus importants de l'instruction des utilisateurs ainsi que son déroulement, et pouvoir décrire quelles contributions ceux-ci apportent à la compréhension et au comportement conséquent des utilisateurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Surveiller la livraison et l’installation selon la planification, selon besoin entreprendre l’inventaire.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des catégories de critères qui doivent être examinés lors de la livraison des produits commandés.
+                </knowledge>
+                <knowledge>
+                    Connaître les domaines de critères des frais, des dates, de la qualité et de ses dépendances à prendre en considération lors du réexamen de la mise en œuvre des ensembles de travaux.
+                </knowledge>
+                <knowledge>
+                    Connaître les informations système qui devraient être contenues dans un inventaire et pouvoir décrire, quelles contributions celles-ci apportent pour une exploitation efficace.
+                </knowledge>
+                <knowledge>
+                    Connaître les informations pertinentes sur l'économie d'entreprise qui devraient être contenues dans un inventaire et pouvoir décrire, quelle importance celles-ci ont pour la comptabilité de l'entreprise et la preuve de licence.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entreprendre en commun avec chaque utilisateur les réglages et configurations spécifiques. Instruire l’utilisateur sur l´usage des réglages, conseiller relativement à la santé le comportement sur la place de travail. Remettre la notice d’aide.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des techniques de communication qui sont applicable lors de l´instruction des utilisateurs et pouvoir préciser, quelles contributions celles-ci apportent pour une mise en œuvre durable.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Entreprendre, le cas échéant, l’élimination d’anciens appareils, des déchets d’installation conformément aux prescriptions, actualiser l’inventaire.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les conventions sur le recyclage et l´élimination des appareils (électroniques) - dans la technique de communication et d´information (SWICO), et pouvoir énoncer, quelles contributions apporte la convention pour un enlèvement écologique des déchets.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

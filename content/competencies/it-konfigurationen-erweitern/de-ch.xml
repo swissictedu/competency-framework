@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>180</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=180%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>IT Konfigurationen erweitern</title>
+    <capability>Bestehende IT Konfigurationen analysieren, Umsetzungsvarianten für die Erweiterung definieren und eine Soll-Konfiguration unter Berücksichtigung der ICT Strategie und der definierten Anforderungen entwickeln. Migration und Umsetzung planen und zur Entscheidung bringen.</capability>
+    <goals>
+        <goal>
+            Soll-Konfiguration aus der Ist-Konfiguration unter Berücksichtigung der ICT-Zielsetzungen, der Performance- und Verfügbarkeits-Anforderungen, des Speicherbedarf und der Sicherheit entwickeln und beschreiben.</goal>
+        <goal>
+            In Zusammenarbeit mit internen oder externen Spezialisten die Implementierung der Soll-Konfiguration erarbeiten und verabschieden.</goal>
+        <goal>
+            Umsetzungsschritte für die Erweiterung auf die Soll-Konfiguration, unter Berücksichtigung der Applikations-, System- und Netzwerkarchitektur, bestimmen.</goal>
+        <goal>
+            Vorgeschlagene Umsetzungsvariante bewerten und dabei die Auswirkungen auf benötigte Methoden, Werkzeuge und Ressourcen berücksichtigen. Entscheidungsgrundlagen für die Umsetzung aufbereiten und Entscheid herbeiführen.</goal>
+        <goal>
+            Anforderungen für die Migration ableiten und einen Migrationsplan erarbeiten.</goal>
+        <goal>
+            Vorschlag für die Anpassung der Service Level Agreements erarbeiten.</goal>
+    </goals>
+</competency>

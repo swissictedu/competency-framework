@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>151</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=151%26clang=de</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Datenbanken in Web-Applikation einbinden</title>
+    <capability>Eine bestehende Datenbank bzw. Datenbestand nach Vorgabe in einer Web-Applikation einbinden unter Berücksichtigung von technischen und sicherheitsrelevanten Anforderungen.</capability>
+    <goals>
+        <goal>
+            Anforderungen an eine Web-Applikation und Gegebenheiten der einzubindenden Datenbank bzw. des Datenbestandes analysieren, Anbindungstechnik definieren und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten zur Analyse des Aufbaus einer Web-Applikation und das Zusammenspiel der Softwarekomponenten .
+                </knowledge>
+                <knowledge>
+                    Kennt Eigenschaften und Funktionen von Schnittstellen zu Datenbanksystemen und Datenbeständen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schutz- und sicherheitswürdige Informationen unter Beachtung des Datenschutzes identifizieren und Massnahmen definieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien zur Bestimmung schutzwürdigen Informationen wie besonders schützenswert Personendaten und sensible Geschäftsdaten.
+                </knowledge>
+                <knowledge>
+                    Kennt organisatorische und technische Sicherheitsvorkehrungen zur Sicherung von Informationen/Daten und Web-Applikationen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anbindung der Web-Applikation an die Datenbank bzw. an den Datenbestand realisieren und dabei Transaktionen, Datensicherheit und Datenschutz beachten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Script- und Programmiersprachen für Web-Applikation, sowie deren typischen Eigenschaften.
+                </knowledge>
+                <knowledge>
+                    Kennt gängige Techniken zur Umsetzung von Datenbank-Transaktionen.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Gewährleistung der Datenintegrität, Verfügbarkeit, Authentizität und Vertraulichkeit in Web-Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Technik zum applikatorischen Locking von Datensätzen.
+                </knowledge>
+                <knowledge>
+                    Kennt unterschiedliche Architekturen zur Einbindung von Datenbeständen bzw. Datenbanken in einer Web-Applikation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Änderungswunsch gemäss vorgegebenem Änderungsvorgehen umsetzen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Struktur und Merkmale eines Änderungskonzeptes und dessen Bedeutung für die vollständige Auftragsdurchführung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Test- und Abnahmeverfahren definieren , durchführen und im Testprotokoll dokumentieren. Allenfalls erforderliche Korrekturen vornehmen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Test- und Abnahmeverfahren, die sich für eine übergreifende Prüfung einer Web-Applikation mit Datenbank eignen.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehen zur Bestimmung von Prüf- und Abnahmekriterien aus einem Change Request.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

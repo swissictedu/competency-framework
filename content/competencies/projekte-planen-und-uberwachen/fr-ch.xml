@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>249</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=249%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Planifier et superviser des projets</title>
+    <capability>Planifier, superviser et piloter un projet conformément au mandat de projet</capability>
+    <goals>
+        <goal>
+            Analyser un mandat de projet, le vérifier le cas échéant avec le mandant, le préciser si nécessaire et établir une planification générale de projet.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les rôles d’un projet et savoir quelles sont leurs tâches, compétences et responsabilités au sein de l’organisation de projet.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques que doit présenter un objectif pour être complet. Savoir comment elles permettent d’aboutir à un accord précis entre mandant et mandaté et comment elles aident le mandaté à réaliser les objectifs convenus.
+                </knowledge>
+                <knowledge>
+                    Connaître les facteurs relatifs au contenu, aux délais et au budget qui influencent le déroulement du projet et pouvoir expliquer comment en tenir compte dans l’élaboration d’une planification de projet.
+                </knowledge>
+                <knowledge>
+                    Connaître les méthodes de planification permettant d’atteindre les objectifs de délai, de qualité et de contenu (GANTT, plan PERT, organigramme de tâches, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les principes fondamentaux du déroulement structuré d’un projet.
+                </knowledge>
+                <knowledge>
+                    Connaître les différents modèles de démarche (chute d’eau, Scrum, HERMES, modèle du cycle en V, etc.) et leurs différences.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes formes d’organisation de projet (task force, coordination de projet, matrice, etc.).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Décomposer les livrables du projet en sous‐projets et lots de travaux. Formuler les mandats de travail correspondants en les assortissant d’objectifs techniques, économiques et de délais.
+            <knowledge-list>
+                <knowledge>
+                    Savoir comment les livrables du projet sont représentés et documentés dans un organigramme de tâches.
+                </knowledge>
+                <knowledge>
+                    Connaître les critères à prendre en compte dans la constitution de lots de travaux et pouvoir expliquer comment ils contribuent à une répartition judicieuse du travail et au déroulement efficace d’un projet.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir un mandat de travail pour être ciblé et adapté à son destinataire (cohérence, délimitation précise ou coïncidence avec les objectifs du projet, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître les critères utilisés pour définir des sous‐projets.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier sur la base des objectifs techniques, économiques et des délais le suivi des sous‐projets et lots de travaux.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les outils et méthodes de suivi d’un projet et pouvoir expliquer comment ils contribuent à la réalisation optimale des objectifs.
+                </knowledge>
+                <knowledge>
+                    Connaître la signification des facteurs d’influence environnementaux et savoir comment ils influent la réalisation des objectifs, autrement dit comment ils doivent être pris en compte.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier la communication de projet conformément aux consignes figurant dans le mandat de projet et aux parties prenantes définies dans l’organisation de projet.
+            <knowledge-list>
+                <knowledge>
+                    Savoir quels sont les besoins d’information découlant des exigences formulées dans le mandat de projet et du suivi du projet.
+                </knowledge>
+                <knowledge>
+                    Savoir comment concrétiser ces exigences dans un plan de communication de projet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir des exécutants compétents pour la réalisation des sous‐projets et des lots de travaux et leur attribuer des missions.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères qualitatifs et personnels à remplir pour réaliser des lots de travaux.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques que doit présenter un mandat de travail pour être complet.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences de délai, qualitatives, environnementales et économiques que doit satisfaire l’attribution de sous‐projets.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments que doit contenir un mandat de sous‐projet. Connaître les directives internes relatives à l’attribution de sous‐projets.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier et analyser les risques liés au projet et proposer des mesures propres à les maîtriser.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir décrire la démarche systématique d’analyse des risques et la contribution de chacune de ses étapes à l’identification, à l’évaluation et à la maîtrise des risques des projets.
+                </knowledge>
+                <knowledge>
+                    Pouvoir indiquer des mesures adéquates de maîtrise des risques, expliquer leur efficacité. Savoir comment elles s’intègrent dans le processus de planification.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Assurer le suivi permanent de l’avancement du projet, mettre en oeuvre les mesures de pilotage adéquates et les coordonner si nécessaire avec le mandant.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes de suivi permanent de l’avancement d’un projet, de sous‐projets et de lots de travaux (rapports de travail, rapports d’avancement, rapports concernant les livrables, revues, etc.).
+                </knowledge>
+                <knowledge>
+                    Connaître des mesures de pilotage de projets qui peuvent être prises suite à l’identification d´écarts de planification lors du contrôle d´avancement. Savoir comment elles s’intègrent dans le processus de planification.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques des mesures de pilotage prises en cas d’écart de planification qui définissent l’instance qui décide de leur réalisation. Pouvoir indiquer pourquoi leur prise en compte permet d’impliquer les décideurs en fonction de leur compétence.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Planifier le processus de traitement des demandes de modification concernant le projet, le mettre en place et traiter les demandes de modification en conséquence.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les causes possibles d’une modification des conditions générales et des objectifs d’un projet.
+                </knowledge>
+                <knowledge>
+                    Savoir comment définir un processus de changement adapté au projet.
+                </knowledge>
+                <knowledge>
+                    Savoir quelles informations concernant la gestion du changement doivent être intégrées dans la documentation de projet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Rédiger des rapports d’avancement de projet et de phase à l’intention du mandant et les présenter à l’occasion des réunions du comité de projet.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques d’un rapport de projet (rapports de jalon, rapports de projet, rapports de phase, demandes d’autorisation de phase, etc.) et savoir comment les préparer à l’intention des décideurs.
+                </knowledge>
+                <knowledge>
+                    Savoir comment préparer une présentation concernant l’avancement d’un projet et pouvoir expliquer quels sont les critères qui en conditionnent la réussite.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

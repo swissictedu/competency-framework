@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>239</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=239%26clang=it</reference>
+            <level>3</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Mettere in funzione un server Internet</title>
+    <capability>Mettere in funzione e configurare un server Internet con diversi servizi e tenendo in considerazione le prescrizioni di sicurezza e le esigenze operative.</capability>
+    <goals>
+        <goal>
+            Raccogliere e documentare le esigenze (sicurezza, profilo di carico, volume dati, disponibilità, applicazioni da integrare) per un server Internet.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i criteri che devono essere applicati per il dimensionamento di un server Internet nella valutazione di una situazione di partenza.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Comparare l'infrastruttura esistente (server, rete, servizi) con le esigenze e proporre le necessarie modifiche rispettivamente estensioni.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le caratteristiche e la loro importanza per le specifiche tecniche di un server Internet.
+                </knowledge>
+                <knowledge>
+                    Conosce il principio della risoluzione dei nomi attraverso il DNS e la sua influenza sul funzionamento di altri servizi Internet (ad esempio virtual host in un webserver). 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Determinare le necessarie regolazioni in base al concetto di sicurezza e funzionamento.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le impostazioni consigliate di operatività e sicurezza (best practice) di un server Internet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Installare e configurare il software e impostare i servizi.
+            <knowledge-list>
+                <knowledge>
+                    Conosce le dipendenze dei servizi da installare e la loro influenza sulla sequenza dell'installazione/configurazione.
+                </knowledge>
+                <knowledge>
+                    Conosce i criteri che devono essere tenuti in considerazione nell'integrazione di risorse esterne a un server Internet.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Distribuire i diritti di acceso, impostare una comunicazione sicura e i servizi di log.
+            <knowledge-list>
+                <knowledge>
+                    Conosce i criteri per la definizione dei diritti di acceso di utenti e gruppi.
+                </knowledge>
+                <knowledge>
+                    Conosce il principio della comunicazione sicura e l'utilizzo di certificati.
+                </knowledge>
+                <knowledge>
+                    Conosce il protocollo e la valutazione dei servizi di log. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Testare il server Internet (test di carico, sicurezza e crash).
+            <knowledge-list>
+                <knowledge>
+                    Conosce le procedure di test di base e la loro importanza per la sicurezza operativa di un server Internet. 
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

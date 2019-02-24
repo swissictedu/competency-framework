@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>475</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=475%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Analyse für eine Applikation entwickeln</title>
+    <capability>Entwickelt ausgehend von den funktionalen und nicht‐funktionalen Anforderungen an eine Applikation die Artefakte der objektorientierten Analyse. Führt Machbarkeitsabklärungen hinsichtlich der technischen Umsetzbarkeit von Anforderungen durch.</capability>
+    <goals>
+        <goal>
+            Identifiziert aus dem strukturierten Anforderungskatalog und weiteren Vorgaben an das zu entwickelnde System jene Anforderungen, die für die Konzeption und das Design der Applikation relevant sind.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Perspektiven (IREB), welche einen Anforderungskatalog für ein System strukturieren, und weiss um die Bedeutung dieser Perspektiven für die Entwicklung einer Applikation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert unter Berücksichtigung der Komplexität der zu entwickelnden Applikation und dem Entwicklungsvorgehen die Artefakte, welche für eine differenzierte und nachvollziehbare Entwicklung notwendig sind.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die grundsätzlichen methodischen Schritte des Software‐Entwicklungsprozesses (open Unified Process) und kann aufzeigen, wie ein agiles Vorgehen diesen beeinflusst.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgaben vom UML an die Erstellung der Artefakte der objektorientierten Softwareentwicklung und weiss, welchen inhaltlichen Beitrag diese an die Konkretisierung einer Applikation leisten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifiziert und beschreibt aufgrund der identifizierten Anforderungen die Applikation in Form von Use Cases (Use‐Case‐Modell) und der essentiellen Business‐Objekte (Domain‐Modell).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente einer Anwendungsfall‐Beschreibung und kann erläutern, welchen Beitrag diese zur Konkretisierung einer Applikation leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente einer Anwendungsfall‐Beschreibung und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Anwendungsfalldiagramms, welche einen Beitrag zur Beschreibung des Use‐Case‐Modells einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Anwendungsfalldiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Aktivitätsdiagramms, welche einen Beitrag zur Beschreibung des Use‐Case Modells einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Aktivitätsdiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Klassendiagramms, welche einen Beitrag zur Beschreibung des Domänenmodells einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Klassendia‐gramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Objektdiagramms, welchen einen Beitrag zur Beschreibung des Domänenmodells einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Objektdiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt eine systematische Priorisierung der Anwendungsfälle (Use Cases) unter Berücksichtigung der Bedeutung für das Business und ihrer Machbarkeit durch.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Methoden und Techniken, um Anwendungsfälle entsprechend den Anforderungen zu priorisieren, und kann die Resultate erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Realisiert die priorisierten Anwendungsfälle (Use Cases) in Form von Klassenmodellen und Interaktionsdiagrammen (Analyse‐Modell).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente eines Klassendiagramms, welche einen Beitrag zur Beschreibung des Analysemodelles einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Klassendia‐gramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+                <knowledge>
+                    Kennt die Elemente eines Kommunikationsdiagramm, welche einen Beitrag zur Beschreibung eines Ablaufes eines Anwendungsfalles des Analysemodelles einer Applikation leisten, und kann diesen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente eines Kommunikationsdiagramms und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Spezifiziert für die Anwendungsfälle und die damit verbundenen Anforderungen die Testfälle, welche eine zuverlässige Prüfung der Funktionalität der Applikation sicherstellen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Elemente einer Testfall‐Beschreibung und kann erläutern, welchen Beitrag diese zur Konkretisierung einer Applikation leisten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Anforderungen an die Spezifikation der Elemente einer Testfall‐Beschreibung und kann erläutern, wie damit eine verbindliche Vereinbarung hinsichtlich der weiteren Entwicklung der Applikation sichergestellt wird.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt Vorabklärungen hinsichtlich der technischen Machbarkeit und der Klarheit der Vorstellungen des Business hinsichtlich der gewünschten Funktionalität durch und entscheidet, ob und zu welchem Zeitpunkt im Entwicklungsprozess ein Prototyp mit welchem Scope zu realisieren ist.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Methoden und Techniken, um erarbeitete Analyseresultate für den nächsten Projektabschnitt vorzubereiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgaben eines vollständig definierten Auftrags an eine Person oder ein Team sowie die Anforderungen an deren Ausarbeitung und kann erläutern, wie diese zur erfolgreichen Abwicklung eines Auftrages bzw. zur Erstellung eines Prototyps beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

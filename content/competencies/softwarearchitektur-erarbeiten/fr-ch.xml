@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>202</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=202%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Elaborer une architecture logicielle</title>
+    <capability>Réaliser l’architecture logicielle d’une application à développer sur la base des exigences fonctionnelles et non fonctionnelles.</capability>
+    <goals>
+        <goal>
+            Définir une architecture logicielle appropriée conformément aux exigences fonctionnelles et non fonctionnelles d’une application et à des consignes d’architecture (logicielle, de système et de réseau).
+            <knowledge-list>
+                <knowledge>
+                    Connaître les éléments et caractéristiques d’une architecture logicielle. Pouvoir expliquer ses spécificités et la manière dont elles influencent les caractéristiques fonctionnelles et non fonctionnelles d’une application.
+                </knowledge>
+                <knowledge>
+                    Pouvoir expliquer comment les éléments et caractéristiques d’une architecture logicielle influencent la structure physique et organisationnelle d’un projet.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments et caractéristiques d’une architecture de système dont il faut tenir compte dans la définition d’une architecture logicielle et pouvoir expliquer comment ils influencent l’architecture d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments et caractéristiques d’une architecture de réseau dont il faut tenir compte dans la définition d’une architecture logicielle et pouvoir expliquer comment ils influencent l’architecture d’une application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Décomposer l’application en couches logiques et les attribuer aux couches architecturales correspondantes (tier) compte tenu du modèle architectural choisi.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères de déploiement d’une application en couches logiques et pouvoir expliquer comment ils influencent le déploiement physique (tier).
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de paquetage qui contribuent à la description du modèle en couches d’une architecture logicielle.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de paquetage et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de déploiement qui contribuent à la description d’une architecture logicielle.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de déploiement et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir des types d’interactions appropriés entre les couches pour l’architecture en couches choisie compte tenu des exigences fonctionnelles et non fonctionnelles.
+            <knowledge-list>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de composants qui contribuent à la description des composants d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de composants et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître et pouvoir expliquer les éléments d’un diagramme de communication qui contribuent à la description du déroulement d’un cas d’utilisation du modèle d’analyse d’une application.
+                </knowledge>
+                <knowledge>
+                    Connaître les exigences que doit remplir la spécification des éléments d’un diagramme de communication et pouvoir expliquer comment elles garantissent un accord contraignant en ce qui concerne la suite du développement de l’application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les consignes de développement de l’application qui garantissent le respect et l’implémentation de l’architecture applicative spécifiée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les consignes fondamentales à respecter dans une architecture applicative et pouvoir expliquer comment elles garantissent la cohérence du développement et de l’implémentation de l’application.
+                </knowledge>
+                <knowledge>
+                    Connaître les domaines d’utilisation et de fonctionnalité des frameworks logiciels et pouvoir expliquer comment ils influencent l’implémentation d’une application.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Définir les exigences et attentes de l’entreprise en matière de développement d’architecture sur la base des constatations résultant de l’élaboration de l’architecture logicielle.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le processus fondamental de développement d’une architecture et savoir comment y intégrer les exigences et propositions de modification concernant le développement de l’architecture d’une entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les informations à fournir dans le cadre de la soumission d’exigences et de propositions de modification concernant le développement de l’architecture d’une entreprise et pouvoir expliquer en quoi ces informations sont utiles aux décideurs.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les conséquences de l’évolution des consignes architecturales de l’entreprise pour une application et en déduire les mesures nécessaires en ce qui concerne le développement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les critères selon lesquels il est possible de déterminer l’influence de nouvelles consignes d’architecture (logicielle, de système et de réseau) sur l’architecture applicative.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

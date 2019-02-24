@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>173</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=173%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Protéger et sécuriser les sites et les applications WEB</title>
+    <capability>Intégrer dans des sites Web des mesures de protection des données personnelles et commerciales.</capability>
+    <goals>
+        <goal>
+            Définir les besoins de sécurité des informations qui seront contenues dans le site Web et les classer en fonction de critères de confidentialité, de disponibilité, d’intégrité et de non-répudiation.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les objectifs de protection des informations découlant des directives de l’entreprise et des dispositions légales et peut expliquer les risques que leur respect permet d’écarter.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les chaînes de processus d’utilisation du Web partant de la base de données et y aboutissant, puis identifier et documenter les failles de protection et de sécurité.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les failles de sécurité les plus courantes qui affectent les données et les informations figurant sur les sites Web et peut expliquer en quoi elles représentent une menace.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Identifier les sites Web et les données commerciales potentiellement menacés par des transactions.
+            <knowledge-list>
+                <knowledge>
+                    
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déterminer les profils d’utilisation au moyen d’outils adéquats et définir des classes standard d’utilisateurs.
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter les critères de constitution de profils d´utilisation et de classes d´utilisateurs pour un site Web et expliquer leur importance pour la sécurité et l’efficience de son exploitation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Proposer des mesures adéquates de protection et de sécurité d’accès (procédures de connexion, mots de passe, authentifications, autorisations, certificats, identifications de session, encryptage, etc.).
+            <knowledge-list>
+                <knowledge>
+                    Connaît des méthodes de protection et de sécurité d´accès des sites Web et peut exposer les risques potentiels face auxquels elles sont recommandées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Assurer le cas échéant la protection des informations sur le réseau (VPN, SSL, etc.).
+            <knowledge-list>
+                <knowledge>
+                    Connaît des méthodes de protection des lignes de communication contre les accès et les manipulations d´informations non autorisés et peut exposer expliquer les risques potentiels face auxquels elles sont recommandées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Regrouper dans une stratégie de sécurité Web les objectifs de protection, les chaînes de processus, les données commerciales potentiellement menacées, les classes d’utilisateurs et les mesures de protection prévues.
+            <knowledge-list>
+                <knowledge>
+                    Connaît le processus systématique de résolution de problèmes et peut expliquer la contribution de chacune de ses phases à la résolution des problèmes.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Présenter la stratégie et la faire approuver.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les règles à observer pour la conception du contenu d´une présentation et peut expliquer comment leur respect contribue à sa clarté et à son impact.
+                </knowledge>
+                <knowledge>
+                    Peut décrire les méthodes et les techniques qui permettent d’obtenir des décisions de la part d’instances et expliquer par des exemples les situations dans lesquelles elles sont appliquées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier les mesures prises au moyen d’un scénario de test et rédiger le procès-verbal de test.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les aspects techniques de sécurité à prendre en compte lors de la migration et de l´intégration d´une solution et peut expliquer leur importance dans l’implémentation d’un site Web.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Décrire les règles de comportement et les mesures de motivation propres à promouvoir une culture de la sécurité.
+            <knowledge-list>
+                <knowledge>
+                    Peut indiquer les effets des comportements individuels ou collectifs répandus sur la culture de sécurité de l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Peut décrire les principales conditions et mesures de direction propres à inciter les collaborateurs à assumer des responsabilités.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

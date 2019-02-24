@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>623</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=623%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Conseiller l’engagement TIC</title>
+    <capability>Conseiller l’entreprise lors de l’engagement de technologies TIC nouvellement disponibles pour le soutien des processus d’entreprise.</capability>
+    <goals>
+        <goal>
+            Identifier et analyser de technologies et innovations nouvellement disponibles en regard de leur utilité pour l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’engagement de méthodes de l’analyse de faibles signaux et technique de scénario en relation avec l’identification et l’analyse de technologies TIC (par ex. selon Adrian W. Müller; Günter Müller‐Stewens: „Strategic Foresight“ ).
+                </knowledge>
+                <knowledge>
+                    Connaître la relation entre la gestion des technologies TIC et la gestion des innovations dans l’entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement, les tâches et méthodes de la gestion des technologies (par ex. le diagnostic précoce, évaluation, définition des stratégies d’engagement).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Démontrer à l’entreprise les potentiels de nouvelles technologies en regard de l’innovation de produits et de processus.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la signification de technologies TIC en relation avec divers types d’innovations dans l’entreprise: innovation technique, innovation des services, innovations des processus, innovation du modèle commercial (par ex. Alexander Osterwalder, Yves Pigneur: „Business Modell Generation“).
+                </knowledge>
+                <knowledge>
+                    Connaître la fixation des objectifs des divers types d’innovations et la contribution que peuvent apporter les technologies TIC comme par exemple l’amélioration de la fonctionnalité du produit, simplification de l’utilisation du produit, amélioration du lien avec les clients, diminutions des besoins en ressources par l’automatisation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les exigences pour un projet concret d’automatisation, d’innovation et d’amélioration en regard de l’engagement de prestations TIC.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des méthodes pour la saisie et l’évaluation des exigences fonctionnelles et non‐fonctionnelles (par ex. selon Klaus Pohl: „Requirements Engineering“).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Conseiller l’entreprise sur la base des exigences dans l’utilisation des prestations TIC et établir un concept de résolution TIC en accord avec l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des concepts de la gestion stratégique TIC.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes pour la conception de l’intégration système (par ex. selon Gregor Engels. Quasar Enterprise).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Etablir, en tenant compte du concept de résolution, un plan de mise en œuvre du projet d’automatisation, d’innovation et d’amélioration en accord avec toute l’entreprise.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des concepts de l’architecture d’entreprises.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de la gestion du portfolio des projets TIC.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

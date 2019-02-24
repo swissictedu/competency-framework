@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>288</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=288%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Programmiertechniken im Webfrontend einsetzen</title>
+    <capability>Programmiert mit JavaScript basierten Sprachen korrekte Abläufe, wiederverwendbare Funktionen und einfache Objekte. Manipuliert das HTML-DOM und liest Datenstrukturen in der JavaScript Object Notation (JSON) aus.</capability>
+    <goals>
+        <goal>
+            Definiert mit JavaScript basierten Programmiersprachen sinnvolle Datenstrukturen
+            <knowledge-list>
+                <knowledge>
+                    Kennt die eigene Entwicklungsumgebung und Werkzeuge (Tools), um effizient JavaScript basierte Programme zu erstellen und mögliche Codierungsfehler zu beheben.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau (Syntax) und die Bedeutung (Semantik) von JavaScript basierten Programmiersprachen und Varianten (zum Beispiel mit ECMAScript oder TypeScript) und Frameworks (zum Beispiel jQuery und AngularJS) und deren Einbindung in Websites.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Datentypen von JavaScript basierten Programmiersprachen (z.B. String, Boolean, Number, Null, Undefined).
+                </knowledge>
+                <knowledge>
+                    Kennt den Zweck von Datenstrukturen (z.B. Variablen, Arrays, Konstanten) und wie man sie korrekt deklariert, initialisiert und anwendet.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Arten der Schreibweise und Darstellung von JavaScript basiertem Code (z.B. Coding-Standards) und deren sinnvolle Kommentierung.
+                </knowledge>
+                <knowledge>
+                    Kennt den Einsatz der Webbrowser-Konsole, um verschiedene Meldungstypen auszugeben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Programmiert effiziente Abläufe anhand von Kontrollstrukturen (z.B. Fallunterscheidung, Schleifen).
+            <knowledge-list>
+                <knowledge>
+                    Kennt verschiedene Operatoren (z.B. Vergleich, Rechen, Logische, Typenbestimmung, Zeichenkettenverknüpfung) und deren sinnvolle Anwendung.
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Fallunterscheidungen (z.B. if-then-else und switch) und deren Besonderheiten (z.B. entweder-oder mit ternärem Operator).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Schleifen-Arten (z.B. while, for, for…in, for…of, do-while, foreach) und deren Besonderheiten (z.B. break und continue).
+                </knowledge>
+                <knowledge>
+                    Kennt einfache, verschachtelte Darstellungen von Schleifen und Fallunterscheidungen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Einsatz des Webbrowser-Debuggers, um die eigenen Kontrollstrukturen nachzuvollziehen und mögliche Fehler selbstständig zu beheben.
+                </knowledge>
+                <knowledge>
+                    Kennt weiterführende Quellen, um sich selbstständig über die Kontrollstrukturen und deren beispielhafte Anwendung zu informieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kapselt Daten und Abläufe in Funktionen, um die Wiederverwendbarkeit und Wartbarkeit des Programmcodes zu verbessern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Zweck von JavaScript basierten Funktionen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Deklaration von JavaScript basierten Funktionen und deren Varianten (z.B. mit Eingang- und Rückgabe-Parametern, anonyme Funktionen).
+                </knowledge>
+                <knowledge>
+                    Kennt den sinnvollen Einsatz von JavaScript basierten Funktionen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Gültigkeitsbereich (Scope) von Datenstrukturen mit Funktionen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Durchsucht und manipuliert mit JavaScript basierten Programmiersprachen das HTML-DOM (Document Object Model).
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Aufbau des DOMs (Document Object Model) und dessen wesentliche Bestandteile (Document, Element, Node, Event).
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Methoden, um das DOM zu manipulieren (auslesen, verändern und erweitern).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Beispiele von Events, um Benutzerereignisse zu verarbeiten.
+                </knowledge>
+                <knowledge>
+                    Kennt den Einsatz des DOM-Inspektors, um die DOM-Struktur zu analysieren und mögliche Fehler selbstständig zu beheben.
+                </knowledge>
+                <knowledge>
+                    Kennt weiterführende Quellen, um sich selbstständig über das DOM (z.B. DOM-Referenz) und deren beispielhafte Anwendung zu informieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Kapselt Daten und Methoden in JavaScript basierte Objekte, um die Wiederverwendbarkeit und Wartbarkeit des Programmcodes zu verbessern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Zweck von JavaScript basierten Objekten.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau eines JavaScript basierten Objektes und dessen Bestandteile (Daten und Methoden).
+                </knowledge>
+                <knowledge>
+                    Kennt Varianten von Konstruktoren (z.B. mit Schlüsselwort new, Prototyp), um einfache JavaScript basierte Objekte zu erzeugen.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Notation (Klammern- oder Punkt-Notation) eines JavaScript basierten Objektes, um auf Daten und Methoden zuzugreifen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Liest mit JavaScript basierten Programmen einfache Datenstrukturen in der JavaScript Object Notation (JSON) aus.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Zweck und den Aufbau von JavaScript Object Notation (JSON).
+                </knowledge>
+                <knowledge>
+                    Kennt die Struktur von JSON und wie Daten mit deren Datentypen (String, Number, Array, Boolean) integriert werden.
+                </knowledge>
+                <knowledge>
+                    Kennt eine Variante des JavaScript basierten Auslesens (Parsen) von Daten im JSON-Format.
+                </knowledge>
+                <knowledge>
+                    Kennt die Möglichkeiten der XMLHttpRequest für das Übertragen von Daten über das HTTP-Protokoll und die Anfragemethoden (GET, POST, HEAD, PUT.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

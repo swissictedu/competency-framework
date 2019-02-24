@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>244</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=244%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Steuerungs-/ Regelungsaufgaben in Realtime-Betriebssystemen realisieren</title>
+    <capability>Echtzeit Steuerungs-/Regelungsaufgaben analysieren, geeignetes Realtime Betriebssystem evaluieren, Programme entwickeln implementieren und testen.</capability>
+    <goals>
+        <goal>
+            Steuerungs-/Regelungsaufgabe analysieren und zweckmässige Betriebssysteme auswählen.</goal>
+        <goal>
+            Vor- und Nachteile der ausgewählten Betriebssysteme gegenüberstellen und sich für das Geeignetste entscheiden.</goal>
+        <goal>
+            Für das ausgewählte Betriebssystem die vorgegebene Aufgabe unter Berücksichtigung von Echtzeitbedingungen modularisieren und das Softwaredesign entwickeln und dokumentieren.</goal>
+        <goal>
+            Mittels Echtzeit-Entwicklungsumgebung das Softwaredesign implementieren.</goal>
+        <goal>
+            Testfälle, im Speziellen die Echtzeitrelevanten, identifizieren, spezifizieren und im Testdrehbuch dokumentieren.</goal>
+        <goal>
+            Realisierte Echtzeit-Applikation mit Debugger austesten, Fehler identifizieren, korrigieren und dokumentieren.</goal>
+    </goals>
+</competency>

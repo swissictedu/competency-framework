@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>273</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=273%26clang=de</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Layouts anlegen</title>
+    <capability>Erstellt ein- und mehrseitige Layouts mit Text, Grafik und Bild produktionsorientiert und mediengerecht.</capability>
+    <goals>
+        <goal>
+            Entwickelt einfache Layoutstrukturen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Begriffe und Bestandteile des Layouts (Satzspiegel, Spalten, Spaltenabstand, Grundlinienraster, Anschnitt).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Layoutstrukturen (Liniensystem, einspaltiges Layout, Spaltensystem, Rastersystem) zur Anordnung von Seitenelementen und Funktionen, um diese im Layoutprogramm einzurichten und anzupassen.
+                </knowledge>
+                <knowledge>
+                    Kennt medienspezifische Satzspiegelmethoden (Diagonalkonstruktion, freier Satzspiegel nach Randverhältnissen), um die Randeinteilung im Layoutprogramm situationsgerecht vorzunehmen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Erstellt, nutzt und verwaltet die Musterseiten sowie die Absatz- und Zeichenformate.
+            <knowledge-list>
+                <knowledge>
+                    Kennt das Prinzip und die Funktionen von Musterseiten (z.B. Einfügen von Signet, automatischen Seitenzahlen, Hilfslinien).
+                </knowledge>
+                <knowledge>
+                    Kennt Funktionen, um Musterseiten zuzuweisen und zu verändern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionen der Absatz- und Zeichenformate, um Texte korrekt zu formatieren, die Formate einzurichten, anzuwenden, zu bearbeiten und zu löschen.
+                </knowledge>
+                <knowledge>
+                    Kennt das Prinzip von aufeinander basierenden Absatzformaten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert Farben und Kontraste für ein Layout.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Anforderungen für situationsgerechtes Anlegen, Verwalten und Einsetzen von Farben für Print- und Digitalmedien. 
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, vorgegebene Farben anhand von Farbwerten abzumischen und abzustufen.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten, um Farben aus anderen Dokumenten zu übernehmen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktion, im Dokument nicht verwendete Farben zu löschen.
+                </knowledge>
+                <knowledge>
+                    Kennt geeignete Farbkontraste, um zwischen Vordergrund und Hintergrund eine gute Lesbarkeit zu erzielen.
+                </knowledge>
+                <knowledge>
+                    Kennt den Nutzen und die Einsatzmöglichkeiten von Sonderfarben (Pantone C, Pantone U, HKS), um diese programmgerecht anzulegen, zu verwalten und einzusetzen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Fügt verschiedene Elemente (Bilder, Texte, Hintergründe, Logos, Icons, Tabellen) fachgerecht und auf optisch ansprechende Weise in das Layout ein und nimmt allfällige Anpassungen vor.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Funktionen des Layoutprogramms, um ein- und mehrseitige Dokumente zu erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt Funktionen im Layoutprogramm, um neue Dokumente einzurichten und die wichtigsten Grund- und Spracheinstellungen vorzunehmen.
+                </knowledge>
+                <knowledge>
+                    Kennt Funktionen, um die Bereiche eines Dokumentes mit Satzspiegel, Spalten, Spaltenabstand, Grundlinienraster und Anschnitt einzustellen sowie nachträglich zu verändern.
+                </knowledge>
+                <knowledge>
+                    Kennt Dokumentfunktionen, um Seiten zu verwalten (einfügen, löschen, verschieben, duplizieren).
+                </knowledge>
+                <knowledge>
+                    Kennt grundlegende Raster- und Hilfslinieneinstellungen, um sie für das Layout einzusetzen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Importoptionen beim Platzieren von Texten/Bildern.
+                </knowledge>
+                <knowledge>
+                    Kennt die Funktionen, um einfache Tabellen zu erstellen und zu bearbeiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Ebenenoptionen in einem Layout, um sie produktiv einzurichten, anzuwenden und um die Ebenenreihenfolge gegebenenfalls zu verändern.
+                </knowledge>
+                <knowledge>
+                    Kennt Wege, um im Layout eine zweckmässige und durchdachte Raumaufteilung, Gliederung von Texten, Bildern und Weissraum zu bestimmen.
+                </knowledge>
+                <knowledge>
+                    Kennt typografische und gestalterische Kriterien, um Texte, Grafiken und Bilder/Illustrationen im Layout zu platzieren.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

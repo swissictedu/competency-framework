@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>222</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=222%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Applikationen objektorientiert konzipieren</title>
+    <capability>Anforderungen an eine Applikation mit objektorientierter Methode analysieren und unter Berücksichtigung von Rahmenbedingungen in einen objektorientierten Entwurf (Design) überführen.</capability>
+    <goals>
+        <goal>
+            Anforderungen analysieren (OA) und daraus Use Cases ableiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt vom objektorientierten Entwicklungsprozess die beiden Grundtypen (Wasserfall, Agile d.h. iterativ/inkrementell) und kann sie auf Fallbeispiele anwenden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Use Cases analysieren und daraus ein Objektmodell (Klassendiagramm, Sequenzdiagramm, Zustandsdiagramm) ableiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Resultate (Artefakten) der objektorientierten Analyse (Use Cases, Klassendiagramm, Sequenzdiagramm, Zustandsdiagramm, etc.), ihre Syntax, Bedeutung und Beziehungen untereinander gemäss dem aktuellen UML Standard und kann sie für ein Fallbeispiel erarbeiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Objektmodell der objektorientierten Analyse unter Anwendung von Design Patterns in ein objektorientiertes Design (OD) überführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Bausteine (Design Patterns) des objektorientierten Design, ihre Bedeutung und Beziehungen untereinander und kann sie auf ein Fallbeispiel anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Merkmale des objektorientierten Designs (Kapslung, Transaktion) und ihren Einfluss auf die Qualität des Designs und kann sie an einem Fallbeispiel erklären.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Objektmodell in einen relationalen Datenbank Design überführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Entwicklungsprozess eines Relationalen Datenbank Design ausgehend von einem Objektmodell (Mapping) und kann ihn auf ein Fallbeispiel anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Merkmale eines Relationalen Datenbank Design (Redundanzfreiheit, Stabilität, etc.) und ihren Einfluss auf die Qualität des Designs und kann sie an einem Fallbeispiel erklären.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

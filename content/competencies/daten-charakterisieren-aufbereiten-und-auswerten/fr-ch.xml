@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>100</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=100%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Distinguer, préparer et évaluer des données</title>
+    <capability>Préparer des informations pour une évaluation automatisée, vérifier et interpréter les résultats.</capability>
+    <goals>
+        <goal>
+            Distinguer la caractéristique relative à la structure de données (texte, feuille de donnée, etc.) en vue du traitement respectivement de l´évaluation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les différentes formes de données (numériques - mesures / classifications; verbales - textes écrits ou parlés; non verbales - musique, films, vidéos) qui peuvent être stockées sur un support de données et pouvoir en indiquer les caractéristiques en ce qui concerne l´évaluation au moyen d´un système informatique.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques structurelles de différentes sources d´information (textes, feuilles de calcul, bases de données) et pouvoir expliquer les conséquences de ces caractéristiques pour l´évaluation électronique.
+                </knowledge>
+                <knowledge>
+                    Connaître les relations entre les structures de données (associations, cardinalités) et pouvoir illustrer par des exemples tirés du quotidien les états d´un ensemble de données qu´ils permettent de représenter.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Distinguer les caractéristiques relatives au caractère univoque des données (exhaustivité, redondance, incohérence) en vue du traitement, respectivement de l´évaluation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les caractéristiques des ensembles de données en ce qui concerne l´unicité et l’exhaustivité des données (indications différentes pour la même information, contenus d´information différents, etc.) et pouvoir expliquer les conséquences potentielles de ces caractéristiques pour la signification des évaluations.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir les informations d´un lot de données sur la base de la caractéristique et qui se prêtent à une évaluation déterminée.
+            <knowledge-list>
+                <knowledge>
+                    Pouvoir différencier les échelles nominales ("vieux" - "jeune", "insuffisant" - "suffisant" - "bon"), ordinales (classements, notes, etc.) et métriques (âge, taille, etc.) et indiquer les conséquences qui en découlent pour le choix d´une évaluation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Structurer des données quelconques et les amener dans une forme qui puisse être traitée afin de permettre leur évaluation.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les possibilités offertes par les tables pour la structuration d´ensembles de données et peut illustrer par des exemples les possibilités de structuration qui en découlent pour l´évaluation de données.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes de la théorie des ensembles et pouvoir en déduire les opérateurs (par ex. fonction d´agrégat pour le regroupement de données).
+                </knowledge>
+                <knowledge>
+                    Connaître les types de données les plus répandus (nombre, heure, date, texte, etc.) et pouvoir en indiquer les limites en ce qui concerne l´évaluation de données.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir une forme visuelle de saisie et la représenter dans la forme choisie.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les valeurs statistiques de base (moyenne, minimum, maximum) et pouvoir indiquer les conditions qui doivent être remplies (types d´échelles, nombre d´observations, qualité des données, etc.) pour obtenir des résultats fiables.
+                </knowledge>
+                <knowledge>
+                    Connaître les types de diagrammes les plus simples permettant de représenter des données et pouvoir expliquer pour quels types d´échelles de données (métriques, nominales, ordinales) ils sont adaptés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser de façon critique et commenter la signification ainsi que la valeur de l´évaluation
+            <knowledge-list>
+                <knowledge>
+                    Connaître la nécessité de mesurer la signification des résultats d´une évaluation et pouvoir expliquer, au moyen d´exemples tirés du quotidien, que les tendances ressortant des résultats d´une évaluation peuvent être significatives ou non.
+                </knowledge>
+                <knowledge>
+                    Connaître la nécessité de mesurer les résultats d´une évaluation sous des perspectives différentes (salarié - employeur; citoyen - Etat, etc.) et pouvoir  montrer, au moyen d´exemples tirés du quotidien, que les résultats d´une évaluation peuvent être significatifs ou non, selon la perspective retenue.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

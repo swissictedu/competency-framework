@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>426</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=426%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer un logiciel avec des méthodes agiles.</title>
+    <capability>Appliquer des méthodes agiles pour le développement de logiciels dans les cycles de révision.</capability>
+    <goals>
+        <goal>
+            Mettre en œuvre une fonctionnalité donnée, dans le cadre d’un projet logiciel, avec une méthode agile.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une méthode agile pour le développement logiciel.
+                </knowledge>
+                <knowledge>
+                    Connaître le contenu et la structure d’un User-Story.
+                </knowledge>
+                <knowledge>
+                    Connaître des valeurs et des principes de méthodes agiles.
+                </knowledge>
+                <knowledge>
+                    Connaître les limites des méthodes linéaires et agiles.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réaliser et tester par étapes les fonctionnalités à l’aide de pratiques agiles dans les cycles de révision prescrits, et présenter en résumé la version logicielle.
+            <knowledge-list>
+                <knowledge>
+                    Connaître le déroulement et les éléments d’un cycle des versions.
+                </knowledge>
+                <knowledge>
+                    Connaître le déroulement et le contenu d’une présentation des versions.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance des versions fonctionnelles de logiciels.
+                </knowledge>
+                <knowledge>
+                    Connaître les pratiques (Best Practices) du développement logiciel agile comme par ex. Design, Metapher, Refactoring, Testdrive Design, Continuous Integration, Pair Profgramming, Coding Standards.
+                </knowledge>
+                <knowledge>
+                    Connaître les outils appropriés au développement agile pour les Units-Tests, System Integration, System Build, test d’acceptance, etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre en œuvre, de manière ciblée, des échantillons de développement existants et/ou des composants logiciels testés pour résoudre le problème.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’importance et la structure des échantillons significatifs de développement.
+                </knowledge>
+                <knowledge>
+                    Connaître l’utilité de la réutilisation des composants logiciels existants.
+                </knowledge>
+                <knowledge>
+                    Connaître un procédé pour l’évaluation de composants logiciels ainsi que pour résoudre des problèmes donnés.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Refléter les résultats et le déroulement du travail lors d’un cycle de révision, en déduire les conclusions pour la suite du déroulement.
+            <knowledge-list>
+                <knowledge>
+                    Connaître un procédé pour refléter les résultats d’un cycle des versions.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour refléter son propre déroulement du travail dans un cycle des versions.
+                </knowledge>
+                <knowledge>
+                    Connaître des possibilités pour optimiser la suite du procédé sur la base de la réflexion (SCRUM, ceremony, product backlog issues).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Mettre à disposition les documents du projet et les codes sources du programme dans un système de gestion des versions.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les avantages et utilités d’un système de gestion des versions utilisé communément.
+                </knowledge>
+                <knowledge>
+                    Connaître les fonctionnalités et l’utilisation d’un système de gestion des versions, ainsi que les possibilités d’y intégrer divers objets.
+                </knowledge>
+                <knowledge>
+                    Connaître les différences entre un système de gestion des versions avec accès exclusif et accès parallèle.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Formuler de manière compréhensive le code source programme selon les conventions.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les concepts, les règles et procédures d’un Clean-Code.
+                </knowledge>
+                <knowledge>
+                    Connaître l’importance du Refactoring pour l’amélioration intuitive de la lisibilité d’un code source programme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

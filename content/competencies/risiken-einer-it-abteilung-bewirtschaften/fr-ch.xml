@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>246</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=246%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Assurer et gérer les risques d’un secteur informatique</title>
+    <capability>Analyser les risques d’un secteur informatique et prendre les mesures appropriées, se confronter aux risques identifiés en tenant compte de l’environnement de l’entreprise, les gérer et les surveiller.</capability>
+    <goals>
+        <goal>
+            Adapter au secteur informatique un système de gestion des risques prédéterminé à l’échelon de l’entreprise; définir et allouer les interfaces, les rôles, les tâches, les compétences et les responsabilités.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kategorien von Gefahren personeller, organisatorischer und technischer Art in einer IT Abteilung und kann an Beispielen darle-gen, wie diese durch eine entsprechende Zuteilung von Aufgaben und Verantwortungen reduziert oder eliminiert werden können und welche Konsequenzen sich hinsichtlich der Servicequalität einer IT Abteilung sich daraus ergeben können.
+                </knowledge>
+                <knowledge>
+                    Kennt den Aufbau eines unternehmensweiten Risiko Management Systems und kann für die einzelnen Bereiche erläutern, was diese für eine effiziente Bewirtschaftung der Risiken, zur Verhinderung von Risikoereignissen oder zur Eindämmung des Schadenpotentials im Risikofall vorkehren.
+                </knowledge>
+                <knowledge>
+                    Kennt die Zielsetzungen, welche mit einem unternehmensweiten Risiko Management System verfolgt werden und kann erläutern, warum die Integration der Dienstleistungen einer IT Abteilung in ein solches System für das Erreichen dieser Zielsetzungen unabdingbar ist.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Relever systématiquement les potentiels de danger et les risques de la part du personnel, de l’environnement organisationnel, de la technique et des processus dans un secteur informatique.</goal>
+        <goal>
+            Structurer et évaluer les résultats de cette recherche puis les préparer de telle sorte que les risques significatifs d’un secteur informatique soient identifiés sans ambiguïté (catalogue des risques).
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Struktur eines Risikokatalogs und kann für die einzelnen Elemente diese Katalogs aufzeigen, was sie zur Bewertung eines Unternehmens bzw. zu dessen Existenzsicherung beitragen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Compléter le catalogue des risques par des mesures, indiquer les conséquences financières, définir les échéances et les responsabilités pour atteindre les objectifs
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kostenarten einer IT Abteilung und kann aufzeigen, welche Bedeutung diese für die Leistungsverrechnung bestimmter IT Dienstleistungen haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Communiquer les résultats aux décideurs et leur faire prendre les décisions requises.
+            <knowledge-list>
+                <knowledge>
+                    Kann Methoden und Techniken zur Herbeiführung einer Entscheidung in einem Gremium beschreiben und an Beispielen erläutern, in welchen Situationen diese Methoden und Techniken zur Anwendung kommen.
+                </knowledge>
+                <knowledge>
+                    Kann aufzeigen, welche Gesichtspunkte bei der Anpassung von Prozessen/Abläufen in einer Organisation beachtet werden müssen und kann anhand von möglichen Vorkehrungen darlegen, welchen negativen Folgen man mit der Beachtung dieser Gesichtpunkte bzw. diesen Vorkehrungen vorbeugt.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Surveiller l’efficacité des mesures de gestion des risques au moyen d’un processus institutionnalisé.
+            <knowledge-list>
+                <knowledge>
+                    Kann darlegen, welche Bedeutung die periodische Überprüfung eingeleiteter Verbesserungsmassnahmen für die nachhaltige Sicherung des Unternehmenserfolgs haben.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../schema/competency.xsd">
+    <description xml:lang="de-ch">./fortgeschrittene-funktionen-von-office-werkzeugen-nutzen/de-ch.xml</description>
+    <description xml:lang="it-ch">./fortgeschrittene-funktionen-von-office-werkzeugen-nutzen/it-ch.xml</description>
+    <description xml:lang="fr-ch">./fortgeschrittene-funktionen-von-office-werkzeugen-nutzen/fr-ch.xml</description>
+</competency>

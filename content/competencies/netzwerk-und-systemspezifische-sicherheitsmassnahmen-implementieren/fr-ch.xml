@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>486</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=486%26clang=fr</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Brevet fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Implémenter des mesures de sécurité de réseau et de système</title>
+    <capability>Beurteilt Sicherheitsbedrohungen für vernetzte ICT-Infrastrukturen und Daten sowie die Wirksamkeit bisher getroffener Sicherheitsvorkehrungen und initialisiert wenn nötig netzwerk- und systemspezifische Massnahmen.</capability>
+    <goals>
+        <goal>
+            Analyser l'importance de menaces actuelles pour la sécurité d'une infrastructure TIC en réseau et de ses données.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les menaces et possibilités d'attaque concernant les systèmes et les réseaux (déni de service, man-in-the-middle, smurfing, replay, spoofing, extension de droits, phishing, pharming, etc.) et pouvoir expliquer dans quelles circonstances elles peuvent représenter un danger pour l'infrastructure système et réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître différents types d'attaque dans les applications (cross-site scripting, injections SQL, XML et autres, fichiers joints, session hijacking, débordements de fichiers, manipulation d'informations d'en-tête, etc.) et pouvoir expliquer dans quelles circonstances elles peuvent représenter un danger pour l'infrastructure système et réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître différentes formes d'ingénierie sociale (shoulder surfing, tailgating, usurpation d'identité, whaling, vishing) et leur danger potentiel pour l'infrastructure système et réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître les menaces actualisées en permanence que constituent les logiciels malveillants. Savoir en différencier les principaux types (spam, adware, spyware, virus, chevaux de Troie, rootkits, botnets, etc.) et pouvoir expliquer dans quelles circonstances elles peuvent représenter un danger pour l'infrastructure système et réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître les principales menaces que constituent pour la sécurité sans fil les points d'accès interdits, les perturbations de fréquence, le wardriving, le piratage de Bluetooth et de WLAN ou l'interception du trafic de données. Pouvoir expliquer dans quelles circonstances elles peuvent représenter un danger pour l'infrastructure système et réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Vérifier l'efficacité des mesures de sécurité en vigueur par rapport aux menaces actuelles.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des outils de vérification de l'efficacité des mesures de sécurité en vigueur (tests antivirus, scans de sécurité, tests de pénétration, etc.) et les conditions à remplir pour une vérification réussie.
+                </knowledge>
+                <knowledge>
+                    Connaître les domaines d'utilisation et de fonction respectifs des pare-feu, NAT, VPN, commutateurs VLAN, serveurs proxy et appliances UTM et pouvoir en expliquer l'efficacité.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Améliorer la sécurité des systèmes importants en choisissant et mettant en œuvre des mesures techniques adéquates et spécifiques aux systèmes concernés.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des mesures de renforcement de systèmes (matériels, système d'exploitation, applications) comme la fermeture de ports non utilisés, la désactivation de services non utilisés, les mots de passe forts, la désactivation de comptes, la désactivation ou la désinstallation d'applications superflues ou encore la suppression de données obsolètes. Savoir en expliquer l'influence sur le niveau de sécurité constaté.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes de mesure pour la surveillance des systèmes et de leur niveau de charge et savoir interpréter les protocoles de mesure.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Améliorer la sécurité du réseau d'entreprise en choisissant et mettant en œuvre des mesures techniques adéquates et spécifiques au réseau concerné.
+            <knowledge-list>
+                <knowledge>
+                    Connaître différents designs de réseaux récents permettant d'accroître la sécurité (sous-réseautage, DMZ, VLANs, NAC, routage, accès à distance, virtualisation, etc.) et savoir en expliquer l'influence sur le niveau de sécurité constaté.
+                </knowledge>
+                <knowledge>
+                    Connaître les utilisations possibles et les limites des systèmes IDS et IPS pour l'amélioration de la sécurité réseau ainsi que la fonction des réseaux leurres.
+                </knowledge>
+                <knowledge>
+                    Connaître différents principes d'administration permettant d'améliorer la sécurité réseau (management basé sur des rôles, règles de pare-feu, sécurité des ports, listes de contrôle d'accès, 802.1x, surveillance des événements).
+                </knowledge>
+                <knowledge>
+                    Connaître les principes d'exploitation sûre de réseaux sans fils (WPA/WPA2, Mac Filter, SSID, TKIP et AES, montage et orientation de l'antenne, 802.11i) et leur influence sur la sécurité réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Recourir de manière ciblée à différents outils d'authentification, d'identification et de contrôle d'accès.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les principaux protocoles d'authentification (Radius, Tacacs, Kerberos, LDAP, CHAP/PAP, EAP) et pouvoir en expliquer l'importance pour la sécurité réseau.
+                </knowledge>
+                <knowledge>
+                    Connaître des concepts d'implémentation de l'authentification (ACL, droit d'accès minimum, MAC, DAC, RBAC, etc.) et leur influence sur l'implémentation de systèmes de droits.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes d'identification (biométrie, proof of possession, one-time token, etc.) et pouvoir en expliquer l'influence sur l'implémentation de méthodes d'identification.
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes d'implémentation de contrôles de sécurité (policy enforcement, complexité des mots de passe, dates d'échéance de compte et de mots de passe, administration de droits basée sur des groupes) ou des méthodes organisationnelles (vacances à date fixe, rotation des tâches ou interdictions nocturnes).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Assurer la confidentialité et l'authenticité des données transmises au moyen de méthodes cryptographiques adéquates.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des concepts fondamentaux de cryptographie (asymétrique, symétrique, non-répudiation, signification des valeurs de hachage, stéganographie, signatures numériques) et leur effet sur l'aménagement du transport et du stockage de données.
+                </knowledge>
+                <knowledge>
+                    Connaître des outils cryptographiques adéquats (AES, DES, 3DES, RSA, RC4, NTLM, Blowfish, PGP, WPA/WPA2) ainsi que des outils d'échange crypté (SSL, TLS, IPSec, SSH, HTTPS). Connaître leur effet sur l'aménagement du transport et du stockage de données.
+                </knowledge>
+                <knowledge>
+                    Connaître le concept d'infrastructure ICP et son influence sur l'aménagement de la sécurité réseau.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser les violations de sécurité, y réagir par des mesures permettant d'éviter d'autres violations et combler les lacunes qui en ont résulté.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des stratégies de sécurité permettant de déceler les violations de sécurité (gestion des risques basés sur le contrôle, maintenance proactive, management des incidents de sécurité, audits de routine des systèmes et des composants de réseau, vérification de droits et privilèges attribués).
+                </knowledge>
+                <knowledge>
+                    Connaître des méthodes d'identification de dommages (activités de première réponse), établissement d'une image, sauvegarde de procès-verbaux, enregistrements vidéo ou constat).
+                </knowledge>
+                <knowledge>
+                    Connaître le degré de risque de systèmes et composants de réseau critiques et savoir comment les restaurer en cas de dommage.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Améliorer la prise de conscience pour les mesures de sécurité du système et du réseau par la formation et le perfectionnement du personnel.
+            <knowledge-list>
+                <knowledge>
+                    Connaître les consignes de sécurité de l'entreprise.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes de sensibilisation du personnel à la sécurité système et réseau, notamment en ce qui concerne les règles à respecter en matière de mots de passe, l'utilisation de données et d'informations, la sécurité physique, etc.
+                </knowledge>
+                <knowledge>
+                    Connaître les principes de formation du personnel dans le domaine de la sécurité système et réseau, comme les cours, les contrôles et les audits.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

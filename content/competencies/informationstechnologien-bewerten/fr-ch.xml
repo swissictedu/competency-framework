@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>193</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=193%26clang=fr</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Diplôme fédéral d'informaticien</achnowledgment>
+        </provider>
+    </meta>
+    <title>Evaluer des technologies de l’information</title>
+    <capability>Assurer le suivi et évaluer les technologies et les méthodes d’information, les informations commerciales ainsi que l’environnement (concurrence, recherche, etc.) dans le secteur informatique. Relever les potentiels d’amélioration et en déduire des bases de décision.</capability>
+    <goals>
+        <goal>
+            Délimiter le champ d’observation informatique adéquat pour une entreprise et tenir compte des indications (stratégies, architectures, technologies, domaines de recherche et développement, fournisseurs, etc.).
+            <knowledge-list>
+                <knowledge>
+                    Peut présenter les principales caractéristiques et propriétés des architectures informatiques actuelles et décrire leur possibilités de mise en œuvre.
+                </knowledge>
+                <knowledge>
+                    Connaît les principales technologies d´enregistrement et peut indiquer à quelles exigences et conditions générales celles-ci sont adaptées.
+                </knowledge>
+                <knowledge>
+                    Peut lister les technologies de saisie et de restitution d´informations et expliquer dans quelle mesure elles sont encore utilisées dans l´environnement informatique actuel.
+                </knowledge>
+                <knowledge>
+                    Connaît les caractéristiques essentielles des architectures de systèmes informatiques et peut présenter quels sont les objectifs fondamentaux qui sont poursuivis dans une entreprise à l´aide de la définition d´une architecture de système informatique.
+                </knowledge>
+                <knowledge>
+                    Peut présenter de manière compréhensible les différents genres de logiciels (par exemple progiciels, logiciels spécifiques) et décrire leur positionnement économique dans la stratégie informatique.
+                </knowledge>
+                <knowledge>
+                    Connaît les différentes méthodes de création de logiciels et peut présenter quelles sont les propriétés qui sont adéquates par rapport à l´architecture informatique.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sélectionner et mettre en application, dans le domaine d’observation défini, les techniques adéquates d’enquête puis élaborer et pondérer une liste d’appréciation propre à l’entreprise (par ex. en tenant compte de facteurs stratégiques et économiques).
+            <knowledge-list>
+                <knowledge>
+                    Connaît la conception et les éléments d´un catalogue d´évaluation et peut expliquer quels sont les éléments qui ont une influence sur les facteurs stratégiques et économiques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Trouver et évaluer les évolutions appropriées de la technologie de l’information dans le domaine d’observation au moyen de techniques de recherche d’information et les insérer, sous forme adéquate, à l’intérieur d’une liste des technologies.
+            <knowledge-list>
+                <knowledge>
+                    Peut décrire les techniques de collecte de données qui sont adéquates pour la surveillance de l´évolution des technologies.
+                </knowledge>
+                <knowledge>
+                    Connaît les techniques d´évaluation des alternatives et de préparation des décisions (par exemple analyse SWOT, analyse de la valeur utile) et peut présenter la manière dont les étapes individuelles de procéder peuvent contribuer à la prise de décisions.
+                </knowledge>
+                <knowledge>
+                    Connaît les méthodes de description des évolutions techniques (par exemple le cycle de vie technique, le concept de courbe en S) et peut décrire la manière dont elles peuvent contribuer à la prise de décisions d´achat.
+                </knowledge>
+                <knowledge>
+                    Connaît les méthodes d´évaluation de la technologie (par exemple l´exploration des tendances, le Brainstorming, la méthode Delphi, les boîtes morphologiques, l´analyse de l´arbre d´adéquation, l´analyse des risques, la simulation des modèles, la matrice d´interdépendance, la conception de scénarios, l´analyse de la valeur utile) et peut présenter la manière dont elles peuvent contribuer à la prise de décisions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Indiquer et documenter le potentiel d’amélioration dans le domaine d’observation. A cet effet, tenir compte des Best Practices et mettre en œuvre un Benchmarking.
+            <knowledge-list>
+                <knowledge>
+                    Peut décrire une technique spécifique de Benchmarking qui pourra être utilisée pour comparer des technologies de l´information et peut expliciter sa contribution à la recherche de décisions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Déduire de la liste révisée des technologies, des mesures d’amélioration et les présenter à l’organe de décision compétent.
+            <knowledge-list>
+                <knowledge>
+                    Connaît le contenu et la composition d´une présentation et peut indique quels sont les aspects qui supportent le travail de persuasion par rapport aux preneurs de décisions.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

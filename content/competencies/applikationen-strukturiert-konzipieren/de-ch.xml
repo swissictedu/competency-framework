@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>175</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=175%26clang=de</reference>
+            <level>5</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Applikationen strukturiert konzipieren</title>
+    <capability>Anforderungen an eine Applikation mit strukturierter Methode analysieren und unter Berücksichtigung von Rahmenbedingungen in einen strukturierten Entwurf (Design) überführen.</capability>
+    <goals>
+        <goal>
+            Anforderungen analysieren (SA) und daraus ein Funktionsmodell ableiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Entwicklungsprozess der Strukturierten Analyse (funktionale Zerlegung) und kann ihn auf ein Fallbeispiel anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Resultate (Artefakten) der Strukturierten Analyse (Funktionshierarchie, Datenflussdiagramm, Zustandsdiagramm, Datenkatalog, Minispezifikation), ihre Syntax, Bedeutung und Beziehungen untereinander und kann sie für ein Fallbeispiel erarbeiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Anforderungen analysieren und daraus ein konzeptionelles Datenmodell (Entity Relationship Model) ableiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Entwicklungsprozess eines Datenmodells (Modellierung) und kann ihn auf ein Fallbeispiel anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt das Resultat der Datenmodellierung (Entity Relationship Model), seine Syntax, Bedeutung und die Beziehung zu den Funktionen (Konsistenz der Artefakten) und kann sie für ein Fallbeispiel erklären.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Funktionsmodell der Strukturierten Analyse in ein strukturiertes Design (SD) überführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Prozess zur Überführung einer SA in ein strukturiertes Design und kann ihn auf ein Fallbeispiel anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Resultate (Artefakten) des Strukturierten Design (Structured Chart), ihre Syntax, Bedeutung und Beziehungen untereinander und kann sie für ein Fallbeispiel erarbeiten.
+                </knowledge>
+                <knowledge>
+                    Kennt die Merkmale des Strukturierten Design (Kohäsion, Kopplung, Transaktion) und ihren Einfluss auf die Qualität des Designs und kann sie auf ein Fallbeispiel anwenden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Datenmodell (ERM) in einen relationalen Datenbank Design überführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Entwicklungsprozess wie ein ERM unter Berücksichtigung des Funktionsmodells in ein relationales Datenbank Design überführt wird und kann ihn auf ein Fallbeispiel anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Merkmale eines relationalen Datenbank Designs (Redundanzfreiheit, Stabilität, Normalformen etc.), ihren Einfluss auf die Qualität des Designs und kann sie auf ein Fallbeispiel anwenden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

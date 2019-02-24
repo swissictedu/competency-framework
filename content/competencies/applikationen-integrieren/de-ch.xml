@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>251</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=251%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fachausweis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Applikationen integrieren</title>
+    <capability>Neue Applikation in eine bestehende Applikationslandschaft integrieren. Dabei organisatorische und technische Auswirkungen ermitteln und Schnittstellen für die Integration der Geschäftsprozesse sicherstellen.</capability>
+    <goals>
+        <goal>
+            Applikationen auf ihre Integrationsfähigkeit aus Geschäftssicht untersuchen (Akteure, Prozesse, Daten) und Auswirkungen auf die Organisation und Geschäftsprozesse erkennen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten treibenden Kräfte (Gründe) für die Integration von Applikationen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Kategorien von Anforderungen (Geschäftssicht), die bei der Integration einer Applikation in eine bestehende Umgebung zu untersuchen sind und kann ihre Auswirkungen erläutern.
+                </knowledge>
+                <knowledge>
+                    Kennt Methoden und Techniken zur Verwaltung und Darstellung einer Applikationslandschaft (Application Landscape Management).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Applikationen auf ihre technische Integrationsfähigkeit untersuchen (Interoperabilität, Sicherheit) und Auswirkungen auf die IT Organisation erkennen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Kategorien von Anforderungen (Sicht IT), die bei der Integration einer Applikation in eine bestehende Umgebung zu untersuchen sind und kann ihre Auswirkungen erläutern.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Verschiedene Integrationsarchitekturen ausarbeiten, vergleichen und beurteilen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Ansätze (Patterns, Architekturen) für die Integration von Applikationen und kann sie auf realitätsnahe Szenarien anwenden.
+                </knowledge>
+                <knowledge>
+                    Kennt die Vorgehensweise (Prozess) eines Integrationsprojekts und kann für ein reales Szenario ein Integrationskonzept erstellen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Kostenstruktur eines Integrationsprojekts und kann für ein konkretes Szenario eine grobe Kostenschätzung ausarbeiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Geeignete Middleware für die Integration von Applikationen bestimmen und evaluieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die wichtigsten Standards und Mechanismen (Middleware) zur Herstellung der Interoperabilität in einer heterogenen Applikationslandschaft.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Merkmale von Middleware (Interaktionsmodell, Transformation, Adaption, Protokolle, Datenrepräsentation bzw. Format, etc.) und kann an Beispielen erläutern, wie diese adäquat eingesetzt werden und die Adaptation einer Applikation beeinflussen.
+                </knowledge>
+                <knowledge>
+                    Kennt die wichtigsten Formate für den Austausch von Daten zwischen Applikationen und kann sie auf Szenarien anwenden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Schnittstellen für die zu integrierenden Applikationen definieren, beurteilen, erweitern.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Kriterien, die bei der Untersuchung einer Schnittstelle zu berücksichtigen sind und kann sie auf Beispiele anwenden.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nichtfunktionale Anforderungen wie z.B. Authentifizierung, Autorisierung, Vertraulichkeit, Nonrepudiation, Performanz, Robustheit etc. bei der Integration von Applikationen erkennen und beurteilen und Lösungsansätze vorschlagen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die typischen Sicherheitsprobleme beim Datenaustausch zwischen verschiedenen Unternehmen und ihre klassischen Lösungsansätze.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Ein Konzept für ein Integrationsprojekt erstellen.</goal>
+    </goals>
+</competency>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>212</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=212%26clang=fr</reference>
+            <level>1</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Savoir apprendre et travailler</title>
+    <capability>Percevoir, juger et améliorer son propre comportement de travail et d´apprentissage. Choisir et appliquer pour chaque étape d´apprentissage/de travail les techniques appropriées.</capability>
+    <goals>
+        <goal>
+            Percevoir, documenter et juger son propre comportement d´apprentissage et de travail.
+            <knowledge-list>
+                <knowledge>
+                    Connaît les principes les plus importants du comportement personnel qui influencent le succès de l´apprentissage ou du travail, et peut énoncer par des exemples comment ceux-ci agissent concrètement.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            S’informer de méthodes d´apprentissage et de travail alternatives et expérimenter celles-ci dans les situations appropriées dans le but d´améliorer systématiquement le propre comportement d´apprentissage et de travail.
+            <knowledge-list>
+                <knowledge>
+                    Connaît des techniques d´apprentissage (mémorisation, apprentissage contextuel, etc.) et peut préciser pour quels types d´acquisition des thèmes et/ou des projets d´apprentissage ceux-ci conviennent.
+                </knowledge>
+                <knowledge>
+                    Peut préciser de façon exemplaire pour les techniques d´apprentissage les plus répandues, comment celles-ci sont mises en oeuvre pour l´acquisition de thèmes ou de matières d´apprentissage.
+                </knowledge>
+                <knowledge>
+                    Connaît des techniques de travail pour structurer respectivement préparer des informations, des thèmes, etc. (Mind mapping, recherche sur Internet, résumés de sources, etc.) et peut préciser, pour quel genre de projets celles-ci sont utilisées.
+                </knowledge>
+                <knowledge>
+                    Peut décrire pour les techniques les plus répandues par des exemples, quelles règles la préparation des informations et des thèmes s´appliquent avec ces techniques.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Modifier le comportement de travail et d´apprentissage sur la base des incitations de tiers (maîtres d´apprentissage, enseignants, collègues, etc.)
+            <knowledge-list>
+                <knowledge>
+                    Peut se servir d´éloges et de critiques pour en déduire quelles sont les conséquences personnelles qui ressortent pour son propre travail.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Choisir et appliquer pour chaque étape d´apprentissage et de travail les techniques appropriées ; sur la base des résultats obtenus, éventuellement modifier les techniques de travail choisies.
+            <knowledge-list>
+                <knowledge>
+                    Connaît une procédure visant la notification systématique des propres expériences avec l´application d´étapes d´apprentissage et de travail, et peut énoncer, comment celles-ci soutiennent la poursuite de l´application des techniques d´apprentissage et de travail.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

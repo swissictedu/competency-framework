@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>652</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=652%26clang=de</reference>
+            <level>6</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Diplom Informatiker/in</achnowledgment>
+        </provider>
+    </meta>
+    <title>Personal Ressourcen planen</title>
+    <capability>Plant, rekrutiert und steuert die einzusetzenden Personalressourcen  in seinem Ver-antwortungsbereich unter Berücksichtigung der organisatorischen und gesetzlichen Vorgaben. Führt die Mitarbeitenden unter Einhaltung der Prinzipien der modernen Führungsarbeit.</capability>
+    <goals>
+        <goal>
+            Erstellt abgestimmt auf künftige Entwicklungen, Anforderungen und Bedarf-sprognosen des Leistungsbezügers die Personalbedarfsplanung.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Methoden und Verfahren zur quantitativen (Trendextrapolation, Analogieschlussmethode, Kennzahlenmethode z.B. Balanced Scorecard, Delphi Methode) und qualitativen (Stellenanforderungen, Qualifikationsgruppen, Stellenbesetzungspläne, Stellenbeschreibung) Personalbedarfsplanung (FTE Planung).
+                </knowledge>
+                <knowledge>
+                    Kennt die Darstellung der Leistungsbezüger bezogenen Leistungsübersicht (SLA, OLA, Serviceportfolio) und Analyse des Erreichungs- und Abdeckungsgrads hinsichtlich Einhaltung und Erbringung der geforderten Bereichsleistungen.
+                </knowledge>
+                <knowledge>
+                    Weiss um die Berücksichtigung der budgetierten Personalkosten im Kontext zum Soll-Personalbestand (Einsatzbedarf, Reservebedarf) und Stellenplänen.
+                </knowledge>
+                <knowledge>
+                    Kennt die Berechnung des Netto-Personalbedarfs (aktueller, zukünftiger Personalbedarf) unter Berücksichtigung des Ersatzbedarfs (zu ersetzende Mitarbeitende) und Neubedarfs (zusätzliche Mitarbeitende) sowie externer (wirtschaftliche, technische Entwicklung, Konkurrenzsituation) und interner (Unternehmensziele/-Strategie, Organisationsstruktur, Finanzierungsmöglichkeiten) Einflussgrössen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Leitet aus der Personalbedarfsplanung die notwendigen Massnahmen in den Bereichen Personalbeschaffung, Personalentwicklung oder Personal-Reduktion ab.
+            <knowledge-list>
+                <knowledge>
+                    Weiss um die zeitraumbezogene (kurz-, mittel-, langfristige) Beschreibung der Personalmarketing-Ziele und –Massnahmen zur Unternehmensinternen und –externe Kommunikation des Personalbedarfs (vakante Stellen) sowie Beschaffungswege und -mittel.
+                </knowledge>
+                <knowledge>
+                    Kennt den Einsatz von Personalbeschaffungsinstrumenten wie Electronic Recruiting (Internet Stellenportale, Internetauftritt des Unternehmen, Social Media Plattformen (Xing, Facebook)), Personalberatung, Headhunter, regionale Arbeitsvermittlungszentren (RAV).
+                </knowledge>
+                <knowledge>
+                    Kennt Massnahmen zur Qualifizierung der Mitarbeitenden mittels der Umsetzung unterschiedlicher Personalentwicklungskonzepte.
+                </knowledge>
+                <knowledge>
+                    Kennt Laufbahnplanung (Management Development MD) basierend auf unternehmensbezogenen Stellen- und Nachfolgepläne sowie die mitarbeiterbezogene Potenzialbeurteilung und persönliche Entwicklungsplanung (Fachkompetenz, Methodenkompetenz, Sozialkompetenz, Ich-Kompetenz).
+                </knowledge>
+                <knowledge>
+                    Kennt verschiedene Personalfreisetzungsplanung (Beförderung, Versetzung, Pensionierung, Kurzarbeit, Kündigung) und begleitender Massnahmen (Newplacement, Outplacement, Management-Buy-Out, Sozialplan, Massenentlassung OR 335d ff.).
+                </knowledge>
+                <knowledge>
+                    Kennt die Formen der Planung und Beantragung der Personal-Beschaffungs-, -Freisetzungs- und –Qualifizierungs-/Entwicklungskosten sowie veränderter Personalkosten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Definiert für seine Organisationseinheit ein adäquates Führungssystem, führt dieses ein und stellt die Einhaltung sicher.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Einsatz der Führungsfunktionen/Führungskreislauf Planen, Entscheiden, Umsetzen, Kontrollieren unter  Beachtung des Unternehmensleitbilds.
+                </knowledge>
+                <knowledge>
+                    Kennt die Unterscheidung der grundsätzlichen Führung nach direkter (Führungsperson, Aufgaben, Mitarbeitende) und indirekter Führung (Strategie, Struktur, Kultur).
+                </knowledge>
+                <knowledge>
+                    Kennt werterhaltende Führungsgrundsätze/-strategie (Führungsstil, Führungsverhalten, Zusammenarbeitsregeln, Führungsinstrumente, Information, Kommunikation, Zielvereinbarung und Leistungsbeurteilung, Fehlerkultur, Mitbestimmungs- und Entscheidungsgrad, Konfliktlösungsverhalten).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Führt die unterstellten Mitarbeitenden mittels der vorgegebenen Methoden und Instrumente und stellt damit sicher, dass alle ihren Beitrag zum Unternehmenserfolg leisten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Führungsmethoden wie Motivationsmodell (Maslow), Zweifaktoren-Theorie (Herzberg).
+                </knowledge>
+                <knowledge>
+                    -Kennt Unterscheidungsmerkmale des Führungsstil nach  Führungskontinuum (Tannenbaum/Schmidt: Autoritär, Patriarchalisch, Beratend, Konsultativ, Partizipativ, Delegativ), nach Vier-Felder-Matrix (Kälin/Müri:  Stil 1 bis 4), nach Verhaltensgitter (Managerial Grid Blake/Mouton: Beziehungs- bzw. Mitarbeiterorientierung), Sach- bzw. Aufgabenorientierung, Situatives Führungsverhalten oder mit Reifegradmodell (Hersey/Blanchard: Reifegrad 1 bis 4).
+-Kennt Führungstechniken wie MbO Management by Objectives , MbE Management by Exception (Führung durch Ausnahmeregelung), MbD Management by Delegation (Führung durch Delegation), MbR Management by Results (Führung durch Ergebnisorientierung) oder MbM Management by Motivation (Führung durch Motivation).
+                </knowledge>
+                <knowledge>
+                    Kennt Führungsinstrumente wie Jour-Fix, Team-Meeting, Newsletter.
+                </knowledge>
+                <knowledge>
+                    Kennt die Phasen des Teambildungsprozesses (forming, norming, storming, performing).
+                </knowledge>
+                <knowledge>
+                    Kennt soziodynamische Rangstruktur und weitere Modelle und berücksichtigt sie in der Zusammenstellung und Führung von Teams (z.B. Wir-Gefühl).
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Wendet das Arbeitsrecht der Schweiz von der Verpflichtung eines Arbeitnehmers bis zur Auflösung des Arbeitsverhältnisses so an, dass weder dem Arbeitgeber noch dem Arbeitnehmer Nachteile entstehen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die Grundzüge des Arbeitsrechts bezüglich im ICT-Umfeld häufiger Problemstellungen (z.B. Anordnung von Überzeit, Überwachung des Mailverkehrs etc.).
+                </knowledge>
+                <knowledge>
+                    Kennt Formvorschrift (mündlich, schriftlich), Vertragsart (Einzelarbeitsvertrag EAV, Gesamtarbeitsvertrag GAV) und Vertragsentstehung (mündlichem Zusage, Unterschrift).
+                </knowledge>
+                <knowledge>
+                    Kennt ICT-Spezifische arbeitsvertragliche Anstellungs- und Zusammenarbeitsformen wie Bodyleasing, Freelancer, Consultant und Fachspeziallisten und der damit verbundenen Haftung, Geheimhaltungs- und Verwertungsverbote, Konkurrenzverbote, Konventionalstrafen sowie Arbeitsgesetzt (ArG) relevante Geltungsbereiche.
+                </knowledge>
+                <knowledge>
+                    Kennt arbeitsrechtliche Vorgaben und Regelungen wie Probezeit, Arbeitszeiten, Mehrarbeit, Pausen, Ferien, bezahlte Urlaube (Militär, Schwangerschaft), Lohnfortzahlung bei Krankheit/Unfall, Versicherungen (BU/NBU), Spesen, Berufliche Vorsorge, Fringe Benefits, Lohn.
+                </knowledge>
+                <knowledge>
+                    Kennt Formvorschrift und Verfahren bei Vertragsauflösung oder –beendigung (befristeter Vertrag) bezüglich Kündigung, Gültigkeit, Form, Fristen, Freistellung.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

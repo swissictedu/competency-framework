@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>182</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=182%26clang=de</reference>
+            <level>4</level>
+            <lessons>40</lessons>
+            <achnowledgment>Eidg. Fähigkeitszeugnis</achnowledgment>
+        </provider>
+    </meta>
+    <title>Systemsicherheit implementieren</title>
+    <capability>Server und Arbeitsplätze bezüglich Systemsicherheit untersuchen, Verbesserungsvorschläge ausarbeiten und umsetzen.</capability>
+    <goals>
+        <goal>
+            Bestehende Systeme (Client, Server, Netzwerkkomponenten und Services)gezielt mit geeigneten Mitteln auf Sicherheitslücken und auf Konfigurationsmängel untersuchen
+            <knowledge-list>
+                <knowledge>
+                    Kennt Mittel und Methoden zum Aufspüren von Sicherheitslücken und Konfigurationsmängeln in Systemen (z.B. Portscanner, Hardening Tools)
+                </knowledge>
+                <knowledge>
+                    Kennt die Bedeutung einer vollständigen Dokumentation in Bezug auf Systemsicherheit.
+                </knowledge>
+                <knowledge>
+                    Kennt die häufigsten sicherheitsrelevanten Fehler bei der Konfiguration von Systemen.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Auf Basis der gesammelten Informationen Massnahmen für die Systemsicherheit ausarbeiten.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die für Systeme relevanten Sicherheitseinstellungen auf der Ebene von Betriebssystem, Applikationen, Netzwerkkomponenten und Benutzern.
+                </knowledge>
+                <knowledge>
+                    Kennt die für den Betrieb nötigen Dienste und deren Abhängigkeiten.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Sicherheitsmassnahmen implementieren und dokumentieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Verfahren zur Aktualisierung von Lizenzen.
+                </knowledge>
+                <knowledge>
+                    Kennt das Vorgehensprinzip und die Sicherheitsvorschriften zur Identifikation sicherer Quellen für Software-Updates und Patches.
+                </knowledge>
+                <knowledge>
+                    Kennt Kriterien zur Überprüfung der Aktualität von Software und kennt die Folgen einer Nicht-Aktualisierung.
+                </knowledge>
+                <knowledge>
+                    Kennt Standardverfahren zum Härten von Systemen
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten um die physikalische Sicherheit von Hardware zu gewährleisten.
+                </knowledge>
+                <knowledge>
+                    Kennt das Prinzip der Restriktion von Benutzerberechtigung.
+                </knowledge>
+                <knowledge>
+                    Kennt Möglichkeiten mittels Instruktion der Benutzer die Systemsicherheit zu erhöhen (z.B. Social Engineering, Passwortcontainer)
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Nach Vorgabe auf ein zuvor abgesichertes System ein Host basierendes Intrusion Detection Systems, HIDS installieren und konfigurieren.
+            <knowledge-list>
+                <knowledge>
+                    Kennt Möglichkeiten mittels eines HDIS Systeminformationen zu sammeln.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Änderungen / Anpassungen bezüglich Sicherheit und Funktionsfähigkeit mit den zur Verfügung stehenden Log- und Systeminformationen sowie Informationen aus dem HIDS auf Wirksamkeit überprüfen. Falls erforderlich, Systemdokumentation nachführen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt den Inhalt sicherheitsrelevanter Logdaten des Systems und des HIDS.
+                </knowledge>
+                <knowledge>
+                    Kennt typische System-Anomalien (z.B. Datenvolumen, Zugriffe)
+                </knowledge>
+                <knowledge>
+                    Kennt Inhalte einer Systemdokumentation.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Implementierte Systemsicherheit überwachen.
+            <knowledge-list>
+                <knowledge>
+                    Kennt die bei einer Systemüberwachung sicherheitsrelevanten Prinzipien.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>

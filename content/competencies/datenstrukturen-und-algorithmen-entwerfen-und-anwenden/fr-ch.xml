@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competency xmlns="https://ictorg.ch/competency" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ictorg.ch/competency ../../../schema/competency.xsd">
+    <meta>
+        <provider name="ICT-Berufsbildung">
+            <id>411</id>
+            <reference>https://cf.ict-berufsbildung.ch/modules.php?name=Mbk%26a=20101%26cmodnr=411%26clang=fr</reference>
+            <level>2</level>
+            <lessons>40</lessons>
+            <achnowledgment>Certificat fédéral de capacité</achnowledgment>
+        </provider>
+    </meta>
+    <title>Développer et appliquer des structures de données et algorithmes.</title>
+    <capability>Analyser la donnée du problème et mettre en œuvre, tester et documenter une solution à l’aide des structures de données et algorithmes appropriés.</capability>
+    <goals>
+        <goal>
+            Définir une structure de données appropriée à un problème donné et mettre en œuvre au moyen d’un langage de programmation tel que Structs, références/indicateurs, et réseaux.
+            <knowledge-list>
+                <knowledge>
+                    Connaître la différence entre les variables valeurs et variables référence/pointeurs.
+                </knowledge>
+                <knowledge>
+                    Connaître les moyens d’un langage de programmation pour la déclaration et l’usage des variables valeurs ou références.
+                </knowledge>
+                <knowledge>
+                    Connaître le concept et l’utilité de structures de données enchaînées.
+                </knowledge>
+                <knowledge>
+                    Connaître une notation pour la représentation de données enchaînées.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser un problème et développer un algorithme approprié pour la solution à l’aide des éléments de base comme attribution, dérivation, boucle, ainsi que mettre en œuvre avec des procédures et fonctions.
+            <knowledge-list>
+                <knowledge>
+                    Connaître un déroulement systématique pour l’analyse d’un problème.
+                </knowledge>
+                <knowledge>
+                    Connaître les éléments de base des algorithmes et leur mise en œuvre dans un langage de programmation.
+                </knowledge>
+                <knowledge>
+                    Connaître les moyens d’un langage de programmation pour la déclaration et l’activation de fonctions et procédures.
+                </knowledge>
+                <knowledge>
+                    Connaître des notations pour représenter des algorithmes comme par ex. les structogrammes, PAP, etc.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Analyser et documenter des algorithmes ainsi que des structures de données en regard de la complexité mémoire et temps.
+            <knowledge-list>
+                <knowledge>
+                    Connaître des possibilités d’analyse de la complexité temporelle et de sauvegarde, pour des algorithmes et des structures de données.
+                </knowledge>
+                <knowledge>
+                    Connaître des classes de complexité d’algorithmes (par ex. complexité linéaire, exponentielle).
+                </knowledge>
+                <knowledge>
+                    Connaître des notations pour la documentation des complexités temporelles et de sauvegarde d’un algorithme.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Réduire un problème complexe en problèmes partiels, et mettre en œuvre l’itération ou la récursivité selon la donnée du problème.
+            <knowledge-list>
+                <knowledge>
+                    Connaître un déroulement pour la subdivision d’un problème complexe réduit en plus petites parties.
+                </knowledge>
+                <knowledge>
+                    Connaître la construction des algorithmes itératifs.
+                </knowledge>
+                <knowledge>
+                    Connaître la construction des algorithmes récursifs.
+                </knowledge>
+                <knowledge>
+                    Connaître les avantages et inconvénients ainsi que les domaines de mise en œuvre de l’approche itérative et récursive.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Connaître et mettre en œuvre de manière ciblée des types de données abstraites telles que Liste, Set, Map, etc. ainsi que les opérations y relatives.
+            <knowledge-list>
+                <knowledge>
+                    Connaître une bibliothèque programme qui met à disposition des types de données abstraites telles que Liste, Set, Map, etc. ainsi que leurs  applications.
+                </knowledge>
+                <knowledge>
+                    Connaître les caractéristiques de chaque type de données abstraites.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+        <goal>
+            Examiner des structures de données, des algorithmes avec des débogeurs et autres outils, puis analyser en particulier la situation du Stack et Heap, ainsi que les représenter de manière appropriée.
+            <knowledge-list>
+                <knowledge>
+                    Connaître l’organisation mémoire pour un processus avec les domaines code programme, variables globales, Stack et Heap.
+                </knowledge>
+                <knowledge>
+                    Connaître l’ordre des variables et paramètres locaux dans un Stackframe.
+                </knowledge>
+                <knowledge>
+                    Connaître la fonctionnalité du Stack lors de l’activation d’une fonction.
+                </knowledge>
+                <knowledge>
+                    Connaître la fonctionnalité dans le Heap lors de la création dynamique d’objets.
+                </knowledge>
+                <knowledge>
+                    Connaître l’utilisation d’un débogueur pour examiner les Heap et Stack sur les temps de fonctionnement et/ou un outil pour l’analyse du temps de fonctionnement  pour des grandeurs telles que Memory Leaks, nombre d’appels.
+                </knowledge>
+            </knowledge-list>
+        </goal>
+    </goals>
+</competency>
